@@ -31,7 +31,7 @@ gaming! 🎮
 
 ---
 
-# JeriCraft Server Scripts
+# Halo Server Scripts
 
 All **JeriCraft** servers are equipped with several custom scripts designed to improve gameplay, ensure fair play, and
 enhance the overall server experience. Below is a list of the scripts running on all of our servers:
@@ -39,6 +39,7 @@ enhance the overall server experience. Below is a list of the scripts running on
 | **Script Name**                                                                                                                        | **Description**                                                                                                                                                                               | 
 |----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
 | 🛡️️ [**Admin Manager**](https://github.com/Chalwk/HALO-SCRIPT-PROJECTS/releases/tag/AdminManager)                                     | A comprehensive drop-in replacement for SAPP's built-in admin system, offering a range of features to help administrators manage players, enforce rules, and maintain a positive environment. |
+| 💼 [**Discord Bot**](https://github.com/Chalwk/Halo-Bot)                                                                               | Provides live in-game chat on Discord.                                                                                                                                                        |
 | 💼 [**Script Manager**](https://github.com/Chalwk/HALO-SCRIPT-PROJECTS/blob/master/SAPP%20SCRIPTS/UTILITY%20MODS/Script%20Manager.lua) | Ensures all custom scripts run correctly, providing a smooth and enjoyable gameplay experience.                                                                                               |
 | 📝 [**Server Logger**](https://github.com/Chalwk/HALO-SCRIPT-PROJECTS/blob/master/SAPP%20SCRIPTS/UTILITY%20MODS/Server%20Logger.lua)   | Tracks important events and activities on the server, helping maintain a secure and transparent environment.                                                                                  |
 | 🗺️ [**Map Cycle Manager**](https://github.com/Chalwk/HALO-SCRIPT-PROJECTS/releases/tag/MapcycleManager)                               | Allows administrators to manage map rotations efficiently and switch between classic and custom maps using simple commands.                                                                   |
@@ -57,4 +58,7 @@ Happy playing! 🎮
 
 # Daily Server Backups
 
-All of our Halo servers are backed up **daily** to ensure that no player progress or server data is ever lost. Our backup process is automated and runs at regular intervals to capture and store the most recent game data, server settings, and player statistics. If any unexpected issues occur, we can quickly restore the server to its previous state, ensuring minimal disruption to gameplay.
+All of our Halo servers are backed up **daily** to ensure that no player progress or server data is ever lost. Our
+backup process is automated and runs at regular intervals to capture and store the most recent game data, server
+settings, and player statistics. If any unexpected issues occur, we can quickly restore the server to its previous
+state, ensuring minimal disruption to gameplay.
