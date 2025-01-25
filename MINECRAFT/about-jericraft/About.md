@@ -2,6 +2,10 @@
 
 JeriCraft is a semi-hardcore SMP/RPG Minecraft server focusing on Survival, Economy, Slimefun, Jobs, mcMMO, Seasons, and more! Our feature-rich server offers various engaging gameplay experiences, including custom content and RPG elements. With a commitment to community and support, we provide a platform where gamers can thrive both in-game and in their personal lives.
 
+### 🌐 Connect to our Minecraft server (1.20.1) at `jericraft.net` and embark on an epic adventure!
+
+*Join our friendly community and experience the JeriCraft difference today!* 🗺️
+
 ## 📝 Main Features
 
 Explore our server's core features:
@@ -17,9 +21,39 @@ Explore our server's core features:
 - 🗺️ [Regions](MINECRAFT/guides/Regions.md): Claim, protect, and manage specific areas on the server.
 - 🧪 [Slimefun](MINECRAFT/guides/Slimefun.md): Explore new items, machines, and crafting recipes in Slimefun.
 
-### 🌐 Connect to our Minecraft server (1.20.1) at `jericraftmc.net` and embark on an epic adventure!
+## 📚 Guides 📚
+Our guides are designed to help players navigate and enjoy the unique features of JeriCraft. Here’s a quick overview of some of the available guides:
+- 📢 [AuctionHouse](MINECRAFT/guides/AuctionHouse.md): Discover how to buy and sell items using the AuctionHouse plugin.
+- 🛍️ [ChestShop](MINECRAFT/guides/ChestShop.md): Learn how to create and manage shops using the ChestShop plugin.
+- 💰 [Economy](MINECRAFT/guides/Economy.md): Discover the ins and outs of JeriCraft's in-game economy system.
+- 💼 [Jobs](MINECRAFT/guides/Jobs.md): Find out how to join professions, complete tasks, and earn in-game money with the Jobs plugin.
+- 🦾 [LevelledMobs](MINECRAFT/guides/LevelledMobs.md): Learn about the LevelledMobs plugin and how it enhances mob combat.
+- 🔱 [mcMMO](MINECRAFT/guides/mcMMO.md): Master the mcMMO plugin's RPG-like skills, abilities, and leveling systems.
+- ❄️ [RealisticSeasons](MINECRAFT/guides/RealisticSeasons.md): Explore the dynamic and immersive seasons we offer.
+- 🗺️ [Regions](MINECRAFT/guides/Regions.md): Learn how to claim, protect, and manage specific areas on the server with the Regions plugin.
+- 🧪 [Slimefun](MINECRAFT/guides/Slimefun.md): Dive into the world of Slimefun, featuring new items, machines, and crafting recipes.
 
-*Join our friendly community and experience the JeriCraft difference today!* 🗺️
+## 🎁 Perks 🎁
+Discover all the fantastic perks available on the JeriCraft server by browsing through our [Perks Guide](MINECRAFT/webstore/perks.md).
+
+## 📝 Applications 📝
+Interested in joining the JeriCraft staff team or becoming a builder? Check out our [Applications](https://github.com/Chalwk77/JeriCraftDocs/issues/new/choose) section for more information on how to apply. Be sure to review the prerequisites for each role.
+
+## 👥 Player Ranks and Commands 👥
+- 👨‍💼 **Player Commands**:  
+  Discover the commands available to players on the JeriCraft server by visiting our [Player Commands Guide](MINECRAFT/commands/PLAYER-COMMANDS.md).
+
+- 👨‍💼👨‍💼 **Staff Commands**:  
+  Explore the commands available to staff members on the JeriCraft server by visiting our [Staff Commands Guide](MINECRAFT/commands/STAFF-COMMANDS.md).
+
+- 🌟 **Perk Commands**:  
+  Learn about the commands associated with JeriCraft's perks by visiting our [Perk Commands Guide](MINECRAFT/commands/PERK-COMMANDS.md).
+
+## 🌟 Server Features and Plugins 🌟
+JeriCraft utilizes several plugins to enhance your gameplay experience. We've prepared [detailed documentation](MINECRAFT/features/Main.md) for our key plugins to help you make the most out of their features.
+
+## ➕ Additional Features ➕
+We offer a variety of additional features to enhance your gameplay experience, such as Jobs Boosts and more. For more information, check out our [Additional Features Guide](MINECRAFT/features/AdditionalFeatures.md).
 
 ## **Getting Started: Essential Commands**
 
