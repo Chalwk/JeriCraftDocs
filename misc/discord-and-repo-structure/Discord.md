@@ -10,59 +10,59 @@
     -〔🔴〕twitch-live
     -〔🔄〕updates
     -〔📅〕events
-    -〔💡〕feedback-&-suggestions
-    -〔🛒〕webstore (Check out the Minecraft webstore)
+    -〔💡〕feedback-and-suggestions
+    -〔🛒〕webstore
     -〔📝〕applications
     -〔🚫〕appeals
     -〔🌟〕introductions
 
 ### 〔👥〕 SOCIAL CHAT
 
-    -〔💬〕Minecraft
-    -〔💬〕Halo
+    -〔💬〕minecraft
+    -〔💬〕halo
     -〔📺〕media
     -〔🎶〕music
     -〔😂〕memes
 
-### 〔🔄〕 Game Events Feed
-
-    -〔⛏️〕Minecraft
-    -〔👾〕Divide & Conquer
-    -〔👾〕Gun Game
-    -〔👾〕Hunter Prey
-    -〔👾〕Kill Confirmed
-    -〔👾〕Market
-    -〔👾〕Melee Attack
-    -〔👾〕One In The Chamber
-    -〔👾〕Rooster CTF
-    -〔👾〕Sabotage
-    -〔👾〕Snipers Dream Team Mod
-    -〔👾〕Tag
-    -〔👾〕Team Defender
-    -〔👾〕Zombies
-
 ### 〔🎙〕 THE LOUNGE
 
     -〔🎤〕General
-    -〔🎤〕minecraft-lounge
+    -〔🎤〕minecraft
     -〔🎤〕Halo
     -〔🔴〕stream
 
+### 〔🔄〕 Game Events Feed
+
+    -〔⛏️〕minecraft
+    -〔👾〕divide-and-conquer
+    -〔👾〕gun-game
+    -〔👾〕hunter-prey
+    -〔👾〕kill-confirmed
+    -〔👾〕market
+    -〔👾〕melee-attack
+    -〔👾〕one-in-the-chamber
+    -〔👾〕rooster-ctf
+    -〔👾〕sabotage
+    -〔👾〕snipers-dream-team-mod
+    -〔👾〕tag
+    -〔👾〕team-Defender
+    -〔👾〕zombies
+
 ### 〔🔗〕JERICRAFTDOCS GITHUB
 
-    -〔📚〕docs (Access Minecraft plugin docs)
-    -〔📣〕updates (Minecraft GitHub updates)
-    -〔💬〕discussion (Discuss Minecraft plugin development)
-    -〔🛠〕contributors (Acknowledge Minecraft contributors)
-    -〔🐛〕bug-reports (Report bugs for Minecraft)
+    -〔📚〕docs
+    -〔📣〕updates
+    -〔💬〕discussion 
+    -〔🛠〕contributors
+    -〔🐛〕bug-reports
 
 ### 〔🔗〕 HSP-GITHUB
 
-    -〔📝〕about (Information about Halo GitHub projects)
-    -〔🔔〕repo-activity (Monitor activity in Halo repositories)
-    -〔🙋〕help (Get help with Halo mod development)
-    -〔🎨〕dev (Development discussions for Halo mods)
-    -〔🐛〕bug-reports (Report bugs for Halo mods)
+    -〔📝〕about
+    -〔🔔〕repo-activity
+    -〔🙋〕help
+    -〔🎨〕dev
+    -〔🐛〕bug-reports
 
 ### 〔☗〕 MANAGEMENT (Hidden to Public)
 
