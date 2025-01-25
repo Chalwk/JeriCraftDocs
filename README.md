@@ -40,11 +40,6 @@ community or a seasoned player, you’ll find the resources you need to get the 
 9. [License](LICENCE.md)
 
 </details>
-─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
----
-
-─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <details>
   <summary><h1>📚 Halo - Table of Contents 📚</h1></summary>
