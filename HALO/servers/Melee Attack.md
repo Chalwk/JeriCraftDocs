@@ -23,7 +23,7 @@ The **Melee Attack** mode runs on the following **stock maps** and **game modes*
 | **Map**     | **Game Mode** |
 |-------------|---------------|
 | Timberland  | Team Slayer   |
-| Bloodgulch  | FFA:FFA       |
+| Bloodgulch  | FFA           |
 | Damnation   | FFA           |
 | Longest     | FFA           |
 | Chillout    | Team Slayer   |

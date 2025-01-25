@@ -45,19 +45,21 @@
 <details>
   <summary><h2>📚 Halo - Table of Contents (Click to Expand)</h2></summary>
 
-1. **Divide & Conquer** – **jericraft.net:2301**
-2. **Gun Game** – **jericraft.net:2302**
-3. **Hunter Prey** – **jericraft.net:2303**
-4. **Kill Confirmed** – **jericraft.net:2304**
-5. **Market** – **jericraft.net:2305**
-6. **Melee Attack** – **jericraft.net:2306**
-7. **One In The Chamber** – **jericraft.net:2307**
-8. **Rooster CTF** – **jericraft.net:2308**
-9. **Sabotage** – **jericraft.net:2309**
-10. **Snipers Dream Team Mod** – **jericraft.net:2310**
-11. **Tag** – **jericraft.net:2311**
-12. **Team Defender** – **jericraft.net:2312**
-13. **Zombies** – **jericraft.net:2313**
+1. **[JeriCraft Halo Servers Overview](HALO/ABOUT.md)**
+2. **[Server List](HALO/servers/)**
+   - **[Divide & Conquer](HALO/servers/Divide%20and%20Conquer.md)**
+   - **[Gun Game](HALO/servers/Gun%20Game.md)**
+   - **[Hunter Prey](HALO/servers/Hunter%20Prey.md)**
+   - **[Kill Confirmed](HALO/servers/Kill%20Confirmed.md)**
+   - **[Market](HALO/servers/Market.md)**
+   - **[Melee Attack](HALO/servers/Melee%20Attack.md)**
+   - **[One In The Chamber](HALO/servers/One%20In%20The%20Chamber.md)**
+   - **[Rooster CTF](HALO/servers/Rooster%20CTF.md)**
+   - **[Sabotage](HALO/servers/Sabotage.md)**
+   - **[Snipers Dream Team Mod](HALO/servers/Snipers%20Dream%20Team%20Mod.md)**
+   - **[Tag](HALO/servers/Tag.md)**
+   - **[Team Defender](HALO/servers/Team%20Defender.md)**
+   - **[Zombies](HALO/servers/Zombies.md)**
 
 </details>
 
