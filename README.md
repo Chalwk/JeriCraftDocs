@@ -4,11 +4,6 @@
 
 ---
 
-### 📜 Community Rules
-👉 [JeriCraft Community Rules](policies/Community-Rules.md)
-
----
-
 <details>
   <summary><h2>📚 Minecraft - Table of Contents (Click to Expand)</h2></summary>
 
@@ -65,6 +60,11 @@
 13. **Zombies** – **jericraft.net:2313**
 
 </details>
+
+---
+
+### 📜 Community Rules
+👉 [JeriCraft Community Rules](policies/Community-Rules.md)
 
 ---
 
