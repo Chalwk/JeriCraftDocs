@@ -10,7 +10,7 @@ Here’s a quick overview of our current Halo servers:
    opponents after eliminating them, with the game ending when one team is fully converted.
     - **Server**: **jericraft.net:2301**
 
-2. **[Gun Game](/HALO/servers/Gun%20Game)** – Start with basic weapons and upgrade after each kill, aiming to reach the top weapon and claim
+2. **[Gun Game](/HALO/servers/Gun%20Game.md)** – Start with basic weapons and upgrade after each kill, aiming to reach the top weapon and claim
    victory.
     - **Server**: **jericraft.net:2302**
 
