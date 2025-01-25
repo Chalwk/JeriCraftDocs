@@ -27,9 +27,9 @@ The **One In The Chamber** mode runs Slayer on all Stock Maps.
 
 ## 📡 How to Connect
 
-To play **JeriCraft - One In The Chamber**, follow these simple steps:
+To play **JeriCraft - One In The Chamber**, follow these steps:
 
-1. Open your Halo game.
+1. Open Halo: Combat Evolved.
 2. Navigate to the Multiplayer section.
 3. Join the server by searching for the server or by using the server's IP address (**jericraft.net:2307**).
 

@@ -21,9 +21,9 @@ spawn in the middle of the map. Players need to return the flag to either the **
 
 ## 📡 How to Connect
 
-To play **JeriCraft - Rooster CTF**, follow these simple steps:
+To play **JeriCraft - Rooster CTF**, follow these steps:
 
-1. Open your Halo game.
+1. Open Halo: Combat Evolved.
 2. Navigate to the Multiplayer section.
 3. Join the server by searching for the server or by using the server's IP address (**jericraft.net:2308**).
 

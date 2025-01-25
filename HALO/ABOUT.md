@@ -1,10 +1,8 @@
 # JeriCraft Halo Servers Overview
 
-Welcome to **JeriCraft**'s Halo community! Our collection of Halo servers provides a diverse range of exciting and
-unique game modes designed to challenge players, foster competition, and provide endless fun. Whether you're a fan of
-strategic team-based gameplay, intense free-for-all action, or something in between, we have something for everyone.
+Welcome to **JeriCraft**'s **Halo: Combat Evolved** community! Our collection of **Halo: Combat Evolved** servers provides a diverse range of exciting and unique game modes designed to challenge players, foster competition, and provide endless fun. Whether you're a fan of strategic team-based gameplay, intense free-for-all action, or something in between, we have something for everyone.
 
-Here’s a quick overview of our current Halo servers:
+Here’s a quick overview of our current **Halo: Combat Evolved** servers:
 
 | Game Mode                                                                   | Description                                                                                                                                                  | Server                 |
 |-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
@@ -33,7 +31,7 @@ gaming! 🎮
 
 # Halo Server Scripts
 
-All **JeriCraft** servers are equipped with several custom scripts designed to improve gameplay, ensure fair play, and
+All **JeriCraft** servers for **Halo: Combat Evolved** are equipped with several custom scripts designed to improve gameplay, ensure fair play, and
 enhance the overall server experience. Below is a list of the scripts running on all of our servers:
 
 | **Script Name**                                                                                                                        | **Description**                                                                                                                                                                               | 

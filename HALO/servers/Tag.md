@@ -41,9 +41,9 @@ A game starts when a player is whacked to become "it" (the tagger). The tagger's
 
 ## 📡 How to Connect
 
-To play **JeriCraft - Tag**, follow these simple steps:
+To play **JeriCraft - Tag**, follow these steps:
 
-1. Open your Halo game.
+1. Open Halo: Combat Evolved.
 2. Navigate to the Multiplayer section.
 3. Join the server by searching for the server or by using the server's IP address (**jericraft.net:2311**).
 

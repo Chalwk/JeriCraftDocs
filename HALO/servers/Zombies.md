@@ -122,9 +122,9 @@ Zombies is designed to run Team Slayer on the following stock maps:
 
 ## 📡 How to Connect
 
-To play **JeriCraft - Zombies**, follow these simple steps:
+To play **JeriCraft - Zombies**, follow these steps:
 
-1. Open your Halo game.
+1. Open Halo: Combat Evolved.
 2. Navigate to the Multiplayer section.
 3. Join the server by searching for the server or by using the server's IP address (**jericraft.net:2313**).
 
