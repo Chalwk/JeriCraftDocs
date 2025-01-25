@@ -47,10 +47,14 @@ enhance the overall server experience. Below is a list of the scripts running on
 | 🔒 [**VPN Blocker**](https://github.com/Chalwk/HALO-SCRIPT-PROJECTS/blob/master/SAPP%20SCRIPTS/UTILITY%20MODS/VPN%20Blocker.lua)       | Prevents players from using VPNs to connect to the servers, reducing malicious activity and ensuring legitimate players join.                                                                 |
 | 🚫 [**Word Buster**](https://github.com/Chalwk/HALO-SCRIPT-PROJECTS/releases/tag/Word-Buster)                                          | Filters out inappropriate language and offensive words from chat messages, maintaining a clean and respectful environment.                                                                    |
 
----
-
 These scripts work together to provide an environment where players can enjoy fair, secure, and exciting gameplay. We
 are always working to improve the community experience, so be sure to check out these features in action on all of our
 servers!
 
 Happy playing! 🎮
+
+---
+
+# Daily Server Backups
+
+All of our Halo servers are backed up **daily** to ensure that no player progress or server data is ever lost. Our backup process is automated and runs at regular intervals to capture and store the most recent game data, server settings, and player statistics. If any unexpected issues occur, we can quickly restore the server to its previous state, ensuring minimal disruption to gameplay.
