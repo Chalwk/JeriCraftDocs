@@ -34,79 +34,18 @@ gaming! 🎮
 # JeriCraft Server Scripts
 
 All **JeriCraft** servers are equipped with several custom scripts designed to improve gameplay, ensure fair play, and
-enhance the overall server experience. Here’s a list of the scripts running on all of our servers:
+enhance the overall server experience. Below is a list of the scripts running on all of our servers:
 
-## 🛠️ **Alias System**
-
-The Alias System is an advanced tool designed to enhance security and fairness across all JeriCraft Halo servers. It
-keeps a record of every player name used during gameplay, linking each alias to both the player's unique CD Key (hash)
-and IP Address. This system helps catch cheaters, prevent repeat offenders from evading bans, and ensures the integrity
-of the game environment by identifying players who may try to hide their identity through name changes or IP address
-manipulation. With this robust tracking mechanism, we are able to maintain a clean and enjoyable community for all
-players.
-
-## 🔒 **VPN Blocker**
-
-We use a **VPN Blocker** to prevent players from connecting to our servers using a VPN. This helps to reduce malicious
-activity and ensures that only legitimate players can join the community.
-
-## 📝 **Server Logger**
-
-Our **Server Logger** tracks important events and activities on the server to help maintain a secure and transparent
-environment. The following events are logged:
-
-- **SCRIPT LOAD**: When the Advanced Logger is loaded.
-- **SCRIPT RELOAD**: When the Advanced Logger is re-loaded.
-- **SCRIPT UNLOAD**: When the Advanced Logger is unloaded.
-- **START**: A new game has started, showing the map and mode.
-- **END**: When a game ends and the post-game carnage report is shown.
-- **JOIN**: A player joins, including their name, ID, IP, and piracy status (whether they are using a pirated copy of
-  the game).
-- **QUIT**: A player quits, including their name, ID, IP, and piracy status (whether they are using a pirated copy of
-  the game).
-- **SPAWN**: A player spawns in the game.
-- **WARP**: A player is detected warping.
-- **LOGIN**: A player logs in, with their admin level.
-- **RESET**: The map is reset.
-- **SWITCH**: A player switches teams.
-- **COMMAND**: A player executes an admin command, including their level and command type.
-- **MESSAGE**: A player sends a message in chat, including message type.
-- **DEATH**: Tracks various types of player deaths, including suicides, betrayals, and kills by other players.
-- **FIRST BLOOD**: Tracks the first kill in a game.
-
-And more!
-
-## 💤 **AFK Manager**
-
-The **AFK Manager** is designed to monitor players who are inactive for extended periods. Players detected as AFK will
-be automatically warned then kicked to prevent them from affecting the gameplay experience of others.
-
-## 🚫 **Anti Cheat**
-
-Our **Anti Cheat** script actively scans for and prevents players from using aim bots, wall hacks, camping, and other
-cheating
-methods (including common exploits), which would otherwise give them an unfair advantage in combat. This helps to ensure
-a level playing field for all players.
-
-## 💬 **Admin Chat**
-
-Admins have access to a special **Admin Chat** feature that allows them to communicate privately with other staff
-members.
-
-## 🚫 **Word Buster**
-
-The **Word Buster** script filters out inappropriate language and offensive words from chat messages to maintain a
-clean and respectful environment for all players.
-
-## 🕵️ **Command Spy**
-
-Admins can see all commands executed by players using the **Command Spy** feature, allowing them to monitor players and
-ensure fair play.
-
-## 📜 Script Manager**
-
-Runs all of our custom scripts and ensures they function correctly to provide a smooth and enjoyable gameplay
-experience.
+| **Script Name**                                                                                                                        | **Description**                                                                                                                                                                               | 
+|----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| 🛡️️ [**Admin Manager**](https://github.com/Chalwk/HALO-SCRIPT-PROJECTS/releases/tag/AdminManager)                                     | A comprehensive drop-in replacement for SAPP's built-in admin system, offering a range of features to help administrators manage players, enforce rules, and maintain a positive environment. |
+| 💼 [**Script Manager**](https://github.com/Chalwk/HALO-SCRIPT-PROJECTS/blob/master/SAPP%20SCRIPTS/UTILITY%20MODS/Script%20Manager.lua) | Ensures all custom scripts run correctly, providing a smooth and enjoyable gameplay experience.                                                                                               |
+| 📝 [**Server Logger**](https://github.com/Chalwk/HALO-SCRIPT-PROJECTS/blob/master/SAPP%20SCRIPTS/UTILITY%20MODS/Server%20Logger.lua)   | Tracks important events and activities on the server, helping maintain a secure and transparent environment.                                                                                  |
+| 🗺️ [**Map Cycle Manager**](https://github.com/Chalwk/HALO-SCRIPT-PROJECTS/releases/tag/MapcycleManager)                               | Allows administrators to manage map rotations efficiently and switch between classic and custom maps using simple commands.                                                                   |
+| 💤 [**Anti AFK**](https://github.com/Chalwk/HALO-SCRIPT-PROJECTS/blob/master/SAPP%20SCRIPTS/UTILITY%20MODS/Anti%20AFK.lua)             | Monitors players who are inactive for extended periods, automatically warning and kicking them to prevent disruption to gameplay.                                                             |
+| 🚫 [**Anti Cheat**](#)                                                                                                                 | Actively scans for and prevents players from using aim bots, wall hacks, camping, and other cheating methods, ensuring a fair playing field.                                                  |
+| 🔒 [**VPN Blocker**](https://github.com/Chalwk/HALO-SCRIPT-PROJECTS/blob/master/SAPP%20SCRIPTS/UTILITY%20MODS/VPN%20Blocker.lua)       | Prevents players from using VPNs to connect to the servers, reducing malicious activity and ensuring legitimate players join.                                                                 |
+| 🚫 [**Word Buster**](https://github.com/Chalwk/HALO-SCRIPT-PROJECTS/releases/tag/Word-Buster)                                          | Filters out inappropriate language and offensive words from chat messages, maintaining a clean and respectful environment.                                                                    |
 
 ---
 
