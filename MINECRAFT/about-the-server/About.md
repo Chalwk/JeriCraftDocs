@@ -20,6 +20,7 @@ Explore our server's core features:
 - ❄️ [RealisticSeasons](MINECRAFT/guides/RealisticSeasons.md): Experience dynamic and immersive seasons.
 - 🗺️ [Regions](MINECRAFT/guides/Regions.md): Claim, protect, and manage specific areas on the server.
 - 🧪 [Slimefun](MINECRAFT/guides/Slimefun.md): Explore new items, machines, and crafting recipes in Slimefun.
+
 Explore more here: [MINECRAFT/features/](MINECRAFT/features/)
 
 ## 📚 Guides 📚
@@ -33,6 +34,7 @@ Our guides are designed to help players navigate and enjoy the unique features o
 - ❄️ [RealisticSeasons](MINECRAFT/guides/RealisticSeasons.md): Explore the dynamic and immersive seasons we offer.
 - 🗺️ [Regions](MINECRAFT/guides/Regions.md): Learn how to claim, protect, and manage specific areas on the server with the Regions plugin.
 - 🧪 [Slimefun](MINECRAFT/guides/Slimefun.md): Dive into the world of Slimefun, featuring new items, machines, and crafting recipes.
+
 Explore more here: [MINECRAFT/guides/](MINECRAFT/guides/)
 
 ## 🎁 Perks 🎁
