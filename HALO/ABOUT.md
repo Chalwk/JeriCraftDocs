@@ -6,7 +6,7 @@ strategic team-based gameplay, intense free-for-all action, or something in betw
 
 Here’s a quick overview of our current Halo servers:
 
-1. **[Divide & Conquer](/HALO/servers/Divide%20and%20Conquer)** – A dynamic game mode where each team works to recruit
+1. **[Divide & Conquer](/HALO/servers/Divide%20and%20Conquer.md)** – A dynamic game mode where each team works to recruit
    opponents after eliminating them, with the game ending when one team is fully converted.
     - **Server**: **jericraft.net:2301**
 
@@ -14,46 +14,46 @@ Here’s a quick overview of our current Halo servers:
    victory.
     - **Server**: **jericraft.net:2302**
 
-3. **Hunter Prey** – A survival-based game mode where players fight to control the flag at the center of the map. The
+3. **[Hunter Prey](/HALO/servers/Hunter%20Prey.md)** – A survival-based game mode where players fight to control the flag at the center of the map. The
    player who holds the flag the longest wins by outlasting their opponents.
     - **Server**: **jericraft.net:2303**
 
-4. **Kill Confirmed** – Score points by eliminating enemies and collecting their dog tags (skulls), ensuring kills count
+4. **[Kill Confirmed](/HALO/servers/Kill%20Confirmed.md)** – Score points by eliminating enemies and collecting their dog tags (skulls), ensuring kills count
    towards your team's score.
     - **Server**: **jericraft.net:2304**
 
-5. **Market** – A unique server with an in-game economy, allowing players to buy weapons and gear to take down their
+5. **[Market](/HALO/servers/Market.md)** – A unique server with an in-game economy, allowing players to buy weapons and gear to take down their
    opponents.
     - **Server**: **jericraft.net:2305**
 
-6. **Melee Attack** – A mode focused entirely on close combat, where players only use melee attacks to fight their
+6. **[Melee Attack](/HALO/servers/Melee%20Attack.md)** – A mode focused entirely on close combat, where players only use melee attacks to fight their
    enemies.
     - **Server**: **jericraft.net:2306**
 
-7. **One In The Chamber** – Players only have one bullet per life, and must use their wits to outsmart and eliminate
+7. **[One In The Chamber](/HALO/servers/One%20In%20The%20Chamber.md)** – Players only have one bullet per life, and must use their wits to outsmart and eliminate
    opponents without wasting ammo.
     - **Server**: **jericraft.net:2307**
 
-8. **Rooster CTF** – A CTF mode for Slayer (FFA/Team), where players fight to capture a single flag and return it to
+8. **[Rooster CTF](/HALO/servers/Rooster%20CTF.md)** – A CTF mode for Slayer (FFA/Team), where players fight to capture a single flag and return it to
    either the Red or Blue Base to score.
     - **Server**: **jericraft.net:2308**
 
-9. **Sabotage** – Players must work to plant explosives and sabotage the opposing team’s objectives while defending
+9. **[Sabotage](/HALO/servers/Sabotage.md)** – Players must work to plant explosives and sabotage the opposing team’s objectives while defending
    their own.
     - **Server**: **jericraft.net:2309**
 
-10. **Snipers Dream Team Mod** – A highly modded snipers game mode with unique features and gameplay mechanics.
+10. **[Snipers Dream Team Mod](/HALO/servers/Snipers%20Dream%20Team%20Mod.md)** – A highly modded snipers game mode with unique features and gameplay mechanics.
     - **Server**: **jericraft.net:2310**
 
 11. **[Tag](/HALO/servers/Tag.md)** – A fast-paced and exciting variation of tag, where players must catch (melee) and
     eliminate each other in a thrilling chase.
     - **Server**: **jericraft.net:2311**
 
-12. **Team Defender** – One player holds the flag while their team defends them. Keep the flag for double points. The
+12. **[Team Defender](/HALO/servers/Team%20Defender.md)** – One player holds the flag while their team defends them. Keep the flag for double points. The
     flag respawns every 15 seconds if dropped, requiring strong teamwork.
     - **Server**: **jericraft.net:2312**
 
-13. **Zombies** – A unique twist on the classic zombies mode, Zombies pits Humans (Red Team) against Zombies (Blue
+13. **[Zombies](/HALO/servers/Zombies.md)** – A unique twist on the classic zombies mode, Zombies pits Humans (Red Team) against Zombies (Blue
     Team). Humans must survive the round, while Zombies aim to infect and convert them. This mode stands out with its
     own distinct rules and mechanics, offering a fresh take on the zombie survival experience.
     - **Server**: **jericraft.net:2313**
