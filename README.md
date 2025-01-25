@@ -4,11 +4,13 @@
 guides, manuals, and documentation for both the JeriCraft Minecraft and Halo servers. Whether you're new to the
 community or a seasoned player, you’ll find the resources you need to get the most out of your JeriCraft experience.
 
+### Community Rules: [JeriCraft Community Rules](policies/Community-Rules.md)
+
 ─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 <details>
-  <summary><h2>📚 Minecraft - Table of Contents 📚</h2></summary>
+  <summary><h2>📚 Minecraft - Table of Contents</h2></summary>
 
-1. [About JeriCraft](MINECRAFT/about-the-server/About.md)
+1. [About The Server](MINECRAFT/about-the-server/About.md)
 2. [Getting Started](MINECRAFT/guides/GettingStarted.md)
 3. [Ranks and Commands](MINECRAFT/commands/)
     - [Player Commands](MINECRAFT/commands/PLAYER-COMMANDS.md)
@@ -42,7 +44,7 @@ community or a seasoned player, you’ll find the resources you need to get the 
 </details>
 
 <details>
-  <summary><h2>📚 Halo - Table of Contents 📚</h2></summary>
+  <summary><h2>📚 Halo - Table of Contents</h2></summary>
 
 1. **Divide & Conquer** – **jericraft.net:2301**
 2. **Gun Game** – **jericraft.net:2302**
