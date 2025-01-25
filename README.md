@@ -43,7 +43,7 @@
 
 ─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 <details>
-  <summary><span style="font-size: 24px;">📚 HALO - Table of Contents 📚</span></summary>
+  <summary><h1>📚 Halo 1 Servers - Table of Contents 📚</h1></summary>
 
 1. **Divide & Conquer** – **jericraft.net:2301**
 2. **Gun Game** – **jericraft.net:2302**
