@@ -6,7 +6,7 @@ community or a seasoned player, you’ll find the resources you need to get the 
 
 ─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 <details>
-  <summary><h1>📚 Minecraft - Table of Contents 📚</h1></summary>
+  <summary><h2>📚 Minecraft - Table of Contents 📚</h2></summary>
 
 1. [About JeriCraft](MINECRAFT/about-the-server/About.md)
 2. [Getting Started](MINECRAFT/guides/GettingStarted.md)
@@ -42,7 +42,7 @@ community or a seasoned player, you’ll find the resources you need to get the 
 </details>
 
 <details>
-  <summary><h1>📚 Halo - Table of Contents 📚</h1></summary>
+  <summary><h2>📚 Halo - Table of Contents 📚</h2></summary>
 
 1. **Divide & Conquer** – **jericraft.net:2301**
 2. **Gun Game** – **jericraft.net:2302**
@@ -61,17 +61,17 @@ community or a seasoned player, you’ll find the resources you need to get the 
 </details>
 ─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 📝 Form Templates 📝
+### 📝 Form Templates 📝
 
 We've provided templates for various forms, such as ban appeals, bug reports, and server suggestions, to help streamline
 the process of submitting feedback or requests. You can find these
 templates [here](https://github.com/Chalwk77/JeriCraftDocs/issues/new/choose).
 
-## 🤝 Contributing 🤝
+### 🤝 Contributing 🤝
 
 We welcome contributions from the JeriCraft community! If you find errors or have suggestions for improving the
 documentation, please refer to our [Contributing Guidelines](CONTRIBUTING.md).
 
-## 📄 License 📄
+### 📄 License 📄
 
 View the [License](LICENCE.md) for the JeriCraft documentation repository.
