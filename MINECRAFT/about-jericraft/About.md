@@ -6,16 +6,16 @@ JeriCraft is a semi-hardcore SMP/RPG Minecraft server focusing on Survival, Econ
 
 Explore our server's core features:
 
-- 📢 [AuctionHouse](docs/guides/AuctionHouse.md): Learn how to buy and sell items using the AuctionHouse plugin.
-- 🛍️ [ChestShop](docs/guides/ChestShop.md): Create and manage shops with the ChestShop plugin.
-- 💰 [Economy](docs/guides/Economy.md): Understand JeriCraft's in-game economy system.
-- 🌟 [Getting Started](docs/guides/GettingStarted.md): New to JeriCraft? Start here to get up and running quickly.
-- 💼 [Jobs](docs/guides/Jobs.md): Join professions, complete tasks, and earn in-game money with the Jobs plugin.
-- 🦾 [LevelledMobs](docs/guides/LevelledMobs.md): Discover how the LevelledMobs plugin enhances mob combat.
-- 🔱 [mcMMO](docs/guides/mcMMO.md): Master RPG-like skills, abilities, and leveling systems with mcMMO.
-- ❄️ [RealisticSeasons](docs/guides/RealisticSeasons.md): Experience dynamic and immersive seasons.
-- 🗺️ [Regions](docs/guides/Regions.md): Claim, protect, and manage specific areas on the server.
-- 🧪 [Slimefun](docs/guides/Slimefun.md): Explore new items, machines, and crafting recipes in Slimefun.
+- 📢 [AuctionHouse](MINECRAFT/guides/AuctionHouse.md): Learn how to buy and sell items using the AuctionHouse plugin.
+- 🛍️ [ChestShop](MINECRAFT/guides/ChestShop.md): Create and manage shops with the ChestShop plugin.
+- 💰 [Economy](MINECRAFT/guides/Economy.md): Understand JeriCraft's in-game economy system.
+- 🌟 [Getting Started](MINECRAFT/guides/GettingStarted.md): New to JeriCraft? Start here to get up and running quickly.
+- 💼 [Jobs](MINECRAFT/guides/Jobs.md): Join professions, complete tasks, and earn in-game money with the Jobs plugin.
+- 🦾 [LevelledMobs](MINECRAFT/guides/LevelledMobs.md): Discover how the LevelledMobs plugin enhances mob combat.
+- 🔱 [mcMMO](MINECRAFT/guides/mcMMO.md): Master RPG-like skills, abilities, and leveling systems with mcMMO.
+- ❄️ [RealisticSeasons](MINECRAFT/guides/RealisticSeasons.md): Experience dynamic and immersive seasons.
+- 🗺️ [Regions](MINECRAFT/guides/Regions.md): Claim, protect, and manage specific areas on the server.
+- 🧪 [Slimefun](MINECRAFT/guides/Slimefun.md): Explore new items, machines, and crafting recipes in Slimefun.
 
 ### 🌐 Connect to our Minecraft server (1.20.1) at `jericraftmc.net` and embark on an epic adventure!
 

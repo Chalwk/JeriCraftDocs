@@ -1,4 +1,4 @@
-# JeriCraft Community Events 🌟
+# JeriCraft Minecraft Community Events 🌟
 
 Our server hosts a variety of exciting periodic events organized by our dedicated staff team. Keep an eye on the 〔📌〕schedule channel (inside the 📅 EVENTS category) for announcements and details! 📢
 
