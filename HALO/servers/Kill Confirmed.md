@@ -34,7 +34,7 @@ To play **JeriCraft - Kill Confirmed**, follow these steps:
 
 1. Open your Halo game.
 2. Navigate to the Multiplayer section.
-3. Join the server by searching for the server or using the server's IP address (jericraft.net:2304).
+3. Join the server by searching for the server or using the server's IP address (**jericraft.net:2304**).
 
 ---
 
