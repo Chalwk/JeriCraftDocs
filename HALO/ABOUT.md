@@ -83,9 +83,30 @@ be automatically warned then kicked to prevent them from affecting the gameplay 
 
 ## 🚫 **Anti Cheat**
 
-Our **Anti Cheat** script actively scans for and prevents players from using aim bots, wall hacks and other cheating
+Our **Anti Cheat** script actively scans for and prevents players from using aim bots, wall hacks, camping, and other
+cheating
 methods (including common exploits), which would otherwise give them an unfair advantage in combat. This helps to ensure
 a level playing field for all players.
+
+## 💬 **Admin Chat**
+
+Admins have access to a special **Admin Chat** feature that allows them to communicate privately with other staff
+members.
+
+## 🚫 **Word Buster**
+
+The **Word Buster** script filters out inappropriate language and offensive words from chat messages to maintain a
+clean and respectful environment for all players.
+
+## 🕵️ **Command Spy**
+
+Admins can see all commands executed by players using the **Command Spy** feature, allowing them to monitor players and
+ensure fair play.
+
+## 📜 Script Manager**
+
+Runs all of our custom scripts and ensures they function correctly to provide a smooth and enjoyable gameplay
+experience.
 
 ---
 
