@@ -2,9 +2,9 @@
 
 🌟 Welcome to the official documentation repository for the JeriCraft Community! 🌟 This repository contains comprehensive guides, manuals, and documentation for both the JeriCraft Minecraft and Halo servers. Whether you're new to the community or a seasoned player, you’ll find the resources you need to get the most out of your JeriCraft experience.
 
-─━━━━━━━━━━━━━━━━━━━━
+─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 <details>
-  <summary>📚 Minecraft - Table of Contents 📚</summary>
+  <summary><span style="font-size: 24px;">📚 MINECRAFT - Table of Contents 📚</span></summary>
 
 1. [About JeriCraft](MINECRAFT/about-the-server/About.md)
 2. [Getting Started](MINECRAFT/guides/GettingStarted.md)
@@ -37,10 +37,13 @@
 8. [Contributing](CONTRIBUTING.md)
 9. [License](LICENCE.md)
 </details>
-─━━━━━━━━━━━━━━━━━━━━
+─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+---
+
+─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 <details>
-  <summary>📚 Halo 1 Servers - Table of Contents 📚</summary>
+  <summary><span style="font-size: 24px;">📚 HALO - Table of Contents 📚</span></summary>
 
 1. **Divide & Conquer** – **jericraft.net:2301**
 2. **Gun Game** – **jericraft.net:2302**
@@ -55,9 +58,8 @@
 11. **Tag** – **jericraft.net:2311**
 12. **Team Defender** – **jericraft.net:2312**
 13. **Zombies** – **jericraft.net:2313**
-
 </details>
-─━━━━━━━━━━━━━━━━━━━━
+─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 ## 📝 Form Templates 📝
