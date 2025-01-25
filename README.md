@@ -1,6 +1,6 @@
 # 📝 JeriCraft Documentation Repository 📝
 
-🌟 Welcome to the official documentation repository for the JeriCraft Community! 🌟 This repository contains comprehensive guides, manuals, and documentation for both the **JeriCraft Minecraft** and **Halo servers**. Whether you're new to the community or a seasoned player, you’ll find the resources you need to get the most out of your JeriCraft experience.
+🌟 Welcome to the official documentation repository for the JeriCraft Community! 🌟 This repository contains comprehensive guides, manuals, and documentation for both the JeriCraft **Minecraft** and **Halo: Combat Evolved** server(s). Whether you're new to the community or a seasoned player, you’ll find the resources you need to get the most out of your JeriCraft experience.
 
 ---
 
