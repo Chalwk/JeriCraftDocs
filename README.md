@@ -44,7 +44,7 @@ community or a seasoned player, you’ll find the resources you need to get the 
 </details>
 
 <details>
-  <summary><h2>📚 Halo - Table of Contents</h2></summary>
+  <summary><h2>📚 Halo - Table of Contents <span style="font-size: 14px;">(click to expand)</span></h2></summary>
 
 1. **Divide & Conquer** – **jericraft.net:2301**
 2. **Gun Game** – **jericraft.net:2302**
