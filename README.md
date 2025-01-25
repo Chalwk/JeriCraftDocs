@@ -5,7 +5,7 @@
 ## 📚 Table of Contents 📚
 
 ─━━━━━━━━━━━━━━━━━━━━
-1. [About JeriCraft](MINECRAFT/about-jericraft/About.md)
+1. [About JeriCraft](MINECRAFT/about-the-server/About.md)
 2. [Getting Started](MINECRAFT/guides/GettingStarted.md)
 3. [Ranks and Commands](MINECRAFT/commands/)
    - [Player Commands](MINECRAFT/commands/PLAYER-COMMANDS.md)

@@ -20,6 +20,7 @@ Explore our server's core features:
 - ❄️ [RealisticSeasons](MINECRAFT/guides/RealisticSeasons.md): Experience dynamic and immersive seasons.
 - 🗺️ [Regions](MINECRAFT/guides/Regions.md): Claim, protect, and manage specific areas on the server.
 - 🧪 [Slimefun](MINECRAFT/guides/Slimefun.md): Explore new items, machines, and crafting recipes in Slimefun.
+Explore more here: [MINECRAFT/features/](MINECRAFT/features/)
 
 ## 📚 Guides 📚
 Our guides are designed to help players navigate and enjoy the unique features of JeriCraft. Here’s a quick overview of some of the available guides:
@@ -32,12 +33,10 @@ Our guides are designed to help players navigate and enjoy the unique features o
 - ❄️ [RealisticSeasons](MINECRAFT/guides/RealisticSeasons.md): Explore the dynamic and immersive seasons we offer.
 - 🗺️ [Regions](MINECRAFT/guides/Regions.md): Learn how to claim, protect, and manage specific areas on the server with the Regions plugin.
 - 🧪 [Slimefun](MINECRAFT/guides/Slimefun.md): Dive into the world of Slimefun, featuring new items, machines, and crafting recipes.
+Explore more here: [MINECRAFT/guides/](MINECRAFT/guides/)
 
 ## 🎁 Perks 🎁
 Discover all the fantastic perks available on the JeriCraft server by browsing through our [Perks Guide](MINECRAFT/webstore/perks.md).
-
-## 📝 Applications 📝
-Interested in joining the JeriCraft staff team or becoming a builder? Check out our [Applications](https://github.com/Chalwk77/JeriCraftDocs/issues/new/choose) section for more information on how to apply. Be sure to review the prerequisites for each role.
 
 ## 👥 Player Ranks and Commands 👥
 - 👨‍💼 **Player Commands**:  
@@ -49,11 +48,8 @@ Interested in joining the JeriCraft staff team or becoming a builder? Check out 
 - 🌟 **Perk Commands**:  
   Learn about the commands associated with JeriCraft's perks by visiting our [Perk Commands Guide](MINECRAFT/commands/PERK-COMMANDS.md).
 
-## 🌟 Server Features and Plugins 🌟
-JeriCraft utilizes several plugins to enhance your gameplay experience. We've prepared [detailed documentation](MINECRAFT/features/Main.md) for our key plugins to help you make the most out of their features.
-
-## ➕ Additional Features ➕
-We offer a variety of additional features to enhance your gameplay experience, such as Jobs Boosts and more. For more information, check out our [Additional Features Guide](MINECRAFT/features/AdditionalFeatures.md).
+## 📝 Applications 📝
+Interested in joining the JeriCraft staff team or becoming a builder? Check out our [Applications](https://github.com/Chalwk77/JeriCraftDocs/issues/new/choose) section for more information on how to apply. Be sure to review the prerequisites for each role.
 
 ## **Getting Started: Essential Commands**
 
@@ -86,7 +82,3 @@ New to JeriCraft? Here are some helpful commands to kickstart your journey:
 - Protect your builds and land with Region Protection.
 - Complete custom quests for unique rewards and a sense of adventure.
 - Experience the changing landscape with Realistic Seasons.
-
-## 🤝 Join Our Community!
-
-We hope this guide helps you get started on your JeriCraft journey! Our friendly community is always here to assist you, both in-game and on Discord. Happy crafting! 🎉
