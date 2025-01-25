@@ -51,7 +51,7 @@ community or a seasoned player, you’ll find the resources you need to get the 
 3. **Hunter Prey** – **jericraft.net:2303**
 4. **Kill Confirmed** – **jericraft.net:2304**
 5. **Market** – **jericraft.net:2305**
-6. **Melee** – **jericraft.net:2306**
+6. **Melee Attack** – **jericraft.net:2306**
 7. **One In The Chamber** – **jericraft.net:2307**
 8. **Rooster CTF** – **jericraft.net:2308**
 9. **Sabotage** – **jericraft.net:2309**
