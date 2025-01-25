@@ -16,7 +16,7 @@ it, ensuring an organized and efficient staff structure for the best possible pl
 
 ---
 
-## For guidelines on using staff commands, refer to [Staff Guidelines](https://github.com/Chalwk77/JeriCraftDocs/blob/main/docs/policies/Staff-Guidelines.md).
+## For guidelines on using staff commands, refer to [Staff Guidelines](https://github.com/Chalwk/JeriCraftDocs/blob/main/policies/MC-Staff-Guidelines.md).
 
 ---
 
