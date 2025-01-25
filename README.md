@@ -8,7 +8,7 @@ community or a seasoned player, you’ll find the resources you need to get the 
 
 ─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 <details>
-  <summary><h2>📚 Minecraft - Table of Contents</h2></summary>
+  <summary><h2>📚 Minecraft - Table of Contents (Click to Expand)</h2></summary>
 
 1. [About The Server](MINECRAFT/about-the-server/About.md)
 2. [Getting Started](MINECRAFT/guides/GettingStarted.md)
@@ -44,7 +44,7 @@ community or a seasoned player, you’ll find the resources you need to get the 
 </details>
 
 <details>
-  <summary><h2>📚 Halo - Table of Contents <span style="font-size: 10px;">(click to expand)</span></h2></summary>
+  <summary><h2>📚 Halo - Table of Contents (Click to Expand)</h2></summary>
 
 1. **Divide & Conquer** – **jericraft.net:2301**
 2. **Gun Game** – **jericraft.net:2302**
