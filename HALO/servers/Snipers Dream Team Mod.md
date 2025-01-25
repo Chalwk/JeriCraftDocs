@@ -29,7 +29,7 @@ SDTM supports all **stock maps** and includes custom mechanics tailored to these
 
 ## 📡 How to Connect
 
-To play **JeriCraft - SDTM**, follow these steps:
+To play **JeriCraft - SDTM**, follow these simple steps:
 
 1. Open your Halo game.
 2. Navigate to the Multiplayer section.

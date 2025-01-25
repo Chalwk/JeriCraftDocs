@@ -21,7 +21,7 @@ spawn in the middle of the map. Players need to return the flag to either the **
 
 ## 📡 How to Connect
 
-To play **JeriCraft - Rooster CTF**, follow these steps:
+To play **JeriCraft - Rooster CTF**, follow these simple steps:
 
 1. Open your Halo game.
 2. Navigate to the Multiplayer section.

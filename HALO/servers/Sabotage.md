@@ -39,7 +39,7 @@ or defuse the bomb at the opposing team's base.
 
 ## 📡 How to Connect
 
-To play **JeriCraft - Sabotage**, follow these steps:
+To play **JeriCraft - Sabotage**, follow these simple steps:
 
 1. Open your Halo game.
 2. Navigate to the Multiplayer section.

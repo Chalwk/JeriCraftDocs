@@ -52,7 +52,7 @@ Each map has a designated flag location where the game begins. The flag is place
 
 ## 📡 How to Connect
 
-To play **JeriCraft - Hunter Prey**, follow these steps:
+To play **JeriCraft - Hunter Prey**, follow these simple steps:
 
 1. Open your Halo game.
 2. Navigate to the Multiplayer section.

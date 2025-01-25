@@ -28,7 +28,7 @@
 
 ## 📡 How to Connect
 
-To play **JeriCraft - Team Defender**, follow these steps:
+To play **JeriCraft - Team Defender**, follow these simple steps:
 
 1. Open your Halo game.
 2. Navigate to the Multiplayer section.

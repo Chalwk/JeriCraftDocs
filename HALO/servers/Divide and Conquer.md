@@ -42,7 +42,7 @@ The **Divide and Conquer** mode can be played across a variety of maps. The serv
 
 ## 📡 How to Connect
 
-To play **JeriCraft - Divide & Conquer**, follow these simple steps:
+To play **Divide & Conquer**, follow these simple steps:
 
 1. Open your Halo game.
 2. Navigate to the Multiplayer section.
