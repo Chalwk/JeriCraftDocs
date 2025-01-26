@@ -1,6 +1,9 @@
 # JeriCraft Halo Servers Overview
 
-Welcome to **JeriCraft**'s **Halo: Combat Evolved** community! Our collection of **Halo: Combat Evolved** servers provides a diverse range of exciting and unique game modes designed to challenge players, foster competition, and provide endless fun. Whether you're a fan of strategic team-based gameplay, intense free-for-all action, or something in between, we have something for everyone.
+Welcome to **JeriCraft**'s **Halo: Combat Evolved** community! Our collection of **Halo: Combat Evolved** servers
+provides a diverse range of exciting and unique game modes designed to challenge players, foster competition, and
+provide endless fun. Whether you're a fan of strategic team-based gameplay, intense free-for-all action, or something in
+between, we have something for everyone.
 
 Here’s a quick overview of our current **Halo: Combat Evolved** servers:
 
@@ -11,7 +14,7 @@ Here’s a quick overview of our current **Halo: Combat Evolved** servers:
 | **[Hunter Prey](/HALO/servers/Hunter%20Prey.md)**                           | A survival-based game mode where players fight to control the flag at the center of the map. The player who holds the flag the longest wins.                 | **jericraft.net:2303** |
 | **[Kill Confirmed](/HALO/servers/Kill%20Confirmed.md)**                     | Score points by eliminating enemies and collecting their dog tags (skulls), ensuring kills count towards your team's score.                                  | **jericraft.net:2304** |
 | **[Market](/HALO/servers/Market.md)**                                       | A unique server with an in-game economy, allowing players to buy weapons and gear to take down their opponents.                                              | **jericraft.net:2305** |
-| **[Melee Attack](/HALO/servers/Melee%20Attack.md)**                         | A mode focused entirely on close combat, where players only use melee attacks to fight their enemies.                                                        | **jericraft.net:2306** |
+| **[Melee Brawl](/HALO/servers/Melee%20Brawl.md)**                           | A mode focused entirely on close combat, where players only use melee attacks to fight their enemies.                                                        | **jericraft.net:2306** |
 | **[One In The Chamber](/HALO/servers/One%20In%20The%20Chamber.md)**         | Players only have one bullet per life, and must use their wits to outsmart and eliminate opponents without wasting ammo.                                     | **jericraft.net:2307** |
 | **[Rooster CTF](/HALO/servers/Rooster%20CTF.md)**                           | A CTF mode for Slayer (FFA/Team), where players fight to capture a single flag and return it to either the Red or Blue Base to score.                        | **jericraft.net:2308** |
 | **[Sabotage](/HALO/servers/Sabotage.md)**                                   | Players must work to plant explosives and sabotage the opposing team’s objectives while defending their own.                                                 | **jericraft.net:2309** |
@@ -31,7 +34,8 @@ gaming! 🎮
 
 # Halo Server Scripts
 
-All **JeriCraft** servers for **Halo: Combat Evolved** are equipped with several custom scripts designed to improve gameplay, ensure fair play, and
+All **JeriCraft** servers for **Halo: Combat Evolved** are equipped with several custom scripts designed to improve
+gameplay, ensure fair play, and
 enhance the overall server experience. Below is a list of the scripts running on all of our servers:
 
 | **Script Name**                                                                                                                        | **Description**                                                                                                                                                                               | 

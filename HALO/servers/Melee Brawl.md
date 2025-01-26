@@ -1,8 +1,8 @@
-# Melee Attack - Game Mode
+# Melee Brawl - Game Mode
 
 ## 📝 Overview
 
-**Melee Attack** is a high-energy game mode where players are limited to **melee-only combat**. The key feature of this
+**Melee Brawl** is a high-energy game mode where players are limited to **melee-only combat**. The key feature of this
 mode is that players instantly kill their opponent by striking them with the **skull**. No guns, no grenades—just pure
 hand-to-hand action! The game ends when a team or player reaches the **score limit of 50**. Respawn time is **instant**,
 making for fast-paced, continuous action.
@@ -18,7 +18,7 @@ making for fast-paced, continuous action.
 
 ## 🗺️ Maps & Game Modes
 
-The **Melee Attack** mode runs on the following **stock maps** and **game modes**:
+The **Melee Brawl** mode runs on the following **stock maps** and **game modes**:
 
 | **Map**     | **Game Mode** |
 |-------------|---------------|
@@ -39,7 +39,7 @@ The **Melee Attack** mode runs on the following **stock maps** and **game modes*
 
 ## 📡 How to Connect
 
-To play **JeriCraft - Melee Attack**, follow these steps:
+To play **JeriCraft - Melee Brawl**, follow these steps:
 
 1. Open Halo: Combat Evolved.
 2. Navigate to the Multiplayer section.

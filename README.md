@@ -52,7 +52,7 @@
    - **[Hunter Prey](HALO/servers/Hunter%20Prey.md)**
    - **[Kill Confirmed](HALO/servers/Kill%20Confirmed.md)**
    - **[Market](HALO/servers/Market.md)**
-   - **[Melee Attack](HALO/servers/Melee%20Attack.md)**
+   - **[Melee Brawl](HALO/servers/Melee%20Brawl.md)**
    - **[One In The Chamber](HALO/servers/One%20In%20The%20Chamber.md)**
    - **[Rooster CTF](HALO/servers/Rooster%20CTF.md)**
    - **[Sabotage](HALO/servers/Sabotage.md)**
