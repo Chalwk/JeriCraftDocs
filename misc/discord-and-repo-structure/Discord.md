@@ -31,7 +31,7 @@
     -〔🎤〕Halo
     -〔🔴〕stream
 
-### 〔🔄〕 Game Events Feed
+### 〔🔄〕 GAME EVENTS FEED
 
     -〔⛏️〕minecraft
     -〔👾〕divide-and-conquer
@@ -64,7 +64,7 @@
     -〔🎨〕dev
     -〔🐛〕bug-reports
 
-### 〔☗〕 MANAGEMENT (Hidden to Public)
+### 〔☗〕 MANAGEMENT (hidden to public)
 
     - 〔🔒〕security-alerts
     - 〔📊〕performance-reports
