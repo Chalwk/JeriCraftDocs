@@ -66,10 +66,14 @@
 
 ### 〔☗〕 MANAGEMENT (Hidden to Public)
 
-    -〔🛡〕admin-room
-    -〔❗〕important
-    -〔📖〕rcon-log
-    -〔✅〕todo-list
-    -〔✅〕testing-grounds
-    -〔🎤〕Staff Voice
-    -〔🎥〕movie-time
+    - 〔🔒〕security-alerts
+    - 〔📊〕performance-reports
+    - 〔🎮〕server-maintenance
+    - 〔📂〕task-management
+    - 〔🔍〕moderation-logs
+    - 〔🗣〕staff-communication
+    - 〔🏅〕staff-recognition
+    - 〔📑〕policy-updates
+    - 〔📅〕staff-calendar
+    - 〔🎤〕Staff Voice
+    - 〔🎥〕movie-time
