@@ -37,14 +37,12 @@ body:
     attributes:
       label: Tournament Type
       description: Select the type of tournament.
-      multiple: false
       options:
         - 1v1
         - 2v2
         - Team Battle (4v4)
         - Free-for-All
         - Custom (specify below)
-    default: 0
     validations:
       required: true
 #
