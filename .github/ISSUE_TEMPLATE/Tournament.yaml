@@ -4,12 +4,32 @@ title: "[Tournament Proposal] <Tournament Name>"
 labels: [ "Tournament" ]
 assignees: Chalwk
 body:
-  - type: input
-    id: tournament_name
+  - type: markdown
     attributes:
-      label: Tournament Name
-      description: What is the name of the tournament?
-      placeholder: "Enter the tournament name"
+      value: |
+        **📌 Tournament Proposal**
+        > Use this template to create a custom tournament proposal for the JeriCraft community.
+        > Provide detailed information about the tournament, including the format, rules, and any other relevant details.
+        > Be sure to include:
+        > - Tournament name
+        > - Tournament type
+        > - Proposed dates
+        > - Platform
+        > - Custom rules or settings
+        > - Allowed maps
+        > - Game mode
+        > - Maximum teams/players
+        > - Registration deadline
+        > - Organizer name
+        > - Contact information
+        > - Additional information
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 📝 Suggestion
+      description: Describe your suggestion.
+      placeholder: "Describe your suggestion here"
+    validations:
       required: true
 
 #  - type: dropdown
