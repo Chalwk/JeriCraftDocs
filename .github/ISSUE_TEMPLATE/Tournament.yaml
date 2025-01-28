@@ -1,8 +1,10 @@
 name: Halo Tournament Creation
-description: Use this template to create a custom Halo tournament.
-title: "[Tournament Proposal] <Tournament Name>"
-labels: [ tournament, proposal ]
-assignees: [ ]
+description: Use this template to create a custom tournament.
+title: '[Tournament Proposal] <Tournament Name>'
+labels:
+  - Tournament
+  - Proposal
+assignees: Chalwk
 
 body:
   - type: input
@@ -10,7 +12,7 @@ body:
     attributes:
       label: Tournament Name
       description: What is the name of the tournament?
-      placeholder: Enter the tournament name
+      placeholder: "Enter the tournament name"
       required: true
 
   - type: dropdown
@@ -31,7 +33,7 @@ body:
     attributes:
       label: Custom Tournament Type (if applicable)
       description: Specify the custom type if "Custom" was selected above.
-      placeholder: Enter the custom tournament type
+      placeholder: "Enter the custom tournament type"
       required: false
 
   - type: input
@@ -39,7 +41,7 @@ body:
     attributes:
       label: Proposed Dates
       description: When do you want the tournament to happen? Include time zones.
-      placeholder: e.g., 2025-02-10, 3 PM UTC
+      placeholder: "e.g., 2025-02-10, 3 PM UTC"
       required: true
 
   - type: dropdown
@@ -58,7 +60,7 @@ body:
     attributes:
       label: Custom Rules or Settings
       description: Provide any custom rules or settings for the tournament (e.g., map restrictions, time limits).
-      placeholder: Enter the rules here
+      placeholder: "Enter the rules here"
       required: false
 
   - type: input
@@ -66,7 +68,7 @@ body:
     attributes:
       label: Allowed Maps
       description: Specify which maps are allowed (or type "All Maps").
-      placeholder: e.g., Blood Gulch, Battle Creek
+      placeholder: "e.g., Blood Gulch, Battle Creek"
       required: true
 
   - type: dropdown
@@ -87,7 +89,7 @@ body:
     attributes:
       label: Maximum Teams/Players
       description: What is the maximum number of teams or players allowed?
-      placeholder: Enter the maximum number
+      placeholder: "Enter the maximum number"
       required: true
 
   - type: input
@@ -95,15 +97,15 @@ body:
     attributes:
       label: Registration Deadline
       description: When should player/team registrations close?
-      placeholder: e.g., 2025-02-05, 11:59 PM UTC
+      placeholder: "e.g., 2025-02-05, 11:59 PM UTC"
       required: true
 
   - type: input
     id: organizer_name
     attributes:
       label: Organizer Name
-      description: Who is organizing this tournament?
-      placeholder: Enter your name
+      description: `Who is organizing this tournament?`
+      placeholder: "Enter your name"
       required: true
 
   - type: input
@@ -111,7 +113,7 @@ body:
     attributes:
       label: Contact Information
       description: Provide an email address or Discord username for communication.
-      placeholder: Enter your email or Discord
+      placeholder: "Enter your email or Discord"
       required: true
 
   - type: textarea
@@ -119,5 +121,5 @@ body:
     attributes:
       label: Additional Information
       description: Any other details or requests about the tournament?
-      placeholder: Enter any extra information here
+      placeholder: "Enter any extra information here"
       required: false
