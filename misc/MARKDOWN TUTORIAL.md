@@ -311,7 +311,7 @@ This is a sentence with a footnote.[^1]
 Wrap text with ~~ to strike through.
 
 ```manifest
-~~Strikethrough~~
+~~strikethrough~~
 ```
 
 Result: ~~Strikethrough~~
@@ -357,12 +357,12 @@ Use `!!!` to create custom callout blocks (used in some Markdown parsers like Mk
 Result:
 
 !!! note
-    This is a note with a default color.
+This is a note with a default color.
 
 !!! warning
-    This is a warning in orange or red.
+This is a warning in orange or red.
 
 !!! success
-    This is a success message in green.
+This is a success message in green.
 
 ---
