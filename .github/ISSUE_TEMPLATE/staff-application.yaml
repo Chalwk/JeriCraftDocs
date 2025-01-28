@@ -2,8 +2,8 @@ name: Staff Application
 description: Apply to become a staff member on the server.
 title: 'Staff Application - [Your Name]'
 labels:
-  - staff-application
-  - pending
+  - Staff Application
+  - Pending
   - awaiting-review
   - awaiting-interview
 assignees: Chalwk
