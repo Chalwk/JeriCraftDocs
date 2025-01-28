@@ -71,7 +71,7 @@ body:
       description: Where will the tournament take place?
       options:
         - PC
-        - Xbox
+        - CE
         - Both
     validations:
       required: true
