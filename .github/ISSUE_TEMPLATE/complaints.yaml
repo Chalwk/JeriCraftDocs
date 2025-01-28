@@ -2,7 +2,7 @@ name: 🗣️ Submit a Complaint
 description: ⚠️ Report inappropriate behavior or concerns related to the JeriCraft Discord and Minecraft servers.
 title: "[COMPLAINT] <title>"
 labels: [ "Complaint" ]
-assignees: Chalwk77
+assignees: Chalwk
 body:
   - type: markdown
     attributes:

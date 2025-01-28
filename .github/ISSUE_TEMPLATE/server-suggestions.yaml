@@ -2,7 +2,7 @@ name: Server Suggestions
 description: Create a report to suggest improvements or new features for the JeriCraft server.
 title: "SUGGESTION: <title>"
 labels: [ "Suggestion" ]
-assignees: Chalwk77
+assignees: Chalwk
 body:
   - type: markdown
     attributes:

@@ -2,7 +2,7 @@ name: Ban Appeal
 description: Create a report to appeal a ban from the JeriCraft Minecraft/Discord server.
 title: "Ban Appeal for: <name>"
 labels: [ "Ban Appeal" ]
-assignees: Chalwk77
+assignees: Chalwk
 body:
   - type: markdown
     attributes:

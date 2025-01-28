@@ -2,7 +2,7 @@ name: 🗣️ Report a player
 description: ⚠️ Report inappropriate behavior or concerns related to the JeriCraft Discord and Minecraft servers.
 title: "[REPORT] <offender>"
 labels: [ "Report" ]
-assignees: Chalwk77
+assignees: Chalwk
 body:
   - type: input
     id: YourUsername

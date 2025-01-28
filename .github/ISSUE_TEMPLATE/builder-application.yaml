@@ -2,7 +2,7 @@ name: Builder Application
 description: Apply to become a builder on the JeriCraft Minecraft server.
 title: "Builder Application for: <name>"
 labels: [ "Builder Application" ]
-assignees: Chalwk77
+assignees: Chalwk
 body:
   - type: markdown
     attributes:
