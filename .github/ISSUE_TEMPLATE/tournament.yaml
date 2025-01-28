@@ -10,27 +10,7 @@ body:
         **📌 Tournament Proposal**
         > Use this template to create a custom tournament proposal for the JeriCraft community.
         > Provide detailed information about the tournament, including the format, rules, and any other relevant details.
-        > Be sure to include:
-        > - Tournament Name
-        > - Tournament Type
-        > - Tournament Format
-        > - Number of Teams
-        > - Number of Rounds
-        > - Proposed Dates
-        > - Platform (PC, CE, or Both)
-        > - Custom Rules or Settings (if any)
-        > - Allowed Maps
-        > - Game Mode
-        > - Maximum Teams/Players
-        > - Registration Deadline
-        > - Organizer Name
-        > - Contact Information
-        > - Additional Information
-        > - Match Length
-        > - Team List
-        > - Tie-breaking Rules
-        > - Prize Details
-        > - Player/Team Limitations
+
   - type: input
     id: tournament_name
     attributes:
