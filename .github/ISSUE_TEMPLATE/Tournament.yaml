@@ -45,36 +45,36 @@ body:
         - Custom (specify below)
     validations:
       required: true
-#
-#  - type: input
-#    id: custom_tournament_type
-#    attributes:
-#      label: Custom Tournament Type (if applicable)
-#      description: Specify the custom type if "Custom" was selected above.
-#      placeholder: "Enter the custom tournament type"
-#    validations:
-#      required: false
-#
-#  - type: input
-#    id: proposed_dates
-#    attributes:
-#      label: Proposed Dates
-#      description: When do you want the tournament to happen? Include time zones.
-#      placeholder: "e.g., 2025-02-10, 3 PM UTC"
-#    validations:
-#      required: true
-#
-#  - type: dropdown
-#    id: platform
-#    attributes:
-#      label: Platform
-#      description: Where will the tournament take place?
-#      options:
-#        - PC
-#        - Xbox
-#        - Both
-#    validations:
-#      required: true
+
+  - type: input
+    id: custom_tournament_type
+    attributes:
+      label: Custom Tournament Type (if applicable)
+      description: Specify the custom type if "Custom" was selected above.
+      placeholder: "Enter the custom tournament type"
+    validations:
+      required: false
+
+  - type: input
+    id: proposed_dates
+    attributes:
+      label: Proposed Dates
+      description: When do you want the tournament to happen? Include time zones.
+      placeholder: "e.g., 2025-02-10, 3 PM UTC"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      description: Where will the tournament take place?
+      options:
+        - PC
+        - Xbox
+        - Both
+    validations:
+      required: true
 #
 #  - type: textarea
 #    id: custom_rules
