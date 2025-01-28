@@ -51,7 +51,7 @@ Discover all the fantastic perks available on the JeriCraft server by browsing t
   Learn about the commands associated with JeriCraft's perks by visiting our [Perk Commands Guide](/MINECRAFT/commands/PLAYER-COMMANDS.md).
 
 ### 📝 Applications 📝
-Interested in joining the JeriCraft staff team or becoming a builder? Check out our [Applications](https://github.com/Chalwk77/JeriCraftDocs/issues/new/choose) section for more information on how to apply. Be sure to review the prerequisites for each role.
+Interested in joining the JeriCraft staff team or becoming a builder? Check out our [Applications](https://github.com/Chalwk/JeriCraftDocs/issues/new/choose) section for more information on how to apply. Be sure to review the prerequisites for each role.
 
 ### **Getting Started: Essential Commands**
 

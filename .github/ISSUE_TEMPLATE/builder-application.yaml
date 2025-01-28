@@ -18,7 +18,7 @@ body:
         - Must be an active member of the community for at least 1.5 months.
         - Have at least 50 hours of playtime on the server.
         - Must have Discord for communication purposes.
-        - 📝 Must read and agree to our [community rules](https://github.com/Chalwk77/JeriCraftDocs/blob/main/docs/policies/Community-Rules.md).
+        - 📝 Must read and agree to our [community rules](policies/Community-Rules.md).
         - You are allowed to build in pairs.
           > *Collaborations with the intent of using your build for this application require that 70% of the build be done by you.*
         - Builds must be original and not copied from the internet.
@@ -41,7 +41,7 @@ body:
         **Restricted access to World Edit:**
           - World Edit will be limited to regions that you own.
           - Make sure you set the `worldedit allow` flag in your region before performing World Edit operations.
-          - Certain commands will be disabled for you. See the [Player Commands](https://github.com/Chalwk77/JeriCraftDocs/blob/main/docs/commands/PLAYER-COMMANDS.md) for more information.
+          - Certain commands will be disabled for you. See the [Player Commands](MINECRAFT/commands/PLAYER-COMMANDS.md) for more information.
 
         ---
   - type: checkboxes

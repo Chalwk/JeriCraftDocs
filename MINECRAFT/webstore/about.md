@@ -28,7 +28,7 @@ If you need assistance with sending money through PayPal, please refer to [this 
 
 All perks are permanent (subject to change) for the lifetime of the server. However, we may revoke access if a perk is abused.
 
-## To view all available perks, please visit the [PERK PAGE](https://github.com/Chalwk77/JeriCraftDocs/blob/main/docs/webstore/perks.md).
+## To view all available perks, please visit the [PERK PAGE](https://github.com/Chalwk/JeriCraftDocs/blob/main/docs/webstore/perks.md).
 
 ## Terms and Conditions:
 - **ALL PRICES ARE IN NZD (New Zealand Dollar) AND MUST BE CONVERTED BEFORE SENDING YOUR DONATION.**<br>

@@ -23,8 +23,8 @@ body:
         - ⏱️ Be able to dedicate at least 5 hours a week to the server.
         - 🎮 Must have a Discord account for communication purposes.
         - 🎤 Must have a working microphone.
-        - 📝 Must read and agree to our [community rules](https://github.com/Chalwk77/JeriCraftDocs/blob/main/docs/policies/Community-Rules.md).
-        - 📚 Familiarize yourself with our [staff commands](https://github.com/Chalwk77/JeriCraftDocs/blob/main/docs/commands/STAFF-COMMANDS.md) and [plugins](https://github.com/Chalwk77/JeriCraftDocs/tree/main/docs/features)
+        - 📝 Must read and agree to our [community rules](policies/Community-Rules.md).
+        - 📚 Familiarize yourself with our [staff commands](MINECRAFT/commands/STAFF-COMMANDS.md) and [plugins](/MINECRAFT/features)
         - ⚠️Do not make an application if you don't meet these requirements. You will be denied.⚠️️
         
         ---
@@ -134,7 +134,7 @@ body:
         # 🚨 Scenario Questions (test your knowledge):
         > This is a test to see if you understand the rules and how to handle situations as a staff member.
         
-        > Familiarize yourself with our [staff guidelines](https://github.com/Chalwk77/JeriCraftDocs/blob/main/docs/policies/Staff-Guidelines.md) and commands before answering these questions.
+        > Familiarize yourself with our [staff guidelines](https://github.com/Chalwk/JeriCraftDocs/blob/main/docs/policies/Staff-Guidelines.md) and commands before answering these questions.
         ---
 
   - type: textarea

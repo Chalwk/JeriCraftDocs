@@ -6,7 +6,7 @@ announcements:
       "text": "&8=======&2&l] &c&lINFO: &bAuctions &2&l[&8&l=======&7\nParticipate in player-driven auctions!\nLearn more with our detailed guide (click here).\n\n• Useful commands: &b/ah&7, &b/ah help",
       "clickEvent": {
         "action": "open_url",
-        "value": "https://github.com/Chalwk77/JeriCraftDocs/blob/main/docs/guides/AuctionHouse.md"
+        "value": "https://github.com/Chalwk/JeriCraftDocs/blob/main/docs/guides/AuctionHouse.md"
       },
       "hoverEvent": {
         "action": "show_text",
@@ -28,7 +28,7 @@ announcements:
       "text": "&8=======&2&l] &c&lINFO: &bChest Shop Tutorial &2&l[&8&l=======&7\nNeed help creating a chest shop?\n\n• Click here to view our step-by-step guide.",
       "clickEvent": {
         "action": "open_url",
-        "value": "https://github.com/Chalwk77/JeriCraftDocs/blob/main/docs/guides/ChestShop.md"
+        "value": "https://github.com/Chalwk/JeriCraftDocs/blob/main/docs/guides/ChestShop.md"
       },
       "hoverEvent": {
         "action": "show_text",
@@ -102,7 +102,7 @@ announcements:
       "text": "&8=======&2&l] &c&lINFO: &bJobs Guide &2&l[&8&l=======&7\nJobs pay you for breaking, placing, killing, fishing, crafting, and more. Gain experience as you perform your job!\n\n• Click here or type &b/jobs&7 for more information.",
       "clickEvent": {
         "action": "open_url",
-        "value": "https://github.com/Chalwk77/JeriCraftDocs/blob/main/docs/guides/Jobs.md"
+        "value": "https://github.com/Chalwk/JeriCraftDocs/blob/main/docs/guides/Jobs.md"
       },
       "hoverEvent": {
         "action": "show_text",
@@ -115,7 +115,7 @@ announcements:
       "text": "&8=======&2&l] &c&lINFO: &bmcMMO &2&l[&8&l=======&7\nMcMMO is a skill system that rewards you with experience as you use tools, weapons, and perform various actions.\n\nSkills are divided into &bGathering&7, &bCombat&7, and &bMiscellaneous&7. Gain bonuses like &bdouble drops&7, &brare drops&7, and &bability enhancements&7 as you level up.\n\n• Click here for our detailed mcMMO guide.",
       "clickEvent": {
         "action": "open_url",
-        "value": "https://github.com/Chalwk77/JeriCraftDocs/blob/main/docs/guides/mcMMO.md"
+        "value": "https://github.com/Chalwk/JeriCraftDocs/blob/main/docs/guides/mcMMO.md"
       },
       "hoverEvent": {
         "action": "show_text",
