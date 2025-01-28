@@ -1,4 +1,4 @@
-name: Halo Tournament Creation
+name: 🏆 Halo Tournament Creation
 description: Use this template to create a custom tournament.
 title: "[Tournament Proposal] <Tournament Name>"
 labels: [ "Tournament" ]
@@ -81,6 +81,15 @@ body:
       required: true
 
   - type: input
+    id: max_players
+    attributes:
+      label: Maximum Players
+      description: What is the maximum number of players allowed?
+      placeholder: "Enter the maximum number"
+    validations:
+      required: true
+
+  - type: input
     id: proposed_dates
     attributes:
       label: Proposed Dates
@@ -130,15 +139,6 @@ body:
         - King of the Hill
         - Oddball
         - Custom (specify below)
-    validations:
-      required: true
-
-  - type: input
-    id: max_teams
-    attributes:
-      label: Maximum Teams/Players
-      description: What is the maximum number of teams or players allowed?
-      placeholder: "Enter the maximum number"
     validations:
       required: true
 
