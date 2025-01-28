@@ -26,6 +26,11 @@ body:
         > - Organizer Name
         > - Contact Information
         > - Additional Information
+        > - Match Length
+        > - Team List
+        > - Tie-breaking Rules
+        > - Prize Details
+        > - Player/Team Limitations
   - type: input
     id: tournament_name
     attributes:
@@ -177,3 +182,48 @@ body:
       placeholder: "Enter any extra information here"
     validations:
       required: false
+
+  - type: input
+    id: match_length
+    attributes:
+      label: Match Length
+      description: How long should each match last?
+      placeholder: "e.g., 10 minutes, 15 minutes, Best of 3 rounds"
+    validations:
+      required: true
+
+  - type: textarea
+    id: team_list
+    attributes:
+      label: Team List
+      description: "Provide the list of teams and their members (e.g., Team A: Player 1, Player 2, etc.)."
+      placeholder: "Enter team names and members here"
+    validations:
+      required: true
+
+  - type: textarea
+    id: tiebreaking_rules
+    attributes:
+      label: Tie-breaking Rules
+      description: How will ties be resolved in the tournament?
+      placeholder: "e.g., sudden death, overtime"
+    validations:
+      required: false
+
+  - type: textarea
+    id: prize_details
+    attributes:
+      label: Prize Information
+      description: What prizes or rewards are available for winners?
+      placeholder: "e.g., gift cards, in-game items, trophies"
+    validations:
+      required: false
+
+  - type: input
+    id: max_players_per_team
+    attributes:
+      label: Maximum Players per Team
+      description: How many players can be in a single team (for team-based formats)?
+      placeholder: "e.g., 2 players for 2v2 format"
+    validations:
+      required: true
