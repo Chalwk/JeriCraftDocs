@@ -80,6 +80,8 @@ This is another paragraph.
 **Italics**
 Wrap text in single asterisks (`*`) or underscores (`_`).
 
+Result: *Italics*
+
 ```markdown
 **Bold** or __Bold__
 ```
@@ -94,9 +96,7 @@ Wrap text in double asterisks (`**`) or underscores (`__`).
 **Bold** or __Bold__
 ```
 
-Result:
-
-**Bold**
+Result: **Bold**
 
 ---
 
@@ -108,13 +108,7 @@ Combine three asterisks (`***`) or underscores (`___`).
 ***Bold and Italic*** or ___Bold and Italic___
 ```
 
-Result:
-
-*Italic*
-
-**Bold**
-
-***Bold and Italic***
+Result: *Italic*, **Bold**, ***Bold and Italic***
 
 ---
 
