@@ -116,39 +116,39 @@ body:
       placeholder: "Enter the maximum number"
     validations:
       required: true
-#
-#  - type: input
-#    id: registration_deadline
-#    attributes:
-#      label: Registration Deadline
-#      description: When should player/team registrations close?
-#      placeholder: "e.g., 2025-02-05, 11:59 PM UTC"
-#    validations:
-#      required: true
-#
-#  - type: input
-#    id: organizer_name
-#    attributes:
-#      label: Organizer Name
-#      description: `Who is organizing this tournament?`
-#      placeholder: "Enter your name"
-#    validations:
-#      required: true
-#
-#  - type: input
-#    id: contact_email
-#    attributes:
-#      label: Contact Information
-#      description: Provide an email address or Discord username for communication.
-#      placeholder: "Enter your email or Discord"
-#    validations:
-#      required: true
-#
-#  - type: textarea
-#    id: additional_information
-#    attributes:
-#      label: Additional Information
-#      description: Any other details or requests about the tournament?
-#      placeholder: "Enter any extra information here"
-#    validations:
-#      required: false
+
+  - type: input
+    id: registration_deadline
+    attributes:
+      label: Registration Deadline
+      description: When should player/team registrations close?
+      placeholder: "e.g., 2025-02-05, 11:59 PM UTC"
+    validations:
+      required: true
+
+  - type: input
+    id: organizer_name
+    attributes:
+      label: Organizer Name
+      description: `Who is organizing this tournament?`
+      placeholder: "Enter your name"
+    validations:
+      required: true
+
+  - type: input
+    id: contact_email
+    attributes:
+      label: Contact Information
+      description: Provide an email address or Discord username for communication.
+      placeholder: "Enter your email or Discord"
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional_information
+    attributes:
+      label: Additional Information
+      description: Any other details or requests about the tournament?
+      placeholder: "Enter any extra information here"
+    validations:
+      required: false
