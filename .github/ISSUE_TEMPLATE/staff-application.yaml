@@ -90,15 +90,15 @@ body:
   - type: textarea
     id: account-access
     attributes:
-      label: 🔒 Does anyone else have access to your Minecraft account?
+      label: 🔒 Does anyone else have access to your Minecraft, Halo or Discord account?
       description: "This is important for security reasons. If yes, please explain, otherwise, type 'No'."
     validations:
       required: true
   - type: textarea
-    id: minecraft-experience
+    id: experience
     attributes:
-      label: 🎮 Minecraft Experience
-      description: "Tell us about your experience with Minecraft, including any previous staff positions you've held."
+      label: 🎮 Moderation Experience
+      description: "Tell us about your experience with moderating, including any previous staff positions you've held."
     validations:
       required: true
   - type: textarea
@@ -118,14 +118,14 @@ body:
   - type: textarea
     id: hacked-client
     attributes:
-      label: 🚫 Have you ever used a hacked client before?
+      label: 🚫 Have you ever used a hacked client before? (e.g., X-ray, fly mod)
       description: "If yes, please explain. Otherwise, type 'No'."
     validations:
       required: true
   - type: textarea
     id: minecraft-ban
     attributes:
-      label: ⛔ Have you ever been banned on a Minecraft server?
+      label: ⛔ Have you ever been banned on a Minecraft or Halo server?
       description: "If yes, please explain. Otherwise, type 'No'."
     validations:
       required: true
@@ -142,20 +142,19 @@ body:
         # 🚨 Scenario Questions (test your knowledge):
         > This is a test to see if you understand the rules and how to handle situations as a staff member.
         
-        > Familiarize yourself with our [staff guidelines](https://github.com/Chalwk/JeriCraftDocs/blob/main/docs/policies/Staff-Guidelines.md) and commands before answering these questions.
+        > Familiarize yourself with our [staff guidelines](https://github.com/Chalwk/JeriCraftDocs/blob/main/policies/Community-Rules.md) and commands before answering these questions.
         ---
-
   - type: textarea
     id: scenario_1
     attributes:
-      label: 1. You observe a player using unauthorized mods, such as fly mod or X-ray, to gain an unfair advantage.
-      description: "How would you handle this situation and ensure fair play on the server?"
+      label: 1. You observe a player using unauthorized mods, such as aim bot, fly mod or X-ray, to gain an unfair advantage.
+      description: "How would you handle this situation and ensure fair play?"
     validations:
       required: true
   - type: textarea
     id: scenario_2
     attributes:
-      label: 2. A player is sharing links and promoting another server in the chat, attempting to divert players away from your server.
+      label: 2. A player is sharing links and promoting another server in the chat, attempting to divert players away from our server(s).
       description: "How would you address this issue and enforce the server's rules?"
     validations:
       required: true
