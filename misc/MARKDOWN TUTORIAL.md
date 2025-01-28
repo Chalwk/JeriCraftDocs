@@ -333,9 +333,11 @@ Term 2:
 Result:
 
 Term 1:
+
 : Definition for Term 1
 
 Term 2:
+
 : Definition for Term 2
 
 **Admonitions (Custom Callouts)**
