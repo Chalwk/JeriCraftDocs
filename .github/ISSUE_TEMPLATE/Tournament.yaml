@@ -32,18 +32,18 @@ body:
     validations:
       required: true
 
-#  - type: dropdown
-#    id: tournament_type
-#    attributes:
-#      label: Tournament Type
-#      description: Select the type of tournament.
-#      options:
-#        - 1v1
-#        - 2v2
-#        - Team Battle (4v4)
-#        - Free-for-All
-#        - Custom (specify below)
-#      required: true
+  - type: dropdown
+    id: tournament_type
+    attributes:
+      label: Tournament Type
+      description: Select the type of tournament.
+      options:
+        - 1v1
+        - 2v2
+        - Team Battle (4v4)
+        - Free-for-All
+        - Custom (specify below)
+      required: true
 #
 #  - type: input
 #    id: custom_tournament_type
