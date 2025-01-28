@@ -1,28 +1,77 @@
-name: Halo Tournament Creation
-description: Use this template to create a custom tournament.
-title: "[Tournament Proposal] <Tournament Name>"
-labels: [ "Tournament" ]
+name: Halo Tournament Bracket Creation
+description: Use this template to create a custom tournament bracket system.
+title: "[Bracket Creation] <Tournament Name>"
+labels: [ "Tournament Bracket" ]
 assignees: Chalwk
 body:
   - type: markdown
     attributes:
       value: |
-        **📌 Tournament Proposal**
-        > Use this template to create a custom tournament proposal for the JeriCraft community.
-        > Provide detailed information about the tournament, including the format, rules, and any other relevant details.
+        **📌 Tournament Bracket Creation**
+        > Use this template to create a custom bracket system for the JeriCraft community's Halo tournament.
+        > Provide the necessary information to design the bracket, including the teams, number of rounds, and match format.
         > Be sure to include:
         > - Tournament name
-        > - Tournament type
-        > - Proposed dates
-        > - Platform
-        > - Custom rules or settings
-        > - Allowed maps
-        > - Game mode
-        > - Maximum teams/players
-        > - Registration deadline
-        > - Organizer name
-        > - Contact information
-        > - Additional information
+        > - Number of teams
+        > - Number of rounds
+        > - Custom rules for each round
+        > - Format (e.g., single elimination, double elimination, round robin)
+        > - Game mode and map settings
+
+        ---
+        
+        ## **Tournament Bracket Details**
+        
+        ### **1. Tournament Name**
+        - **Tournament Name**: `<Enter Tournament Name>`
+        
+        ### **2. Number of Teams**
+        - **Total Teams**: `<Enter the number of teams>`
+        
+        ### **3. Number of Rounds**
+        - **Rounds**: `<Enter the number of rounds>` (e.g., 3 rounds)
+
+        ### **4. Format**
+        - **Tournament Format**: `<Select Format>` (Single Elimination, Double Elimination, Round Robin)
+
+        ### **5. Custom Rules for Each Round**
+        - Round 1 Rules: `<Enter custom rules or settings for Round 1>`
+        - Round 2 Rules: `<Enter custom rules or settings for Round 2>`
+        - Round 3 Rules: `<Enter custom rules or settings for Round 3>`
+        
+        ### **6. Game Mode & Map Settings**
+        - **Game Mode**: `<Select Game Mode>` (Slayer, Capture the Flag, King of the Hill, etc.)
+        - **Map Restrictions**: `<Enter map restrictions or specify "All Maps">`
+        
+        ### **7. Team List**
+        - **Team 1**: `<Enter Team 1 Name>`
+        - **Team 2**: `<Enter Team 2 Name>`
+        - **Team 3**: `<Enter Team 3 Name>`
+        - **Team 4**: `<Enter Team 4 Name>`
+        - (Continue with as many teams as needed)
+        
+        ---
+        
+        ## **Generated Bracket System**
+        
+        Once the above details are provided, a custom tournament bracket will be created based on your selections. This can then be updated as the tournament progresses. Below is a **sample structure** based on the inputs above.
+
+        ### **Round 1:**
+        | Match | Team 1        | Team 2        | Map           | Game Mode      | Winner | Points |
+        |-------|---------------|---------------|---------------|----------------|--------|--------|
+        | 1     | Team 1        | Team 2        | Blood Gulch   | Slayer         | TBD    | TBD    |
+        | 2     | Team 3        | Team 4        | Battle Creek  | Capture the Flag | TBD    | TBD    |
+        
+        ### **Round 2:**
+        | Match | Team 1        | Team 2        | Map           | Game Mode      | Winner | Points |
+        |-------|---------------|---------------|---------------|----------------|--------|--------|
+        | 1     | Winner of Match 1 | Winner of Match 2 | Blood Gulch   | Slayer         | TBD    | TBD    |
+
+        ### **Finals:**
+        | Match | Team 1        | Team 2        | Map           | Game Mode      | Winner | Points |
+        |-------|---------------|---------------|---------------|----------------|--------|--------|
+        | 1     | Winner of Final 1 | TBD           | Blood Gulch   | Slayer         | TBD    | TBD    |
+
   - type: input
     id: tournament_name
     attributes:
@@ -32,73 +81,50 @@ body:
     validations:
       required: true
 
-  - type: dropdown
-    id: tournament_type
+  - type: input
+    id: number_of_teams
     attributes:
-      label: Tournament Type
-      description: Select the type of tournament.
-      options:
-        - 1v1
-        - 2v2
-        - Team Battle (4v4)
-        - Free-for-All
-        - Custom (specify below)
+      label: Number of Teams
+      description: How many teams will participate in the tournament?
+      placeholder: "Enter the number of teams"
     validations:
       required: true
 
   - type: input
-    id: custom_tournament_type
+    id: number_of_rounds
     attributes:
-      label: Custom Tournament Type (if applicable)
-      description: Specify the custom type if "Custom" was selected above.
-      placeholder: "Enter the custom tournament type"
-    validations:
-      required: false
-
-  - type: input
-    id: proposed_dates
-    attributes:
-      label: Proposed Dates
-      description: When do you want the tournament to happen? Include time zones.
-      placeholder: "e.g., 2025-02-10, 3 PM UTC"
+      label: Number of Rounds
+      description: How many rounds will the tournament have?
+      placeholder: "Enter the number of rounds"
     validations:
       required: true
 
   - type: dropdown
-    id: platform
+    id: format
     attributes:
-      label: Platform
-      description: Where will the tournament take place?
+      label: Tournament Format
+      description: Select the tournament format.
       options:
-        - PC
-        - CE
-        - Both
+        - Single Elimination
+        - Double Elimination
+        - Round Robin
     validations:
       required: true
 
   - type: textarea
     id: custom_rules
     attributes:
-      label: Custom Rules or Settings
-      description: Provide any custom rules or settings for the tournament (e.g., map restrictions, time limits).
-      placeholder: "Enter the rules here"
+      label: Custom Rules for Each Round
+      description: Provide any custom rules or settings for each round.
+      placeholder: "Enter rules for Round 1, 2, and 3"
     validations:
       required: false
-
-  - type: input
-    id: allowed_maps
-    attributes:
-      label: Allowed Maps
-      description: Specify which maps are allowed (or type "All Maps").
-      placeholder: "e.g., Blood Gulch, Battle Creek"
-    validations:
-      required: true
 
   - type: dropdown
     id: game_mode
     attributes:
       label: Game Mode
-      description: Select the game mode for the tournament.
+      description: Select the game mode.
       options:
         - Slayer
         - Capture the Flag
@@ -109,11 +135,20 @@ body:
       required: true
 
   - type: input
-    id: max_teams
+    id: allowed_maps
     attributes:
-      label: Maximum Teams/Players
-      description: What is the maximum number of teams or players allowed?
-      placeholder: "Enter the maximum number"
+      label: Map Settings
+      description: Specify which maps are allowed (or type "All Maps").
+      placeholder: "Enter allowed maps"
+    validations:
+      required: true
+
+  - type: textarea
+    id: team_list
+    attributes:
+      label: Team List
+      description: Provide the names of the teams participating in the tournament.
+      placeholder: "Enter team names (e.g., Team A, Team B)"
     validations:
       required: true
 
