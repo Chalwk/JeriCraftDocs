@@ -23,13 +23,12 @@ body:
         > - Organizer name
         > - Contact information
         > - Additional information
-  - type: textarea
-    id: suggestion
+  - type: input
+    id: tournament_name
     attributes:
-      label: 📝 Suggestion
-      description: Describe your suggestion.
-      placeholder: "Describe your suggestion here"
-    validations:
+      label: Tournament Name
+      description: What is the name of the tournament?
+      placeholder: "Enter the tournament name"
       required: true
 
 #  - type: dropdown
