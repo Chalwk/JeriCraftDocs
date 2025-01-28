@@ -28,8 +28,6 @@ body:
     attributes:
       label: Tournament Name
       description: What is the name of the tournament?
-      placeholder: "Enter the tournament name"
-      required: true
 
 #  - type: dropdown
 #    id: tournament_type
