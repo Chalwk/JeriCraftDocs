@@ -1,8 +1,8 @@
 name: Halo Tournament Creation
-description: Use this template to create a custom Halo: Combat Evolved tournament.
+description: Use this template to create a custom Halo tournament.
 title: "[Tournament Proposal] <Tournament Name>"
-labels: [tournament, proposal]
-assignees: []
+labels: [ tournament, proposal ]
+assignees: [ ]
 
 body:
   - type: input
