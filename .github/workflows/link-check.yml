@@ -1,10 +1,10 @@
 name: Check for Broken Links
 
 on:
-  # Trigger when commits are pushed to the main branch (or any branch you specify)
+  # Trigger when commits are pushed to the main branch
   push:
     branches:
-      - main  # You can change this to another branch if needed
+      - main
     paths:
       - '**/*.md'  # Only checks markdown files, adjust as needed
   
@@ -13,7 +13,7 @@ on:
     paths:
       - '**/*.md'  # Only checks markdown files in PRs
     branches:
-      - main  # You can change this to your target branch if needed
+      - main
 
 jobs:
   check-links:
@@ -26,5 +26,5 @@ jobs:
     - name: Run Link Checker
       uses: wagoid/commit-link-check-action@v1
       with:
-        files: '**/*.md'  # You can change this to check other file types as well
+        files: '**/*.md'
         github_token: ${{ secrets.GITHUB_TOKEN }}  # GitHub token for permissions
