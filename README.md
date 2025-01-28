@@ -84,7 +84,6 @@ You can find all form templates **[here](https://github.com/Chalwk/JeriCraftDocs
 - **[server-suggestions](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=server-suggestions.yaml)**
 - **[staff-application](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=staff-application.yaml)**
 - **[tournament](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=tournament.yaml)**
-- *[IGNORE THIS LINK](https://chalwk_test_some_broken_link.com/)*
 
 ---
 
