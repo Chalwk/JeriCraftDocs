@@ -256,37 +256,45 @@ Used for managing server settings, map rotations, kicking players, and other ser
 | yeye                                                                                                 | Play an easter egg sound effect on the server.                                                                                    | 6                |
 | zombies `[value(0-2)]`                                                                               | Enable or disable zombie medals in HAC2.                                                                                          | 6                |
 
-# Ban command examples:
+# Ban Command Examples
 
 - `/hash_ban` `1` `-y 1` `-mo 6` `-r "caught cheating"`
-    - This will ban player 1 by hash for 1 year, 6 months with the reason "caught cheating".<br><br>
+    - This will ban player 1 by hash for 1 year, 6 months with the reason "caught cheating".
 
 - `/hash_ban` `1`
-    - This will ban player 1 by hash permanently.<br><br>
+    - This will ban player 1 by hash permanently.
 
 - `/ip_ban` `1` `-h 1` `-m 30` `-r "caught cheating"`
-    - This will ban player 1 by IP for 1 hour, 30 minutes with the reason "caught cheating".<br><br>
+    - This will ban player 1 by IP for 1 hour, 30 minutes with the reason "caught cheating".
 
 - `/ip_ban` `1`
-    - This will ban player 1 by IP permanently.<br><br>
+    - This will ban player 1 by IP permanently.
 
 - `/name_ban` `1` `-r "explicit name"`
-    - This will blacklist player 1's name with the reason "explicit name".<br><br>
+    - This will blacklist player 1's name with the reason "explicit name".
 
 - `/name_ban` `penis`
-    - This will blacklist the name "penis".<br><br>
+    - This will blacklist the name "penis".
 
 - `/ip_mute` `1` `-m 10` `-r "spamming"`
-    - This will text-ban player 1 by IP for 10 minutes with reason "spamming".<br><br>
+    - This will text-ban player 1 by IP for 10 minutes with the reason "spamming".
 
 - `/hash_mute` `1` `-d 5` `-r "constant swearing"`
-    - This will text-ban player 1 by hash for 5 days with reason "spamming".
+    - This will text-ban player 1 by hash for 5 days with the reason "constant swearing".
 
-**TIP:**<br>
-The order of the flags <ins>doesn't matter</ins>, but the player id <ins>must</ins> be the first argument.<br>
+---
 
-**Pirated Hashes:**<br>
-> Shared CD Key hashes are detected automatically.<br>
-> If a player has a shared CD Key hash, the admin will be informed<br>
-> and will have to confirm the ban by typing */confirm*.<br>
+### **TIP:**
+
+The order of the flags <ins>doesn't matter</ins>, but the player ID <ins>must</ins> be the first argument.
+
+---
+
+### **Pirated Hashes:**
+
+> Shared CD Key hashes are detected automatically.  
+> If a player has a shared CD Key hash, the admin will be informed  
+> and will have to confirm the ban by typing */confirm*.  
 > Otherwise, the action will time out after 10 seconds.
+
+---
