@@ -118,7 +118,7 @@ body:
   - type: textarea
     id: hacked-client
     attributes:
-      label: 🚫 Have you ever used a hacked client before? (e.g., X-ray, fly mod)
+      label: 🚫 Have you ever used a hacked client before? (e.g., aim bot, X-ray, fly mod)
       description: "If yes, please explain. Otherwise, type 'No'."
     validations:
       required: true
