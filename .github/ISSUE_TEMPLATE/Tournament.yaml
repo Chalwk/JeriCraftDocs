@@ -1,0 +1,63 @@
+# Halo: Combat Evolved Tournament Creation Form
+
+tournament_details:
+  tournament_name:
+    description: "What is the name of the tournament?"
+    type: string
+  tournament_type:
+    description: "Select the type of tournament."
+    options:
+      - "1v1"
+      - "2v2"
+      - "Team Battle (4v4)"
+      - "Free-for-All"
+      - "Custom (specify below)"
+    type: string
+  proposed_dates:
+    description: "When do you want the tournament to happen? Include time zones if possible."
+    type: string
+  platform:
+    description: "Where will the tournament take place?"
+    options:
+      - "PC"
+      - "Xbox"
+      - "Both"
+    type: string
+
+rules:
+  custom_rules:
+    description: "Provide any custom rules or settings for the tournament (e.g., map restrictions, time limits)."
+    type: string
+  allowed_maps:
+    description: "Specify which maps are allowed (or type 'All Maps')."
+    type: string
+  game_mode:
+    description: "What game mode will the tournament use?"
+    options:
+      - "Slayer"
+      - "Capture the Flag"
+      - "King of the Hill"
+      - "Oddball"
+      - "Custom (specify below)"
+    type: string
+
+participants:
+  max_teams:
+    description: "What is the maximum number of teams or players allowed?"
+    type: integer
+  registration_deadline:
+    description: "When should player/team registrations close?"
+    type: string
+
+contact_information:
+  organizer_name:
+    description: "Who is organizing this tournament?"
+    type: string
+  contact_email:
+    description: "Provide a contact email or Discord username."
+    type: string
+
+notes:
+  additional_information:
+    description: "Any additional details or requests about the tournament?"
+    type: string
