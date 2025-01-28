@@ -76,23 +76,23 @@ body:
     validations:
       required: true
 
-#  - type: textarea
-#    id: custom_rules
-#    attributes:
-#      label: Custom Rules or Settings
-#      description: Provide any custom rules or settings for the tournament (e.g., map restrictions, time limits).
-#      placeholder: "Enter the rules here"
-#    validations:
-#      required: false
-#
-#  - type: input
-#    id: allowed_maps
-#    attributes:
-#      label: Allowed Maps
-#      description: Specify which maps are allowed (or type "All Maps").
-#      placeholder: "e.g., Blood Gulch, Battle Creek"
-#    validations:
-#      required: true
+  - type: textarea
+    id: custom_rules
+    attributes:
+      label: Custom Rules or Settings
+      description: Provide any custom rules or settings for the tournament (e.g., map restrictions, time limits).
+      placeholder: "Enter the rules here"
+    validations:
+      required: false
+
+  - type: input
+    id: allowed_maps
+    attributes:
+      label: Allowed Maps
+      description: Specify which maps are allowed (or type "All Maps").
+      placeholder: "e.g., Blood Gulch, Battle Creek"
+    validations:
+      required: true
 #
 #  - type: dropdown
 #    id: game_mode
