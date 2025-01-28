@@ -117,23 +117,23 @@ body:
     validations:
       required: true
 
-  - type: input
-    id: registration_deadline
-    attributes:
-      label: Registration Deadline
-      description: When should player/team registrations close?
-      placeholder: "e.g., 2025-02-05, 11:59 PM UTC"
-    validations:
-      required: true
-
-  - type: input
-    id: organizer_name
-    attributes:
-      label: Organizer Name
-      description: `Who is organizing this tournament?`
-      placeholder: "Enter your name"
-    validations:
-      required: true
+#  - type: input
+#    id: registration_deadline
+#    attributes:
+#      label: Registration Deadline
+#      description: When should player/team registrations close?
+#      placeholder: "e.g., 2025-02-05, 11:59 PM UTC"
+#    validations:
+#      required: true
+#
+#  - type: input
+#    id: organizer_name
+#    attributes:
+#      label: Organizer Name
+#      description: `Who is organizing this tournament?`
+#      placeholder: "Enter your name"
+#    validations:
+#      required: true
 #
 #  - type: input
 #    id: contact_email
