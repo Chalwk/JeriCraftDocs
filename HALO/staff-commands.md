@@ -72,189 +72,189 @@ administrative tasks.
 
 Used for managing server settings, map rotations, kicking players, and other server-related tasks.
 
-| Command               | Description              | Permission Level |
-|-----------------------|--------------------------|------------------|
-| clead                 | Command description here | 1                |
-| info                  | Command description here | 1                |
-| lead                  | Command description here | 1                |
-| stats                 | Command description here | 1                |
-| stfu                  | Command description here | 1                |
-| sv_stats              | Command description here | 1                |
-| unstfu                | Command description here | 1                |
-| whatsnext             | Command description here | 1                |
-| kdr                   | Command description here | 2                |
-| mapcycle              | Command description here | 2                |
-| pl                    | Command description here | 2                |
-| say                   | Command description here | 2                |
-| afk                   | Command description here | 3                |
-| afks                  | Command description here | 3                |
-| aimbot_scores         | Command description here | 3                |
-| k `<player id>`       | Kick player              | 3                |
-| skips                 | Command description here | 3                |
-| balance_teams         | Command description here | 4                |
-| inf                   | Command description here | 4                |
-| ip                    | Command description here | 4                |
-| st                    | Command description here | 4                |
-| tell                  | Command description here | 4                |
-| uptime                | Command description here | 4                |
-| map                   | Command description here | 5                |
-| maplist               | Command description here | 5                |
-| about                 | Command description here | 6                |
-| admin_prefix          | Command description here | 6                |
-| afk_kick              | Command description here | 6                |
-| aimbot_ban            | Command description here | 6                |
-| ammo                  | Command description here | 6                |
-| anticamp              | Command description here | 6                |
-| anticaps              | Command description here | 6                |
-| anticheat             | Command description here | 6                |
-| antiglitch            | Command description here | 6                |
-| antihalofp            | Command description here | 6                |
-| antilagspawn          | Command description here | 6                |
-| antispam              | Command description here | 6                |
-| antiwar               | Command description here | 6                |
-| area_add_cuboid       | Command description here | 6                |
-| area_add_sphere       | Command description here | 6                |
-| area_del              | Command description here | 6                |
-| area_list             | Command description here | 6                |
-| area_listall          | Command description here | 6                |
-| assists               | Command description here | 6                |
-| auto_update           | Command description here | 6                |
-| ayy lmao              | Command description here | 6                |
-| battery               | Command description here | 6                |
-| beep                  | Command description here | 6                |
-| block_all_objects     | Command description here | 6                |
-| block_all_vehicles    | Command description here | 6                |
-| block_object          | Command description here | 6                |
-| block_tc              | Command description here | 6                |
-| boost                 | Command description here | 6                |
-| camo                  | Command description here | 6                |
-| cevent                | Command description here | 6                |
-| chat_console_echo     | Command description here | 6                |
-| cmd_add               | Command description here | 6                |
-| cmd_del               | Command description here | 6                |
-| cmdstart1             | Command description here | 6                |
-| cmdstart2             | Command description here | 6                |
-| color                 | Command description here | 6                |
-| console_input         | Command description here | 6                |
-| coord                 | Command description here | 6                |
-| cpu                   | Command description here | 6                |
-| custom_sleep          | Command description here | 6                |
-| d                     | Command description here | 6                |
-| deaths                | Command description here | 6                |
-| debug_strings         | Command description here | 6                |
-| disable_all_objects   | Command description here | 6                |
-| disable_all_vehicles  | Command description here | 6                |
-| disable_backtap       | Command description here | 6                |
-| disable_object        | Command description here | 6                |
-| disable_timer_offsets | Command description here | 6                |
-| disabled_objects      | Command description here | 6                |
-| dns                   | Command description here | 6                |
-| enable_object         | Command description here | 6                |
-| eventdel              | Command description here | 6                |
-| events                | Command description here | 6                |
-| files                 | Command description here | 6                |
-| gamespeed             | Command description here | 6                |
-| god                   | Command description here | 6                |
-| gravity               | Command description here | 6                |
-| hill_timer            | Command description here | 6                |
-| hp                    | Command description here | 6                |
-| kill                  | Command description here | 6                |
-| kills                 | Command description here | 6                |
-| lag                   | Command description here | 6                |
-| loc_add               | Command description here | 6                |
-| loc_del               | Command description here | 6                |
-| loc_list              | Command description here | 6                |
-| loc_listall           | Command description here | 6                |
-| log                   | Command description here | 6                |
-| log_name              | Command description here | 6                |
-| log_note              | Command description here | 6                |
-| log_rotation          | Command description here | 6                |
-| lua                   | Command description here | 6                |
-| lua_api_v             | Command description here | 6                |
-| lua_call              | Command description here | 6                |
-| lua_list              | Command description here | 6                |
-| lua_load              | Command description here | 6                |
-| lua_unload            | Command description here | 6                |
-| m                     | Command description here | 6                |
-| mag                   | Command description here | 6                |
-| map_download          | Command description here | 6                |
-| map_load              | Command description here | 6                |
-| map_next              | Command description here | 6                |
-| map_prev              | Command description here | 6                |
-| map_query             | Command description here | 6                |
-| map_skip              | Command description here | 6                |
-| map_spec              | Command description here | 6                |
-| mapcycle_add          | Command description here | 6                |
-| mapcycle_begin        | Command description here | 6                |
-| mapcycle_del          | Command description here | 6                |
-| mapvote               | Command description here | 6                |
-| mapvote_add           | Command description here | 6                |
-| mapvote_begin         | Command description here | 6                |
-| mapvote_del           | Command description here | 6                |
-| mapvotes              | Command description here | 6                |
-| max_idle              | Command description here | 6                |
-| max_votes             | Command description here | 6                |
-| motd                  | Command description here | 6                |
-| msg_prefix            | Command description here | 6                |
-| mtv                   | Command description here | 6                |
-| nades                 | Command description here | 6                |
-| network_thread        | Command description here | 6                |
-| no_lead               | Command description here | 6                |
-| object_sync_cleanup   | Command description here | 6                |
-| packet_limit          | Command description here | 6                |
-| ping_kick             | Command description here | 6                |
-| query_add             | Command description here | 6                |
-| query_del             | Command description here | 6                |
-| query_list            | Command description here | 6                |
-| reload                | Command description here | 6                |
-| reload_gametypes      | Command description here | 6                |
-| remote_console        | Command description here | 6                |
-| remote_console_list   | Command description here | 6                |
-| remote_console_port   | Command description here | 6                |
-| report                | Command description here | 6                |
-| rprint                | Command description here | 6                |
-| s                     | Command description here | 6                |
-| sapp_console          | Command description here | 6                |
-| sapp_mapcycle         | Command description here | 6                |
-| sapp_rcon             | Command description here | 6                |
-| save_respawn_time     | Command description here | 6                |
-| save_scores           | Command description here | 6                |
-| say_prefix            | Command description here | 6                |
-| score                 | Command description here | 6                |
-| scorelimit            | Command description here | 6                |
-| scrim_mode            | Command description here | 6                |
-| set_ccolor            | Command description here | 6                |
-| setcmd                | Command description here | 6                |
-| sh                    | Command description here | 6                |
-| sj_level              | Command description here | 6                |
-| spawn                 | Command description here | 6                |
-| spawn_protection      | Command description here | 6                |
-| t                     | Command description here | 6                |
-| team_score            | Command description here | 6                |
-| teamup                | Command description here | 6                |
-| text                  | Command description here | 6                |
-| timelimit             | Command description here | 6                |
-| tp                    | Command description here | 6                |
-| unblock_object        | Command description here | 6                |
-| ungod                 | Command description here | 6                |
-| unlag                 | Command description here | 6                |
-| unlock_console_log    | Command description here | 6                |
-| usage                 | Command description here | 6                |
-| v                     | Command description here | 6                |
-| var_add               | Command description here | 6                |
-| var_conv              | Command description here | 6                |
-| var_del               | Command description here | 6                |
-| var_list              | Command description here | 6                |
-| var_set               | Command description here | 6                |
-| vdel                  | Command description here | 6                |
-| vdel_all              | Command description here | 6                |
-| venter                | Command description here | 6                |
-| vexit                 | Command description here | 6                |
-| wadd                  | Command description here | 6                |
-| wdel                  | Command description here | 6                |
-| wdrop                 | Command description here | 6                |
-| yeye                  | Command description here | 6                |
-| zombies               | Command description here | 6                |
+| Command                       | Description                                                                                                                       | Permission Level |
+|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|------------------|
+| clead `[ping]`                | Adjust player ping lead for no-lead mode.                                                                                         | 1                |
+| info                          | Display server name, player count, current map, and scrim mode status.                                                            | 1                |
+| lead `[enabled]`              | Enable or disable player lead compensation in no-lead mode.                                                                       | 1                |
+| stats                         | Display player's kills, deaths, and kill/death ratio.                                                                             | 1                |
+| stfu                          | Mute messages from a specific player or block server-wide rcon messages.                                                          | 1                |
+| sv_stats                      | Display server statistics such as query count, command count, games played, flags captured, kills, betrayals, suicides, and more. | 1                |
+| unstfu                        | Unmute messages for a player or server-wide communication.                                                                        | 1                |
+| whatsnext                     | Show the next game in the map cycle.                                                                                              | 1                |
+| kdr                           | Show the kill/death ratio of a specified player.                                                                                  | 2                |
+| mapcycle                      | Display the current map cycle list.                                                                                               | 2                |
+| pl                            | List all players and their respective details (e.g., team, score, and index).                                                     | 2                |
+| say `<message>`               | Send a message to all players as the server.                                                                                      | 2                |
+| afk `<player id>`             | Mark the executing player as AFK, disabling their respawns.                                                                       | 3                |
+| afks                          | List all players marked as AFK.                                                                                                   | 3                |
+| aimbot_scores                 | Display aimbot detection scores for all players.                                                                                  | 3                |
+| k `<player id>`               | Kick a player from the server.                                                                                                    | 3                |
+| skips                         | Show a list of players who voted to skip the current map or game.                                                                 | 3                |
+| balance_teams                 | Balance teams based on player statistics.                                                                                         | 4                |
+| inf `<player id>`             | Show detailed player information, including CD-key hash, IP address, and index.                                                   | 4                |
+| ip `<player id>`              | Display the IP address of a specified player.                                                                                     | 4                |
+| st `<player id>` `[red/blue]` | Change the team of the player.                                                                                                    | 4                |
+| tell `<player id> `<message>` | Send a private message to a specific player.                                                                                      | 4                |
+| uptime                        | Display the server's and operating system's uptime.                                                                               | 4                |
+| map                           | Load a specified map with an optional game variant.                                                                               | 5                |
+| maplist                       | Show all maps available on the server.                                                                                            | 5                |
+| about                         | Display the current version of SAPP running on the server.                                                                        | 6                |
+| admin_prefix                  | Set or get the prefix for administrator messages.                                                                                 | 6                |
+| afk_kick                      | Automatically kick players marked as AFK for a specified amount of time.                                                          | 6                |
+| aimbot_ban                    | Automatically ban or kick players detected as using an aimbot.                                                                    | 6                |
+| ammo                          | Modify a player's ammo count.                                                                                                     | 6                |
+| anticamp                      | Automatically trigger events if a player kills while camping in a specific area.                                                  | 6                |
+| anticaps                      | Prevent players from using excessive capital letters in chat.                                                                     | 6                |
+| anticheat                     | Enable or disable SAPP's anticheat functionality.                                                                                 | 6                |
+| antiglitch                    | Kill players who leave the map's boundaries to exploit glitches.                                                                  | 6                |
+| antihalofp                    | Temporarily ban players who attempt to join the server too frequently in a short period.                                          | 6                |
+| antilagspawn                  | Prevent players from exploiting lag to spawn improperly.                                                                          | 6                |
+| antispam                      | Mute players who send too many chat messages in a short time.                                                                     | 6                |
+| antiwar                       | Detect and respond to players warping on the server.                                                                              | 6                |
+| area_add_cuboid               | Add a cuboid-shaped custom area for events or restrictions.                                                                       | 6                |
+| area_add_sphere               | Add a sphere-shaped custom area for events or restrictions.                                                                       | 6                |
+| area_del                      | Remove a previously defined custom area.                                                                                          | 6                |
+| area_list                     | Display all currently defined custom areas.                                                                                       | 6                |
+| area_listall                  | List all defined areas, including their details and types.                                                                        | 6                |
+| assists                       | Show the number of assists for a player.                                                                                          | 6                |
+| auto_update                   | Enable or disable automatic updates for SAPP.                                                                                     | 6                |
+| ayy lmao                      | Easter egg command (specific to SAPP builds).                                                                                     | 6                |
+| battery                       | Display the server machine's battery status, if applicable.                                                                       | 6                |
+| beep                          | Play a beep sound on the server host.                                                                                             | 6                |
+| block_all_objects             | Block all objects from being spawned on the server.                                                                               | 6                |
+| block_all_vehicles            | Block all vehicles from being spawned or used.                                                                                    | 6                |
+| block_object                  | Block a specific object from being spawned.                                                                                       | 6                |
+| block_tc                      | Prevent team changing during a match.                                                                                             | 6                |
+| boost                         | Apply a speed boost to a player.                                                                                                  | 6                |
+| camo                          | Grant active camouflage to a player.                                                                                              | 6                |
+| cevent                        | Trigger a custom event manually.                                                                                                  | 6                |
+| chat_console_echo             | Toggle whether in-game chat is displayed in the server console.                                                                   | 6                |
+| cmd_add                       | Add a new custom command to the server.                                                                                           | 6                |
+| cmd_del                       | Delete an existing custom command.                                                                                                | 6                |
+| cmdstart1                     | Set the first prefix character for chat commands.                                                                                 | 6                |
+| cmdstart2                     | Set the second prefix character for chat commands.                                                                                | 6                |
+| color                         | Change the console color scheme.                                                                                                  | 6                |
+| console_input                 | Enable or disable direct input into the server console.                                                                           | 6                |
+| coord                         | Display the coordinates of a player.                                                                                              | 6                |
+| cpu                           | Display the server's CPU usage and related stats.                                                                                 | 6                |
+| custom_sleep                  | Adjust the amount of time the server thread sleeps per cycle.                                                                     | 6                |
+| d                             | Display detailed player information (e.g., coordinates, health, shield, weapon, vehicle).                                         | 6                |
+| deaths                        | Show the number of deaths for a player.                                                                                           | 6                |
+| debug_strings                 | Debug custom strings in the server console.                                                                                       | 6                |
+| disable_all_objects           | Disable all objects currently active on the server.                                                                               | 6                |
+| disable_all_vehicles          | Disable all vehicles currently active on the server.                                                                              | 6                |
+| disable_backtap               | Disable the backtap mechanic for melee attacks.                                                                                   | 6                |
+| disable_object                | Disable a specific object on the server.                                                                                          | 6                |
+| disable_timer_offsets         | Spawn items using fixed timers rather than arbitrary counters.                                                                    | 6                |
+| disabled_objects              | List all currently disabled objects.                                                                                              | 6                |
+| dns                           | Set the master server DNS address.                                                                                                | 6                |
+| enable_object                 | Re-enable a previously disabled object.                                                                                           | 6                |
+| eventdel                      | Delete an existing custom event.                                                                                                  | 6                |
+| events                        | List all custom events currently defined.                                                                                         | 6                |
+| files                         | List all SAPP configuration files.                                                                                                | 6                |
+| gamespeed                     | Adjust the game speed on the server.                                                                                              | 6                |
+| god                           | Grant invulnerability to a player.                                                                                                | 6                |
+| gravity                       | Adjust gravity on the server.                                                                                                     | 6                |
+| hill_timer                    | Set the time interval for hill changes in "Crazy King" game type.                                                                 | 6                |
+| hp                            | Adjust or display a player's health points.                                                                                       | 6                |
+| kill                          | Kill a specific player on the server.                                                                                             | 6                |
+| kills                         | Show the number of kills for a player.                                                                                            | 6                |
+| lag                           | Simulate lag for a specific player.                                                                                               | 6                |
+| loc_add                       | Add a custom location marker on the map.                                                                                          | 6                |
+| loc_del                       | Remove a previously defined location marker.                                                                                      | 6                |
+| loc_list                      | List all defined location markers.                                                                                                | 6                |
+| loc_listall                   | List all defined locations with their details.                                                                                    | 6                |
+| log                           | Toggle logging of server events.                                                                                                  | 6                |
+| log_name                      | Set the name of the log file.                                                                                                     | 6                |
+| log_note                      | Add a note to the server log.                                                                                                     | 6                |
+| log_rotation                  | Set the maximum size of the log file before rotation.                                                                             | 6                |
+| lua                           | Enable or disable Lua scripting for the server.                                                                                   | 6                |
+| lua_api_v                     | Display the current version of the Lua API used by SAPP.                                                                          | 6                |
+| lua_call                      | Manually call a Lua script function.                                                                                              | 6                |
+| lua_list                      | List all loaded Lua scripts.                                                                                                      | 6                |
+| lua_load                      | Load a Lua script file.                                                                                                           | 6                |
+| lua_unload                    | Unload a Lua script file.                                                                                                         | 6                |
+| m                             | Display the current map and game mode.                                                                                            | 6                |
+| mag                           | Adjust player weapon magazine count.                                                                                              | 6                |
+| map_download                  | Enable or disable map downloading for players.                                                                                    | 6                |
+| map_load                      | Load a specific map without a game variant.                                                                                       | 6                |
+| map_next                      | Skip to the next map in the map cycle.                                                                                            | 6                |
+| map_prev                      | Return to the previous map in the map cycle.                                                                                      | 6                |
+| map_query                     | Query the current map details.                                                                                                    | 6                |
+| map_skip                      | Skip the current map in the map cycle based on player votes.                                                                      | 6                |
+| map_spec                      | Skip directly to a specific map in the map cycle.                                                                                 | 6                |
+| mapcycle_add                  | Add a new map to the map cycle with optional player limits.                                                                       | 6                |
+| mapcycle_begin                | Start the map cycle from the beginning.                                                                                           | 6                |
+| mapcycle_del                  | Remove a map from the map cycle.                                                                                                  | 6                |
+| mapvote                       | Enable or disable map voting.                                                                                                     | 6                |
+| mapvote_add                   | Add a new map to the map voting options.                                                                                          | 6                |
+| mapvote_begin                 | Start the map voting process.                                                                                                     | 6                |
+| mapvote_del                   | Remove a map from the voting options.                                                                                             | 6                |
+| mapvotes                      | List all current map voting options.                                                                                              | 6                |
+| max_idle                      | Set the maximum idle time before the map cycle restarts.                                                                          | 6                |
+| max_votes                     | Set the maximum number of map votes displayed per round.                                                                          | 6                |
+| motd                          | Set the message of the day for the server.                                                                                        | 6                |
+| msg_prefix                    | Set the prefix for server messages.                                                                                               | 6                |
+| mtv                           | Enable or disable multi-team vehicle sharing.                                                                                     | 6                |
+| nades                         | Adjust player grenade count.                                                                                                      | 6                |
+| network_thread                | Enable or disable the network thread.                                                                                             | 6                |
+| no_lead                       | Enable or disable no-lead aiming compensation.                                                                                    | 6                |
+| object_sync_cleanup           | Clean up unused objects in the server's memory.                                                                                   | 6                |
+| packet_limit                  | Set the maximum allowed packets per second from an IP address.                                                                    | 6                |
+| ping_kick                     | Kick players with pings exceeding a specified threshold.                                                                          | 6                |
+| query_add                     | Add a custom entry to the server's query packet.                                                                                  | 6                |
+| query_del                     | Remove an entry from the server's query packet.                                                                                   | 6                |
+| query_list                    | List all custom entries in the query packet.                                                                                      | 6                |
+| reload                        | Reload server configuration and scripts.                                                                                          | 6                |
+| reload_gametypes              | Reload all game variants in the savegames folder.                                                                                 | 6                |
+| remote_console                | Enable or disable the remote console feature.                                                                                     | 6                |
+| remote_console_list           | List all connected remote console clients.                                                                                        | 6                |
+| remote_console_port           | Set the port for the remote console.                                                                                              | 6                |
+| report                        | Submit a player report with an optional message.                                                                                  | 6                |
+| rprint                        | Print a message to the remote console.                                                                                            | 6                |
+| s                             | Display the server's status, including map and player details.                                                                    | 6                |
+| sapp_console                  | Enable or disable detailed console logs for the server.                                                                           | 6                |
+| sapp_mapcycle                 | Enable or disable the SAPP map cycle.                                                                                             | 6                |
+| sapp_rcon                     | Restrict rcon access to admins.                                                                                                   | 6                |
+| save_respawn_time             | Save player respawn times for consistency.                                                                                        | 6                |
+| save_scores                   | Save player scores when they disconnect.                                                                                          | 6                |
+| say_prefix                    | Enable or disable the **SERVER** prefix for server messages.                                                                      | 6                |
+| score                         | Display the current score for all players.                                                                                        | 6                |
+| scorelimit                    | Adjust the score limit for the current game.                                                                                      | 6                |
+| scrim_mode                    | Enable or disable scrim mode, restricting naughty commands and Lua scripts.                                                       | 6                |
+| set_ccolor                    | Set the console text color.                                                                                                       | 6                |
+| setcmd                        | Modify the name or permission level of an existing command.                                                                       | 6                |
+| sh                            | Display or adjust a player's shield value.                                                                                        | 6                |
+| sj_level                      | Set the minimum admin level required to use HAC2's sightjacker feature.                                                           | 6                |
+| spawn                         | Spawn a player at a specific location.                                                                                            | 6                |
+| spawn_protection              | Set the duration of spawn protection for players.                                                                                 | 6                |
+| t                             | Send a team-only chat message.                                                                                                    | 6                |
+| team_score                    | Display the total score for each team.                                                                                            | 6                |
+| teamup                        | Group players into teams based on clan or party affiliation.                                                                      | 6                |
+| text                          | Send a text message to a player.                                                                                                  | 6                |
+| timelimit                     | Adjust the time limit for the current game.                                                                                       | 6                |
+| tp                            | Teleport a player to a specific location.                                                                                         | 6                |
+| unblock_object                | Re-enable a previously blocked object.                                                                                            | 6                |
+| ungod                         | Remove invulnerability from a player.                                                                                             | 6                |
+| unlag                         | Disable lag simulation for a player.                                                                                              | 6                |
+| unlock_console_log            | Enable more detailed console logs for troubleshooting.                                                                            | 6                |
+| usage                         | Display usage details for a specific command.                                                                                     | 6                |
+| v                             | View or modify the server's version string.                                                                                       | 6                |
+| var_add                       | Add a custom variable for scripts or events.                                                                                      | 6                |
+| var_conv                      | Convert an integer variable to a float or vice versa.                                                                             | 6                |
+| var_del                       | Delete a custom variable.                                                                                                         | 6                |
+| var_list                      | List all custom variables.                                                                                                        | 6                |
+| var_set                       | Set the value of a custom variable.                                                                                               | 6                |
+| vdel                          | Delete a vehicle from the game.                                                                                                   | 6                |
+| vdel_all                      | Delete all vehicles currently active in the game.                                                                                 | 6                |
+| venter                        | Trigger an event for a player entering a vehicle.                                                                                 | 6                |
+| vexit                         | Trigger an event for a player exiting a vehicle.                                                                                  | 6                |
+| wadd                          | Add a weapon to a player's inventory.                                                                                             | 6                |
+| wdel                          | Delete a weapon from a player's inventory.                                                                                        | 6                |
+| wdrop                         | Drop a weapon from a player's inventory.                                                                                          | 6                |
+| yeye                          | Play an easter egg sound effect on the server.                                                                                    | 6                |
+| zombies                       | Enable or disable zombie medals in HAC2.                                                                                          | 6                |
 
 # Ban command examples:
 
