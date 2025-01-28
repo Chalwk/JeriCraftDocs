@@ -333,11 +333,9 @@ Term 2:
 Result:
 
 Term 1:
-
 : Definition for Term 1
 
 Term 2:
-
 : Definition for Term 2
 
 **Admonitions (Custom Callouts)**
@@ -346,18 +344,25 @@ Use `!!!` to create custom callout blocks (used in some Markdown parsers like Mk
 
 ```markdown
 !!! note
-    This is a note.
+    This is a note with a default color.
 
 !!! warning
-    This is a warning.
+    This is a warning in orange or red.
+
+!!! success
+    This is a success message in green.
+
 ```
 
 Result:
 
 !!! note
-    This is a note.
+    This is a note with a default color.
 
 !!! warning
-    This is a warning.
+    This is a warning in orange or red.
+
+!!! success
+    This is a success message in green.
 
 ---
