@@ -54,6 +54,38 @@ body:
     validations:
       required: true
 
+  - type: input
+    id: custom_tournament_type
+    attributes:
+      label: Custom Tournament Type
+      description: Specify the custom tournament type (e.g., 3v3, 5v5, etc.).
+      placeholder: "Only required if 'Custom' was selected"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: game_mode
+    attributes:
+      label: Game Mode
+      description: Select the game mode for the tournament.
+      options:
+        - Slayer
+        - Capture the Flag
+        - King of the Hill
+        - Oddball
+        - Custom (specify below)
+    validations:
+      required: true
+
+  - type: input
+    id: custom_game_mode
+    attributes:
+      label: Custom Game Mode
+      description: Specify the custom game mode (e.g., Custom Snipers, Pistols Only, etc.).
+      placeholder: "Only required if 'Custom' above was selected"
+    validations:
+      required: false
+
   - type: dropdown
     id: format
     attributes:
@@ -63,9 +95,18 @@ body:
         - Single Elimination
         - Double Elimination
         - Round Robin
-        - Other
+        - Other (specify below)
     validations:
       required: true
+
+  - type: input
+    id: custom_format
+    attributes:
+      label: Custom Format
+      description: Specify the custom tournament format (e.g., Swiss, Ladder, Seeding, Pool Play, Best of X, etc.).
+      placeholder: "Only required if 'Other' was selected"
+    validations:
+      required: false
 
   - type: input
     id: number_of_teams
@@ -133,20 +174,6 @@ body:
     validations:
       required: true
 
-  - type: dropdown
-    id: game_mode
-    attributes:
-      label: Game Mode
-      description: Select the game mode for the tournament.
-      options:
-        - Slayer
-        - Capture the Flag
-        - King of the Hill
-        - Oddball
-        - Custom (specify below)
-    validations:
-      required: true
-
   - type: input
     id: registration_deadline
     attributes:
@@ -202,7 +229,7 @@ body:
       required: true
 
   - type: textarea
-    id: tiebreaking_rules
+    id: tie_breaking_rules
     attributes:
       label: Tie-breaking Rules
       description: How will ties be resolved in the tournament?
@@ -215,15 +242,6 @@ body:
     attributes:
       label: Prize Information
       description: What prizes or rewards are available for winners?
-      placeholder: "e.g., gift cards, in-game items, trophies"
+      placeholder: "e.g., gift cards, bragging rights, money, etc."
     validations:
       required: false
-
-  - type: input
-    id: max_players_per_team
-    attributes:
-      label: Maximum Players per Team
-      description: How many players can be in a single team (for team-based formats)?
-      placeholder: "e.g., 2 players for 2v2 format"
-    validations:
-      required: true
