@@ -29,6 +29,7 @@ body:
       label: Tournament Name
       description: What is the name of the tournament?
       placeholder: "Enter the tournament name"
+    validations:
       required: true
 
 #  - type: dropdown
