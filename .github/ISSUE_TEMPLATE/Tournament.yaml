@@ -93,29 +93,29 @@ body:
       placeholder: "e.g., Blood Gulch, Battle Creek"
     validations:
       required: true
-#
-#  - type: dropdown
-#    id: game_mode
-#    attributes:
-#      label: Game Mode
-#      description: Select the game mode for the tournament.
-#      options:
-#        - Slayer
-#        - Capture the Flag
-#        - King of the Hill
-#        - Oddball
-#        - Custom (specify below)
-#    validations:
-#      required: true
-#
-#  - type: input
-#    id: max_teams
-#    attributes:
-#      label: Maximum Teams/Players
-#      description: What is the maximum number of teams or players allowed?
-#      placeholder: "Enter the maximum number"
-#    validations:
-#      required: true
+
+  - type: dropdown
+    id: game_mode
+    attributes:
+      label: Game Mode
+      description: Select the game mode for the tournament.
+      options:
+        - Slayer
+        - Capture the Flag
+        - King of the Hill
+        - Oddball
+        - Custom (specify below)
+    validations:
+      required: true
+
+  - type: input
+    id: max_teams
+    attributes:
+      label: Maximum Teams/Players
+      description: What is the maximum number of teams or players allowed?
+      placeholder: "Enter the maximum number"
+    validations:
+      required: true
 #
 #  - type: input
 #    id: registration_deadline
