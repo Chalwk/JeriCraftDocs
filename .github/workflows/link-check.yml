@@ -1,14 +1,12 @@
 name: Check for Broken Links
 
 on:
-  # Trigger when commits are pushed to the main branch
   push:
     branches:
       - main
     paths:
-      - '**/*.md'  # Only checks markdown files, adjust as needed
-  
-  # Trigger on pull request updates
+      - '**/*.md'  # Only checks markdown files
+
   pull_request:
     paths:
       - '**/*.md'  # Only checks markdown files in PRs
@@ -20,11 +18,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-    - name: Run Link Checker
-      uses: wagoid/commit-link-check-action@v1
-      with:
-        files: '**/*.md'
-        github_token: ${{ secrets.GITHUB_TOKEN }}  # GitHub token for permissions
+      - name: Run Link Checker
+        uses: lydell/link-check-action@v1
+        with:
+          files: '**/*.md'
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # GitHub token for permissions
