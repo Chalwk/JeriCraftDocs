@@ -24,7 +24,11 @@ body:
         - 🎮 Must have a Discord account for communication purposes.
         - 🎤 Must have a working microphone.
         - 📝 Must read and agree to our [community rules](https://github.com/Chalwk/JeriCraftDocs/blob/main/policies/Community-Rules.md).
-        - 📚 Familiarize yourself with our [staff commands](https://github.com/Chalwk/JeriCraftDocs/blob/main/MINECRAFT/commands/STAFF-COMMANDS.md) and [plugins](https://github.com/Chalwk/JeriCraftDocs/tree/main/MINECRAFT/features)
+        - 📚 Familiarize yourself with our 
+          - [minecraft staff commands](https://github.com/Chalwk/JeriCraftDocs/blob/main/MINECRAFT/commands/STAFF-COMMANDS.md)
+          - [halo staff commands](https://github.com/Chalwk/JeriCraftDocs/blob/main/HALO/staff-commands.md)
+          - [minecraft server features](https://github.com/Chalwk/JeriCraftDocs/tree/main/MINECRAFT/features)
+          - [halo server features](https://github.com/Chalwk/JeriCraftDocs/blob/main/HALO/ABOUT.md)
         - ❗ You must have a legitimate (not pirated/cracked) copy of the game you're applying for.
         - ⚠️Do not make an application if you don't meet these requirements. You will be denied.⚠️️
         
@@ -142,8 +146,6 @@ body:
       value: |
         # 🚨 Scenario Questions (test your knowledge):
         > This is a test to see if you understand the rules and how to handle situations as a staff member.
-        > Familiarize yourself with our [minecraft staff commands](https://github.com/Chalwk/JeriCraftDocs/blob/main/MINECRAFT/commands/STAFF-COMMANDS.md) before answering these questions.
-        > ❗ HALO STAFF COMMANDS COMING SOON
         ---
   - type: textarea
     id: scenario_1
