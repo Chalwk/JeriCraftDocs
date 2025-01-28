@@ -1,28 +1,31 @@
-name: Check for Broken Links
+name: Broken Link Check
 
 on:
   push:
     branches:
       - main
     paths:
-      - '**/*.md'  # Only checks markdown files
-
+      - '**/*.md'  # Adjusted to only check markdown files
   pull_request:
-    paths:
-      - '**/*.md'  # Only checks markdown files in PRs
     branches:
       - main
+    paths:
+      - '**/*.md'  # Only check markdown files in PRs
 
 jobs:
-  check-links:
-    runs-on: ubuntu-24.04
+  check:
+    name: Broken Link Check
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Run Link Checker
-        uses: lydell/link-check-action@v1
+      - name: Run Broken Link Checker
+        uses: technote-space/broken-link-checker-action@v2
         with:
-          files: '**/*.md'
-          github_token: ${{ secrets.GITHUB_TOKEN }}  # GitHub token for permissions
+          TARGET: 'https://github.com/${{ github.repository }}'
+          RECURSIVE: true  # Set to true to check links on multiple pages
+          TITLE: 'Broken link found (${URL})'  # Custom title for issues
+          BODY: 'This link is broken and needs fixing: ${URL}'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
