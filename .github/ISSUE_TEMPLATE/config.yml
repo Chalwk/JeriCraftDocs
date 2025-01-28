@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Community Guidelines
+    url: https://github.com/JeriCraftDocs/guidelines
+    about: Please read the community guidelines before submitting an issue.
+  - name: Frequently Asked Questions
+    url: https://github.com/JeriCraftDocs/faq
+    about: Check here for answers to common questions.
+  - name: Discord Support
+    url: https://discord.gg/your-discord-link
+    about: Join our Discord for live help and discussions.
