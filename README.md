@@ -66,22 +66,33 @@
 ---
 
 ### 📜 Community Rules
-👉 [JeriCraft Community Rules](policies/Community-Rules.md)
+Before you begin, please review the **[JeriCraft Community Rules](policies/Community-Rules.md)** to ensure you're familiar with the guidelines and expectations for all members of the community.
 
 ---
 
 ### 📝 Form Templates
-We've provided templates for various forms, such as ban appeals, bug reports, and server suggestions, to help streamline the process of submitting feedback or requests. You can find these templates [here](https://github.com/Chalwk/JeriCraftDocs/issues/new/choose).
+We've provided templates for various forms to help streamline the process of submitting feedback or requests,
+
+You can find all form templates **[here](https://github.com/Chalwk/JeriCraftDocs/issues/new/choose)**.
+
+**List of available templates:**
+- **[ban-appeal](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=ban-appeal.yaml)**
+- **[bug-report](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=bug-report.yaml)**
+- **[builder-application](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=builder-application.yaml)**
+- **[complaints](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=complaints.yaml)**
+- **[player-report](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=player-report.yaml)**
+- **[server-suggestions](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=server-suggestions.yaml)**
+- **[staff-application](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=staff-application.yaml)**
 
 ---
 
 ### 🤝 Contributing
-We welcome contributions from the JeriCraft community! If you find errors or have suggestions for improving the documentation, please refer to our [Contributing Guidelines](CONTRIBUTING.md).
+We welcome contributions from the JeriCraft community! If you find errors or have suggestions for improving the documentation, please refer to our **[Contributing Guidelines](CONTRIBUTING.md)**.
 
 ---
 
 ### 📄 License
-View the [License](LICENCE.md) for the JeriCraft documentation repository.
+View the **[License](LICENCE.md)** for the JeriCraft documentation repository.
 
 ---
 
