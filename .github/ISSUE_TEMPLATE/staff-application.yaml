@@ -51,11 +51,19 @@ body:
       options:
         - label: Yes 👍
         - label: No ❌
-  - type: input
-    id: minecraft-discord-username
+  - type: checkboxes
+    id: game-selection
     attributes:
-      label: 🎮 Minecraft/Discord Username
-      description: Please provide your Minecraft and Discord usernames.
+      label: Which game are you applying for? (Select all that apply)
+      description: Please select the game(s) you are interested in moderating.
+      options:
+        - label: Halo
+        - label: Minecraft
+  - type: input
+    id: usernames
+    attributes:
+      label: 🎮 Minecraft, Halo, and Discord Usernames
+      description: Please provide your Minecraft, Halo and usernames.
     validations:
       required: true
   - type: textarea
