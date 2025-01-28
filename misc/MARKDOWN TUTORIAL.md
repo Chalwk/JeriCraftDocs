@@ -315,3 +315,47 @@ Wrap text with ~~ to strike through.
 ```
 
 Result: ~~Strikethrough~~
+
+### Even more advanced features
+
+**Definition Lists**
+
+Create terms and definitions using a colon and indentation.
+
+```markdown
+Term 1:
+: Definition for Term 1
+
+Term 2:
+: Definition for Term 2
+```
+
+Result:
+
+Term 1:
+: Definition for Term 1
+
+Term 2:
+: Definition for Term 2
+
+**Admonitions (Custom Callouts)**
+
+Use `!!!` to create custom callout blocks (used in some Markdown parsers like MkDocs).
+
+```markdown
+!!! note
+    This is a note.
+
+!!! warning
+    This is a warning.
+```
+
+Result:
+
+!!! note
+    This is a note.
+
+!!! warning
+    This is a warning.
+
+---
