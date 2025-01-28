@@ -2,7 +2,7 @@ name: Builder Application
 description: Apply to become a builder on the JeriCraft Minecraft server.
 title: "Builder Application for: <name>"
 labels:
-  - builder-application
+  - application-form
   - awaiting-review
 assignees: Chalwk
 body:
