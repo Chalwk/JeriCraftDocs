@@ -1,11 +1,10 @@
 name: Halo Tournament Creation
 description: Use this template to create a custom tournament.
-title: '[Tournament Proposal] <Tournament Name>'
+title: "[Tournament Proposal] <Tournament Name>"
 labels:
   - Tournament
   - Proposal
 assignees: Chalwk
-
 body:
   - type: input
     id: tournament_name
