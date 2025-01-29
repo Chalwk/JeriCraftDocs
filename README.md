@@ -11,16 +11,16 @@ JeriCraft experience.
 
 ### 🌍 Minecraft Documentation
 
-1. 🛠 **[About The Server](MINECRAFT/about-the-server/About.md)**
-2. 🚀 **[Getting Started](MINECRAFT/guides/GettingStarted.md)**
-3. ⚡ **[Ranks and Commands](MINECRAFT/commands)**
+1. **[🛠 About The Server](MINECRAFT/about-the-server/About.md)**
+2. **[🚀 Getting Started](MINECRAFT/guides/GettingStarted.md)**
+3. **[⚡ Ranks and Commands](MINECRAFT/commands)**
     - **[Player Commands](MINECRAFT/commands/PLAYER-COMMANDS.md)**
     - **[Staff Commands](MINECRAFT/commands/STAFF-COMMANDS.md)**
     - **[Perk Commands](MINECRAFT/commands/PERK-COMMANDS.md)**
-4. 🌟 **[Server Features](MINECRAFT/features)**
+4. **[🌟 Server Features](MINECRAFT/features)**
     - **[Main Features](MINECRAFT/features/Main.md)**
     - **[Additional Features](MINECRAFT/features/AdditionalFeatures.md)**
-5. 📖 **[Guides](MINECRAFT/guides)**
+5. **[📖 Guides](MINECRAFT/guides)**
     - **[AuctionHouse](MINECRAFT/guides/AuctionHouse.md)**
     - **[ChestShop](MINECRAFT/guides/ChestShop.md)**
     - **[Economy](MINECRAFT/guides/Economy.md)**
@@ -30,16 +30,16 @@ JeriCraft experience.
     - **[RealisticSeasons](MINECRAFT/guides/RealisticSeasons.md)**
     - **[Regions](MINECRAFT/guides/Regions.md)**
     - **[Slimefun](MINECRAFT/guides/Slimefun.md)**
-6. 💎 **[Perks / Webstore](MINECRAFT/webstore)**
+6. **[💎 Perks / Webstore](MINECRAFT/webstore)**
 
 ---
 
 ### 🚀 Halo Documentation
 
-1. 📜 **[JeriCraft Halo Servers Overview](HALO/ABOUT.md)**
-2. 👑 **[Halo Server Admins](HALO/Admins.md)**
-3. ⚔️ **[Staff Commands](HALO/staff-commands.md)** 
-4. 🌐 **[Server List](HALO/servers/)**
+1. **[📜 JeriCraft Halo Servers Overview](HALO/ABOUT.md)**
+2. **[👑 Halo Server Admins](HALO/Admins.md)**
+3. **[⚔️ Staff Commands](HALO/staff-commands.md)**
+4. **[🌐 Server List](HALO/servers/)**
     - **[Divide & Conquer](HALO/servers/Divide%20and%20Conquer.md)**
     - **[Gun Game](HALO/servers/Gun%20Game.md)**
     - **[Hunter Prey](HALO/servers/Hunter%20Prey.md)**
