@@ -34,8 +34,8 @@ Explore our server's core features:
 
 ## 📚 Guides
 
-Our guides are designed to help players navigate and enjoy the unique features of JeriCraft. Here’s a quick overview of
-some of the available guides:
+Our guides are designed to help players navigate and enjoy the unique features of JeriCraft.<br>
+Here’s a quick overview of some of the available guides:
 
 - 📢 [AuctionHouse](/MINECRAFT/guides/AuctionHouse.md): Discover how to buy and sell items using the AuctionHouse plugin.
 - 🛍️ [ChestShop](/MINECRAFT/guides/ChestShop.md): Learn how to create and manage shops using the ChestShop plugin.
