@@ -66,9 +66,8 @@
 │   │       STAFF-COMMANDS.md
 │   │
 │   ├───features
-│   │       AdditionalFeatures.md
 │   │       Chat Emojis.md
-│   │       Main.md
+│   │       features.md
 │   │
 │   ├───guides
 │   │       AuctionHouse.md

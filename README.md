@@ -18,8 +18,6 @@ JeriCraft experience.
     - **[Staff Commands](MINECRAFT/commands/STAFF-COMMANDS.md)**
     - **[Perk Commands](MINECRAFT/commands/PERK-COMMANDS.md)**
 4. 🌟 **[Server Features](MINECRAFT/features)**
-    - **[Main Features](MINECRAFT/features/Main.md)**
-    - **[Additional Features](MINECRAFT/features/AdditionalFeatures.md)**
 5. 📖 **[Guides](MINECRAFT/guides)**
     - **[AuctionHouse](MINECRAFT/guides/AuctionHouse.md)**
     - **[ChestShop](MINECRAFT/guides/ChestShop.md)**

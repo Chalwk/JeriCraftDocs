@@ -162,7 +162,7 @@ region, such as preventing mob spawning or enabling PvP.
 This command will **prevent mobs from spawning** in the "myregion" area. 🚫
 
 For a full list of available region flags, check out
-the [Region Flags section](/MINECRAFT/features/Main.md#8-WorldGuard) in the
+the [Region Flags section](/MINECRAFT/features/features#8-WorldGuard) in the
 main documentation.
 
 ---
