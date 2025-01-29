@@ -82,8 +82,7 @@
 │   │       Quest Ideas.md
 │   │
 │   └───webstore
-│           about.md
-│           perks.md
+│           store.md
 │
 ├───misc
 │   │   all jericraft perks.md

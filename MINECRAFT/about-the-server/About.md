@@ -54,7 +54,7 @@ Explore more here: [MINECRAFT/guides/](/MINECRAFT/guides)
 ### 🎁 Perks 🎁
 
 Discover all the fantastic perks available on the JeriCraft server by browsing through
-our [Perks Guide](/MINECRAFT/webstore).
+our [Perks Guide](/MINECRAFT/webstore/store.md).
 
 ### 👥 Player Ranks and Commands 👥
 
