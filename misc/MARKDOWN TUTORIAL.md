@@ -310,7 +310,7 @@ This is a sentence with a footnote.[^1]
 
 Wrap text with ~~ to strike through.
 
-```manifest
+```none
 ~~strikethrough~~
 ```
 
