@@ -1,4 +1,4 @@
-# JeriCraft Server Features Guide
+# Server Features Overview
 
 Our server offers a variety of popular and custom plugins designed to enhance your Minecraft
 experience. Below is a curated list of the core features that make up our server, excluding minor functionalities. Dive
