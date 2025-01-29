@@ -4,6 +4,22 @@ Our server offers a variety of popular and custom plugins designed to enhance yo
 experience. Below is a curated list of the core features that make up our server, excluding minor functionalities. Dive
 in and explore all the exciting features!
 
+### Table of Contents
+
+1. [Slimefun 4](#1-slimefun-4)
+    - [Our Slimefun Addons](#our-slimefun-addons)
+2. [Jobs Reborn](#2-jobs-reborn)
+    - [Full List of Jobs Available on Our Server](#full-list-of-jobs-available-on-our-server)
+3. [McMMO](#3-mcmmo)
+    - [Full List of McMMO Skills on Our Server](#full-list-of-mcmmo-skills-on-our-server)
+4. [AuctionHouse](#4-auctionhouse)
+5. [RealisticSeasons](#5-realisticseasons)
+6. [ChestShop](#6-chestshop)
+7. [LevelledMobs](#7-levelledmobs)
+8. [WorldGuard](#8-worldguard)
+    - [Players can set the following flags in their claims](#players-can-set-the-following-flags-in-their-claims)
+9. [Conclusion](#conclusion)
+
 ---
 
 ## 1. [Slimefun 4](https://github.com/Slimefun/Slimefun4)
