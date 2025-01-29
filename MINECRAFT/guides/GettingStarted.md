@@ -32,13 +32,6 @@ To enhance your gameplay experience, here are some essential commands to get you
 
 ---
 
-## **Become a Member**
-
-Join our [Discord community](https://discord.gg/wuVcM9AZrr) to unlock additional perks and stay connected with
-fellow JeriCraft players!
-
----
-
 ## **Other Essential Information**
 
 Here are some features that make JeriCraft a truly unique experience:

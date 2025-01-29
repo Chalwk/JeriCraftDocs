@@ -1,7 +1,10 @@
 # 🏗️ JeriCraft Region Management Commands
 
 ### 🎯 Introduction
-Welcome to the JeriCraft Region Management tutorial! 📚 Protecting your builds and managing access to specific areas is essential for a seamless and enjoyable experience on our server. 💻 In this guide, we will cover the necessary commands to help you effectively manage your regions, collaborate with others, and make the most out of your protected areas.
+
+Welcome to the JeriCraft Region Management tutorial! 📚 Protecting your builds and managing access to specific areas is
+essential for a seamless and enjoyable experience on our server. 💻 In this guide, we will cover the necessary commands
+to help you effectively manage your regions, collaborate with others, and make the most out of your protected areas.
 
 ---
 
@@ -25,6 +28,7 @@ Once you've defined the two corners, the area between them will be the protected
 You can expand your region vertically or horizontally using the `expand` command:
 
 ### Syntax:
+
 `expand <vert|<amount> <amount> [reverseAmount] [direction]`
 
 - **vert**: Expands the region vertically.
@@ -35,6 +39,7 @@ You can expand your region vertically or horizontally using the `expand` command
 - **[direction]** *(optional)*: Expands in a specific direction (north, south, east, west).
 
 ### Example:
+
 `expand vert 10`  
 This will expand your region **upwards** by 10 blocks.
 
@@ -54,24 +59,28 @@ This will expand your region **upwards** by 10 blocks.
 
 ## 🌟 Max Claim Volume
 
-JeriCraft has a **maximum claim volume** to ensure fair and balanced gameplay for all players. This is the maximum number of blocks you can claim within a single region, set to **1,000,000 (1 million blocks)**.
+JeriCraft has a **maximum claim volume** to ensure fair and balanced gameplay for all players. This is the maximum
+number of blocks you can claim within a single region, set to **1,000,000 (1 million blocks)**.
 
 ### Region Dimensions and Volume:
 
-Regions on JeriCraft are cuboid-shaped, meaning they have six rectangular faces. Here are a few examples of possible dimensions for a region with a total volume of **1,000,000 blocks**:
+Regions on JeriCraft are cuboid-shaped, meaning they have six rectangular faces. Here are a few examples of possible
+dimensions for a region with a total volume of **1,000,000 blocks**:
 
-| **Region Dimensions**  | **Description**                             |
-|------------------------|---------------------------------------------|
-| **1000 x 1000 x 1**     | A thin, flat region.                        |
-| **100 x 100 x 100**     | A perfectly cubic region.                  |
-| **500 x 500 x 4**       | A large, shallow region.                   |
-| **1000 x 500 x 2**      | A large, flat region.                      |
-| **200 x 200 x 25**      | A tall, thin region.                       |
-| **100 x 100 x 1000**    | A very tall, thin region.                  |
+| **Region Dimensions** | **Description**           |
+|-----------------------|---------------------------|
+| **1000 x 1000 x 1**   | A thin, flat region.      |
+| **100 x 100 x 100**   | A perfectly cubic region. |
+| **500 x 500 x 4**     | A large, shallow region.  |
+| **1000 x 500 x 2**    | A large, flat region.     |
+| **200 x 200 x 25**    | A tall, thin region.      |
+| **100 x 100 x 1000**  | A very tall, thin region. |
 
-Feel free to choose any dimensions within this volume limit to create your region as you see fit! The flexibility allows for different shapes and structures based on your needs.
+Feel free to choose any dimensions within this volume limit to create your region as you see fit! The flexibility allows
+for different shapes and structures based on your needs.
 
-For help determining the best dimensions for your region, or if you have any questions, feel free to reach out to our staff or community for assistance.
+For help determining the best dimensions for your region, or if you have any questions, feel free to reach out to our
+staff or community for assistance.
 
 ---
 
@@ -117,24 +126,31 @@ You can manage who has access to your region by adding and removing members or o
 
 ## 🔮 Setting Region Flags
 
-You can customize the settings of your region using flags. Flags allow you to modify specific behaviors within your region, such as preventing mob spawning or enabling PvP.
+You can customize the settings of your region using flags. Flags allow you to modify specific behaviors within your
+region, such as preventing mob spawning or enabling PvP.
 
 ### Syntax:
+
 `rg flag <rg name> <flag> <value>`
 
 - **<flag>**: The specific setting you want to change (e.g., `mob-spawning`, `pvp`).
 - **<value>**: The value you want to assign to the flag (e.g., `deny`, `allow`).
 
 ### Example:
+
 `rg flag myregion mob-spawning deny`  
 This command will **prevent mobs from spawning** in the "myregion" area. 🚫
 
-For a full list of available region flags, check out the [Region Flags section](../features/Main.md#worldguard) in the main documentation.
+For a full list of available region flags, check out the [Region Flags section](/MINECRAFT/features/Main.md#8-WorldGuard) in the
+main documentation.
 
 ---
 
 ## 🌟 Conclusion
 
-Congratulations! You're now equipped with the knowledge to manage your regions on JeriCraft like a pro. Whether you're building your dream house or protecting your creations, these commands will help you control and secure your space in the world.
+Congratulations! You're now equipped with the knowledge to manage your regions on JeriCraft like a pro. Whether you're
+building your dream house or protecting your creations, these commands will help you control and secure your space in
+the world.
 
-If you have any questions, need further assistance, or simply want to explore more about region management, don't hesitate to reach out to our friendly community or server staff. Happy building and managing your regions!
+If you have any questions, need further assistance, or simply want to explore more about region management, don't
+hesitate to reach out to our friendly community or server staff. Happy building and managing your regions!

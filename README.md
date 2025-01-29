@@ -9,14 +9,6 @@ JeriCraft experience.
 
 ---
 
-## 🚪 **How to Join**
-
-You can join **JeriCraft** by connecting to `jericraftmc.net` on **Minecraft Java Edition** (**1.20.1**).
-
-Join our [Discord community](https://discord.gg/wuVcM9AZrr) to and stay connected with fellow JeriCraft players!
-
----
-
 ## 🌍 Minecraft Documentation
 
 1. 🛠 **[About The Server](MINECRAFT/about-the-server/About.md)**
