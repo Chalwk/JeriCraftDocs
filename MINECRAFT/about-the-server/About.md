@@ -78,9 +78,9 @@ our [Perks Guide](/MINECRAFT/webstore/store.md).
 
 ## 📝 Applications 📝
 
-Interested in joining the JeriCraft staff team or becoming a builder? Check out
-our [Applications](https://github.com/Chalwk/JeriCraftDocs/issues/new/choose) section for more information on how to
-apply. Be sure to review the prerequisites for each role.
+Interested in joining the JeriCraft staff team or becoming a builder?<br>
+Check out our [Applications](https://github.com/Chalwk/JeriCraftDocs/issues/new/choose) section for more information on how to apply.<br>
+Be sure to review the prerequisites for each role.<br>
 
 ---
 
