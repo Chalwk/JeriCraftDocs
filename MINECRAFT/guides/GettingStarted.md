@@ -1,4 +1,4 @@
-## 🎮 JeriCraft New Player Guide 🌟
+# 🎮 JeriCraft New Player Guide 🌟
 
 Welcome to **JeriCraft**, an immersive Minecraft experience tailored to provide hours of enjoyment and excitement! Our server offers a variety of features and commands to make your gameplay experience truly unique. This guide will help you get started on your JeriCraft adventure!
 

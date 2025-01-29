@@ -1,4 +1,4 @@
-## 🏪 ChestShop Tutorial 🛒
+# 🏪 ChestShop Tutorial 🛒
 
 Welcome to the **ChestShop Tutorial**! 🎉 With ChestShop, you can create your own shops using signs and chests, enabling easy buying and selling of items. Let's dive right in! 🏊
 

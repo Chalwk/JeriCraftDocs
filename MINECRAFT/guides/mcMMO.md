@@ -1,4 +1,4 @@
-## 🏹 JeriCraft mcMMO Guide 🛡️
+# 🏹 JeriCraft mcMMO Guide 🛡️
 
 🎉 Welcome to JeriCraft's **mcMMO** experience! mcMMO is a plugin that introduces an immersive RPG-like skill system, allowing you to level up various abilities and unlock unique perks. Let’s dive into the exciting features and commands that our mcMMO plugin offers!
 

@@ -1,4 +1,4 @@
-## 🔨 AuctionHouse Plugin Guide 🛠️
+# 🔨 AuctionHouse Plugin Guide 🛠️
 
 Welcome to the AuctionHouse guide! This plugin allows players to list items for sale on an auction house accessible with
 the `/ah` command. With AuctionHouse, you can easily buy and sell items without the risk of scamming. Follow the steps

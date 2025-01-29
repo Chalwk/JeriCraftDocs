@@ -1,4 +1,4 @@
-## 💰 JeriCraft Economy Guide 💳
+# 💰 JeriCraft Economy Guide 💳
 
 Welcome to the **JeriCraft Economy Guide**! Our server offers various ways for you to earn and spend in-game currency, enhancing your overall gameplay experience. This guide will help you navigate our economy system and make the most of the available commands, shops, and features.
 

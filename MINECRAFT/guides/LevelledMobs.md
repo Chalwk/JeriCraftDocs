@@ -1,4 +1,4 @@
-## ✨🎮 LevelledMobs Guide 💎🛡️
+# ✨🎮 LevelledMobs Guide 💎🛡️
 
 Welcome to the **🌟 LevelledMobs 🌟** guide! This **🎉 exciting plugin 🎉** adds an RPG-like twist to Minecraft mobs, making them more engaging and challenging to fight. 😈 Follow this guide to learn how it works:
 

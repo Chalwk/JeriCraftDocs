@@ -1,4 +1,4 @@
-## 🧪 JeriCraft Slimefun Plugin Guide 🔮
+# 🧪 JeriCraft Slimefun Plugin Guide 🔮
 
 Welcome to the JeriCraft Slimefun Plugin guide! Slimefun is an extensive plugin that brings a whole new level of depth
 and excitement to your Minecraft experience. With elements of technology and magic, Slimefun will provide hours of

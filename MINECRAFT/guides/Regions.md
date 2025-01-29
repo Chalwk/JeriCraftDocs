@@ -1,4 +1,4 @@
-## 🏗️ JeriCraft Region Management Commands 🛡️
+# 🏗️ JeriCraft Region Management Commands 🛡️
 
 ### 🎯 Introduction
 Welcome to the JeriCraft Region Management tutorial! 📚 Protecting your builds and managing access to specific areas is

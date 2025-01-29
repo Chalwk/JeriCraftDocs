@@ -1,4 +1,4 @@
-## 💼 JeriCraft Jobs Plugin Tutorial 💵
+# 💼 JeriCraft Jobs Plugin Tutorial 💵
 
 🏵️ Welcome to the **JeriCraft Jobs Plugin** tutorial! Our Jobs plugin is an essential aspect of our server, allowing you to **earn money** and **gain experience** by performing various tasks such as breaking blocks, placing blocks, killing mobs, fishing, and crafting. In this guide, we'll cover the essential commands to help you get started with Jobs and thrive in our server's economy.
 

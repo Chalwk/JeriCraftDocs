@@ -1,4 +1,4 @@
-## ✨🌳🍂🌞🌨️ RealisticSeasons Guide 🌳🍂🌞🌨️✨
+# ✨🌳🍂🌞🌨️ RealisticSeasons Guide 🌳🍂🌞🌨️✨
 
 Welcome to the **RealisticSeasons** guide! This amazing plugin brings dynamic and immersive seasons to our server, making your gameplay experience more engaging and exciting. Let’s explore the wonders of RealisticSeasons:
 
