@@ -37,7 +37,9 @@ JeriCraft experience.
 ### 🚀 Halo Documentation
 
 1. **[JeriCraft Halo Servers Overview](HALO/ABOUT.md)**
-2. **[Server List](HALO/servers/)**
+2. **[Halo Server Admins](HALO/Admins.md)**
+3. **[Staff Commands](HALO/staff-commands.md)** 
+4. **[Server List](HALO/servers/)**
     - **[Divide & Conquer](HALO/servers/Divide%20and%20Conquer.md)**
     - **[Gun Game](HALO/servers/Gun%20Game.md)**
     - **[Hunter Prey](HALO/servers/Hunter%20Prey.md)**
