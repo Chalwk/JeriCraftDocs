@@ -12,8 +12,7 @@ in and explore all the exciting features!
     - [Our Slimefun Addons](#our-slimefun-addons)
 2. [Jobs Reborn](#2-jobs-reborn)
     - [Full List of Jobs Available on Our Server](#full-list-of-jobs-available-on-our-server)
-    - [Jobs Boost](#jobs-boost)
-    - [Boosts Overview](#boosts-overview)
+    - [Jobs Boost](#job-boosters)
 3. [mcMMO](#3-mcmmo)
     - [Full List of McMMO Skills on Our Server](#full-list-of-mcmmo-skills-on-our-server)
 4. [AuctionHouse](#4-auctionhouse)
@@ -31,7 +30,14 @@ in and explore all the exciting features!
 13. [Cheque (create cheques for players)](#cheque-create-cheques-for-players)
 14. [Donate (give items to other players)](#donate-give-items-to-other-players)
 15. [Hats (wear any item on your head)](#hats-wear-any-item-on-your-head)
-16. [Functional Book Shelves](#functional-book-shelves) 
+16. [Functional Book Shelves](#functional-book-shelves)
+17. [Chat Emojis](#chat-emojis)
+    - [Emotions](#emotions)
+    - [Celebrations](#celebrations)
+    - [Food and Drink](#food-and-drink)
+    - [Nature](#nature)
+    - [Animals](#animals)
+    - [Miscellaneous](#miscellaneous)
 
 ---
 
@@ -45,7 +51,7 @@ many other exciting features.
 
 For detailed instructions on getting started, please refer to our [Slimefun Guide](../guides/Slimefun.md).
 
-### Our Slimefun Addons:
+#### Our Slimefun Addons:
 
 | Addon Name            | Description                                                              | Project Page                                                    |
 |-----------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------|
@@ -74,7 +80,7 @@ unlocking new rewards.
 
 For detailed instructions, check out our [Jobs Guide](../guides/Jobs.md).
 
-### Full List of Jobs Available on Our Server:
+#### Full List of Jobs Available on Our Server:
 
 | Job Name        | Description                                                                     |
 |-----------------|---------------------------------------------------------------------------------|
@@ -97,7 +103,7 @@ For detailed instructions, check out our [Jobs Guide](../guides/Jobs.md).
 | **Weaponsmith** | Forge powerful weapons to defend your world.                                    |
 | **Woodcutter**  | Chop down trees and gather valuable wood resources.                             |
 
-### Job Boosters
+#### Job Boosters
 
 Boost your experience and rewards with the following job boosts:
 
@@ -129,7 +135,7 @@ experience in various activities, you unlock special abilities, such as double d
 
 For further details, visit [mcmmo.org](http://mcmmo.org) or refer to our [McMMO Guide](../guides/mcMMO.md).
 
-### Full List of McMMO Skills on Our Server:
+#### Full List of McMMO Skills on Our Server:
 
 | Skill Name      | Description                                                          |
 |-----------------|----------------------------------------------------------------------|
@@ -194,7 +200,7 @@ gameplay features within their region.
 
 For more details, consult our [Region Management Guide](../guides/Regions.md).
 
-### Players can set the following flags in their claims:
+#### Players can set the following flags in their claims:
 
 | Flag                        | State              | Description                                                                                      |
 |-----------------------------|--------------------|--------------------------------------------------------------------------------------------------|
@@ -241,7 +247,7 @@ For more details, consult our [Region Management Guide](../guides/Regions.md).
 **Note:** These rewards are granted automatically, so keep playing and enjoy your well-deserved bonuses! Rewards are
 given at each interval as you continue to play.
 
-### Rewards Overview
+#### Rewards Overview
 
 | Interval    | Reward Details                                                                                                                                          |
 |-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -340,3 +346,155 @@ Ever wanted to showcase your favorite written books? Now you can with Functional
 - If the bookshelf is damaged, the book will auto-drop.
 
 Now you can **organize** and **display** your book collection with ease, adding a touch of personality to your builds!
+
+---
+
+## Chat Emojis
+
+#### Emotions
+
+| Emoji Name           | Emoticon             | Emoji |
+|----------------------|----------------------|-------|
+| **Happy**            | `:happy:`            | 😄    |
+| **Sad**              | `:sad:`              | ☹️    |
+| **Angry**            | `:angry:`            | 😡    |
+| **Laugh**            | `:laugh:`            | 😂    |
+| **Surprised**        | `:surprised:`        | 😲    |
+| **Cool**             | `:cool:`             | 😎    |
+| **Wink**             | `;)`                 | 😉    |
+| **Love**             | `:love:`             | ❤️    |
+| **Tears of Joy**     | `:tears_of_joy:`     | 😂    |
+| **Sleepy**           | `:sleepy:`           | 😴    |
+| **Kiss**             | `:kiss:`             | 😘    |
+| **Mischievous Face** | `:mischievous_face:` | 😏    |
+
+#### Celebrations
+
+| Emoji Name        | Emoticon          | Emoji |
+|-------------------|-------------------|-------|
+| **Party**         | `:party:`         | 🥳    |
+| **Party Popper**  | `:party_popper:`  | 🎉    |
+| **Gift**          | `:gift:`          | 🎁    |
+| **Birthday Cake** | `:birthday_cake:` | 🎂    |
+| **Applause**      | `:applause:`      | 👏    |
+
+#### Food and Drink
+
+| Emoji Name     | Emoticon       | Emoji |
+|----------------|----------------|-------|
+| **Coffee**     | `:coffee:`     | ☕     |
+| **Cake**       | `:cake:`       | 🍰    |
+| **Ice Cream**  | `:ice_cream:`  | 🍦    |
+| **Donut**      | `:donut:`      | 🍩    |
+| **Sushi**      | `:sushi:`      | 🍣    |
+| **Taco**       | `:taco:`       | 🌮    |
+| **Pizza**      | `:pizza:`      | 🍕    |
+| **Burger**     | `:burger:`     | 🍔    |
+| **Hotdog**     | `:hotdog:`     | 🌭    |
+| **Chocolate**  | `:chocolate:`  | 🍫    |
+| **Cookie**     | `:cookie:`     | 🍪    |
+| **Fries**      | `:fries:`      | 🍟    |
+| **Salad**      | `:salad:`      | 🥗    |
+| **Egg**        | `:egg:`        | 🥚    |
+| **Banana**     | `:banana:`     | 🍌    |
+| **Apple**      | `:apple:`      | 🍎    |
+| **Orange**     | `:orange:`     | 🍊    |
+| **Grapes**     | `:grapes:`     | 🍇    |
+| **Watermelon** | `:watermelon:` | 🍉    |
+| **Pineapple**  | `:pineapple:`  | 🍍    |
+
+#### Nature
+
+| Emoji Name    | Emoticon      | Emoji |
+|---------------|---------------|-------|
+| **Clover**    | `:clover:`    | 🍀    |
+| **Mushroom**  | `:mushroom:`  | 🍄    |
+| **Cherry**    | `:cherry:`    | 🍒    |
+| **Sun**       | `:sun:`       | 🌞    |
+| **Moon**      | `:moon:`      | 🌙    |
+| **Rainbow**   | `:rainbow:`   | 🌈    |
+| **Cloud**     | `:cloud:`     | ☁️    |
+| **Snowflake** | `:snowflake:` | ❄️    |
+| **Tree**      | `:tree:`      | 🌳    |
+| **Leaf**      | `:leaf:`      | 🍃    |
+| **Flower**    | `:flower:`    | 🌸    |
+| **Rose**      | `:rose:`      | 🌹    |
+| **Cactus**    | `:cactus:`    | 🌵    |
+| **Sunflower** | `:sunflower:` | 🌻    |
+
+#### Animals
+
+| Emoji Name      | Emoticon        | Emoji |
+|-----------------|-----------------|-------|
+| **Butterfly**   | `:butterfly:`   | 🦋    |
+| **Ladybug**     | `:ladybug:`     | 🐞    |
+| **Bee**         | `:bee:`         | 🐝    |
+| **Spider**      | `:spider:`      | 🕷️   |
+| **Fish**        | `:fish:`        | 🐟    |
+| **Frog**        | `:frog:`        | 🐸    |
+| **Turtle**      | `:turtle:`      | 🐢    |
+| **Owl**         | `:owl:`         | 🦉    |
+| **Panda**       | `:panda:`       | 🐼    |
+| **Lion**        | `:lion:`        | 🦁    |
+| **Tiger**       | `:tiger:`       | 🐅    |
+| **Bear**        | `:bear:`        | 🐻    |
+| **Elephant**    | `:elephant:`    | 🐘    |
+| **Horse**       | `:horse:`       | 🐎    |
+| **Monkey**      | `:monkey:`      | 🐒    |
+| **Sheep**       | `:sheep:`       | 🐑    |
+| **Pig**         | `:pig:`         | 🐖    |
+| **Chicken**     | `:chicken:`     | 🐔    |
+| **Rabbit**      | `:rabbit:`      | 🐇    |
+| **Deer**        | `:deer:`        | 🦌    |
+| **Whale**       | `:whale:`       | 🐋    |
+| **Dolphin**     | `:dolphin:`     | 🐬    |
+| **Octopus**     | `:octopus:`     | 🐙    |
+| **Crab**        | `:crab:`        | 🦀    |
+| **Lobster**     | `:lobster:`     | 🦞    |
+| **Shark**       | `:shark:`       | 🦈    |
+| **Starfish**    | `:starfish:`    | 🌟    |
+| **Jellyfish**   | `:jellyfish:`   | 🦑    |
+| **Snail**       | `:snail:`       | 🐌    |
+| **Scorpion**    | `:scorpion:`    | 🦂    |
+| **Bug**         | `:bug:`         | 🐛    |
+| **Ant**         | `:ant:`         | 🐜    |
+| **Honeybee**    | `:honeybee:`    | 🐝    |
+| **Beetle**      | `:beetle:`      | 🐞    |
+| **Butterfly**   | `:butterfly:`   | 🦋    |
+| **Caterpillar** | `:caterpillar:` | 🐛    |
+| **Dragonfly**   | `:dragonfly:`   | 🐢    |
+| **Ant**         | `:ant:`         | 🐜    |
+| **Honeybee**    | `:honeybee:`    | 🐝    |
+| **Squirrel**    | `:squirrel:`    | 🐿️   |
+
+#### Miscellaneous
+
+| Emoji Name      | Emoticon       | Emoji         |
+|-----------------|----------------|---------------|
+| **Music**       | `:music:`      | 🎶            |
+| **Player Name** | `:playername:` | %player_name% |
+| **Coffee Cup**  | `:coffee_cup:` | ☕️            |
+| **Snow**        | `:snow:`       | ☃             |
+| **Wizard**      | `:wizard:`     | 🧙‍♂️         |
+| **Wave**        | `:wave:`       | 👋            |
+| **Facepalm**    | `:facepalm:`   | 🤦            |
+| **Skull**       | `:skull:`      | ☠️            |
+| **Uwu**         | `:uwu:`        | $1            |
+| **Owo**         | `:owo:`        | $1            |
+| **Heart**       | `:heart:`      | ❤️            |
+| **Star**        | `:star:`       | ★             |
+| **True**        | `:true:`       | ✔️            |
+| **False**       | `:false:`      | ❌             |
+| **Arrow**       | `:arrow:`      | ➜             |
+| **Table Flip**  | `:tableflip:`  | ┻━┻           |
+| **Cherry**      | `:cherry:`     | 🍒            |
+| **Star**        | `:star:`       | ⭐             |
+| **Moon**        | `:moon:`       | 🌙            |
+| **Sun**         | `:sun:`        | 🌞            |
+| **Rainbow**     | `:rainbow:`    | 🌈            |
+| **Cloud**       | `:cloud:`      | ☁️            |
+| **Snowflake**   | `:snowflake:`  | ❄️            |
+| **Lightning**   | `:lightning:`  | ⚡             |
+| **Thunder**     | `:thunder:`    | ⚡             |
+| **Comet**       | `:comet:`      | ☄️            |
+| **Crown**       | `:crown:`      | 👑            |
