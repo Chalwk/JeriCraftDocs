@@ -7,11 +7,9 @@ personal lives.
 
 ---
 
-### 🌐 Connect to our Minecraft server (1.20.1) at `jericraft.net` and embark on an epic adventure!
+### 🌐 Connect to our Minecraft server (1.20.1) at `jericraft.net`.
 
-*Join our friendly community and experience the JeriCraft difference today!* 🗺️
-
-### Discord
+### 💫 Discord
 
 Join our [Discord community](https://discord.gg/wuVcM9AZrr) and stay connected with fellow JeriCraft players!
 
