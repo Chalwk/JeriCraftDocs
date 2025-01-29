@@ -52,7 +52,7 @@ You can expand your region vertically or horizontally using the `expand` command
 `expand <vert|<amount> <amount> [reverseAmount] [direction]`
 
 - **vert**: Expands the region vertically.
-- **<amount>**: The number of blocks to expand.
+- **[amount]**: The number of blocks to expand.
     - **Positive values** expand upwards.
     - **Negative values** expand downwards.
 - **[reverseAmount]** *(optional)*: Expands in the opposite direction.
@@ -153,8 +153,8 @@ region, such as preventing mob spawning or enabling PvP.
 
 `rg flag <rg name> <flag> <value>`
 
-- **<flag>**: The specific setting you want to change (e.g., `mob-spawning`, `pvp`).
-- **<value>**: The value you want to assign to the flag (e.g., `deny`, `allow`).
+- **[flag]**: The specific setting you want to change (e.g., `mob-spawning`, `pvp`).
+- **[value]**: The value you want to assign to the flag (e.g., `deny`, `allow`).
 
 ### Example:
 

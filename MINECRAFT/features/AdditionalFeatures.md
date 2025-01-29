@@ -26,7 +26,7 @@ Enjoy the boosted jobs experience during the designated hours and make the most 
 
 # 🎁 Recurring Playtime Rewards
 
-> **Note:** These rewards are granted automatically, so keep playing and enjoy your well-deserved bonuses! Rewards are given at each interval as you continue to play.
+**Note:** These rewards are granted automatically, so keep playing and enjoy your well-deserved bonuses! Rewards are given at each interval as you continue to play.
 
 ## Rewards Overview
 
