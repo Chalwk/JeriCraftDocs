@@ -58,8 +58,7 @@ JeriCraft experience.
 
 ### 📜 Community Rules
 
-Before you begin, please review the **[JeriCraft Community Rules](policies/Community-Rules.md)** to ensure you're
-familiar with the guidelines and expectations for all members of the community.
+Please review the [JeriCraft Community Rules](policies/Community-Rules.md) to stay informed about our guidelines.
 
 ---
 
@@ -80,16 +79,9 @@ Need to submit a form? We've made it easy-peasy! Click on any of the templates b
 
 ---
 
-## 🌟 Community Rules
-
-Be sure to check out the **[Community Rules](policies/Community-Rules.md)** so we can all keep things fun and friendly!
-😊
-
----
-
 ## 🤝 Contributing
 
-Got ideas to improve our docs? Found a typo? We’d love your help! 🛠  
+Got ideas to improve our docs? Found a typo? We’d love your help!<br>
 Check out our **[Contributing Guidelines](CONTRIBUTING.md)** to learn more.
 
 ---
