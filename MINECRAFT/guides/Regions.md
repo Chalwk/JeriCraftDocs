@@ -8,6 +8,26 @@ to help you effectively manage your regions, collaborate with others, and make t
 
 ---
 
+# Table of Contents
+
+1. [🎯 Introduction](#-introduction)
+2. [🔺 Defining Corners](#-defining-corners)
+3. [🗺️ Expanding Regions](#-expanding-regions)
+    - [Syntax](#syntax)
+    - [Example](#example)
+4. [🔐 Claiming and Removing Regions](#-claiming-and-removing-regions)
+5. [🌟 Max Claim Volume](#-max-claim-volume)
+    - [Region Dimensions and Volume](#region-dimensions-and-volume)
+6. [📖 Displaying Region Information](#-displaying-region-information)
+7. [📝 Listing Owned Regions](#-listing-owned-regions)
+8. [👥 Adding and Removing Members and Owners](#-adding-and-removing-members-and-owners)
+9. [🔮 Setting Region Flags](#-setting-region-flags)
+    - [Syntax](#syntax-1)
+    - [Example](#example-1)
+10. [🌟 Conclusion](#-conclusion)
+
+---
+
 ## 🔺 Defining Corners
 
 To create a region, you must first define its corners.
@@ -141,7 +161,8 @@ region, such as preventing mob spawning or enabling PvP.
 `rg flag myregion mob-spawning deny`  
 This command will **prevent mobs from spawning** in the "myregion" area. 🚫
 
-For a full list of available region flags, check out the [Region Flags section](/MINECRAFT/features/Main.md#8-WorldGuard) in the
+For a full list of available region flags, check out
+the [Region Flags section](/MINECRAFT/features/Main.md#8-WorldGuard) in the
 main documentation.
 
 ---

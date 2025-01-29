@@ -4,6 +4,8 @@ Our server offers a variety of popular and custom plugins designed to enhance yo
 experience. Below is a curated list of the core features that make up our server, excluding minor functionalities. Dive
 in and explore all the exciting features!
 
+---
+
 ### Table of Contents
 
 1. [Slimefun 4](#1-slimefun-4)
