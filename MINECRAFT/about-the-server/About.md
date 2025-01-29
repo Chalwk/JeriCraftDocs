@@ -32,7 +32,7 @@ Explore our server's core features:
 
 ---
 
-## 📚 Guides 📚
+## 📚 Guides
 
 Our guides are designed to help players navigate and enjoy the unique features of JeriCraft. Here’s a quick overview of
 some of the available guides:
@@ -55,7 +55,7 @@ some of the available guides:
 
 ---
 
-## 🎁 Perks 🎁
+## 🎁 Perks
 
 Discover all the fantastic perks available on the JeriCraft server by browsing through
 our [Perks Guide](/MINECRAFT/webstore/store.md).
