@@ -2,14 +2,13 @@
 
 🌟 **Welcome to the official JeriCraft Documentation Repository!** 🌟
 
-This repository contains guides, manuals, and documentation for both the JeriCraft **Minecraft** and **Halo: Combat
-Evolved** server(s). Whether
-you're new to the community or a seasoned player, you’ll find the resources you need to get the most out of your
-JeriCraft experience.
+This repository serves as the central hub for comprehensive guides, manuals, and documentation for the **JeriCraft Minecraft** and **Halo: Combat Evolved** servers. Whether you're a new player or a seasoned community member, you'll find everything you need to enhance your JeriCraft experience, from server features and commands to community guidelines and form templates.
 
 ---
 
 ## 🌍 Minecraft Documentation
+
+Explore detailed guides and resources for the JeriCraft Minecraft server:
 
 1. 🛠 **[About The Server](MINECRAFT/about-the-server/About.md)**
 2. 🚀 **[Getting Started](MINECRAFT/guides/GettingStarted.md)**
@@ -17,7 +16,7 @@ JeriCraft experience.
     - **[Player Commands](MINECRAFT/commands/PLAYER-COMMANDS.md)**
     - **[Staff Commands](MINECRAFT/commands/STAFF-COMMANDS.md)**
     - **[Perk Commands](MINECRAFT/commands/PERK-COMMANDS.md)**
-4. 🌟 **[Server Features](MINECRAFT/features)**
+4. 🌟 **[Server Features](MINECRAFT/features)**<br>
 5. 📖 **[Guides](MINECRAFT/guides)**
     - **[AuctionHouse](MINECRAFT/guides/AuctionHouse.md)**
     - **[ChestShop](MINECRAFT/guides/ChestShop.md)**
@@ -33,6 +32,8 @@ JeriCraft experience.
 ---
 
 ## 🚀 Halo Documentation
+
+Dive into the world of JeriCraft's Halo: Combat Evolved servers:
 
 1. 📜 **[JeriCraft Halo Servers Overview](HALO/ABOUT.md)**
 2. 👑 **[Halo Server Admins](HALO/Admins.md)**
@@ -56,13 +57,13 @@ JeriCraft experience.
 
 ### 📜 Community Rules
 
-Please review the [JeriCraft Community Rules](policies/Community-Rules.md) to stay informed about our guidelines.
+To ensure a positive and inclusive environment for all players, please review the [JeriCraft Community Rules](policies/Community-Rules.md).
 
 ---
 
 ### 📝 Form Templates
 
-Need to submit a form? We've made it easy-peasy! Click on any of the templates below to get started:
+Need to submit a form? Use the templates below to get started:
 
 | Form                                                                                                               | Description                                                        |
 |--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
