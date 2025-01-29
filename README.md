@@ -11,16 +11,16 @@ JeriCraft experience.
 
 ## 🌍 Minecraft Documentation
 
-1. **[🛠 About The Server](MINECRAFT/about-the-server/About.md)**
-2. **[🚀 Getting Started](MINECRAFT/guides/GettingStarted.md)**
-3. **[⚡ Ranks and Commands](MINECRAFT/commands)**
+1. 🛠 **[About The Server](MINECRAFT/about-the-server/About.md)**
+2. 🚀 **[Getting Started](MINECRAFT/guides/GettingStarted.md)**
+3. ⚡ **[Ranks and Commands](MINECRAFT/commands)**
     - **[Player Commands](MINECRAFT/commands/PLAYER-COMMANDS.md)**
     - **[Staff Commands](MINECRAFT/commands/STAFF-COMMANDS.md)**
     - **[Perk Commands](MINECRAFT/commands/PERK-COMMANDS.md)**
-4. **[🌟 Server Features](MINECRAFT/features)**
+4. 🌟 **[Server Features](MINECRAFT/features)**
     - **[Main Features](MINECRAFT/features/Main.md)**
     - **[Additional Features](MINECRAFT/features/AdditionalFeatures.md)**
-5. **[📖 Guides](MINECRAFT/guides)**
+5. 📖 **[Guides](MINECRAFT/guides)**
     - **[AuctionHouse](MINECRAFT/guides/AuctionHouse.md)**
     - **[ChestShop](MINECRAFT/guides/ChestShop.md)**
     - **[Economy](MINECRAFT/guides/Economy.md)**
@@ -30,16 +30,16 @@ JeriCraft experience.
     - **[RealisticSeasons](MINECRAFT/guides/RealisticSeasons.md)**
     - **[Regions](MINECRAFT/guides/Regions.md)**
     - **[Slimefun](MINECRAFT/guides/Slimefun.md)**
-6. **[💎 Perks / Webstore](MINECRAFT/webstore)**
+6. 💎 **[Perks / Webstore](MINECRAFT/webstore)**
 
 ---
 
 ## 🚀 Halo Documentation
 
-1. **[📜 JeriCraft Halo Servers Overview](HALO/ABOUT.md)**
-2. **[👑 Halo Server Admins](HALO/Admins.md)**
-3. **[⚔️ Staff Commands](HALO/staff-commands.md)**
-4. **[🌐 Server List](HALO/servers/)**
+1. 📜 **[JeriCraft Halo Servers Overview](HALO/ABOUT.md)**
+2. 👑 **[Halo Server Admins](HALO/Admins.md)**
+3. ⚔️ **[Staff Commands](HALO/staff-commands.md)**
+4. 🌐 **[Server List](HALO/servers/)**
     - **[Divide & Conquer](HALO/servers/Divide%20and%20Conquer.md)**
     - **[Gun Game](HALO/servers/Gun%20Game.md)**
     - **[Hunter Prey](HALO/servers/Hunter%20Prey.md)**
@@ -69,14 +69,14 @@ Need to submit a form? We've made it easy-peasy! Click on any of the templates b
 
 | Form                                                                                                               | Description                                                        |
 |--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
-| **[🛡 Ban Appeal](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=ban-appeal.yaml)**                   | Request to lift a ban from the game server or Discord.             |
-| **[🐛 Bug Report](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=bug-report.yaml)**                   | Report a bug or issue affecting gameplay or server functionality.  |
-| **[🏗 Builder Application](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=builder-application.yaml)** | Apply to become a builder and contribute to the server.            |
-| **[😠 Complaints](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=complaints.yaml)**                   | Submit a complaint about a player, staff member, or Discord issue. |
-| **[🚨 Player Report](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=player-report.yaml)**             | Report rule-breaking players for investigation.                    |
-| **[🌟 Server Suggestions](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=server-suggestions.yaml)**   | Suggest ideas to improve the game server or Discord community.     |
-| **[👩‍💻 Staff Application](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=staff-application.yaml)**  | Apply to join the staff team.                                      |
-| **[🏆 Tournament](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=tournament.yaml)**                   | Create a Halo tournament                                           |
+| 🛡 **[Ban Appeal](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=ban-appeal.yaml)**                   | Request to lift a ban from the game server or Discord.             |
+| 🐛 **[Bug Report](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=bug-report.yaml)**                   | Report a bug or issue affecting gameplay or server functionality.  |
+| 🏗 **[Builder Application](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=builder-application.yaml)** | Apply to become a builder and contribute to the server.            |
+| 😠 **[Complaints](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=complaints.yaml)**                   | Submit a complaint about a player, staff member, or Discord issue. |
+| 🚨 **[Player Report](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=player-report.yaml)**             | Report rule-breaking players for investigation.                    |
+| 🌟 **[Server Suggestions](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=server-suggestions.yaml)**   | Suggest ideas to improve the game server or Discord community.     |
+| 👩‍💻 **[Staff Application](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=staff-application.yaml)**  | Apply to join the staff team.                                      |
+| 🏆 **[Tournament](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=tournament.yaml)**                   | Create a Halo tournament                                           |
 
 ---
 
