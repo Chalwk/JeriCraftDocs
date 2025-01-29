@@ -5,15 +5,19 @@ more! Our feature-rich server offers various engaging gameplay experiences, incl
 With a commitment to community and support, we provide a platform where gamers can thrive both in-game and in their
 personal lives.
 
+---
+
 ### 🌐 Connect to our Minecraft server (1.20.1) at `jericraft.net` and embark on an epic adventure!
 
 *Join our friendly community and experience the JeriCraft difference today!* 🗺️
 
-## **Discord**
+### Discord
 
 Join our [Discord community](https://discord.gg/wuVcM9AZrr) and stay connected with fellow JeriCraft players!
 
-### 📝 Main Features
+---
+
+## 📝 Main Features
 
 Explore our server's core features:
 
@@ -28,9 +32,11 @@ Explore our server's core features:
 - 🗺️ [Regions](/MINECRAFT/guides/Regions.md): Claim, protect, and manage specific areas on the server.
 - 🧪 [Slimefun](/MINECRAFT/guides/Slimefun.md): Explore new items, machines, and crafting recipes in Slimefun.
 
-Explore more here: [MINECRAFT/features/](/MINECRAFT/features)
+### Explore more here: [MINECRAFT/features/](/MINECRAFT/features)
 
-### 📚 Guides 📚
+---
+
+## 📚 Guides 📚
 
 Our guides are designed to help players navigate and enjoy the unique features of JeriCraft. Here’s a quick overview of
 some of the available guides:
@@ -49,14 +55,18 @@ some of the available guides:
 - 🧪 [Slimefun](/MINECRAFT/guides/Slimefun.md): Dive into the world of Slimefun, featuring new items, machines, and
   crafting recipes.
 
-Explore more here: [MINECRAFT/guides/](/MINECRAFT/guides)
+### Explore more here: [MINECRAFT/guides/](/MINECRAFT/guides)
 
-### 🎁 Perks 🎁
+---
+
+## 🎁 Perks 🎁
 
 Discover all the fantastic perks available on the JeriCraft server by browsing through
 our [Perks Guide](/MINECRAFT/webstore/store.md).
 
-### 👥 Player Ranks and Commands 👥
+---
+
+## 👥 Player Ranks and Commands 👥
 
 - 👨‍💼 **Player Commands**:  
   Discover the commands available to players on the JeriCraft server by visiting
@@ -70,13 +80,15 @@ our [Perks Guide](/MINECRAFT/webstore/store.md).
   Learn about the commands associated with JeriCraft's perks by visiting
   our [Perk Commands Guide](/MINECRAFT/commands/PLAYER-COMMANDS.md).
 
-### 📝 Applications 📝
+## 📝 Applications 📝
 
 Interested in joining the JeriCraft staff team or becoming a builder? Check out
 our [Applications](https://github.com/Chalwk/JeriCraftDocs/issues/new/choose) section for more information on how to
 apply. Be sure to review the prerequisites for each role.
 
-### **Getting Started: Essential Commands**
+---
+
+## Getting Started: Essential Commands
 
 New to JeriCraft? Here are some helpful commands to kickstart your journey:
 
@@ -99,7 +111,9 @@ New to JeriCraft? Here are some helpful commands to kickstart your journey:
     - 🌐 `/warp`: Teleport to key locations on the server.
     - 💬 `/msg [player] [message]`: Send a private message to another player.
 
-### **Other Essential Information**
+---
+
+### Other Essential Information
 
 - Discover hundreds of custom items and machines with the Slimefun plugin.
 - Level up your skills and abilities with mcMMO and Jobs for unique perks and rewards.
