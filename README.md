@@ -9,7 +9,7 @@ JeriCraft experience.
 
 ---
 
-### 🌍 Minecraft Documentation
+## 🌍 Minecraft Documentation
 
 1. **[🛠 About The Server](MINECRAFT/about-the-server/About.md)**
 2. **[🚀 Getting Started](MINECRAFT/guides/GettingStarted.md)**
@@ -34,7 +34,7 @@ JeriCraft experience.
 
 ---
 
-### 🚀 Halo Documentation
+## 🚀 Halo Documentation
 
 1. **[📜 JeriCraft Halo Servers Overview](HALO/ABOUT.md)**
 2. **[👑 Halo Server Admins](HALO/Admins.md)**
