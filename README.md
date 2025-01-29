@@ -65,14 +65,16 @@ familiar with the guidelines and expectations for all members of the community.
 
 Need to submit a form? We've made it easy-peasy! Click on any of the templates below to get started:
 
-- **[ban-appeal](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=ban-appeal.yaml)**
-- **[bug-report](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=bug-report.yaml)**
-- **[builder-application](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=builder-application.yaml)**
-- **[complaints](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=complaints.yaml)**
-- **[player-report](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=player-report.yaml)**
-- **[server-suggestions](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=server-suggestions.yaml)**
-- **[staff-application](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=staff-application.yaml)**
-- **[tournament](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=tournament.yaml)**
+| Form                                                                                                            | Description                                                        |
+|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| **[Ban Appeal](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=ban-appeal.yaml)**                   | Request to lift a ban from the game server or Discord.             |
+| **[Bug Report](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=bug-report.yaml)**                   | Report a bug or issue affecting gameplay or server functionality.  |
+| **[Builder Application](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=builder-application.yaml)** | Apply to become a builder and contribute to the server.            |
+| **[Complaints](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=complaints.yaml)**                   | Submit a complaint about a player, staff member, or Discord issue. |
+| **[Player Report](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=player-report.yaml)**             | Report rule-breaking players for investigation.                    |
+| **[Server Suggestions](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=server-suggestions.yaml)**   | Suggest ideas to improve the game server or Discord community.     |
+| **[Staff Application](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=staff-application.yaml)**     | Apply to join the staff team.                                      |
+| **[Tournament](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=tournament.yaml)**                   | Create a Halo tournament                                           |
 
 ---
 
