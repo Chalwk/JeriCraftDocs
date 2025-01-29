@@ -1,53 +1,84 @@
 # 💰 JeriCraft Economy Guide 💳
 
-Welcome to the **JeriCraft Economy Guide**! Our server offers various ways for you to earn and spend in-game currency, enhancing your overall gameplay experience. This guide will help you navigate our economy system and make the most of the available commands, shops, and features.
+Welcome to the **JeriCraft Economy Guide**! Our server provides various opportunities to earn and spend in-game
+currency, enhancing your overall gameplay experience. This guide will help you navigate our economy system and make the
+most of the available commands, shops, and features.
 
-### **Earning Money**
+---
 
-There are several methods to accumulate wealth within the JeriCraft economy:
+## **Earning Money**
 
-- **Jobs:** Join a job using the Jobs plugin and perform various tasks to earn money and experience.
-- **Selling Items:** Use the `/sell` command to sell items in your inventory or utilize the Auction House to sell items to other players.
-- **Participating in Events:** Join server-wide events for a chance to win prizes and earn extra cash.
-- **Creating Shops:** Set up your own shop using the ChestShop plugin.
-- **Loot Containers:** Discover loot containers hidden throughout the world for valuable rewards.
+There are several ways to accumulate wealth within the JeriCraft economy:
 
-### **Selling Items with `/sell`**
+| **Method**                  | **Description**                                                                                                      |
+|-----------------------------|----------------------------------------------------------------------------------------------------------------------|
+| **Jobs**                    | Join a job using the Jobs plugin and perform various tasks to earn money and experience.                             |
+| **Selling Items**           | Use the `/sell` command to sell items in your inventory or utilize the Auction House to sell items to other players. |
+| **Participating in Events** | Join server-wide events for a chance to win prizes and earn extra cash.                                              |
+| **Creating Shops**          | Set up your own shop using the ChestShop plugin to sell items to other players.                                      |
+| **Loot Containers**         | Discover loot containers hidden throughout the world, offering valuable rewards.                                     |
 
-The `/sell` command provides an easy way to sell items in your inventory:
+---
 
-- `/sell all`: Sells all sellable items in your inventory.
-- `/sell blocks`: Sells all blocks in your inventory.
-- `/sell hand`: Sells the item you're currently holding.
-- `/sell same`: Sells the same item you last sold.
-- `/sell gui`: Opens a GUI interface to select and sell items.
+## **Selling Items with `/sell`**
 
-### **Auction House**
+The `/sell` command provides an easy way to sell items in your inventory. Use these subcommands for different selling
+options:
 
-Buy and sell items through the Auction House using the `/ah` command. You can list items for sale, place bids, or buy items directly with the following commands:
+| **Command**    | **Description**                                 |
+|----------------|-------------------------------------------------|
+| `/sell all`    | Sells all sellable items in your inventory.     |
+| `/sell blocks` | Sells all blocks in your inventory.             |
+| `/sell hand`   | Sells the item you’re currently holding.        |
+| `/sell same`   | Sells the same item you last sold.              |
+| `/sell gui`    | Opens a GUI interface to select and sell items. |
 
-- `/ah`: Opens the Auction House GUI.
-- `/ah sell <price>`: Lists the item in your hand for sale at the specified price.
-- `/ah buy <price>`: Buys the item you're holding from the Auction House at the specified price.
+---
 
-### **Creating a Shop with ChestShop**
+## **Auction House**
 
-To create your own shop using ChestShop, refer to our detailed [ChestShop Tutorial](./docs/guides/ChestShop.md). This guide provides step-by-step instructions on setting up your shop and customizing it to suit your needs.
+Buy and sell items through the Auction House using the `/ah` command. The following commands will help you list items,
+place bids, or buy directly:
 
-### **Spending Money**
+| **Command**        | **Description**                                                   |
+|--------------------|-------------------------------------------------------------------|
+| `/ah`              | Opens the Auction House GUI, where you can view items for sale.   |
+| `/ah sell <price>` | Lists the item in your hand for sale at the specified price.      |
+| `/ah buy <price>`  | Buys the item listed in the Auction House at the specified price. |
 
-Spend your hard-earned cash in various ways, such as:
+---
 
-- **Admin Shops:** Purchase items and resources at our server's Admin Shops.
-- **Auction House:** Buy items listed by other players at the Auction House.
-- **Player Shops:** Support fellow players by shopping at their custom-made shops.
-- **In-Game Services:** Pay for services offered by other players, such as building, crafting, or enchanting.
+## **Creating a Shop with ChestShop**
 
-### **Checking Your Balance and Paying Others**
+To create your own shop using ChestShop, refer to our detailed [ChestShop Tutorial](/MINECRAFT/guides/ChestShop.md).
+This guide provides step-by-step instructions on setting up and customizing your shop.
 
-- Keep track of your funds by using the `/bal` command.
-- Pay other players with `/pay <player> <amount>`.
-- Curious about the wealthiest players on the server? Check out the top rankings with `/baltop`.
-- Send a cheque to other players using the `/cheque <player> <amount>` command.
+---
 
-Now that you're familiar with JeriCraft's Economy System, go forth and build your fortune!
+## **Spending Money**
+
+Spend your hard-earned cash in various ways:
+
+| **Method**           | **Description**                                                                       |
+|----------------------|---------------------------------------------------------------------------------------|
+| **Admin Shops**      | Purchase items and resources at the server’s Admin Shops.                             |
+| **Auction House**    | Buy items listed by other players at the Auction House.                               |
+| **Player Shops**     | Support fellow players by shopping at their custom-made shops.                        |
+| **In-Game Services** | Pay for services offered by other players, such as building, crafting, or enchanting. |
+
+---
+
+## **Checking Your Balance and Paying Others**
+
+Track and manage your funds easily:
+
+| **Command**                 | **Description**                                                |
+|-----------------------------|----------------------------------------------------------------|
+| `/bal`                      | Check your current balance.                                    |
+| `/pay <player> <amount>`    | Pay other players a specified amount.                          |
+| `/baltop`                   | View the top rankings of the wealthiest players on the server. |
+| `/cheque <player> <amount>` | Send a cheque to another player with a specified amount.       |
+
+---
+
+Now that you're familiar with the JeriCraft Economy System, go forth and build your fortune!
