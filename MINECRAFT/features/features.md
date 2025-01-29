@@ -97,11 +97,9 @@ For detailed instructions, check out our [Jobs Guide](../guides/Jobs.md).
 | **Weaponsmith** | Forge powerful weapons to defend your world.                                    |
 | **Woodcutter**  | Chop down trees and gather valuable wood resources.                             |
 
-### Jobs Boost
+### Job Boosters
 
-Boost your experience and rewards with the following job boosts!
-
-### Boosts Overview
+Boost your experience and rewards with the following job boosts:
 
 | Boost Name                           | Boost Period                      | Boost                | Applicable Jobs | Boost Days    |
 |--------------------------------------|-----------------------------------|----------------------|-----------------|---------------|
