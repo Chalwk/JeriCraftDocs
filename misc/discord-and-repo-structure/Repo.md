@@ -20,12 +20,18 @@
 │           bug-report.yaml
 │           builder-application.yaml
 │           complaints.yaml
+│           config.yml
 │           player-report.yaml
 │           server-suggestions.yaml
 │           staff-application.yaml
+│           tournament.yaml
 │
 ├───HALO
 │   │   ABOUT.md
+│   │   Admins.md
+│   │   CUSTOM MAP IDEAS.md
+│   │   Maintenance Log.md
+│   │   staff-commands.md
 │   │
 │   └───servers
 │           Divide and Conquer.md
@@ -33,7 +39,7 @@
 │           Hunter Prey.md
 │           Kill Confirmed.md
 │           Market.md
-│           Melee Attack.md
+│           Melee Brawl.md
 │           One In The Chamber.md
 │           Rooster CTF.md
 │           Sabotage.md
@@ -85,7 +91,7 @@
 │           store.md
 │
 ├───misc
-│   │   all jericraft perks.md
+│   │   MARKDOWN TUTORIAL.md
 │   │
 │   └───discord-and-repo-structure
 │           Discord.md
@@ -94,5 +100,6 @@
 └───policies
         Community-Rules.md
         MC-Staff-Guidelines.md
+        STAFF.md
 
 ```
