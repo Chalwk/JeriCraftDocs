@@ -210,13 +210,13 @@ Result: Use the `printf` function in C.
 
 Wrap code with triple backticks (```), optionally specifying a language for syntax highlighting.
 
-<pre> ```python def greet(name): return f"Hello, {name}!" ``` </pre>
+<pre> ```python def say_hello(name): return f"Hey there, {name}!" ``` </pre>
 
 Result:
 
 ```python
-def greet(name):
-    return f"Hello, {name}!"
+def say_hello(name):
+    return f"Hey there, {name}!"
 ```
 
 ---
