@@ -12,6 +12,23 @@ experience even further!
 
 Happy shopping, and we look forward to seeing you in-game with your new perks!
 
+---
+
+# Table of Contents
+
+1. [Text and Customization Perks](#text-and-customization-perks)
+2. [Gameplay Enhancements](#gameplay-enhancements)
+3. [Commands and Utility Perks](#commands-and-utility-perks)
+4. [Crafting and Utility Items](#crafting-and-utility-items)
+5. [MCMMO and Skills Boost](#mcmmo-and-skills-boost)
+6. [Health Boost Perks](#health-boost-perks)
+7. [Jobs System Perks](#jobs-system-perks)
+8. [Kits](#kits)
+9. [Miscellaneous Perks](#miscellaneous-perks)
+
+---
+
+
 # Text and Customization Perks:
 Unleash your creativity and personalize your JeriCraft experience with our Text and Customization Perks! This category offers a range of options that allow you to modify your in-game text, making it uniquely yours. From vibrant colours to custom nicknames, prefixes, and suffixes, these perks help you stand out in the community and express your personality. Whether you're crafting immersive stories, engaging with friends, or simply adding flair to your chat, our customization options will enhance your gameplay and make your mark in the world of JeriCraft!
 
