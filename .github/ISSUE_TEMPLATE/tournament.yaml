@@ -111,7 +111,7 @@ body:
     attributes:
       label: Maximum Players
       description: What is the maximum number of players allowed?
-      placeholder: "e.g., 32"
+      placeholder: "e.g., 16"
     validations:
       required: true
 
