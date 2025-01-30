@@ -4,13 +4,13 @@ Welcome to the JeriCraft Web Store! Instead of traditional donation packages, we
 obtained separately. Your donation rank is determined by the total amount you've donated since your first contribution.
 Every donation helps us keep the server running, and we are grateful for your support.
 
-## Table of Contents
+## 📑 Table of Contents
 
-1. [How to Donate](#how-to-donate)
-2. [Donor Ranks and Requirements](#donor-ranks-and-requirements)
-3. [Terms and Conditions](#terms-and-conditions)
-4. [Disclaimer](#disclaimer)
-5. [Full List of Perks](#full-list-of-perks)
+1. **[How to Donate](#steps-to-donate)**
+2. **[Donor Ranks and Requirements](#-donor-ranks-and-requirements)**
+3. **[Terms and Conditions](#terms-and-conditions)**
+4. **[Disclaimer](#-disclaimer)**
+5. **[Full List of Perks](#-full-list-of-perks)**
     - [Text and Customization Perks](#text-and-customization-perks)
     - [Gameplay Enhancements](#gameplay-enhancements)
     - [Commands and Utility Perks](#commands-and-utility-perks)
@@ -22,31 +22,34 @@ Every donation helps us keep the server running, and we are grateful for your su
     - [Chest Shop Discounts](#chest-shop-discounts)
     - [Miscellaneous Perks](#miscellaneous-perks)
 
-## How to Donate:
+## 💳 How to Donate
 
 **We currently accept donations through PayPal only.**
 
 If you need assistance with sending money through PayPal, please refer
-to [this page](https://www.paypal.com/hk/cshelp/article/how-do-i-send-payments-help293).
+to [this guide](https://www.paypal.com/hk/cshelp/article/how-do-i-send-payments-help293).
 
-All donations **must** be made to this email address: **jericho.crosby227@gmail.com**.
+### Steps to Donate:
 
-- Choose the perks you wish to purchase.
-- Calculate the total price.
-- Before making a payment, you must accept our web store Terms & Conditions.
-- When sending your donation, include the names of the perks in the "What's this for" message box.
+1. **Choose Perks**: Select the perks you wish to purchase.
+2. **Calculate Total**: Add up the prices of your selected perks.
+3. **Accept Terms**: Agree to our [Terms and Conditions](#terms-and-conditions).
+4. **Send Payment**: Donate to **jericho.crosby227@gmail.com** and include the names of the perks in the "What's this
+   for" message box.
 
-## Donor Ranks and Requirements:
+## 🏆 Donor Ranks and Requirements
 
-| RANK      | AMOUNT  |
-|-----------|---------|
-| 💰 Squire | $1-19   |
-| 🔱 Titan  | $20-39  |
-| ⚔️ Mortal | $40-59  |
-| 💎 Elder  | $60-89+ |
+Your donor rank is determined by your **total lifetime contributions**. Here’s how it works:
 
-All perks are permanent (subject to change) for the lifetime of the server. However, we may revoke access if a perk is
-abused.
+| Rank          | Amount (NZD) | Benefits                                    |
+|---------------|--------------|---------------------------------------------|
+| 💰 **Squire** | $1–19        | Access to the Squire Kit                    |
+| 🔱 **Titan**  | $20–39       | Access to the Titan kit plus previous kit   |
+| ⚔️ **Mortal** | $40–59       | Access to the Mortal kit plus previous kits |
+| 💎 **Elder**  | $60+         | Access to the Elder kit plus previous kits  |
+
+All perks are **permanent** (subject to change) for the lifetime of the server. However, misuse of perks may result in
+their revocation.
 
 ## Terms and Conditions:
 
@@ -66,14 +69,13 @@ abused.
 - You must use your PayPal account, and you are solely responsible for any actions made by it.
 - If you do not receive your perk(s) within 24 hours, please contact a senior staff member.
 
-## Disclaimer:
+## ⚠️ Disclaimer
 
-JeriCraft is not affiliated with Mojang, AB, and it should not be considered a company endorsed by Mojang, AB. All
-contributions or purchases made to the JeriCraft Web Store go directly to the JeriCraft Management and Development Team.
+**JeriCraft is not affiliated with Mojang AB.** All contributions go directly to the JeriCraft Management and Development Team. For support, inquiries, or purchase history, email us at **jericho.crosby227@gmail.com**.
 
-For more information, support, or a purchase history, please email us at *jericho.crosby227@gmail.com*.
+---
 
-# FULL LIST OF PERKS
+## 🎁 Full List of Perks
 
 ### Text and Customization Perks:
 

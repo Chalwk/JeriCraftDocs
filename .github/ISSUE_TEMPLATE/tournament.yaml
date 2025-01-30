@@ -1,5 +1,5 @@
-name: 🏆 Halo Tournament Creation
-description: Use this template to create a custom tournament.
+name: 🏆 Halo Tournament Proposal
+description: Use this template to propose a custom Halo tournament for the JeriCraft community.
 title: "[Tournament Proposal] <Tournament Name>"
 labels: [ "Tournament" ]
 assignees: Chalwk
@@ -7,8 +7,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        **📌 Tournament Proposal**
-        > Use this template to create a custom tournament proposal for the JeriCraft community.
+        **🏆 Halo Tournament Proposal**
+        > Use this template to propose a custom Halo: Combat Evolved tournament for the JeriCraft community.
         > Provide detailed information about the tournament, including the format, rules, and any other relevant details.
 
   - type: input
@@ -16,7 +16,7 @@ body:
     attributes:
       label: Tournament Name
       description: What is the name of the tournament?
-      placeholder: "Enter the tournament name"
+      placeholder: "e.g., JeriCraft Winter Showdown"
     validations:
       required: true
 
@@ -93,7 +93,7 @@ body:
     attributes:
       label: Number of Teams
       description: How many teams will participate in the tournament?
-      placeholder: "Enter the number of teams"
+      placeholder: "e.g., 8"
     validations:
       required: true
 
@@ -102,7 +102,7 @@ body:
     attributes:
       label: Number of Rounds
       description: How many rounds will the tournament have?
-      placeholder: "Enter the number of rounds"
+      placeholder: "e.g., 5"
     validations:
       required: true
 
@@ -111,7 +111,7 @@ body:
     attributes:
       label: Maximum Players
       description: What is the maximum number of players allowed?
-      placeholder: "Enter the maximum number"
+      placeholder: "e.g., 32"
     validations:
       required: true
 
@@ -141,7 +141,7 @@ body:
     attributes:
       label: Custom Rules or Settings
       description: Provide any custom rules or settings for the tournament (e.g., map restrictions, time limits).
-      placeholder: "Enter the rules here"
+      placeholder: "e.g., No power weapons, 10-minute time limit"
     validations:
       required: false
 
@@ -168,7 +168,7 @@ body:
     attributes:
       label: Organizer Name
       description: Who is organizing this tournament?
-      placeholder: "Enter your name"
+      placeholder: "e.g., John Doe"
     validations:
       required: true
 
@@ -177,7 +177,7 @@ body:
     attributes:
       label: Contact Information
       description: Provide an email address or Discord username for communication.
-      placeholder: "Enter your email or Discord"
+      placeholder: "e.g., john.doe@example.com or JohnDoe#1234"
     validations:
       required: true
 
@@ -186,7 +186,7 @@ body:
     attributes:
       label: Additional Information
       description: Any other details or requests about the tournament?
-      placeholder: "Enter any extra information here"
+      placeholder: "e.g., Special guest commentators, live stream details"
     validations:
       required: false
 
@@ -204,7 +204,7 @@ body:
     attributes:
       label: Team List
       description: "Provide the list of teams and their members (e.g., Team A: Player 1, Player 2, etc.)."
-      placeholder: "Enter team names and members here"
+      placeholder: "e.g., Team Alpha: Player1, Player2; Team Bravo: Player3, Player4"
     validations:
       required: true
 
@@ -222,6 +222,20 @@ body:
     attributes:
       label: Prize Information
       description: What prizes or rewards are available for winners?
-      placeholder: "e.g., gift cards, bragging rights, money, etc."
+      placeholder: "e.g., $100 prize pool, exclusive Discord Roles/Abilities, bragging rights"
     validations:
       required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        **📌 Next Steps**
+        - Once submitted, the JeriCraft team will review your proposal.
+        - You may be contacted for additional details or clarifications.
+        - If approved, your tournament will be scheduled and promoted to the community.
+
+  - type: markdown
+    attributes:
+      value: |
+        **💡 Need Help?**
+        If you have any questions or need assistance, feel free to reach out to us on [Discord](https://discord.gg/wuVcM9AZrr) or via email at **jericho.crosby227@gmail.com**.

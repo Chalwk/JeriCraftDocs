@@ -1,15 +1,22 @@
 # 🎮 Welcome to JeriCraft - Your Ultimate Virtual Sanctuary! 🎮
 
-JeriCraft is a semi-hardcore SMP/RPG Minecraft server focusing on Survival, Economy, Slimefun, Jobs, mcMMO, Seasons, and
+JeriCraft is a semi-hardcore SMP/RPG Minecraft server focusing on **Survival**, **Economy**, **Slimefun**, **Jobs**, *
+*mcMMO**, **Seasons**, and
 more! Our feature-rich server offers various engaging gameplay experiences, including custom content and RPG elements.
 With a commitment to community and support, we provide a platform where gamers can thrive both in-game and in their
 personal lives.
 
 ---
 
-### 🌐 Connect to our Minecraft server (***1.20.1***) at `jericraft.net`.
+## 🚀 Quick Start
 
-### 💫 Join our [Discord community](https://discord.gg/wuVcM9AZrr) and stay connected with fellow JeriCraft players!
+| **Minecraft Version** |  **Server IP**  |                **Discord**                |
+|:---------------------:|:---------------:|:-----------------------------------------:|
+|       `1.20.1`        | `jericraft.net` | [Join Now](https://discord.gg/wuVcM9AZrr) |
+
+[![Discord](https://img.shields.io/discord/1071172977326403634?label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/wuVcM9AZrr)
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-00AF54?style=for-the-badge&logo=curseforge)](jericraft.net)
+
 
 ---
 
@@ -79,7 +86,8 @@ our [Perks Guide](/MINECRAFT/webstore/store.md).
 ## 📝 Applications 📝
 
 Interested in joining the JeriCraft staff team or becoming a builder?<br>
-Check out our [Applications](https://github.com/Chalwk/JeriCraftDocs/issues/new/choose) section for more information on how to apply.<br>
+Check out our [Applications](https://github.com/Chalwk/JeriCraftDocs/issues/new/choose) section for more information on
+how to apply.<br>
 Be sure to review the prerequisites for each role.<br>
 
 ---

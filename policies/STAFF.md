@@ -1,94 +1,120 @@
-# 📜 STAFF ROLES AND RESPONSIBILITIES
+# Staff Roles and Responsibilities
+
+Welcome to the **JeriCraft Staff Team**! Below, you’ll find a detailed breakdown of the roles and responsibilities for each staff position. Our team works tirelessly to ensure a seamless and enjoyable experience across both **Halo** and **Minecraft** servers.
+
+---
 
 ## 👑 Administrators
-Administrators manage the overall operation of **JeriCraft** and are responsible for both the **Halo servers** and **Minecraft server**. Their duties include:
 
-### Halo Server Management:
-- Overseeing the **technical performance** of all **Halo game modes**, including:
-    - **Divide & Conquer** – jericraft.net:2301
-    - **Gun Game** – jericraft.net:2302
-    - **Hunter Prey** – jericraft.net:2303
-    - **Kill Confirmed** – jericraft.net:2304
-    - **Market** – jericraft.net:2305
-    - **Melee Brawl** – jericraft.net:2306
-    - **One In The Chamber** – jericraft.net:2307
-    - **Rooster CTF** – jericraft.net:2308
-    - **Sabotage** – jericraft.net:2309
-    - **Snipers Dream Team Mod** – jericraft.net:2310
-    - **Tag** – jericraft.net:2311
-    - **Team Defender** – jericraft.net:2312
-    - **Zombies** – jericraft.net:2313
-- Ensuring **server stability**, troubleshooting crashes, and addressing performance issues.
-- Reviewing and **approving custom scripts** and modifications for the **Halo servers**.
-- Managing the **Discord Bot** integration to enhance the player experience with real-time notifications.
+Administrators are the backbone of **JeriCraft**, overseeing the overall operation of both **Halo** and **Minecraft** servers. Their responsibilities include:
 
-### Minecraft Server Management:
-- Overseeing **JeriCraft**'s **Minecraft server** and ensuring smooth gameplay.
-- Managing server plugins, mods, and custom features to enhance player experience.
-- Organizing **Minecraft events**, including coordinating activities and managing event servers.
-- Reviewing player feedback and making improvements to **Minecraft server settings** and features.
+### **Halo Server Management**
+- **Technical Oversight**: Ensure optimal performance across all **Halo game modes**:
+    ```markdown
+    - Divide & Conquer – jericraft.net:2301
+    - Gun Game – jericraft.net:2302
+    - Hunter Prey – jericraft.net:2303
+    - Kill Confirmed – jericraft.net:2304
+    - Market – jericraft.net:2305
+    - Melee Brawl – jericraft.net:2306
+    - One In The Chamber – jericraft.net:2307
+    - Rooster CTF – jericraft.net:2308
+    - Sabotage – jericraft.net:2309
+    - Snipers Dream Team Mod – jericraft.net:2310
+    - Tag – jericraft.net:2311
+    - Team Defender – jericraft.net:2312
+    - Zombies – jericraft.net:2313
+    ```
+- **Stability**: Troubleshoot crashes, resolve performance issues, and maintain uptime.
+- **Custom Scripts**: Review and approve custom scripts and modifications.
+- **Discord Bot**: Manage bot integrations for real-time notifications and player engagement.
 
-Administrators are also responsible for maintaining server security, reviewing applications for new staff, and ensuring the smooth day-to-day operations of the entire community.
+### **Minecraft Server Management**
+- **Gameplay Oversight**: Ensure smooth operation of the **Minecraft server**.
+- **Plugins & Mods**: Manage and optimize plugins, mods, and custom features.
+- **Events**: Organize and coordinate **Minecraft events**, including activities and event servers.
+- **Feedback**: Review player feedback and implement improvements to server settings and features.
+
+### **Additional Responsibilities**
+- **Security**: Maintain server security and enforce anti-cheat measures.
+- **Staff Recruitment**: Review and approve applications for new staff members.
+- **Community Leadership**: Foster a positive and inclusive community environment.
 
 ---
 
 ## 🛡️ Moderators
-Moderators work closely with the Administrators and ensure the community runs smoothly across both **Halo** and **Minecraft servers**. Their responsibilities include:
 
-### Halo Server Moderation:
-- Enforcing **server rules** and managing player behavior in-game.
-- Mediating conflicts and addressing issues like cheating or unsportsmanlike conduct.
-- Assisting players with questions regarding custom **Halo game modes**.
+Moderators ensure the community runs smoothly across both **Halo** and **Minecraft** servers. Their duties include:
 
-### Minecraft Server Moderation:
-- Moderating **chat** and ensuring that players follow community guidelines.
-- Handling **player complaints** and disputes, particularly around griefing or rule violations.
-- Supporting the community by assisting with **Minecraft-related inquiries** and gameplay help.
+### **Halo Server Moderation**
+- **Rule Enforcement**: Enforce server rules and manage player behavior.
+- **Conflict Resolution**: Mediate disputes and address issues like cheating or unsportsmanlike conduct.
+- **Player Support**: Assist players with questions about custom **Halo game modes**.
 
-Moderators also assist with **server events**, contribute ideas for **gameplay balance**, and provide valuable feedback to Administrators.
+### **Minecraft Server Moderation**
+- **Chat Moderation**: Monitor and moderate in-game chat to ensure compliance with community guidelines.
+- **Dispute Handling**: Resolve player complaints, particularly around griefing or rule violations.
+- **Gameplay Assistance**: Provide support for **Minecraft-related inquiries** and gameplay help.
+
+### **Additional Responsibilities**
+- **Event Support**: Assist with the coordination and execution of server events.
+- **Feedback**: Provide valuable feedback to Administrators for gameplay balance and improvements.
 
 ---
 
 ## 🌟 Support Team
-Support staff play a vital role in ensuring a welcoming, safe, and enjoyable environment for the **Halo** and **Minecraft** community. Their responsibilities include:
 
-### Halo Support:
-- Providing **technical assistance** to players experiencing issues with **Halo servers**.
-- Assisting new players with understanding **game modes** and server rules.
-- Offering support and troubleshooting for issues with **server performance**.
+The Support Team ensures a welcoming, safe, and enjoyable environment for all players. Their responsibilities include:
 
-### Minecraft Support:
-- Helping players with technical issues such as **lag**, **plugin problems**, or **event participation**.
-- Providing guidance and assistance with **Minecraft gameplay** and server mechanics.
-- Ensuring that all **Minecraft events** are accessible and enjoyable for players.
+### **Halo Support**
+- **Technical Assistance**: Help players troubleshoot issues with **Halo servers**.
+- **New Player Guidance**: Assist new players with understanding **game modes** and server rules.
+- **Performance Support**: Troubleshoot server performance issues and escalate as needed.
 
-Support staff are the heart of the community, providing friendly support and ensuring every player feels welcome.
+### **Minecraft Support**
+- **Technical Help**: Assist players with issues like **lag**, **plugin problems**, or **event participation**.
+- **Gameplay Guidance**: Provide support for **Minecraft gameplay** and server mechanics.
+- **Event Accessibility**: Ensure all **Minecraft events** are enjoyable and accessible for players.
+
+### **Additional Responsibilities**
+- **Community Engagement**: Foster a friendly and inclusive environment for all players.
+- **Feedback Collection**: Gather player feedback to improve the overall experience.
 
 ---
 
 ## 🛠️ Resource Team
-The **Resource Team** is responsible for ensuring that all operational resources are maintained and that the servers run smoothly. This includes:
 
-### Halo Resource Responsibilities:
-- Designing **server event graphics**, **game mode assets**, and visual materials for **Halo** events.
-- Writing and maintaining **documentation** for server scripts, settings, and configurations.
-- Assisting with **bug reports** related to **Halo game modes** and server performance.
+The Resource Team ensures all operational resources are maintained and optimized. Their responsibilities include:
 
-### Minecraft Resource Responsibilities:
-- Creating **Minecraft-specific graphics**, such as banners or event imagery.
-- Writing and maintaining helpful **guides** and **FAQ** resources for **Minecraft players**.
-- Managing **server plugins** and ensuring they are up-to-date, stable, and functional.
-- Helping with **server optimization** and managing **security protocols** for the **Minecraft server**.
+### **Halo Resource Responsibilities**
+- **Asset Creation**: Design **server event graphics** and **game mode assets**.
+- **Documentation**: Write and maintain documentation for server scripts, settings, and configurations.
+- **Bug Reports**: Assist with identifying and resolving bugs related to **Halo game modes**.
+
+### **Minecraft Resource Responsibilities**
+- **Graphics Creation**: Design **Minecraft-specific graphics**, such as banners and event imagery.
+- **Guides & FAQs**: Write and maintain helpful **guides** and **FAQ** resources for players.
+- **Plugin Management**: Ensure plugins are up-to-date, stable, and functional.
+- **Server Optimization**: Assist with **server optimization** and **security protocols**.
 
 ---
 
 ## 🎮 Additional Responsibilities
-### Server Events Coordination:
-- **Administrators** and **Moderators** must collaborate on the **coordination of server events** for both **Halo** and **Minecraft**, including:
-  - Designing and promoting **seasonal events**, **tournaments**, and **special in-game activities**.
-  - Handling the organization of in-game **lobbies**, **leaderboards**, and event-specific features.
 
-### Cross-Platform Community Engagement:
-- Staff members should foster communication across the **Halo servers** and **Minecraft community**:
-  - Encouraging **cross-platform interactions** to unite players from both games.
-  - Ensuring all players feel equally supported, regardless of their preferred platform.
+### **Server Events Coordination**
+- **Event Design**: Plan and promote **seasonal events**, **tournaments**, and **special activities**.
+- **Lobby Management**: Organize in-game **lobbies**, **leaderboards**, and event-specific features.
+- **Cross-Platform Collaboration**: Ensure events are engaging for both **Halo** and **Minecraft** players.
+
+### **Cross-Platform Community Engagement**
+- **Unified Community**: Encourage **cross-platform interactions** to unite players from both games.
+- **Equal Support**: Ensure all players feel equally supported, regardless of their preferred platform.
+
+---
+
+<center>
+
+[![Discord](https://img.shields.io/discord/1071172977326403634?label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/wuVcM9AZrr)
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-00AF54?style=for-the-badge&logo=curseforge)](jericraft.net)
+
+</center>
