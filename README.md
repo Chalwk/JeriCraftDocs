@@ -6,6 +6,9 @@ This repository serves as the central hub for comprehensive guides, manuals, and
 
 ---
 
+[![Discord](https://img.shields.io/discord/1071172977326403634?label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/wuVcM9AZrr)
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-00AF54?style=for-the-badge&logo=curseforge)](jericraft.net)
+
 ## 🌍 Minecraft Documentation
 
 Explore detailed guides and resources for the JeriCraft Minecraft server:
