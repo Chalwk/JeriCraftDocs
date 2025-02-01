@@ -1,41 +1,43 @@
 # Server Features Overview
 
-Welcome to the **JeriCraft Server Features** guide! Our server is packed with a variety of **popular and custom plugins** designed to elevate your Minecraft experience. Below, you’ll find a curated list of the **core features** that make our server unique, along with detailed descriptions and links to guides for further exploration.
+Welcome to the **JeriCraft Server Features** guide! Our server is packed with a variety of **popular and custom plugins
+** designed to elevate your Minecraft experience. Below, you’ll find a curated list of the **core features** that make
+our server unique, along with detailed descriptions and links to guides for further exploration.
 
 ---
 
 ### 📑 Table of Contents
 
-1. **[Slimefun 4](#1-slimefun-4)**
+1. [**Slimefun 4**](#1-slimefun-4)
     - [Our Slimefun Addons](#our-slimefun-addons)
-2. **[Jobs Reborn](#2-jobs-reborn)**
+2. [**Jobs Reborn**](#2-jobs-reborn)
     - [Full List of Jobs Available on Our Server](#full-list-of-jobs-available-on-our-server)
     - [Jobs Boost](#job-boosters)
-3. **[mcMMO](#3-mcmmo)**
+3. [**mcMMO**](#3-mcmmo)
     - [Full List of McMMO Skills on Our Server](#full-list-of-mcmmo-skills-on-our-server)
-4. **[AuctionHouse](#4-auctionhouse)**
-5. **[RealisticSeasons](#5-realisticseasons)**
-6. **[Chest Shop](#6-chestshop)**
-7. **[LevelledMobs](#7-levelledmobs)**
-8. **[WorldGuard](#8-worldguard)** 
+4. [**AuctionHouse**](#4-auctionhouse)
+5. [**RealisticSeasons**](#5-realisticseasons)
+6. [**Chest Shop**](#6-chestshop)
+7. [**LevelledMobs**](#7-levelledmobs)
+8. [**WorldGuard**](#8-worldguard)
     - [Players can set the following flags in their claims](#players-can-set-the-following-flags-in-their-claims)
-9. **[Additional Features](#additional-features)**
-   - [Recurring Playtime Rewards](#recurring-playtime-rewards)
-   - [Rewards Overview](#rewards-overview)
-10. **[Sit Anywhere!](#sit-anywhere-members-and-above)**
-11. **[Portable Ender Chest (27 Slots)](#portable-ender-chest-27-slots)**
-12. **[Scavenge (salvage items and enchantments)](#scavenge-salvage-items-and-enchantments)**
-13. **[Cheque (create cheques for players)](#cheque-create-cheques-for-players)**
-14. **[Donate (give items to other players)](#donate-give-items-to-other-players)**
-15. **[Hats (wear any item on your head)](#hats-wear-any-item-on-your-head)**
-16. **[Functional Book Shelves](#functional-book-shelves)**
-17. **[Chat Emojis](#chat-emojis)**
-    - [Emotions](#emotions)
-    - [Celebrations](#celebrations)
-    - [Food and Drink](#food-and-drink)
-    - [Nature](#nature)
-    - [Animals](#animals)
-    - [Miscellaneous](#miscellaneous)
+9. [**Additional Features**](#additional-features)
+    - [Recurring Playtime Rewards](#recurring-playtime-rewards)
+    - [Rewards Overview](#rewards-overview)
+    - [Sit Anywhere!](#sit-anywhere-members-and-above)
+    - [Portable Ender Chest (27 Slots)](#portable-ender-chest-27-slots)
+    - [Scavenge (salvage items and enchantments)](#scavenge-salvage-items-and-enchantments)
+    - [Cheque (create cheques for players)](#cheque-create-cheques-for-players)
+    - [Donate (give items to other players)](#donate-give-items-to-other-players)
+    - [Hats (wear any item on your head)](#hats-wear-any-item-on-your-head)
+    - [Functional Book Shelves](#functional-book-shelves)
+    - [Chat Emojis](#chat-emojis)
+        - [Emotions](#emotions)
+        - [Celebrations](#celebrations)
+        - [Food and Drink](#food-and-drink)
+        - [Nature](#nature)
+        - [Animals](#animals)
+        - [Miscellaneous](#miscellaneous)
 
 ---
 
@@ -43,7 +45,8 @@ Welcome to the **JeriCraft Server Features** guide! Our server is packed with a 
 
 ## 1. [Slimefun 4](https://github.com/Slimefun/Slimefun4)
 
-**Slimefun** is a **tech and magic mod-inspired plugin** that adds hundreds of hours of new content to Minecraft. From advanced machinery to magical items, Slimefun offers endless possibilities for creativity and exploration.
+**Slimefun** is a **tech and magic mod-inspired plugin** that adds hundreds of hours of new content to Minecraft. From
+advanced machinery to magical items, Slimefun offers endless possibilities for creativity and exploration.
 
 For detailed instructions on getting started, please refer to our [Slimefun Guide](../guides/Slimefun.md).
 
@@ -82,26 +85,26 @@ unlocking new rewards.
 
 #### Full List of Jobs Available on Our Server:
 
-| Job Name       | Description                                                                     |
-|----------------|---------------------------------------------------------------------------------|
-| **Baker**    | Bake delicious bread and sweets to earn rewards.                                |
-| **Brewer**     | Brew potions and unlock powerful alchemy abilities.                             |
-| **Builder**    | Use your building skills to create amazing structures.                          |
-| **Caretaker**  | Manage and tend to animals and plants.                                          |
-| **Cooker**     | Cook food for players and enhance your culinary skills.                         |
-| **Crafter**    | Craft items, tools, and more to gain valuable resources.                        |
-| **Digger**     | Dig for precious ores and minerals in the ground.                               |
-| **Enchanter**  | Enchant tools and weapons with special effects.                                 |
-| **Explorer**   | Explore the world, uncover secrets, and gain rewards for discovering new areas. |
-| **Farmer**     | Grow crops and raise animals for a living.                                      |
-| **Fisherman**  | Fish for new items and rewards in bodies of water.                              |
-| **Hunter**     | Hunt mobs for drops and rewards.                                                |
-| **Merchant**   | Trade with other players for valuable items.                                    |
-| **Miner**      | Mine ores and gems deep beneath the surface.                                    |
-| **Smelter**    | Smelt ores into valuable ingots and materials.                                  |
-| **Taster**     | Taste and test new foods and potions.                                           |
+| Job Name        | Description                                                                     |
+|-----------------|---------------------------------------------------------------------------------|
+| **Baker**       | Bake delicious bread and sweets to earn rewards.                                |
+| **Brewer**      | Brew potions and unlock powerful alchemy abilities.                             |
+| **Builder**     | Use your building skills to create amazing structures.                          |
+| **Caretaker**   | Manage and tend to animals and plants.                                          |
+| **Cooker**      | Cook food for players and enhance your culinary skills.                         |
+| **Crafter**     | Craft items, tools, and more to gain valuable resources.                        |
+| **Digger**      | Dig for precious ores and minerals in the ground.                               |
+| **Enchanter**   | Enchant tools and weapons with special effects.                                 |
+| **Explorer**    | Explore the world, uncover secrets, and gain rewards for discovering new areas. |
+| **Farmer**      | Grow crops and raise animals for a living.                                      |
+| **Fisherman**   | Fish for new items and rewards in bodies of water.                              |
+| **Hunter**      | Hunt mobs for drops and rewards.                                                |
+| **Merchant**    | Trade with other players for valuable items.                                    |
+| **Miner**       | Mine ores and gems deep beneath the surface.                                    |
+| **Smelter**     | Smelt ores into valuable ingots and materials.                                  |
+| **Taster**      | Taste and test new foods and potions.                                           |
 | **Weaponsmith** | Forge powerful weapons to defend your world.                                    |
-| **Woodcutter** | Chop down trees and gather valuable wood resources.                             |
+| **Woodcutter**  | Chop down trees and gather valuable wood resources.                             |
 
 #### Job Boosters
 

@@ -1,8 +1,15 @@
 # 🎮 Welcome to JeriCraft - Your Ultimate Virtual Sanctuary! 🎮
 
-JeriCraft is a semi-hardcore SMP/RPG Minecraft server focusing on **Survival**, **Economy**, **Slimefun**, **Jobs**, *
-*mcMMO**, **Seasons**, and
-more! Our feature-rich server offers various engaging gameplay experiences, including custom content and RPG elements.
+**JeriCraft** is a **Semi-RPG Survival Multiplayer (SMP)** server focusing on: 
+- **Survival**
+- **Economy**
+- **Slimefun**
+- **Jobs**
+- **mcMMO**
+- **Seasons**
+- and more!
+
+Our server offers various engaging gameplay experiences, including custom content and RPG elements.
 With a commitment to community and support, we provide a platform where gamers can thrive both in-game and in their
 personal lives.
 
@@ -16,7 +23,6 @@ personal lives.
 
 [![Discord](https://img.shields.io/discord/1071172977326403634?label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/wuVcM9AZrr)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-00AF54?style=for-the-badge&logo=curseforge)](jericraft.net)
-
 
 ---
 
