@@ -41,7 +41,7 @@ Explore our server's core features:
 - 🗺️ [Regions](/MINECRAFT/guides/Regions.md): Claim, protect, and manage specific areas on the server.
 - 🧪 [Slimefun](/MINECRAFT/guides/Slimefun.md): Explore new items, machines, and crafting recipes in Slimefun.
 
-### [Explore more here](/MINECRAFT/features)
+### [Explore more here](/MINECRAFT/features/features.md)
 
 ---
 
