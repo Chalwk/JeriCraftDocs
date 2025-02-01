@@ -295,9 +295,9 @@ worth:
   DRAGON_BREATH: 75.0
   NETHERITE_UPGRADE_SMITHING_TEMPLATE: 150.0
 
-  #-----------------------------------------------#
-  # ITEMS THAT NEED TO BE ADJUSTED AND CATEGORIZED
-  #-----------------------------------------------#
+  #-----------------------------------------------------------#
+  # ITEMS BELOW THIS POINT NEED TO BE ADJUSTED AND CATEGORIZED:
+  #-----------------------------------------------------------#
   ACACIA_BOAT: '0.75'
   ACACIA_BUTTON: '0.15'
   ACACIA_CHEST_BOAT: '2.35'
