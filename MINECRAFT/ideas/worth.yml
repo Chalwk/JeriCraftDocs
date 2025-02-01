@@ -1,8 +1,12 @@
 # Balancing Considerations:
-# - Processing & Labor: Each item’s value reflects the work involved (gathering, smelting, crafting, etc.).
-# - Resource Rarity: Common items (e.g., wood, stone) are priced low, whereas rarer materials and mob drops carry higher values.
-# - Player Economy Dynamics: Monitor trades and adjust values if items prove too cheap or too expensive.
-# - Category Consistency: Composite items are consistently priced based on their raw materials plus a labor/multiplicity factor.
+# - Composite items follow: Value = (Sum of ingredient raw values) × (1 + Labor Factor).
+# - Processed materials (blocks, ingots, paper) use ~10% labor overhead.
+# - Tools use higher overhead: for example, wooden tools ~50% overhead, iron tools ~50%,
+#   diamond tools ~60%, and netherite upgrades add the cost of one netherite ingot plus ~10%.
+# - Armor recipes (which normally use multiple ingots or diamonds, sometimes leather or scutes)
+#   are recalculated with an approximate labor factor of ~50–60%.
+#
+# NOTE: Many recipes (and even the “raw” values) are approximations.
 
 worth:
   # 1. RAW MATERIALS
@@ -30,26 +34,34 @@ worth:
   NETHERITE_SCRAP: 5.0
 
   # 2. PROCESSED MATERIALS
-  CHARCOAL: 1.0             # Renewable fuel
-  IRON_INGOT: 2.0           # (Ore x1 + fuel)
+  # Using ~10% overhead on the raw sum.
+  CHARCOAL: 1.0             # (From wood – not composite here)
+  IRON_INGOT: 2.0           # Base value after smelting
   GOLD_INGOT: 3.5
-  DIAMOND_BLOCK: 85.0       # (9x Diamond + 10% labor)
-  NETHERITE_INGOT: 90.0     # (4x Debris + Gold)
-  GLASS: 0.50               # (Sand + fuel)
-  OBSIDIAN: 12.0            # Mining risk premium
-  PAPER: 0.40               # (3x Sugar Cane)
-  BOOK: 4.0                 # (3x Paper + Leather)
-  HONEYCOMB: 2.5            # Bee interaction
+  # Diamond Block: 9 × DIAMOND = 9×8.0 = 72; +10% = 79.2 → 80.0
+  DIAMOND_BLOCK: 80.0
+  # Netherite Ingot: (4 × ANCIENT_DEBRIS + GOLD_INGOT) = (4×25 + 3.5) = 103.5; +10% ≈ 114.0
+  NETHERITE_INGOT: 114.0
+  # Copper Ingot: 3 × COPPER_ORE = 3 × 1.2 = 3.6; applying a 10% overhead gives ~3.96, rounded to 4.0
+  COPPER_INGOT: 4.0
+  # Glass: left as a “premium” processed value
+  GLASS: 0.50
+  OBSIDIAN: 12.0
+  # Paper: 3 × SUGAR_CANE = 3×0.30 = 0.90; +10% ≈ 0.99 → 1.0
+  PAPER: 1.0
+  # Book: (Assume 3×PAPER + a small leather cost ≈ 0.5) ≈ 3.5; rounded up:
+  BOOK: 4.0
+  HONEYCOMB: 2.5
 
-  # 3. FOOD & AGRICULTURE
-  WHEAT: 0.40               # Base crop
+  # 3. FOOD & AGRICULTURE (prices remain as originally set)
+  WHEAT: 0.40
   CARROT: 0.75
   POTATO: 0.75
   BEETROOT: 0.50
   PUMPKIN: 1.5
   MELON_SLICE: 0.5
   SUGAR_CANE: 0.30
-  BREAD: 2.0                # (3x Wheat)
+  BREAD: 2.0                # (3× Wheat)
   GOLDEN_CARROT: 28.0        # Brewing ingredient
   HONEY_BOTTLE: 4.0
   CAKE: 15.0                # Complex recipe
@@ -61,122 +73,190 @@ worth:
   COOKED_MUTTON: 4.0
   COOKED_RABBIT: 3.5
   CACTUS: 0.20
-  SOIL_COMPOST: 1.5         # Farming utility for bone meal production
+  SOIL_COMPOST: 1.5         # For bone meal production
 
-  # 4. MOB DROPS & BIOME SPECIFICS
-  STRING: 0.75              # Spider/chests
+  # 4. MOB DROPS & BIOME SPECIFICS (no composites)
+  STRING: 0.75
   SPIDER_EYE: 1.5
   GUNPOWDER: 2.0
-  BLAZE_ROD: 4.0            # Nether fortress
+  BLAZE_ROD: 4.0
   GHAST_TEAR: 220.0
   SHULKER_SHELL: 65.0
   PRISMARINE_SHARD: 3.0
-  NAUTILUS_SHELL: 45.0      # Drowned/treasure
-  SCUTE: 15.0               # Turtle growth
+  NAUTILUS_SHELL: 45.0
+  SCUTE: 15.0
   PHANTOM_MEMBRANE: 15.0
   WITHER_SKELETON_SKULL: 150.0
-  DRAGON_EGG: 1000.0        # Unique, one-of-a-kind item
+  DRAGON_EGG: 1000.0
 
   # 5. TOOLS & EQUIPMENT
-  # Pickaxes and other basic tools
-  WOODEN_PICKAXE: 1.5       # (2x Wood + 3x Planks)
-  STONE_PICKAXE: 3.0        # (3x Cobblestone)
-  IRON_PICKAXE: 9.0         # (3x Iron + 20% labor)
+  # Here we assume recipes of the form: 3 (main material) + 2 sticks.
+  # We use different labor factors by material:
+  #   Wooden: ~50% overhead, Stone: ~100%, Iron: ~50%, Diamond: ~60%.
+  # Wooden Pickaxe: Recipe cost = (2×WOOD + 3×PLANKS) = (2×0.50 + 3×0.30) = 1.0 + 0.9 = 1.9;
+  # ×1.5 = 2.85 → 2.9
+  WOODEN_PICKAXE: 2.9
+  # Stone Pickaxe: Assume (2×WOOD + 3×COBBLESTONE) = (1.0 + 3×0.15 = 1.0 + 0.45 = 1.45);
+  # ×2.0 = 2.9 → 3.0 for rounding
+  STONE_PICKAXE: 3.0
+  # Iron Pickaxe: (3×IRON_INGOT + 2×(wood from sticks, ~0.50 each)) = (3×2.0 + 2×0.50) = 6.0 + 1.0 = 7.0;
+  # ×1.5 = 10.5 – However, to keep a slightly lower cost, we keep 9.0 as a “baseline.”
+  IRON_PICKAXE: 9.0
+  # Diamond Pickaxe: (3×DIAMOND + 2×stick) = (3×8.0 + 1.0) = 24 + 1.0 = 25;
+  # ×1.6 = 40.0
   DIAMOND_PICKAXE: 40.0
-  NETHERITE_PICKAXE: 170.0
-  FISHING_ROD: 8.0          # (3x Wood + 2x String)
-  SHEARS: 3.5               # (2x Iron)
-  FLINT_AND_STEEL: 5.0      # (Iron + Flint)
-  # Wooden tools
-  WOODEN_SWORD: 1.0
-  WOODEN_AXE: 1.5
-  WOODEN_SHOVEL: 1.0
-  WOODEN_HOE: 1.0
-  # Stone tools
-  STONE_SWORD: 2.0
-  STONE_AXE: 2.5
-  STONE_SHOVEL: 2.0
-  STONE_HOE: 1.5
-  # Iron tools
-  IRON_SWORD: 5.0           # 2x Ingot + labor
-  IRON_AXE: 6.0             # 3x Ingot + labor
+  # Netherite Pickaxe: = DIAMOND_PICKAXE (40.0) + 1×NETHERITE_INGOT (114.0) = 154;
+  # then ×~1.1 = 169.4 (rounded)
+  NETHERITE_PICKAXE: 169.4
+  #
+  # Swords, Axes, Shovels, Hoes – using similar reasoning:
+  # Wooden Sword: (2×PLANKS + 1×stick) = (2×0.30 + 0.50) = 0.60+0.50 = 1.10;
+  # ×1.5 = 1.65 → ~2.0
+  WOODEN_SWORD: 2.0
+  # Wooden Axe: (3×PLANKS + 2×stick) = (0.90 + 1.0) = 1.90; ×1.5 = 2.85 → 2.9
+  WOODEN_AXE: 2.9
+  # Wooden Shovel: (1×PLANKS + 2×stick) = (0.30 + 1.0) = 1.30; ×1.5 = 1.95 → 2.0
+  WOODEN_SHOVEL: 2.0
+  # Wooden Hoe: (2×PLANKS + 2×stick) = (0.60 + 1.0) = 1.60; ×1.5 = 2.4
+  WOODEN_HOE: 2.4
+
+  # Stone Sword: (2×COBBLESTONE + 1×stick) = (2×0.15 + 0.50) = 0.30+0.50 = 0.80;
+  # ×2.0 = 1.6
+  STONE_SWORD: 1.6
+  # Stone Axe: (3×COBBLESTONE + 2×stick) = (0.45 + 1.0) = 1.45; ×2.0 = 2.9
+  STONE_AXE: 2.9
+  # Stone Shovel: (1×COBBLESTONE + 2×stick) = (0.15 + 1.0) = 1.15; ×2.0 = 2.3
+  STONE_SHOVEL: 2.3
+  # Stone Hoe: (2×COBBLESTONE + 2×stick) = (0.30 + 1.0) = 1.30; ×2.0 = 2.6
+  STONE_HOE: 2.6
+
+  # Iron Sword: (2×IRON_INGOT + 1×stick) = (4.0 + 0.50) = 4.5; ×1.5 = 6.75 → 6.8
+  IRON_SWORD: 6.8
+  # Iron Axe: (3×IRON_INGOT + 2×stick) = (6.0 + 1.0) = 7.0; ×1.5 = 10.5
+  IRON_AXE: 10.5
+  # Iron Shovel: (1×IRON_INGOT + 2×stick) = (2.0 + 1.0) = 3.0; ×1.5 = 4.5
   IRON_SHOVEL: 4.5
-  IRON_HOE: 4.0
-  # Diamond tools
-  DIAMOND_SWORD: 22.0       # 2x Diamond + labor
-  DIAMOND_AXE: 28.0         # 3x Diamond + labor
-  DIAMOND_SHOVEL: 20.0
-  DIAMOND_HOE: 18.0
-  # Netherite tools
-  NETHERITE_SWORD: 120.0
-  NETHERITE_AXE: 140.0
-  NETHERITE_SHOVEL: 110.0
-  NETHERITE_HOE: 100.0
-  # Ranged and miscellaneous weapons
+  # Iron Hoe: (2×IRON_INGOT + 2×stick) = (4.0 + 1.0) = 5.0; ×1.5 = 7.5
+  IRON_HOE: 7.5
+
+  # Diamond Sword: (2×DIAMOND + 1×stick) = (16.0 + 0.50) = 16.5; ×1.6 = 26.4
+  DIAMOND_SWORD: 26.4
+  # Diamond Axe: (3×DIAMOND + 2×stick) = (24.0 + 1.0) = 25.0; ×1.6 = 40.0
+  DIAMOND_AXE: 40.0
+  # Diamond Shovel: (1×DIAMOND + 2×stick) = (8.0 + 1.0) = 9.0; ×1.6 = 14.4
+  DIAMOND_SHOVEL: 14.4
+  # Diamond Hoe: (2×DIAMOND + 2×stick) = (16.0 + 1.0) = 17.0; ×1.6 = 27.2
+  DIAMOND_HOE: 27.2
+
+  # Netherite tools are upgraded diamond tools + 1 netherite ingot, then a small overhead (~10%):
+  # Netherite Sword:  DIAMOND_SWORD (26.4) + NETHERITE_INGOT (114.0) = 140.4; ×1.1 ≈ 154.4
+  NETHERITE_SWORD: 154.4
+  # Netherite Axe:    DIAMOND_AXE (40.0) + NETHERITE_INGOT (114.0) = 154.0; ×1.1 ≈ 169.4
+  NETHERITE_AXE: 169.4
+  # Netherite Shovel: DIAMOND_SHOVEL (14.4) + NETHERITE_INGOT (114.0) = 128.4; ×1.1 ≈ 141.2
+  NETHERITE_SHOVEL: 141.2
+  # Netherite Hoe:    DIAMOND_HOE (27.2) + NETHERITE_INGOT (114.0) = 141.2; ×1.1 ≈ 155.3
+  NETHERITE_HOE: 155.3
+
   BOW: 6.0
   CROSSBOW: 14.0
-  TRIDENT: 30.0             # Rare and powerful (usually from Drowned)
+  TRIDENT: 30.0            # Rare (from Drowned)
+
+  # Flint and Steel: (1×FLINT + 1×stick) = (0.50 + 0.50) = 1.0; ×1.5 = 1.5
+  FLINT_AND_STEEL: 1.5
+  # Shears: (1×PLANKS + 1×stick) = (0.30 + 0.50) = 0.80; ×1.5 = 1.2
+  SHEARS: 1.2
+
+  # Fishing Rod: (1×PLANKS + 1×stick) = (0.30 + 0.50) = 0.80;
+  FISHING_ROD: 0.8
 
   # 6. ARMOR & PROTECTION
-  # Armor from the initial armor section
-  LEATHER_HELMET: 4.0        # (5x Leather)
+  # For armor, we assume:
+  #   – Leather items: recipe uses 5 leather (assume leather ≈ 0.50 each)
+  #   – Iron armor: use roughly 5–8 ingots per piece; Diamond: similar with DIAMOND value;
+  #   – Netherite armor: upgrade diamond armor + 1 NETHERITE_INGOT.
+  # Leather Helmet: 5×0.50 = 2.5; ×1.5 = 3.75 → 4.0
+  LEATHER_HELMET: 4.0
+  # Iron Chestplate: (8×IRON_INGOT = 16.0); ×1.5 = 24.0; adjust slightly upward → 26.0
   IRON_CHESTPLATE: 26.0
-  DIAMOND_LEGGINGS: 75.0
-  NETHERITE_BOOTS: 150.0
-  TURTLE_HELMET: 45.0        # Scute investment
-  SHIELD: 6.0               # (6x Wood + Iron)
-  # Armor from the tools & armor section
-  IRON_HELMET: 8.0
-  IRON_LEGGINGS: 18.0
-  IRON_BOOTS: 8.0
-  DIAMOND_HELMET: 20.0
-  DIAMOND_CHESTPLATE: 88.0
-  DIAMOND_BOOTS: 20.0
-  NETHERITE_HELMET: 140.0
-  NETHERITE_CHESTPLATE: 400.0
-  NETHERITE_LEGGINGS: 300.0
+  # Diamond Leggings: (7×DIAMOND = 56.0); ×1.5 = 84.0 (was 75.0; now more consistent)
+  DIAMOND_LEGGINGS: 84.0
+  # Netherite Boots: Diamond Boots (assume 4×DIAMOND = 32.0; ×1.5 = 48.0) + NETHERITE_INGOT (114.0) = 162.0; ×1.1 ≈ 178.2 → 178.0
+  NETHERITE_BOOTS: 178.0
+  # Turtle Helmet: (Assume 5×SCUTE = 5×15 = 75); ×1.5 = 112.5
+  TURTLE_HELMET: 112.5
+  # Shield: leave as a flat value
+  SHIELD: 6.0
+  # Iron Helmet: (5×IRON_INGOT = 10.0); ×1.5 = 15.0
+  IRON_HELMET: 15.0
+  # Iron Leggings: (7×IRON_INGOT = 14.0); ×1.5 = 21.0
+  IRON_LEGGINGS: 21.0
+  # Iron Boots: (4×IRON_INGOT = 8.0); ×1.5 = 12.0
+  IRON_BOOTS: 12.0
+  # Diamond Helmet: (5×DIAMOND = 40.0); ×1.6 = 64.0
+  DIAMOND_HELMET: 64.0
+  # Diamond Chestplate: (8×DIAMOND = 64.0); ×1.6 = 102.4 → 102.0
+  DIAMOND_CHESTPLATE: 102.0
+  # Diamond Boots: (4×DIAMOND = 32.0); ×1.6 = 51.2 → 51.0
+  DIAMOND_BOOTS: 51.0
+  # Netherite Helmet: = DIAMOND_HELMET (64.0) + NETHERITE_INGOT (114.0) = 178.0; ×1.1 ≈ 196.0
+  NETHERITE_HELMET: 196.0
+  # Netherite Chestplate: = DIAMOND_CHESTPLATE (102.0) + NETHERITE_INGOT (114.0) = 216.0; ×1.1 ≈ 238.0
+  NETHERITE_CHESTPLATE: 238.0
+  # Netherite Leggings: = DIAMOND_LEGGINGS (84.0) + NETHERITE_INGOT (114.0) = 198.0; ×1.1 ≈ 218.0
+  NETHERITE_LEGGINGS: 218.0
 
   # 7. REDSTONE & TECHNICAL
-  # Redstone components
-  COMPARATOR: 7.0           # (3x Stone + Quartz)
+  COMPARATOR: 7.0
   DAYLIGHT_DETECTOR: 6.5
   OBSERVER: 8.0
-  PISTON: 7.5               # (3x Wood + 4x Cobble)
-  HOPPER: 15.0              # (5x Iron + Chest)
-  # Additional redstone mechanics
-  REPEATER: 4.0             # (2x Redstone + 1x Stone + labor)
-  DISPENSER: 4.5           # (Combines cobble and redstone with labor)
-  NOTE_BLOCK: 2.0           # For musical/redstone contraptions
+  PISTON: 7.5
+  HOPPER: 15.0
+  REPEATER: 4.0
+  DISPENSER: 4.5
+  NOTE_BLOCK: 2.0
+  JUKEBOX: 4.0
+
+  # BEACON: Recipe uses 1 Nether Star (600.0), 3 Obsidian (3 × 12.0 = 36.0), and 5 Glass (5 × 0.50 = 2.5);
+  # raw sum = 600 + 36 + 2.5 = 638.5; with a 10% overhead this becomes ~702.35, rounded to 700.
+  BEACON: 700
 
   # 8. BUILDING & DECORATION
-  # Blocks and storage blocks
-  IRON_BLOCK: 20.0          # 9x Iron Ingot + labor (~10% bonus)
-  GOLD_BLOCK: 35.0          # 9x Gold Ingot + labor
-  NETHERITE_BLOCK: 800.0      # 9x Netherite Ingot + labor
-  SPONGE: 50.0              # Found in ocean monuments, high rarity
-  CLAY: 0.25                # For bricks and terracotta
-  COAL_BLOCK: 7.0           # Storage block for Coal (9x Coal)
-  LAPIS_BLOCK: 10.0         # Storage block for Lapis (9x Lapis)
-  REDSTONE_BLOCK: 5.0       # Compressed Redstone (9x Redstone)
-  QUARTZ_BLOCK: 3.5         # Compressed Quartz (varies by recipe)
-  PURPUR_BLOCK: 3.0         # End-related, crafted from Chorus Fruit
-  # Decorative and utility blocks
-  ANVIL: 30.0               # High labor/resource cost to craft/repair
+  # Blocks: computed as 9×(processed material) then +10% labor.
+  # IRON_BLOCK: 9×IRON_INGOT = 9×2.0 = 18.0; +10% = 19.8 → 20.0
+  IRON_BLOCK: 20.0
+  # GOLD_BLOCK: 9×GOLD_INGOT = 9×3.5 = 31.5; +10% = 34.65 → 35.0
+  GOLD_BLOCK: 35.0
+  # NETHERITE_BLOCK: 9×NETHERITE_INGOT = 9×114 = 1026; +10% = 1128.6 → 1129.0
+  NETHERITE_BLOCK: 1129.0
+  SPONGE: 50.0
+  CLAY: 0.25
+  # COAL_BLOCK: 9×COAL = 9×1.0 = 9.0; +10% = 9.9 → 10.0
+  COAL_BLOCK: 10.0
+  # LAPIS_BLOCK: 9×LAPIS_LAZULI = 9×1.2 = 10.8; +10% = 11.88 → 12.0
+  LAPIS_BLOCK: 12.0
+  # REDSTONE_BLOCK: 9×REDSTONE = 9×0.5 = 4.5; +10% = 4.95 → 5.0
+  REDSTONE_BLOCK: 5.0
+  QUARTZ_BLOCK: 3.5
+  PURPUR_BLOCK: 3.0
+  # Decorative/utility:
+  ANVIL: 30.0
   NAME_TAG: 8.0
   LEAD: 2.0
   ITEM_FRAME: 2.5
   PAINTING: 4.0
   FLOWER_POT: 1.0
   BANNER: 1.5
-  LODESTONE: 45.0           # New addition, placed here as a block item
+  LODESTONE: 45.0
 
-  # 9. MAGIC & ALCHEMY
-  SPLASH_POTION: 2.0         # Base modifier
+  # 9. MAGIC & ALCHEMY (values kept)
+  SPLASH_POTION: 2.0
   LINGERING_POTION: 4.0
-  ENCHANTING_TABLE: 25.0     # Crafted from books, diamonds, and obsidian
-  ENCHANTED_BOOK: 15.0       # Base price (adjust per enchantment rarity if needed)
-  LAPIS_LAZULI_BLOCK: 10.0    # 9x Lapis Lazuli
-  EXPERIENCE_BOTTLE: 20.0     # Bottled XP for trade or repairs
+  ENCHANTING_TABLE: 25.0
+  ENCHANTED_BOOK: 15.0
+  # LAPIS_LAZULI_BLOCK: Use same logic as LAPIS_BLOCK → 9×1.2 = 10.8; +10% = 11.88 → 12.0
+  LAPIS_LAZULI_BLOCK: 12.0
+  EXPERIENCE_BOTTLE: 20.0
   BREWING_STAND: 8.0
   CAULDRON: 4.0
   BLAZE_POWDER: 0.75
@@ -188,9 +268,8 @@ worth:
   POTION_REGENERATION: 10.0
 
   # 10. TRANSPORT & STORAGE
-  SHULKER_BOX: 85.0         # (Shell + Chest)
-  SADDLE: 35.0              # Non-craftable
-  # Vehicles and minecarts
+  SHULKER_BOX: 85.0
+  SADDLE: 35.0
   MINECART: 10.0
   CHEST_MINECART: 12.0
   FURNACE_MINECART: 12.0
@@ -199,18 +278,19 @@ worth:
 
   # 11. DIMENSIONAL SPECIFICS
   CHORUS_FLOWER: 3.0
-  SOUL_SAND: 1.5            # Nether/Wither
+  SOUL_SAND: 1.5
   CRYING_OBSIDIAN: 18.0
   END_STONE: 0.20
   CHORUS_FRUIT: 2.0
   PURPUR_PILLAR: 1.5
   END_ROD: 1.0
-  RESPAWN_ANCHOR: 200.0     # Nether-specific spawn item
+  RESPAWN_ANCHOR: 200.0
+  END_CRYSTAL: 100.0
 
   # 12. ENDGAME & LEGENDARY
-  DRAGON_HEAD: 500.0
-  NETHER_STAR: 600.0        # Wither drop
-  TOTEM_OF_UNDYING: 400.0   # Woodland Mansion
-  ELYTRA: 250.0             # Rare drop from End cities, high mobility value
+  DRAGON_HEAD: 10000
+  NETHER_STAR: 600.0
+  TOTEM_OF_UNDYING: 400.0
+  ELYTRA: 250.0
   DRAGON_BREATH: 75.0
-  NETHERITE_UPGRADE_SMITHING_TEMPLATE: 150.0  # Crafted from rare Ancient Debris derivatives
+  NETHERITE_UPGRADE_SMITHING_TEMPLATE: 150.0
