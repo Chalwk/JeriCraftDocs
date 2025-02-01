@@ -1,0 +1,58 @@
+worth:
+  # ---- RAW MATERIALS ----
+  COBBLESTONE: 0.15          # Reduced (common, easy to farm)
+  IRON_INGOT: 2.0            # Increased (labor/time to smelt)
+  GOLD_INGOT: 3.5            # Increased (rarer than iron)
+  DIAMOND: 8.0               # Increased (high-tier utility)
+  NETHERITE_INGOT: 80.0      # Added (4x Gold + 4x Netherite Scrap)
+  ANCIENT_DEBRIS: 20.0       # Added (raw Netherite)
+  NETHERITE_SCRAP: 5.0       # Added (smelted from Ancient Debris)
+  EMERALD: 12.0              # Adjusted (villager trading balance)
+  BLAZE_ROD: 1.5             # Increased (Nether farming risk)
+  BLAZE_POWDER: 0.75         # 1 rod = 2 powder (was undervalued)
+  ENDER_PEARL: 4.0           # Increased (risk of Enderman farming)
+  PRISMARINE_SHARD: 1.5      # Adjusted (ocean monument effort)
+
+  # ---- BLOCKS ----
+  IRON_BLOCK: 20.0           # 9x Iron Ingot (18) + 10% labor
+  GOLD_BLOCK: 35.0           # 9x Gold Ingot (31.5) + 10% labor
+  DIAMOND_BLOCK: 80.0        # 9x Diamond (72) + 10% labor
+  NETHERITE_BLOCK: 800.0     # 9x Netherite Ingot (720) + 10%
+  OBSIDIAN: 10.0             # Increased (mining/crying labor)
+  SPONGE: 50.0               # Increased (ocean monument rarity)
+
+  # ---- TOOLS/ARMOR ----
+  # Iron Tier (Base: Iron Ingot x Tool Material Count + 20% labor)
+  IRON_SWORD: 5.0            # 2x Ingot (4) + 1.0 labor
+  IRON_PICKAXE: 7.5          # 3x Ingot (6) + 1.5 labor
+  IRON_CHESTPLATE: 24.0      # 8x Ingot (16) + 8 labor
+
+  # Diamond Tier (Base: Diamond x Material Count + 30% labor)
+  DIAMOND_SWORD: 22.0        # 2x Diamond (16) + 6 labor
+  DIAMOND_PICKAXE: 33.0      # 3x Diamond (24) + 9 labor
+  DIAMOND_CHESTPLATE: 88.0   # 8x Diamond (64) + 24 labor
+
+  # Netherite Tier (Diamond Gear + Netherite Ingot + 50% labor)
+  NETHERITE_SWORD: 120.0     # Diamond Sword (22) + 1x Netherite (80) + 18 labor
+  NETHERITE_CHESTPLATE: 400.0 # Diamond Chestplate (88) + 1x Netherite (80) + 232 labor
+
+  # ---- REDSTONE & MECHANICS ----
+  REDSTONE: 0.5              # Increased (high utility)
+  REPEATER: 4.0              # 2x Redstone (1) + 1x Stone (0.15) + labor
+  PISTON: 6.0                # 3x Planks (0.48) + 4x Cobble (0.6) + Iron (2) + Redstone (0.5) + labor
+
+  # ---- FOOD & FARMING ----
+  BREAD: 2.0                 # 3x Wheat (1.2) + labor
+  GOLDEN_CARROT: 25.0        # 8x Gold Nugget (3.5) + Carrot (0.4) + rarity
+  ENCHANTED_GOLDEN_APPLE: 500.0 # 8x Gold Block (280) + Apple (1.76) + rarity
+
+  # ---- MOB DROPS ----
+  GHAST_TEAR: 200.0          # Increased (Nether risk)
+  PHANTOM_MEMBRANE: 15.0     # Added (elytra repair utility)
+  SHULKER_SHELL: 50.0        # Added (End city rarity)
+
+  # ---- NEW ADDITIONS ----
+  LODESTONE: 45.0            # Netherite (80) + Chiseled Stone (0.39) + labor
+  SOIL_COMPOST: 1.5          # Added (farming utility)
+  RESPAWN_ANCHOR: 200.0      # 6x Crying Obsidian (60) + 3x Glowstone (5.82) + labor
+  NETHERITE_UPGRADE_SMITHING_TEMPLATE: 150.0 # Added (Ancient Debris rarity)

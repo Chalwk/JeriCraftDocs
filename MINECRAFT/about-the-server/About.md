@@ -39,29 +39,6 @@ Explore our server's core features:
 
 ---
 
-## 📚 Guides
-
-Our guides are designed to help players navigate and enjoy the unique features of JeriCraft.<br>
-Here’s a quick overview of some of the available guides:
-
-- 📢 [AuctionHouse](/MINECRAFT/guides/AuctionHouse.md): Discover how to buy and sell items using the AuctionHouse plugin.
-- 🛍️ [ChestShop](/MINECRAFT/guides/ChestShop.md): Learn how to create and manage shops using the ChestShop plugin.
-- 💰 [Economy](/MINECRAFT/guides/Economy.md): Discover the ins and outs of JeriCraft's in-game economy system.
-- 💼 [Jobs](/MINECRAFT/guides/Jobs.md): Find out how to join professions, complete tasks, and earn in-game money with the
-  Jobs plugin.
-- 🦾 [LevelledMobs](/MINECRAFT/guides/LevelledMobs.md): Learn about the LevelledMobs plugin and how it enhances mob
-  combat.
-- 🔱 [mcMMO](/MINECRAFT/guides/mcMMO.md): Master the mcMMO plugin's RPG-like skills, abilities, and leveling systems.
-- ❄️ [RealisticSeasons](/MINECRAFT/guides/RealisticSeasons.md): Explore the dynamic and immersive seasons we offer.
-- 🗺️ [Regions](/MINECRAFT/guides/Regions.md): Learn how to claim, protect, and manage specific areas on the server with
-  the Regions plugin.
-- 🧪 [Slimefun](/MINECRAFT/guides/Slimefun.md): Dive into the world of Slimefun, featuring new items, machines, and
-  crafting recipes.
-
-### [Explore more here](/MINECRAFT/guides)
-
----
-
 ## 🎁 Perks
 
 Discover all the fantastic perks available on the JeriCraft server by browsing through
