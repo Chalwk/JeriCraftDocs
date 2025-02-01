@@ -1,5 +1,7 @@
 # 📝 JeriCraft Documentation Repository 📝
 
+<img src="/misc/assets/jericraft_logo.png" alt="JeriCraft Logo" width="250" />
+
 🌟 **Welcome to the official JeriCraft Documentation Repository!** 🌟
 
 This repository serves as the central hub for comprehensive guides, manuals, and documentation for the **JeriCraft Minecraft** and **Halo: Combat Evolved** servers. Whether you're a new player or a seasoned community member, you'll find everything you need to enhance your JeriCraft experience, from server features and commands to community guidelines and form templates.
