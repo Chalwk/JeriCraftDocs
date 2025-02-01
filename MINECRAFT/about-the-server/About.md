@@ -1,5 +1,7 @@
 # 🎮 Welcome to JeriCraft - Your Ultimate Virtual Sanctuary! 🎮
 
+<img src="/misc/assets/jericraft_logo.png" alt="JeriCraft Logo" width="250" />
+
 **JeriCraft** is a **Semi-RPG Survival Multiplayer (SMP)** server focusing on:
 
 - 🛡️ Survival
