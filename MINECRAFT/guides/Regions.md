@@ -10,21 +10,21 @@ to help you effectively manage your regions, collaborate with others, and make t
 
 # Table of Contents
 
-1. 🎯 [Introduction](#-introduction)
-2. 🔺 [Defining Corners](#-defining-corners)
-3. 🗺️ [Expanding Regions](#-expanding-regions)
-    - [Syntax](#syntax)
-    - [Example](#example)
-4. 🔐 [Claiming and Removing Regions](#-claiming-and-removing-regions)
-5. 🌟 [Max Claim Volume](#-max-claim-volume)
+1. 🎯 [**Introduction**](#-introduction)
+2. 🔺 [**Defining Corners**](#-defining-corners)
+3. 🗺️ [**Expanding Regions**](#-expanding-regions)
+    - [Syntax](#syntax-expand-vertamount-amount-reverseamount-direction)
+    - [Example](#example-expand-vert-10)
+4. 🔐 [**Claiming and Removing Regions**](#-claiming-and-removing-regions)
+5. 🌟 [**Max Claim Volume**](#-max-claim-volume)
     - [Region Dimensions and Volume](#region-dimensions-and-volume)
-6. 📖 [Displaying Region Information](#-displaying-region-information)
-7. 📝 [Listing Owned Regions](#-listing-owned-regions)
-8. 👥 [Adding and Removing Members and Owners](#-adding-and-removing-members-and-owners)
-9. 🔮 [Setting Region Flags](#-setting-region-flags)
-    - [Syntax](#syntax-1)
-    - [Example](#example-1)
-10. 🌟 [Conclusion](#-conclusion)
+6. 📖 [**Displaying Region Information**](#-displaying-region-information)
+7. 📝 [**Listing Owned Regions**](#-listing-owned-regions)
+8. 👥 [**Adding and Removing Members and Owners**](#-adding-and-removing-members-and-owners)
+9. 🔮 [**Setting Region Flags**](#-setting-region-flags)
+    - [Syntax](#syntax-rg-flag-rg-name-flag-value)
+    - [Example](#example-rg-flag-myregion-mob-spawning-deny-)
+10. 🌟 [**Conclusion**](#-conclusion)
 
 ---
 
@@ -47,9 +47,7 @@ Once you've defined the two corners, the area between them will be the protected
 
 You can expand your region vertically or horizontally using the `expand` command:
 
-### Syntax:
-
-`expand <vert|<amount> <amount> [reverseAmount] [direction]`
+### Syntax: `expand <vert|<amount> <amount> [reverseAmount] [direction]`
 
 - **vert**: Expands the region vertically.
 - **[amount]**: The number of blocks to expand.
@@ -58,21 +56,18 @@ You can expand your region vertically or horizontally using the `expand` command
 - **[reverseAmount]** *(optional)*: Expands in the opposite direction.
 - **[direction]** *(optional)*: Expands in a specific direction (north, south, east, west).
 
-### Example:
+### Example: `expand vert 10`
 
-`expand vert 10`  
 This will expand your region **upwards** by 10 blocks.
 
 ---
 
 ## 🔐 Claiming and Removing Regions
 
-- **Claim a region**:  
-  `rg claim <rg name>`  
+- **Claim a region**: `rg claim <rg name>`  
   Replace `<rg name>` with the desired name for your region.
 
-- **Remove a region**:  
-  `rg remove <rg name>`  
+- **Remove a region**: `rg remove <rg name>`  
   This will delete the specified region.
 
 ---
@@ -106,18 +101,14 @@ staff or community for assistance.
 
 ## 📖 Displaying Region Information
 
-To view detailed information about the region you're standing in, use the following command:
-
-`rg i`  
+To view detailed information about the region you're standing in, use the following command: `rg i`  
 This will display information such as the region's name, owner, and other important details.
 
 ---
 
 ## 📝 Listing Owned Regions
 
-To see a list of all regions you own, use the command:
-
-`rg list`  
+To see a list of all regions you own, use the command: `rg list`  
 This will display a list of all regions you have claimed.
 
 ---
@@ -126,20 +117,16 @@ This will display a list of all regions you have claimed.
 
 You can manage who has access to your region by adding and removing members or owners.
 
-- **Add a member**:  
-  `rg addmember <rg name> <player>`  
+- **Add a member**: `rg addmember <rg name> <player>`  
   This adds the specified player to your region.
 
-- **Remove a member**:  
-  `rg removemember <rg name> <player>`  
+- **Remove a member**: `rg removemember <rg name> <player>`  
   This removes the specified player from your region.
 
-- **Add an owner**:  
-  `rg addowner <rg name> <player>`  
+- **Add an owner**: `rg addowner <rg name> <player>`  
   This grants the player owner permissions for your region.
 
-- **Remove an owner**:  
-  `rg removeowner <rg name> <player>`  
+- **Remove an owner**: `rg removeowner <rg name> <player>`  
   This removes the player's owner permissions.
 
 ---
@@ -149,16 +136,12 @@ You can manage who has access to your region by adding and removing members or o
 You can customize the settings of your region using flags. Flags allow you to modify specific behaviors within your
 region, such as preventing mob spawning or enabling PvP.
 
-### Syntax:
-
-`rg flag <rg name> <flag> <value>`
+### Syntax: `rg flag <rg name> <flag> <value>`
 
 - **[flag]**: The specific setting you want to change (e.g., `mob-spawning`, `pvp`).
 - **[value]**: The value you want to assign to the flag (e.g., `deny`, `allow`).
 
-### Example:
-
-`rg flag myregion mob-spawning deny`  
+### Example: `rg flag myregion mob-spawning deny`  
 This command will **prevent mobs from spawning** in the "myregion" area. 🚫
 
 For a full list of available region flags, check out
