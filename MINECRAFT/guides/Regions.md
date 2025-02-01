@@ -13,17 +13,12 @@ to help you effectively manage your regions, collaborate with others, and make t
 1. 🎯 [**Introduction**](#-introduction)
 2. 🔺 [**Defining Corners**](#-defining-corners)
 3. 🗺️ [**Expanding Regions**](#-expanding-regions)
-    - [Syntax](#syntax-expand-vertamount-amount-reverseamount-direction)
-    - [Example](#example-expand-vert-10)
 4. 🔐 [**Claiming and Removing Regions**](#-claiming-and-removing-regions)
 5. 🌟 [**Max Claim Volume**](#-max-claim-volume)
-    - [Region Dimensions and Volume](#region-dimensions-and-volume)
 6. 📖 [**Displaying Region Information**](#-displaying-region-information)
 7. 📝 [**Listing Owned Regions**](#-listing-owned-regions)
 8. 👥 [**Adding and Removing Members and Owners**](#-adding-and-removing-members-and-owners)
 9. 🔮 [**Setting Region Flags**](#-setting-region-flags)
-    - [Syntax](#syntax-rg-flag-rg-name-flag-value)
-    - [Example](#example-rg-flag-myregion-mob-spawning-deny-)
 10. 🌟 [**Conclusion**](#-conclusion)
 
 ---
@@ -47,7 +42,7 @@ Once you've defined the two corners, the area between them will be the protected
 
 You can expand your region vertically or horizontally using the `expand` command:
 
-### Syntax: `expand <vert|<amount> <amount> [reverseAmount] [direction]`
+Syntax: `expand <vert|<amount> <amount> [reverseAmount] [direction]`
 
 - **vert**: Expands the region vertically.
 - **[amount]**: The number of blocks to expand.
@@ -56,7 +51,7 @@ You can expand your region vertically or horizontally using the `expand` command
 - **[reverseAmount]** *(optional)*: Expands in the opposite direction.
 - **[direction]** *(optional)*: Expands in a specific direction (north, south, east, west).
 
-### Example: `expand vert 10`
+Example: `expand vert 10`
 
 This will expand your region **upwards** by 10 blocks.
 
@@ -136,12 +131,12 @@ You can manage who has access to your region by adding and removing members or o
 You can customize the settings of your region using flags. Flags allow you to modify specific behaviors within your
 region, such as preventing mob spawning or enabling PvP.
 
-### Syntax: `rg flag <rg name> <flag> <value>`
+Syntax: `rg flag <rg name> <flag> <value>`
 
 - **[flag]**: The specific setting you want to change (e.g., `mob-spawning`, `pvp`).
 - **[value]**: The value you want to assign to the flag (e.g., `deny`, `allow`).
 
-### Example: `rg flag myregion mob-spawning deny`  
+Example: `rg flag myregion mob-spawning deny`  
 This command will **prevent mobs from spawning** in the "myregion" area. 🚫
 
 For a full list of available region flags, check out
