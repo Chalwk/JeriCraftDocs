@@ -1,17 +1,17 @@
 # 🎮 Welcome to JeriCraft - Your Ultimate Virtual Sanctuary! 🎮
 
-**JeriCraft** is a **Semi-RPG Survival Multiplayer (SMP)** server focusing on: 
-- **Survival**
-- **Economy**
-- **Slimefun**
-- **Jobs**
-- **mcMMO**
-- **Seasons**
-- and more!
+**JeriCraft** is a **Semi-RPG Survival Multiplayer (SMP)** server focusing on:
 
-Our server offers various engaging gameplay experiences, including custom content and RPG elements.
-With a commitment to community and support, we provide a platform where gamers can thrive both in-game and in their
-personal lives.
+- 🛡️ Survival
+- 💰 Economy
+- 🔮 Slimefun
+- 🛠️ Jobs
+- 🎯 mcMMO
+- 🌍 Seasons
+- 💪 Challenging Mobs
+- And more!
+
+Join us for a wide range of activities that bring you into an exciting and ever-evolving world. You’ll enjoy a supportive community, balanced gameplay, and new features added regularly to keep things fresh.
 
 ---
 
@@ -79,22 +79,46 @@ Be sure to review the prerequisites for each role.<br>
 
 New to JeriCraft? Here are some helpful commands to kickstart your journey:
 
-- Teleportation:
+- **Teleportation**:
 - 🏠 `/rt` or `/rtp`: Teleport to a random location in the wild.
 - 🏠 `/sethome`: Set your current location as your home.
 - 🏠 `/home`: Return to your set home location.
 
-- Kits and Jobs
+
+- **Kits and Jobs**:
     - 🎒 `/kit`: View available kits and their contents.
     - 🎒 `/kit <name>`: Redeem a specific kit.
     - 💼 `/jobs`: Manage your RPG jobs.
     - 🎯 `/mcmmo`: View and manage your RPG skills and stats.
 
-- Slimefun Guide
+
+- **Slimefun Guide**:
     - 🧪 `/sf guide`: Obtain the Slimefun guidebook for crafting recipes and information.
     - 🧪 `/sf wiki`: Access the Slimefun wiki for additional information.
 
-- Miscellaneous
+
+- **Land Protection**:
+    - Mark corners: `/pos1` → `/pos2` - Mark the corners of a region
+    - Claim: `/rg claim MyCastle` - Claim a region
+    - Secure: `/rg flag MyCastle pvp deny` - Prevent PvP
+    - Collaborate: `/rg addmember MyCastle @Friend` - Add a friend to your region
+    - Shop: `/rg flag MyCastle shop allow` - Allows you to set up your own Chest shop
+
+
+- **Dynamic World Features**:
+    - 🌦️ Realistic Seasons - Weather, Temperature, and Calendar and more
+    - ⚔️ Levelled Mobs - Higher levels = better loot
+    - 📚 Functional Bookshelves - Display your adventures
+
+
+- **Learning Resources**:
+    - 📚 `/sf guide`: Obtain the Slimefun guidebook for crafting recipes and information.
+    - ⚔️ McMMO: `/mcstats` - View your mcMMO stats
+    - 💼 Jobs: `/jobs browse` - View available jobs
+    - 🛡️ Regions: `/rg i` - View current area info
+
+
+- **Miscellaneous**:
     - 🌐 `/warp`: Teleport to key locations on the server.
     - 💬 `/msg [player] [message]`: Send a private message to another player.
 
