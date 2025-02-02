@@ -17,7 +17,8 @@ respectful environment for everyone. Please read them carefully and reach out to
 
 To prevent repeat offenders from bypassing bans, our server uses an **IP-based detection system**. If you use a VPN or
 proxy, ensure it is secure and not shared with others (e.g., a work VPN may be safe). **Free or cheap VPNs are not
-recommended**, as they may result in unintended bans. If you believe your ban is accidental (e.g., shared IP), contact staff for review. However, bans tied to VPNs are rarely overturned.
+recommended**, as they may result in unintended bans. If you believe your ban is accidental (e.g., shared IP), contact
+staff for review. However, bans tied to VPNs are rarely overturned.
 
 ---
 
@@ -25,24 +26,26 @@ recommended**, as they may result in unintended bans. If you believe your ban is
 
 The following rules apply to **Minecraft, Halo, and the JeriCraft Discord server**:
 
-- **No Offensive Language or Content:** Avoid offensive/inappropriate language, usernames, skins, **profile pictures**, or messages **in-game or on Discord**.
-- **No Trolling or Harassment:** Do not troll, harass, or intentionally upset others **in any platform**.
-- **No Impersonation:** Do not impersonate players, staff, **or community brands** (**including Discord server names or bot identities**).
-- **No Scamming or Exploiting:** Be honest in interactions; avoid exploiting bugs, **begging for in-game items, or misusing Discord giveaways**.
-- **Keep Personal Information Private:** Do not share sensitive information.
-- **No Controversial Topics:** Avoid discussing drama, politics, or religion **in public chats or Discord channels**.
-- **No Spamming or Advertising:** Do not disrupt conversations with irrelevant messages, **@mentions**, ads, **or Discord invite links**.
-- **Respect Staff Instructions:** Follow staff instructions **in-game, on Discord, or during events**.
-- **No Bypassing Filters:** Do not circumvent chat filters **in-game or on Discord**.
-- **Respect Player Boundaries:** Do not encroach on others’ territory **in-game** or invade privacy **via DMs or Discord**.
-- **No Malicious Activities:** Do not distribute malware **or share harmful links on any platform**.
-- **No Disrupting Server Performance:** Avoid actions that cause performance issues, such as lag-inducing exploits.
-- **No Game Mechanics Abuse:** Play as intended; avoid exploiting glitches **or misusing Discord bots/features**.
-- **No Team Killing (Halo):** Do not intentionally kill teammates.
-- **No NSFW Content:** Do not post explicit material, including text, images, or links.
-- **Use Appropriate Discord Channels:** Keep conversations relevant to channel purposes (e.g., no off-topic discussions in #minecraft).
-- **Discord Voice Chat Etiquette:** Avoid loud noises, background music, or mic spam in voice channels.
-- **Respect @mentions:** Do not abuse @everyone, @here, or staff roles without permission.
+| Rule                                  | Description                                                                                                            |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| **No Offensive Language or Content**  | Avoid offensive/inappropriate language, usernames, skins, **profile pictures**, or messages **in-game or on Discord**. |
+| **No Trolling or Harassment**         | Do not troll, harass, or intentionally upset others **in any platform**.                                               |
+| **No Impersonation**                  | Do not impersonate players, staff, **or community brands** (**including Discord server names or bot identities**).     |
+| **No Scamming or Exploiting**         | Be honest in interactions; avoid exploiting bugs, **begging for in-game items, or misusing Discord giveaways**.        |
+| **Keep Personal Information Private** | Do not share sensitive information.                                                                                    |
+| **No Controversial Topics**           | Avoid discussing drama, politics, or religion **in public chats or Discord channels**.                                 |
+| **No Spamming or Advertising**        | Do not disrupt conversations with irrelevant messages, **@mentions**, ads, **or Discord invite links**.                |
+| **Respect Staff Instructions**        | Follow staff instructions **in-game, on Discord, or during events**.                                                   |
+| **No Bypassing Filters**              | Do not circumvent chat filters **in-game or on Discord**.                                                              |
+| **Respect Player Boundaries**         | Do not encroach on others’ territory **in-game** or invade privacy **via DMs or Discord**.                             |
+| **No Malicious Activities**           | Do not distribute malware **or share harmful links on any platform**.                                                  |
+| **No Disrupting Server Performance**  | Avoid actions that cause performance issues, such as lag-inducing exploits.                                            |
+| **No Game Mechanics Abuse**           | Play as intended; avoid exploiting glitches **or misusing Discord bots/features**.                                     |
+| **No Team Killing (Halo)**            | Do not intentionally kill teammates.                                                                                   |
+| **No NSFW Content**                   | Do not post explicit material, including text, images, or links.                                                       |
+| **Use Appropriate Discord Channels**  | Keep conversations relevant to channel purposes (e.g., no off-topic discussions in #minecraft).                        |
+| **Discord Voice Chat Etiquette**      | Avoid loud noises, background music, or mic spam in voice channels.                                                    |
+| **Respect @mentions**                 | Do not abuse @everyone, @here, or staff roles without permission.                                                      |
 
 ---
 
@@ -53,34 +56,40 @@ and are at the discretion of the issuing staff member.
 
 ### 🚨 **Tier 1: Severe Offenses - Permanent Ban** ⛔
 
-- **Unfair Advantages:** Using programs, devices, exploits, or hacks for unfair gameplay advantages.
-- **Deception and Scamming:** Scamming other players in a way that negatively impacts them.
-- **Impersonation:** Falsely representing yourself as another player, staff member, **or community brand**.
-- **Discriminatory Behavior:** Promoting hatred or discrimination through language or actions.
-- **Threats and Harassment:** Making threats or engaging in targeted harassment.
-- **Privacy Violations:** Sharing personal information without consent.
-- **Malicious Activities:** Distributing malware or causing disruptions.
-- **Impersonation and Harassment:** Creating/joining servers to impersonate JeriCraft or harass members.
-- **NSFW Content:** Distributing NSFW content or raid coordination via Discord, (e.g., Discord memes/images).
+| Offense                          | Description                                                                              |
+|----------------------------------|------------------------------------------------------------------------------------------|
+| **Unfair Advantages**            | Using programs, devices, exploits, or hacks for unfair gameplay advantages.              |
+| **Deception and Scamming**       | Scamming other players in a way that negatively impacts them.                            |
+| **Impersonation**                | Falsely representing yourself as another player, staff member, **or community brand**.   |
+| **Discriminatory Behavior**      | Promoting hatred or discrimination through language or actions.                          |
+| **Threats and Harassment**       | Making threats or engaging in targeted harassment.                                       |
+| **Privacy Violations**           | Sharing personal information without consent.                                            |
+| **Malicious Activities**         | Distributing malware or causing disruptions.                                             |
+| **Impersonation and Harassment** | Creating/joining servers to impersonate JeriCraft or harass members.                     |
+| **NSFW Content**                 | Distributing NSFW content or raid coordination via Discord (e.g., Discord memes/images). |
 
 ### ⏳ **Tier 2: Moderate Offenses - 1 to 2-Week Ban**
 
-- **Property Damage and Vandalism (Minecraft):** Altering or destroying others' builds without permission.
-- **Inappropriate Content:** Sharing or displaying offensive content, including inappropriate skins **or Discord memes/images**.
-- **Abusive Communication:** Using disrespectful language or abusive slang.
-- **Harassment and Disruptive Conduct:** Engaging in trolling, spamming, or ignoring staff instructions.
-- **Account Infractions:** Sharing accounts or using multiple accounts to evade bans.
-- **Exploiting Bugs and Glitches:** Taking advantage of in-game glitches for unfair gains.
-- **Misuse of Discord Features:** Misusing bots or features to disrupt Discord (e.g., reaction spam).
+| Offense                                       | Description                                                                                         |
+|-----------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| **Property Damage and Vandalism (Minecraft)** | Altering or destroying others' builds without permission.                                           |
+| **Inappropriate Content**                     | Sharing or displaying offensive content, including inappropriate skins **or Discord memes/images**. |
+| **Abusive Communication**                     | Using disrespectful language or abusive slang.                                                      |
+| **Harassment and Disruptive Conduct**         | Engaging in trolling, spamming, or ignoring staff instructions.                                     |
+| **Account Infractions**                       | Sharing accounts or using multiple accounts to evade bans.                                          |
+| **Exploiting Bugs and Glitches**              | Taking advantage of in-game glitches for unfair gains.                                              |
+| **Misuse of Discord Features**                | Misusing bots or features to disrupt Discord (e.g., reaction spam).                                 |
 
 ### 🕒 **Tier 3: Minor Offenses - Up to 1-Week Ban**
 
-- **Unwanted Communication:** Sending unsolicited content or spamming irrelevant messages.
-- **Inappropriate Roleplay (Halo):** Engaging in roleplay with offensive themes.
-- **Misuse of Slang:** Using abusive slang in a way that could offend others.
-- **Inappropriate Conversations:** Discussing inappropriate content on any platform.
-- **Off-Topic Discussions:** Excessive off-topic messages or derailing conversations.
-- **Voice Chat Etiquette:** Mic/voice channel misuse (e.g., accidental soundboard spam).
+| Offense                           | Description                                                  |
+|-----------------------------------|--------------------------------------------------------------|
+| **Unwanted Communication**        | Sending unsolicited content or spamming irrelevant messages. |
+| **Inappropriate Roleplay (Halo)** | Engaging in roleplay with offensive themes.                  |
+| **Misuse of Slang**               | Using abusive slang in a way that could offend others.       |
+| **Inappropriate Conversations**   | Discussing inappropriate content on any platform.            |
+| **Off-Topic Discussions**         | Excessive off-topic messages or derailing conversations.     |
+| **Voice Chat Etiquette**          | Mic/voice channel misuse (e.g., accidental soundboard spam). |
 
 ---
 
