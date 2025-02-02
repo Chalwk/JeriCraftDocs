@@ -48,8 +48,6 @@ our server unique, along with detailed descriptions and links to guides for furt
 **Slimefun** is a **tech and magic mod-inspired plugin** that adds hundreds of hours of new content to Minecraft. From
 advanced machinery to magical items, Slimefun offers endless possibilities for creativity and exploration.
 
-For detailed instructions on getting started, please refer to our [Slimefun Guide](../guides/Slimefun.md).
-
 📖 Guide: [Slimefun Guide](../guides/Slimefun.md)
 🔗 Project Page: [Slimefun 4 on GitHub](https://github.com/Slimefun/Slimefun4)
 
