@@ -17,7 +17,7 @@ respectful environment for everyone. Please read them carefully and reach out to
 
 To prevent repeat offenders from bypassing bans, our server uses an **IP-based detection system**. If you use a VPN or
 proxy, ensure it is secure and not shared with others (e.g., a work VPN may be safe). **Free or cheap VPNs are not
-recommended**, as they may result in unintended bans. **We will not reverse bans caused by VPN/proxy usage.**
+recommended**, as they may result in unintended bans. If you believe your ban is accidental (e.g., shared IP), contact staff for review. However, bans tied to VPNs are rarely overturned.
 
 ---
 
@@ -61,7 +61,7 @@ and are at the discretion of the issuing staff member.
 - **Privacy Violations:** Sharing personal information without consent.
 - **Malicious Activities:** Distributing malware or causing disruptions.
 - **Impersonation and Harassment:** Creating/joining servers to impersonate JeriCraft or harass members.
-- **NSFW Content:** Distributing NSFW content or raid coordination via Discord.
+- **NSFW Content:** Distributing NSFW content or raid coordination via Discord, (e.g., Discord memes/images).
 
 ### ⏳ **Tier 2: Moderate Offenses - 1 to 2-Week Ban**
 
@@ -71,7 +71,6 @@ and are at the discretion of the issuing staff member.
 - **Harassment and Disruptive Conduct:** Engaging in trolling, spamming, or ignoring staff instructions.
 - **Account Infractions:** Sharing accounts or using multiple accounts to evade bans.
 - **Exploiting Bugs and Glitches:** Taking advantage of in-game glitches for unfair gains.
-- **NSFW Content:** Posting offensive memes/images in channels.
 - **Misuse of Discord Features:** Misusing bots or features to disrupt Discord (e.g., reaction spam).
 
 ### 🕒 **Tier 3: Minor Offenses - Up to 1-Week Ban**
