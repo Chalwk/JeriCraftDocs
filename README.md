@@ -23,7 +23,7 @@ Explore detailed guides and resources for the JeriCraft Minecraft server:
     - **[Player Commands](MINECRAFT/commands/PLAYER-COMMANDS.md)**
     - **[Staff Commands](MINECRAFT/commands/STAFF-COMMANDS.md)**
     - **[Perk Commands](MINECRAFT/commands/PERK-COMMANDS.md)**
-4. 🌟 **[Server Features](MINECRAFT/features)**<br>
+4. 🌟 **[Server Features](MINECRAFT/features/features.md)**
 5. 📖 **[Guides](MINECRAFT/guides)**
     - **[AuctionHouse](MINECRAFT/guides/AuctionHouse.md)**
     - **[ChestShop](MINECRAFT/guides/ChestShop.md)**
