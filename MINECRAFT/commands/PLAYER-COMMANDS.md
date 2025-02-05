@@ -10,10 +10,10 @@ hierarchy of ranks to organize players. Here's an overview of our ranks and thei
 | 📜 **Squire**    | Unlocked with **$1-$19**. Access to Villager + Commoner commands.                                                                                                       |
 | 🛡️ **Knight**   | Unlocked with **$20-$39**. Access to all Squire, Villager, and Commoner commands.                                                                                       |
 | ⚔️ **Baron**     | Unlocked with **$40-$59**. Access to all Knight, Squire, Villager, and Commoner commands.                                                                               |
-| 💎 **Count**     | Unlocked with **$60-$99**. Access to all Baron, Knight, Squire, Villager, and Commoner commands.                                                                        |
+| 🏹 **Count**     | Unlocked with **$60-$99**. Access to all Baron, Knight, Squire, Villager, and Commoner commands.                                                                        |
 | 🏰 **Duke**      | Unlocked with **$100-$149**. Access to all Count, Baron, Knight, Squire, Villager, and Commoner commands.                                                               |
-| 👑 **King**      | Unlocked with **$150-$299**. Access to all Duke, Count, Baron, Knight, Squire, Villager, and Commoner commands.                                                         |
-| 🌟 **Emperor**   | Unlocked with **$300+**. Highest authority, with access to **all commands** and privileges.                                                                             |
+| 🏛️ **Archduke** | Unlocked with **$150-$299**. Access to all Duke, Count, Baron, Knight, Squire, Villager, and Commoner commands.                                                         |
+| 🗡️ **Overlord** | Unlocked with **$300+**. Highest authority, with access to **all commands** and privileges.                                                                             |
 
 **Each rank inherits the commands and perks of the ranks below it, ensuring a structured and organized player
 experience.**

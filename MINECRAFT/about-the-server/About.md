@@ -47,25 +47,21 @@ Explore our server's core features:
 
 ### Player Ranks
 
-| Rank Emoji & Name | Description                                                                                                                 |  
-|-------------------|-----------------------------------------------------------------------------------------------------------------------------|  
-| 🏚️ **Commoner**  | New players start here. Basic commands: `/msg`, `/tpa`, `/warp` (guest rank for those not on Discord or <1 month playtime). |  
-| 🏘️ **Villager**  | Earned after joining Discord or 1 month of playtime. Gains `/setwarp`, `/hat`, `/sit`.                                      |  
-| 🏗️ **Artisan**   | Skilled builders with World Edit and Creative mode access (application required).                                           |  
+- 🏚️ **Commoner** (Guest)
+- 🏘️ **Villager** (Members - Obtained after joining Discord or 1 month of playtime)
+- 🏗️ **Artisan**  (Builders - Skilled Artisans who apply for World Edit and Creative mode access (non-donor rank))
 
 ---
 
 ### Donor Ranks (Nobility)
 
-| Rank Emoji & Name | Unlock Tier    | Description                                                                        |  
-|-------------------|----------------|------------------------------------------------------------------------------------|  
-| 📜 **Squire**     | **\$1–$19**    | Access to Villager + Commoner commands.                                            |  
-| 🛡️ **Knight**    | **\$20–$39**   | Access to all Squire, Villager, and Commoner commands.                             |  
-| ⚔️ **Baron**      | **\$40–$59**   | Access to all Knight, Squire, Villager, and Commoner commands.                     |  
-| 🏹 **Count**      | **\$60–$99**   | Access to all Baron, Knight, Squire, Villager, and Commoner commands.              |  
-| 🏰 **Duke**       | **\$100–$149** | Access to all Count, Baron, Knight, Squire, Villager, and Commoner commands.       |  
-| 🏛️ **Archduke**  | **\$150–$299** | Access to all Duke, Count, Baron, Knight, Squire, Villager, and Commoner commands. |  
-| 🗡️ **Overlord**  | **$300+**      | Highest donor rank. Full command access and exclusive perks.                       |  
+- 📜 **Squire**
+- 🛡️ **Knight**
+- ⚔️ **Baron**
+- 🏹 **Count**
+- 🏰 **Duke**
+- 🏛️ **Archduke**
+- 🗡️ **Overlord**
 
 ---
 
