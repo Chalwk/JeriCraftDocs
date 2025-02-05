@@ -1,14 +1,17 @@
 # 🎮 JeriCraft New Player Guide 🌟
 
-Welcome to **JeriCraft**, an immersive Minecraft experience tailored to provide hours of enjoyment and excitement! Our
-server offers a variety of features and commands to make your gameplay experience truly unique. This guide will help you
-get started on your JeriCraft adventure.
+Welcome to **JeriCraft**, an immersive Minecraft experience tailored to provide hours of enjoyment and excitement! This
+guide will help you get started on your adventure.
 
 ---
 
 ### **How to Join**
 
-You can join **JeriCraft** by connecting to `jericraftmc.net` on **Minecraft Java Edition** (**1.20.1**).
+You can join **JeriCraft** by connecting to `jericraft.net` on **Minecraft Java Edition** (**1.20.1**).
+
+[![Discord](https://img.shields.io/badge/Discord-Join_Our_Server-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/wuVcM9AZrr)
+
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-00AF54?style=for-the-badge&logo=curseforge)](jericraft.net)
 
 ---
 
@@ -16,19 +19,34 @@ You can join **JeriCraft** by connecting to `jericraftmc.net` on **Minecraft Jav
 
 To enhance your gameplay experience, here are some essential commands to get you started:
 
-| **Category**       | **Command**               | **Description**                                                     |
-|--------------------|---------------------------|---------------------------------------------------------------------|
-| **Teleportation**  | `/rt` or `/rtp`           | Teleports you to a random location in the wild.                     |
-|                    | `/sethome`                | Sets your current location as your home.                            |
-|                    | `/home`                   | Returns you to your set home location.                              |
-| **Kits and Jobs**  | `/kit`                    | View available kits and their contents.                             |
-|                    | `/kit <name>`             | Redeem a specific kit.                                              |
-|                    | `/jobs`                   | Manage your RPG jobs and roles.                                     |
-|                    | `/mcmmo`                  | View and manage your RPG skills and stats.                          |
-| **Slimefun Guide** | `/sf guide`               | Obtain the Slimefun guidebook for crafting recipes and information. |
-|                    | `/sf wiki`                | Access the Slimefun wiki for additional information.                |
-| **Miscellaneous**  | `/warp`                   | Teleport to key locations on the server.                            |
-|                    | `/msg [player] [message]` | Send a private message to another player.                           |
+| **Category**        | **Command**                           | **Description**                                                     |
+|---------------------|---------------------------------------|---------------------------------------------------------------------|
+| **Teleportation**   | `/rt` or `/rtp`                       | Teleports you to a random location in the wild.                     |
+|                     | `/sethome`                            | Sets your current location as your home.                            |
+|                     | `/home`                               | Returns you to your set home location.                              |
+| **Kits and Jobs**   | `/kit`                                | View available kits and their contents.                             |
+|                     | `/kit <name>`                         | Redeem a specific kit.                                              |
+|                     | `/jobs`                               | Manage your RPG jobs and roles.                                     |
+|                     | `/mcmmo`                              | View and manage your RPG skills and stats.                          |
+| **Slimefun Guide**  | `/sf guide`                           | Obtain the Slimefun guidebook for crafting recipes and information. |
+|                     | `/sf wiki`                            | Access the Slimefun wiki for additional information.                |
+| **Land Protection** | `/pos1` → `/pos2`                     | Mark the corners of a region for claiming.                          |
+|                     | `/rg claim <region name>`             | Claim a region for yourself.                                        |
+|                     | `/rg flag <region name> pvp deny`     | Prevent PvP in your claimed region.                                 |
+|                     | `/rg addmember <region name> @Player` | Add a player to your region.                                        |
+|                     | `/rg flag <region name> shop allow`   | Allow chest shops in your region.                                   |
+| **Miscellaneous**   | `/warp`                               | Teleport to key locations on the server.                            |
+|                     | `/msg [player] [message]`             | Send a private message to another player.                           |
+
+---
+
+## **Dynamic World Features**
+
+JeriCraft offers a variety of features to make your world feel more immersive:
+
+- **🌦️ Realistic Seasons**: Experience changing weather, temperature, and a dynamic calendar system.
+- **⚔️ Levelled Mobs**: Encounter stronger mobs for better loot.
+- **📚 Functional Bookshelves**: Display your adventures and collection in your home.
 
 ---
 

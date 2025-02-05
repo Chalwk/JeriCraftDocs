@@ -12,7 +12,7 @@
     -〔📅〕events
     -〔💡〕feedback-and-suggestions
     -〔🛒〕webstore
-    -〔📝〕applications
+    -〔📝〕forms-and-applications
     -〔🚫〕appeals
     -〔🌟〕introductions
 

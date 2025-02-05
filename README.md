@@ -6,11 +6,15 @@
 
 🌟 **Welcome to the official JeriCraft Documentation Repository!** 🌟
 
-This repository serves as the central hub for comprehensive guides, manuals, and documentation for the **JeriCraft Minecraft** and **Halo: Combat Evolved** servers. Whether you're a new player or a seasoned community member, you'll find everything you need to enhance your JeriCraft experience, from server features and commands to community guidelines and form templates.
+This repository serves as the central hub for comprehensive guides, manuals, and documentation for the **JeriCraft
+Minecraft** and **Halo: Combat Evolved** servers. Whether you're a new player or a seasoned community member, you'll
+find everything you need to enhance your JeriCraft experience, from server features and commands to community guidelines
+and form templates.
 
 ---
 
-[![Discord](https://img.shields.io/discord/1071172977326403634?label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/wuVcM9AZrr)
+[![Discord](https://img.shields.io/badge/Discord-Join_Our_Server-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/wuVcM9AZrr)
+
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-00AF54?style=for-the-badge&logo=curseforge)](jericraft.net)
 
 ## 🌍 Minecraft Documentation
@@ -64,7 +68,8 @@ Dive into the world of JeriCraft's Halo: Combat Evolved servers:
 
 ### 📜 Community Rules
 
-To ensure a positive and inclusive environment for all players, please review the [JeriCraft Community Rules](policies/Community-Rules.md).
+To ensure a positive and inclusive environment for all players, please review
+the [JeriCraft Community Rules](policies/Community-Rules.md).
 
 ---
 
