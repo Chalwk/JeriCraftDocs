@@ -62,30 +62,21 @@ Explore our server's core features:
 | 📜 **Squire**     | **\$1–$19**    | Access to Villager + Commoner commands.                                            |  
 | 🛡️ **Knight**    | **\$20–$39**   | Access to all Squire, Villager, and Commoner commands.                             |  
 | ⚔️ **Baron**      | **\$40–$59**   | Access to all Knight, Squire, Villager, and Commoner commands.                     |  
-| 💎 **Count**      | **\$60–$99**   | Access to all Baron, Knight, Squire, Villager, and Commoner commands.              |  
+| 🏹 **Count**      | **\$60–$99**   | Access to all Baron, Knight, Squire, Villager, and Commoner commands.              |  
 | 🏰 **Duke**       | **\$100–$149** | Access to all Count, Baron, Knight, Squire, Villager, and Commoner commands.       |  
-| 👑 **King**       | **\$150–$299** | Access to all Duke, Count, Baron, Knight, Squire, Villager, and Commoner commands. |  
-| 🌟 **Emperor**    | **$300+**      | Highest donor rank. Full command access and exclusive perks.                       |  
+| 🏛️ **Archduke**  | **\$150–$299** | Access to all Duke, Count, Baron, Knight, Squire, Villager, and Commoner commands. |  
+| 🗡️ **Overlord**  | **$300+**      | Highest donor rank. Full command access and exclusive perks.                       |  
 
 ---
 
 ### Staff/Admin Ranks
 
-| Rank Emoji & Name    | Role         | Description                                                                                  |  
-|----------------------|--------------|----------------------------------------------------------------------------------------------|  
-| 🕊️ **Sentinel**     | Trial-Mod    | New staff members. Monitors chat, assists players, and reports issues (limited permissions). |  
-| ⚖️ **Justiciar**     | Moderator    | Handles moderation: mute, kick, ban, and resolves disputes.                                  |  
-| 🔱 **High Lord**     | Admin        | Manages plugins, configs, and junior staff. Oversees server stability.                       |  
-| 🌌 **Sovereign**     | Owner        | Ultimate authority. Controls all systems, finances, and final decisions.                     |
-
----
-
-### **Admin Title Explanations**
-
-1. **Sentinel** 🕊️ – Watches over the realm (trial role).
-2. **Justiciar** ⚖️ – Enforces laws (moderation).
-3. **High Lord** 🔱 – Governs technical and staff operations.
-4. **Sovereign** 🌌 – Supreme ruler (irreplaceable founder).
+| Rank Emoji & Name | Role      | Description                                                                                  |  
+|-------------------|-----------|----------------------------------------------------------------------------------------------|  
+| 🕊️ **Sentinel**  | Trial-Mod | New staff members. Monitors chat, assists players, and reports issues (limited permissions). |  
+| ⚖️ **Justiciar**  | Moderator | Handles moderation: mute, kick, ban, and resolves disputes.                                  |  
+| 🔱 **High Lord**  | Admin     | Manages plugins, configs, and junior staff. Oversees server stability.                       |  
+| 👑 **Sovereign**  | Owner     | Ultimate authority. Controls all systems, finances, and final decisions.                     |
 
 ---
 
