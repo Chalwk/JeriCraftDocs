@@ -67,12 +67,12 @@ Explore our server's core features:
 
 ### Staff/Admin Ranks
 
-| Rank Emoji & Name | Role      | Description                                                                                  |  
-|-------------------|-----------|----------------------------------------------------------------------------------------------|  
-| 🕊️ **Sentinel**  | Trial-Mod | New staff members. Monitors chat, assists players, and reports issues (limited permissions). |  
-| ⚖️ **Justiciar**  | Moderator | Handles moderation: mute, kick, ban, and resolves disputes.                                  |  
-| 🔱 **High Lord**  | Admin     | Manages plugins, configs, and junior staff. Oversees server stability.                       |  
-| 👑 **Sovereign**  | Owner     | Ultimate authority. Controls all systems, finances, and final decisions.                     |
+| Rank Emoji & Name | Role         | Description                                                                                  |  
+|-------------------|--------------|----------------------------------------------------------------------------------------------|  
+| 🕊️ **Sentinel**  | Trial-Mod    | New staff members. Monitors chat, assists players, and reports issues (limited permissions). |  
+| ⚖️ **Justiciar**  | Moderator    | Handles moderation: mute, kick, ban, and resolves disputes.                                  |  
+| 🔱 **High Lord**  | Admin        | Manages plugins, configs, and junior staff. Oversees server stability.                       |  
+| 👑 **Sovereign**  | Senior-Admin | Ultimate authority. Controls all systems, finances, and final decisions.                     |
 
 ---
 
