@@ -41,12 +41,15 @@ to [this guide](https://www.paypal.com/hk/cshelp/article/how-do-i-send-payments-
 
 Your donor rank is determined by your **total lifetime contributions**. Here’s how it works:
 
-| Rank          | Amount (NZD) | Benefits                                    |
-|---------------|--------------|---------------------------------------------|
-| 💰 **Squire** | $1–19        | Access to the Squire Kit                    |
-| 🔱 **Titan**  | $20–39       | Access to the Titan kit plus previous kit   |
-| ⚔️ **Mortal** | $40–59       | Access to the Mortal kit plus previous kits |
-| 💎 **Elder**  | $60+         | Access to the Elder kit plus previous kits  |
+| Rank           | Contribution (NZD) | Benefits                                                                       |
+|----------------|--------------------|--------------------------------------------------------------------------------|
+| 📜 **Squire**  | **\$1 - \$19**     | Access to basic Squire commands.                                               |
+| 🛡️ **Knight** | **\$20 - \$39**    | All Squire benefits, plus Knight-level commands.                               |
+| ⚔️ **Baron**   | **\$40 - \$59**    | All Knight and Squire benefits, plus Baron-level commands.                     |
+| 💎 **Count**   | **\$60 - \$99**    | All Baron, Knight, and Squire benefits, plus Count-level commands.             |
+| 🏰 **Duke**    | **\$100 - \$149**  | All Count, Baron, Knight, and Squire benefits, plus Duke-level commands.       |
+| 👑 **King**    | **\$150 - \$299**  | All Duke, Count, Baron, Knight, and Squire benefits, plus King-level commands. |
+| 🌟 **Emperor** | **\$300+**         | Full access to all commands and privileges.                                    |
 
 All perks are **permanent** (subject to change) for the lifetime of the server. However, misuse of perks may result in
 their revocation.
@@ -71,7 +74,8 @@ their revocation.
 
 ## ⚠️ Disclaimer
 
-**JeriCraft is not affiliated with Mojang AB.** All contributions go directly to the JeriCraft Management and Development Team. For support, inquiries, or purchase history, email us at **jericho.crosby227@gmail.com**.
+**JeriCraft is not affiliated with Mojang AB.** All contributions go directly to the JeriCraft Management and
+Development Team. For support, inquiries, or purchase history, email us at **jericho.crosby227@gmail.com**.
 
 ---
 

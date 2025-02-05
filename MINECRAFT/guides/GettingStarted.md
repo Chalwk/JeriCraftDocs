@@ -24,6 +24,8 @@ To enhance your gameplay experience, here are some essential commands to get you
 | **Teleportation**   | `/rt` or `/rtp`                       | Teleports you to a random location in the wild.                     |
 |                     | `/sethome`                            | Sets your current location as your home.                            |
 |                     | `/home`                               | Returns you to your set home location.                              |
+|                     | `/homes`                              | Lists all your homes.                                               |
+|                     | `/spawn`                              | Teleports you to the server spawn hub (castle).                     |
 | **Kits and Jobs**   | `/kit`                                | View available kits and their contents.                             |
 |                     | `/kit <name>`                         | Redeem a specific kit.                                              |
 |                     | `/jobs`                               | Manage your RPG jobs and roles.                                     |
@@ -47,6 +49,8 @@ JeriCraft offers a variety of features to make your world feel more immersive:
 - **🌦️ Realistic Seasons**: Experience changing weather, temperature, and a dynamic calendar system.
 - **⚔️ Levelled Mobs**: Encounter stronger mobs for better loot.
 - **📚 Functional Bookshelves**: Display your adventures and collection in your home.
+- **🛒 NPC Shops**: Buy and sell items with NPCs.
+- **📜 NPC Quests (WIP)**: Complete quests and unlock exclusive rewards.
 
 ---
 
