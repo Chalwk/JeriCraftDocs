@@ -1,19 +1,19 @@
 This list is periodically updated. If you find any errors or omissions, please contact our staff team. JeriCraft uses a
 hierarchy of ranks to organize players. Here's an overview of our ranks and their respective privileges:
 
-| **Rank**         | **Description**                                                                                                                                                          |
-|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 🏚️ **Commoner** | New players start here. Wanderers have basic commands like `/msg`, `/tpa`, and `/warp`. This is a guest rank for those who haven’t joined Discord or played for 1 month. |
-| 🏘️ **Villager** | Earned after joining Discord or 1 month of playtime. Villagers (formerly "Serf") gain `/setwarp`, `/hat`, and `/sit`.                                                    |
-| 🏗️ **Artisan**  | Skilled Artisans who apply for World Edit and Creative mode access (non-donor rank).                                                                                     |
-| ———————————————— | **Donor Ranks (Nobility Hierarchy)**                                                                                                                                     |
-| 📜 **Squire**    | Unlocked with **$1-$19**. Access to Villager + Commoner commands.                                                                                                        |
-| 🛡️ **Knight**   | Unlocked with **$20-$39**. Access to all Squire, Villager, and Commoner commands.                                                                                        |
-| ⚔️ **Baron**     | Unlocked with **$40-$59**. Access to all Knight, Squire, Villager, and Commoner commands.                                                                                |
-| 💎 **Count**     | Unlocked with **$60-$99**. Access to all Baron, Knight, Squire, Villager, and Commoner commands.                                                                         |
-| 🏰 **Duke**      | Unlocked with **$100-$149**. Access to all Count, Baron, Knight, Squire, Villager, and Commoner commands.                                                                |
-| 👑 **King**      | Unlocked with **$150-$299**. Access to all Duke, Count, Baron, Knight, Squire, Villager, and Commoner commands.                                                          |
-| 🌟 **Emperor**   | Unlocked with **$300+**. Highest authority, with access to **all commands** and privileges.                                                                              |
+| **Rank**         | **Description**                                                                                                                                                         |
+|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🏚️ **Commoner** | New players start here. Commoner have basic commands like `/msg`, `/tpa`, and `/warp`. This is a guest rank for those who haven’t joined Discord or played for 1 month. |
+| 🏘️ **Villager** | Earned after joining Discord or 1 month of playtime. Villagers (formerly "Serf") gain `/setwarp`, `/hat`, and `/sit`.                                                   |
+| 🏗️ **Artisan**  | Skilled Artisans who apply for World Edit and Creative mode access (non-donor rank).                                                                                    |
+| ———————————————— | **Donor Ranks (Nobility Hierarchy)**                                                                                                                                    |
+| 📜 **Squire**    | Unlocked with **$1-$19**. Access to Villager + Commoner commands.                                                                                                       |
+| 🛡️ **Knight**   | Unlocked with **$20-$39**. Access to all Squire, Villager, and Commoner commands.                                                                                       |
+| ⚔️ **Baron**     | Unlocked with **$40-$59**. Access to all Knight, Squire, Villager, and Commoner commands.                                                                               |
+| 💎 **Count**     | Unlocked with **$60-$99**. Access to all Baron, Knight, Squire, Villager, and Commoner commands.                                                                        |
+| 🏰 **Duke**      | Unlocked with **$100-$149**. Access to all Count, Baron, Knight, Squire, Villager, and Commoner commands.                                                               |
+| 👑 **King**      | Unlocked with **$150-$299**. Access to all Duke, Count, Baron, Knight, Squire, Villager, and Commoner commands.                                                         |
+| 🌟 **Emperor**   | Unlocked with **$300+**. Highest authority, with access to **all commands** and privileges.                                                                             |
 
 **Each rank inherits the commands and perks of the ranks below it, ensuring a structured and organized player
 experience.**

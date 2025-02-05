@@ -1,6 +1,6 @@
 # 🎮 Welcome to JeriCraft - Your Ultimate Virtual Sanctuary! 🎮
 
-**JeriCraft** is a **Semi-RPG Survival Multiplayer (SMP)** server focusing on:
+**JeriCraft** is a Medieval-themed **Semi-RPG Survival Multiplayer (SMP)** server focusing on:
 
 - 🛡️ Survival
 - 💰 Economy
@@ -45,9 +45,55 @@ Explore our server's core features:
 
 ---
 
+### Player Ranks
+
+| Rank Emoji & Name | Description                                                                                                                 |  
+|-------------------|-----------------------------------------------------------------------------------------------------------------------------|  
+| 🏚️ **Commoner**  | New players start here. Basic commands: `/msg`, `/tpa`, `/warp` (guest rank for those not on Discord or <1 month playtime). |  
+| 🏘️ **Villager**  | Earned after joining Discord or 1 month of playtime. Gains `/setwarp`, `/hat`, `/sit`.                                      |  
+| 🏗️ **Artisan**   | Skilled builders with World Edit and Creative mode access (application required).                                           |  
+
+---
+
+### Donor Ranks (Nobility)
+
+| Rank Emoji & Name | Unlock Tier   | Description                                                                        |  
+|-------------------|---------------|------------------------------------------------------------------------------------|  
+| 📜 **Squire**     | **$1–$19**    | Access to Villager + Commoner commands.                                            |  
+| 🛡️ **Knight**    | **$20–$39**   | Access to all Squire, Villager, and Commoner commands.                             |  
+| ⚔️ **Baron**      | **$40–$59**   | Access to all Knight, Squire, Villager, and Commoner commands.                     |  
+| 💎 **Count**      | **$60–$99**   | Access to all Baron, Knight, Squire, Villager, and Commoner commands.              |  
+| 🏰 **Duke**       | **$100–$149** | Access to all Count, Baron, Knight, Squire, Villager, and Commoner commands.       |  
+| 👑 **King**       | **$150–$299** | Access to all Duke, Count, Baron, Knight, Squire, Villager, and Commoner commands. |  
+| 🌟 **Emperor**    | **$300+**     | Highest donor rank. Full command access and exclusive perks.                       |  
+
+---
+
+### Staff/Admin Ranks
+
+| Rank Emoji & Name    | Role         | Description                                                                                  |  
+|----------------------|--------------|----------------------------------------------------------------------------------------------|  
+| 🕊️ **Sentinel**     | Trial-Mod    | New staff members. Monitors chat, assists players, and reports issues (limited permissions). |  
+| ⚖️ **Justiciar**     | Moderator    | Handles moderation: mute, kick, ban, and resolves disputes.                                  |  
+| 🔱 **High Lord**     | Admin        | Manages plugins, configs, and junior staff. Oversees server stability.                       |  
+| 🏛️ **Grand Vizier** | Senior Admin | Senior leadership role. Coordinates events, updates, and major policy decisions.             |  
+| 🌌 **Sovereign**     | Owner        | Ultimate authority. Controls all systems, finances, and final decisions.                     |  
+
+---
+
+### **Admin Title Explanations**
+
+1. **Sentinel** 🕊️ – Watches over the realm (trial role).
+2. **Justiciar** ⚖️ – Enforces laws (moderation).
+3. **High Lord** 🔱 – Governs technical and staff operations.
+4. **Grand Vizier** 🏛️ – Second-in-command to the Owner (strategic leadership).
+5. **Sovereign** 🌌 – Supreme ruler (irreplaceable founder).
+
+---
+
 ## 🎁 Perks
 
-Discover all the fantastic perks available on the JeriCraft server by browsing through
+Discover all the fantastic perks available on the JeriCraft server by browsing
 our [Perks Guide](/MINECRAFT/webstore/store.md).
 
 ---
