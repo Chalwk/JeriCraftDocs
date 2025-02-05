@@ -57,15 +57,15 @@ Explore our server's core features:
 
 ### Donor Ranks (Nobility)
 
-| Rank Emoji & Name | Unlock Tier   | Description                                                                        |  
-|-------------------|---------------|------------------------------------------------------------------------------------|  
-| 📜 **Squire**     | **$1–$19**    | Access to Villager + Commoner commands.                                            |  
-| 🛡️ **Knight**    | **$20–$39**   | Access to all Squire, Villager, and Commoner commands.                             |  
-| ⚔️ **Baron**      | **$40–$59**   | Access to all Knight, Squire, Villager, and Commoner commands.                     |  
-| 💎 **Count**      | **$60–$99**   | Access to all Baron, Knight, Squire, Villager, and Commoner commands.              |  
-| 🏰 **Duke**       | **$100–$149** | Access to all Count, Baron, Knight, Squire, Villager, and Commoner commands.       |  
-| 👑 **King**       | **$150–$299** | Access to all Duke, Count, Baron, Knight, Squire, Villager, and Commoner commands. |  
-| 🌟 **Emperor**    | **$300+**     | Highest donor rank. Full command access and exclusive perks.                       |  
+| Rank Emoji & Name | Unlock Tier    | Description                                                                        |  
+|-------------------|----------------|------------------------------------------------------------------------------------|  
+| 📜 **Squire**     | **\$1–$19**    | Access to Villager + Commoner commands.                                            |  
+| 🛡️ **Knight**    | **\$20–$39**   | Access to all Squire, Villager, and Commoner commands.                             |  
+| ⚔️ **Baron**      | **\$40–$59**   | Access to all Knight, Squire, Villager, and Commoner commands.                     |  
+| 💎 **Count**      | **\$60–$99**   | Access to all Baron, Knight, Squire, Villager, and Commoner commands.              |  
+| 🏰 **Duke**       | **\$100–$149** | Access to all Count, Baron, Knight, Squire, Villager, and Commoner commands.       |  
+| 👑 **King**       | **\$150–$299** | Access to all Duke, Count, Baron, Knight, Squire, Villager, and Commoner commands. |  
+| 🌟 **Emperor**    | **$300+**      | Highest donor rank. Full command access and exclusive perks.                       |  
 
 ---
 
@@ -76,8 +76,7 @@ Explore our server's core features:
 | 🕊️ **Sentinel**     | Trial-Mod    | New staff members. Monitors chat, assists players, and reports issues (limited permissions). |  
 | ⚖️ **Justiciar**     | Moderator    | Handles moderation: mute, kick, ban, and resolves disputes.                                  |  
 | 🔱 **High Lord**     | Admin        | Manages plugins, configs, and junior staff. Oversees server stability.                       |  
-| 🏛️ **Grand Vizier** | Senior Admin | Senior leadership role. Coordinates events, updates, and major policy decisions.             |  
-| 🌌 **Sovereign**     | Owner        | Ultimate authority. Controls all systems, finances, and final decisions.                     |  
+| 🌌 **Sovereign**     | Owner        | Ultimate authority. Controls all systems, finances, and final decisions.                     |
 
 ---
 
@@ -86,8 +85,7 @@ Explore our server's core features:
 1. **Sentinel** 🕊️ – Watches over the realm (trial role).
 2. **Justiciar** ⚖️ – Enforces laws (moderation).
 3. **High Lord** 🔱 – Governs technical and staff operations.
-4. **Grand Vizier** 🏛️ – Second-in-command to the Owner (strategic leadership).
-5. **Sovereign** 🌌 – Supreme ruler (irreplaceable founder).
+4. **Sovereign** 🌌 – Supreme ruler (irreplaceable founder).
 
 ---
 
