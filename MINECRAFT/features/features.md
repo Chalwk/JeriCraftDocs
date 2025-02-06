@@ -21,7 +21,16 @@ our server unique, along with detailed descriptions and links to guides for furt
 7. [**LevelledMobs**](#7-levelledmobs)
 8. [**WorldGuard**](#8-worldguard)
     - [Players can set the following flags in their claims](#players-can-set-the-following-flags-in-their-claims)
-9. [**Additional Features**](#additional-features)
+9. [**Kits**](#kits)
+    - [Commoner](#-commoner-non-donormember)
+    - [Squire](#-squire)
+    - [Knight](#-knight)
+    - [Baron](#-baron)
+    - [Count](#-count)
+    - [Duke](#-duke)
+    - [Archduke](#-archduke)
+    - [Overlord](#-overlord)
+10. [**Additional Features**](#additional-features)
     - [Recurring Playtime Rewards](#recurring-playtime-rewards)
     - [Rewards Overview](#rewards-overview)
     - [Sit Anywhere!](#sit-anywhere-members-and-above)
@@ -38,6 +47,7 @@ our server unique, along with detailed descriptions and links to guides for furt
         - [Nature](#nature)
         - [Animals](#animals)
         - [Miscellaneous](#miscellaneous)
+10. [Kits]
 
 ---
 
@@ -238,6 +248,218 @@ For more details, consult our [Region Management Guide](../guides/Regions.md).
 | `chorus-fruit-teleport`     | **allow**/**deny** | Controls whether chorus fruit can teleport players.                                              |
 | `water-flow`                | **allow**/**deny** | Determines if water can flow into the area.                                                      |
 | `snow-drift`                | **allow**/**deny** | Controls whether snow can accumulate.                                                            |
+
+---
+
+# Kits
+
+### 🏚️ Commoner (non-donor/member)
+
+- **Description:** A humble folk just beginning their life in the village. Equipped with basic essentials for survival in
+  the wilds.
+- **Delay:** 24 hours (86400 seconds)
+
+### Items:
+
+| Item            | Quantity | Enchantments | Offhand |
+|-----------------|----------|--------------|---------|
+| Iron Helmet     | 1        | None         | -       |
+| Iron Chestplate | 1        | None         | -       |
+| Iron Leggings   | 1        | None         | -       |
+| Iron Boots      | 1        | None         | -       |
+| Stone Sword     | 1        | None         | -       |
+| Stone Pickaxe   | 1        | None         | -       |
+| Stone Shovel    | 1        | None         | -       |
+| Stone Axe       | 1        | None         | -       |
+| Shield          | 1        | None         | YES     |
+| Slimefun Guide  | 1        | None         | -       |
+| Spruce Boat     | 1        | None         | -       |
+| Red Bed         | 1        | None         | -       |
+| Torches         | 4        | None         | -       |
+| Cooked Mutton   | 8        | None         | -       |
+| Cooked Chicken  | 4        | None         | -       |
+
+### 📜 Squire
+
+- **Description:** A young apprentice just starting their journey. Equipped with simple gear to survive the world.
+- **Delay:** 24 hours (86400 seconds)
+
+### Items:
+
+| Item               | Quantity | Enchantments | Offhand |
+|--------------------|----------|--------------|---------|
+| Iron Sword         | 1        | -            | -       |
+| Leather Helmet     | 1        | -            | -       |
+| Leather Chestplate | 1        | -            | -       |
+| Leather Leggings   | 1        | -            | -       |
+| Leather Boots      | 1        | -            | -       |
+| Cooked Porkchop    | 16       | -            | -       |
+| Shield             | 1        | -            | YES     |
+| Stone Pickaxe      | 1        | -            | -       |
+| Stone Axe          | 1        | -            | -       |
+| Torches            | 8        | -            | -       |
+
+---
+
+### 🛡️ Knight
+
+- **Description:** A trained warrior ready for battle. Wielding stronger armor and a loyal steed.
+- **Delay:** 48 hours (172800 seconds)
+
+### Items:
+
+| Item                     | Quantity | Enchantments | Offhand |
+|--------------------------|----------|--------------|---------|
+| Diamond Sword            | 1        | -            | -       |
+| Iron Helmet              | 1        | -            | -       |
+| Iron Chestplate          | 1        | -            | -       |
+| Iron Leggings            | 1        | -            | -       |
+| Iron Boots               | 1        | -            | -       |
+| Cooked Porkchop          | 24       | -            | -       |
+| Shield                   | 1        | -            | YES     |
+| Iron Pickaxe             | 1        | -            | -       |
+| Iron Axe                 | 1        | -            | -       |
+| Torches                  | 16       | -            | -       |
+| Horse Spawn Egg + Saddle | 1        | -            | -       |
+
+---
+
+### ⚔️ Baron
+
+- **Description:** A noble with wealth and power. Wields enchanted gear and a bow for ranged combat.
+- **Delay:** 72 hours (259200 seconds)
+
+### Items:
+
+| Item                     | Quantity | Enchantments | Offhand |
+|--------------------------|----------|--------------|---------|
+| Diamond Sword            | 1        | Sharpness I  | -       |
+| Iron Helmet              | 1        | Protection I | -       |
+| Iron Chestplate          | 1        | Protection I | -       |
+| Iron Leggings            | 1        | Protection I | -       |
+| Iron Boots               | 1        | Protection I | -       |
+| Cooked Steak             | 32       | -            | -       |
+| Shield                   | 1        | -            | YES     |
+| Diamond Pickaxe          | 1        | Efficiency I | -       |
+| Diamond Axe              | 1        | -            | -       |
+| Torches                  | 24       | -            | -       |
+| Bow                      | 1        | -            | -       |
+| Arrows                   | 32       | -            | -       |
+| Horse Spawn Egg + Saddle | 1        | -            | -       |
+
+---
+
+### 🏹 Count
+
+- **Description:** A master of both sword and bow, with durable armor and enchanted tools.
+- **Delay:** 96 hours (345600 seconds)
+
+### Items:
+
+| Item                     | Quantity | Enchantments                | Offhand |
+|--------------------------|----------|-----------------------------|---------|
+| Diamond Sword            | 1        | Sharpness II, Unbreaking I  | -       |
+| Diamond Helmet           | 1        | Protection II               | -       |
+| Diamond Chestplate       | 1        | Protection II               | -       |
+| Diamond Leggings         | 1        | Protection II               | -       |
+| Diamond Boots            | 1        | Protection II               | -       |
+| Cooked Steak             | 32       | -                           | -       |
+| Shield                   | 1        | -                           | YES     |
+| Diamond Pickaxe          | 1        | Efficiency II, Unbreaking I | -       |
+| Diamond Axe              | 1        | Efficiency I                | -       |
+| Torches                  | 32       | -                           | -       |
+| Bow                      | 1        | Power II                    | -       |
+| Arrows                   | 48       | -                           | -       |
+| Horse Spawn Egg + Saddle | 1        | -                           | -       |
+| Golden Apple             | 1        | -                           | -       |
+
+---
+
+### 🏰 Duke
+
+- **Description:** A wealthy and powerful ruler, equipped with superior enchanted gear.
+- **Delay:** 120 hours (432000 seconds)
+
+### Items:
+
+| Item                     | Quantity | Enchantments                  | Offhand |
+|--------------------------|----------|-------------------------------|---------|
+| Diamond Sword            | 1        | Sharpness III, Unbreaking II  | -       |
+| Diamond Helmet           | 1        | Protection III, Unbreaking I  | -       |
+| Diamond Chestplate       | 1        | Protection III, Unbreaking I  | -       |
+| Diamond Leggings         | 1        | Protection III, Unbreaking I  | -       |
+| Diamond Boots            | 1        | Protection III, Unbreaking I  | -       |
+| Cooked Steak             | 48       | -                             | -       |
+| Shield                   | 1        | -                             | YES     |
+| Diamond Pickaxe          | 1        | Efficiency III, Unbreaking II | -       |
+| Diamond Axe              | 1        | Efficiency II                 | -       |
+| Torches                  | 32       | -                             | -       |
+| Bow                      | 1        | Power III, Punch I            | -       |
+| Arrows                   | 64       | -                             | -       |
+| Horse Spawn Egg + Saddle | 1        | -                             | -       |
+| Golden Apple             | 2        | -                             | -       |
+| Ender Pearl              | 1        | -                             | -       |
+
+---
+
+### 🏛️ Archduke
+
+- **Description:** A noble of the highest order, nearly unstoppable with Netherite armor and elite weaponry.
+- **Delay:** 144 hours (518400 seconds)
+
+### Items:
+
+| Item                     | Quantity | Enchantments                  | Offhand |
+|--------------------------|----------|-------------------------------|---------|
+| Netherite Sword          | 1        | Sharpness IV, Unbreaking III  | -       |
+| Netherite Helmet         | 1        | Protection IV, Unbreaking II  | -       |
+| Netherite Chestplate     | 1        | Protection IV, Unbreaking II  | -       |
+| Netherite Leggings       | 1        | Protection IV, Unbreaking II  | -       |
+| Netherite Boots          | 1        | Protection IV, Unbreaking II  | -       |
+| Cooked Steak             | 64       | -                             | -       |
+| Shield                   | 1        | -                             | YES     |
+| Netherite Pickaxe        | 1        | Efficiency IV, Unbreaking III | -       |
+| Netherite Axe            | 1        | Efficiency III                | -       |
+| Torches                  | 32       | -                             | -       |
+| Bow                      | 1        | Power IV, Punch II            | -       |
+| Arrows                   | 64       | -                             | -       |
+| Horse Spawn Egg + Saddle | 1        | -                             | -       |
+| Diamond Horse Armor      | 1        | -                             | -       |
+| Golden Apple             | 4        | -                             | -       |
+| Ender Pearl              | 2        | -                             | -       |
+| Totem of Undying         | 1        | -                             | -       |
+
+---
+
+### 🗡️ Overlord
+
+- **Description:** The supreme ruler, wielding the mightiest weapons, enchanted armor, and the power of flight.
+- **Delay:** 168 hours (604800 seconds)
+
+### Items:
+
+| Item                     | Quantity | Enchantments                                | Offhand |
+|--------------------------|----------|---------------------------------------------|---------|
+| Netherite Sword          | 1        | Sharpness V, Fire Aspect II, Unbreaking III | -       |
+| Netherite Helmet         | 1        | Protection IV, Unbreaking III, Thorns I     | -       |
+| Netherite Chestplate     | 1        | Protection IV, Unbreaking III, Thorns I     | -       |
+| Netherite Leggings       | 1        | Protection IV, Unbreaking III, Thorns I     | -       |
+| Netherite Boots          | 1        | Protection IV, Unbreaking III, Thorns I     | -       |
+| Cooked Steak             | 64       | -                                           | -       |
+| Shield                   | 1        | -                                           | YES     |
+| Netherite Pickaxe        | 1        | Efficiency V, Unbreaking III, Fortune III   | -       |
+| Netherite Axe            | 1        | Efficiency IV, Sharpness II                 | -       |
+| Torches                  | 32       | -                                           | -       |
+| Bow                      | 1        | Power V, Punch II, Flame                    | -       |
+| Arrows                   | 64       | -                                           | -       |
+| Crossbow                 | 1        | Multishot, Quick Charge III                 | -       |
+| Horse Spawn Egg + Saddle | 1        | -                                           | -       |
+| Diamond Horse Armor      | 1        | -                                           | -       |
+| Golden Apple             | 6        | -                                           | -       |
+| Ender Pearls             | 3        | -                                           | -       |
+| Totem of Undying         | 1        | -                                           | -       |
+| Elytra                   | 1        | -                                           | -       |
+| Firework Rockets         | 32       | -                                           | -       |
 
 ---
 
@@ -499,215 +721,3 @@ Now you can **organize** and **display** your book collection with ease, adding 
 | **Thunder**     | `:thunder:`    | ⚡             |
 | **Comet**       | `:comet:`      | ☄️            |
 | **Crown**       | `:crown:`      | 👑            |
-
----
-
-# Kits
-
-### 🏚️ Commoner (non-donor/member)
-
-- **Description:** A humble folk just beginning their life in the village. Equipped with basic essentials for survival in
-the wilds.
-- **Delay:** 24 hours (86400 seconds)
-
-### Items:
-
-| Item            | Quantity | Enchantments | Offhand |
-|-----------------|----------|--------------|---------|
-| Iron Helmet     | 1        | None         | -       |
-| Iron Chestplate | 1        | None         | -       |
-| Iron Leggings   | 1        | None         | -       |
-| Iron Boots      | 1        | None         | -       |
-| Stone Sword     | 1        | None         | -       |
-| Stone Pickaxe   | 1        | None         | -       |
-| Stone Shovel    | 1        | None         | -       |
-| Stone Axe       | 1        | None         | -       |
-| Shield          | 1        | None         | YES     |
-| Slimefun Guide  | 1        | None         | -       |
-| Spruce Boat     | 1        | None         | -       |
-| Red Bed         | 1        | None         | -       |
-| Torches         | 4        | None         | -       |
-| Cooked Mutton   | 8        | None         | -       |
-| Cooked Chicken  | 4        | None         | -       |
-
-### 📜 Squire
-
-- **Description:** A young apprentice just starting their journey. Equipped with simple gear to survive the world.  
-- **Delay:** 24 hours (86400 seconds)
-
-### Items:
-
-| Item               | Quantity | Enchantments | Offhand |
-|--------------------|----------|--------------|---------|
-| Iron Sword         | 1        | -            | -       |
-| Leather Helmet     | 1        | -            | -       |
-| Leather Chestplate | 1        | -            | -       |
-| Leather Leggings   | 1        | -            | -       |
-| Leather Boots      | 1        | -            | -       |
-| Cooked Porkchop    | 16       | -            | -       |
-| Shield             | 1        | -            | YES     |
-| Stone Pickaxe      | 1        | -            | -       |
-| Stone Axe          | 1        | -            | -       |
-| Torches            | 8        | -            | -       |
-
----
-
-### 🛡️ Knight
-
-- **Description:** A trained warrior ready for battle. Wielding stronger armor and a loyal steed.  
-- **Delay:** 48 hours (172800 seconds)
-
-### Items:
-
-| Item                     | Quantity | Enchantments | Offhand |
-|--------------------------|----------|--------------|---------|
-| Diamond Sword            | 1        | -            | -       |
-| Iron Helmet              | 1        | -            | -       |
-| Iron Chestplate          | 1        | -            | -       |
-| Iron Leggings            | 1        | -            | -       |
-| Iron Boots               | 1        | -            | -       |
-| Cooked Porkchop          | 24       | -            | -       |
-| Shield                   | 1        | -            | YES     |
-| Iron Pickaxe             | 1        | -            | -       |
-| Iron Axe                 | 1        | -            | -       |
-| Torches                  | 16       | -            | -       |
-| Horse Spawn Egg + Saddle | 1        | -            | -       |
-
----
-
-### ⚔️ Baron
-
-- **Description:** A noble with wealth and power. Wields enchanted gear and a bow for ranged combat.  
-- **Delay:** 72 hours (259200 seconds)
-
-### Items:
-
-| Item                     | Quantity | Enchantments | Offhand |
-|--------------------------|----------|--------------|---------|
-| Diamond Sword            | 1        | Sharpness I  | -       |
-| Iron Helmet              | 1        | Protection I | -       |
-| Iron Chestplate          | 1        | Protection I | -       |
-| Iron Leggings            | 1        | Protection I | -       |
-| Iron Boots               | 1        | Protection I | -       |
-| Cooked Steak             | 32       | -            | -       |
-| Shield                   | 1        | -            | YES     |
-| Diamond Pickaxe          | 1        | Efficiency I | -       |
-| Diamond Axe              | 1        | -            | -       |
-| Torches                  | 24       | -            | -       |
-| Bow                      | 1        | -            | -       |
-| Arrows                   | 32       | -            | -       |
-| Horse Spawn Egg + Saddle | 1        | -            | -       |
-
----
-
-### 🏹 Count
-
-- **Description:** A master of both sword and bow, with durable armor and enchanted tools.  
-- **Delay:** 96 hours (345600 seconds)
-
-### Items:
-
-| Item                     | Quantity | Enchantments                | Offhand |
-|--------------------------|----------|-----------------------------|---------|
-| Diamond Sword            | 1        | Sharpness II, Unbreaking I  | -       |
-| Diamond Helmet           | 1        | Protection II               | -       |
-| Diamond Chestplate       | 1        | Protection II               | -       |
-| Diamond Leggings         | 1        | Protection II               | -       |
-| Diamond Boots            | 1        | Protection II               | -       |
-| Cooked Steak             | 32       | -                           | -       |
-| Shield                   | 1        | -                           | YES     |
-| Diamond Pickaxe          | 1        | Efficiency II, Unbreaking I | -       |
-| Diamond Axe              | 1        | Efficiency I                | -       |
-| Torches                  | 32       | -                           | -       |
-| Bow                      | 1        | Power II                    | -       |
-| Arrows                   | 48       | -                           | -       |
-| Horse Spawn Egg + Saddle | 1        | -                           | -       |
-| Golden Apple             | 1        | -                           | -       |
-
----
-
-### 🏰 Duke
-
-- **Description:** A wealthy and powerful ruler, equipped with superior enchanted gear.  
-- **Delay:** 120 hours (432000 seconds)
-
-### Items:
-
-| Item                     | Quantity | Enchantments                  | Offhand |
-|--------------------------|----------|-------------------------------|---------|
-| Diamond Sword            | 1        | Sharpness III, Unbreaking II  | -       |
-| Diamond Helmet           | 1        | Protection III, Unbreaking I  | -       |
-| Diamond Chestplate       | 1        | Protection III, Unbreaking I  | -       |
-| Diamond Leggings         | 1        | Protection III, Unbreaking I  | -       |
-| Diamond Boots            | 1        | Protection III, Unbreaking I  | -       |
-| Cooked Steak             | 48       | -                             | -       |
-| Shield                   | 1        | -                             | YES     |
-| Diamond Pickaxe          | 1        | Efficiency III, Unbreaking II | -       |
-| Diamond Axe              | 1        | Efficiency II                 | -       |
-| Torches                  | 32       | -                             | -       |
-| Bow                      | 1        | Power III, Punch I            | -       |
-| Arrows                   | 64       | -                             | -       |
-| Horse Spawn Egg + Saddle | 1        | -                             | -       |
-| Golden Apple             | 2        | -                             | -       |
-| Ender Pearl              | 1        | -                             | -       |
-
----
-
-### 🏛️ Archduke
-
-- **Description:** A noble of the highest order, nearly unstoppable with Netherite armor and elite weaponry.  
-- **Delay:** 144 hours (518400 seconds)
-
-### Items:
-
-| Item                     | Quantity | Enchantments                  | Offhand |
-|--------------------------|----------|-------------------------------|---------|
-| Netherite Sword          | 1        | Sharpness IV, Unbreaking III  | -       |
-| Netherite Helmet         | 1        | Protection IV, Unbreaking II  | -       |
-| Netherite Chestplate     | 1        | Protection IV, Unbreaking II  | -       |
-| Netherite Leggings       | 1        | Protection IV, Unbreaking II  | -       |
-| Netherite Boots          | 1        | Protection IV, Unbreaking II  | -       |
-| Cooked Steak             | 64       | -                             | -       |
-| Shield                   | 1        | -                             | YES     |
-| Netherite Pickaxe        | 1        | Efficiency IV, Unbreaking III | -       |
-| Netherite Axe            | 1        | Efficiency III                | -       |
-| Torches                  | 32       | -                             | -       |
-| Bow                      | 1        | Power IV, Punch II            | -       |
-| Arrows                   | 64       | -                             | -       |
-| Horse Spawn Egg + Saddle | 1        | -                             | -       |
-| Diamond Horse Armor      | 1        | -                             | -       |
-| Golden Apple             | 4        | -                             | -       |
-| Ender Pearl              | 2        | -                             | -       |
-| Totem of Undying         | 1        | -                             | -       |
-
----
-
-### 🗡️ Overlord
-
-- **Description:** The supreme ruler, wielding the mightiest weapons, enchanted armor, and the power of flight.  
-- **Delay:** 168 hours (604800 seconds)
-
-### Items:
-
-| Item                     | Quantity | Enchantments                                | Offhand |
-|--------------------------|----------|---------------------------------------------|---------|
-| Netherite Sword          | 1        | Sharpness V, Fire Aspect II, Unbreaking III | -       |
-| Netherite Helmet         | 1        | Protection IV, Unbreaking III, Thorns I     | -       |
-| Netherite Chestplate     | 1        | Protection IV, Unbreaking III, Thorns I     | -       |
-| Netherite Leggings       | 1        | Protection IV, Unbreaking III, Thorns I     | -       |
-| Netherite Boots          | 1        | Protection IV, Unbreaking III, Thorns I     | -       |
-| Cooked Steak             | 64       | -                                           | -       |
-| Shield                   | 1        | -                                           | YES     |
-| Netherite Pickaxe        | 1        | Efficiency V, Unbreaking III, Fortune III   | -       |
-| Netherite Axe            | 1        | Efficiency IV, Sharpness II                 | -       |
-| Torches                  | 32       | -                                           | -       |
-| Bow                      | 1        | Power V, Punch II, Flame                    | -       |
-| Arrows                   | 64       | -                                           | -       |
-| Crossbow                 | 1        | Multishot, Quick Charge III                 | -       |
-| Horse Spawn Egg + Saddle | 1        | -                                           | -       |
-| Diamond Horse Armor      | 1        | -                                           | -       |
-| Golden Apple             | 6        | -                                           | -       |
-| Ender Pearls             | 3        | -                                           | -       |
-| Totem of Undying         | 1        | -                                           | -       |
-| Elytra                   | 1        | -                                           | -       |
-| Firework Rockets         | 32       | -                                           | -       |
