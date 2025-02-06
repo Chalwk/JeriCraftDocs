@@ -252,7 +252,7 @@ For more details, consult our [Region Management Guide](../guides/Regions.md).
 
 # Kits
 
-### 🏚️ Commoner (non-donor/member)
+### 🏚️ Commoner (non-donor/member/starting kit)
 
 - **Description:** A humble folk just beginning their life in the village. Equipped with basic essentials for survival in
   the wilds.
@@ -278,7 +278,7 @@ For more details, consult our [Region Management Guide](../guides/Regions.md).
 | Cooked Mutton   | 8        | None         | -       |
 | Cooked Chicken  | 4        | None         | -       |
 
-### 📜 Squire
+### 📜 Squire (donor kit)
 
 - **Description:** A young apprentice just starting their journey. Equipped with simple gear to survive the world.
 - **Delay:** 24 hours (86400 seconds)
@@ -300,7 +300,7 @@ For more details, consult our [Region Management Guide](../guides/Regions.md).
 
 ---
 
-### 🛡️ Knight
+### 🛡️ Knight (donor kit)
 
 - **Description:** A trained warrior ready for battle. Wielding stronger armor and a loyal steed.
 - **Delay:** 48 hours (172800 seconds)
@@ -323,7 +323,7 @@ For more details, consult our [Region Management Guide](../guides/Regions.md).
 
 ---
 
-### ⚔️ Baron
+### ⚔️ Baron (donor kit)
 
 - **Description:** A noble with wealth and power. Wields enchanted gear and a bow for ranged combat.
 - **Delay:** 72 hours (259200 seconds)
@@ -348,7 +348,7 @@ For more details, consult our [Region Management Guide](../guides/Regions.md).
 
 ---
 
-### 🏹 Count
+### 🏹 Count (donor kit)
 
 - **Description:** A master of both sword and bow, with durable armor and enchanted tools.
 - **Delay:** 96 hours (345600 seconds)
@@ -374,7 +374,7 @@ For more details, consult our [Region Management Guide](../guides/Regions.md).
 
 ---
 
-### 🏰 Duke
+### 🏰 Duke (donor kit)
 
 - **Description:** A wealthy and powerful ruler, equipped with superior enchanted gear.
 - **Delay:** 120 hours (432000 seconds)
@@ -401,7 +401,7 @@ For more details, consult our [Region Management Guide](../guides/Regions.md).
 
 ---
 
-### 🏛️ Archduke
+### 🏛️ Archduke (donor kit)
 
 - **Description:** A noble of the highest order, nearly unstoppable with Netherite armor and elite weaponry.
 - **Delay:** 144 hours (518400 seconds)
@@ -430,7 +430,7 @@ For more details, consult our [Region Management Guide](../guides/Regions.md).
 
 ---
 
-### 🗡️ Overlord
+### 🗡️ Overlord (donor kit)
 
 - **Description:** The supreme ruler, wielding the mightiest weapons, enchanted armor, and the power of flight.
 - **Delay:** 168 hours (604800 seconds)
