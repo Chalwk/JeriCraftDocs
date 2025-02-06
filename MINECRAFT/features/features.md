@@ -506,9 +506,9 @@ Now you can **organize** and **display** your book collection with ease, adding 
 
 ### 🏚️ Commoner (non-donor/member)
 
-**Description:** A humble folk just beginning their life in the village. Equipped with basic essentials for survival in
+- **Description:** A humble folk just beginning their life in the village. Equipped with basic essentials for survival in
 the wilds.
-**Delay:** 24 hours (86400 seconds)
+- **Delay:** 24 hours (86400 seconds)
 
 ### Items:
 
@@ -532,8 +532,8 @@ the wilds.
 
 ### 📜 Squire
 
-**Description:** A young apprentice just starting their journey. Equipped with simple gear to survive the world.  
-**Delay:** 24 hours (86400 seconds)
+- **Description:** A young apprentice just starting their journey. Equipped with simple gear to survive the world.  
+- **Delay:** 24 hours (86400 seconds)
 
 ### Items:
 
@@ -554,8 +554,8 @@ the wilds.
 
 ### 🛡️ Knight
 
-**Description:** A trained warrior ready for battle. Wielding stronger armor and a loyal steed.  
-**Delay:** 48 hours (172800 seconds)
+- **Description:** A trained warrior ready for battle. Wielding stronger armor and a loyal steed.  
+- **Delay:** 48 hours (172800 seconds)
 
 ### Items:
 
@@ -577,8 +577,8 @@ the wilds.
 
 ### ⚔️ Baron
 
-**Description:** A noble with wealth and power. Wields enchanted gear and a bow for ranged combat.  
-**Delay:** 72 hours (259200 seconds)
+- **Description:** A noble with wealth and power. Wields enchanted gear and a bow for ranged combat.  
+- **Delay:** 72 hours (259200 seconds)
 
 ### Items:
 
@@ -602,8 +602,8 @@ the wilds.
 
 ### 🏹 Count
 
-**Description:** A master of both sword and bow, with durable armor and enchanted tools.  
-**Delay:** 96 hours (345600 seconds)
+- **Description:** A master of both sword and bow, with durable armor and enchanted tools.  
+- **Delay:** 96 hours (345600 seconds)
 
 ### Items:
 
@@ -628,8 +628,8 @@ the wilds.
 
 ### 🏰 Duke
 
-**Description:** A wealthy and powerful ruler, equipped with superior enchanted gear.  
-**Delay:** 120 hours (432000 seconds)
+- **Description:** A wealthy and powerful ruler, equipped with superior enchanted gear.  
+- **Delay:** 120 hours (432000 seconds)
 
 ### Items:
 
@@ -655,8 +655,8 @@ the wilds.
 
 ### 🏛️ Archduke
 
-**Description:** A noble of the highest order, nearly unstoppable with Netherite armor and elite weaponry.  
-**Delay:** 144 hours (518400 seconds)
+- **Description:** A noble of the highest order, nearly unstoppable with Netherite armor and elite weaponry.  
+- **Delay:** 144 hours (518400 seconds)
 
 ### Items:
 
@@ -684,8 +684,8 @@ the wilds.
 
 ### 🗡️ Overlord
 
-**Description:** The supreme ruler, wielding the mightiest weapons, enchanted armor, and the power of flight.  
-**Delay:** 168 hours (604800 seconds)
+- **Description:** The supreme ruler, wielding the mightiest weapons, enchanted armor, and the power of flight.  
+- **Delay:** 168 hours (604800 seconds)
 
 ### Items:
 
