@@ -47,7 +47,6 @@ our server unique, along with detailed descriptions and links to guides for furt
         - [Nature](#nature)
         - [Animals](#animals)
         - [Miscellaneous](#miscellaneous)
-10. [Kits]
 
 ---
 
@@ -259,7 +258,7 @@ For more details, consult our [Region Management Guide](../guides/Regions.md).
   the wilds.
 - **Delay:** 24 hours (86400 seconds)
 
-### Items:
+#### Items:
 
 | Item            | Quantity | Enchantments | Offhand |
 |-----------------|----------|--------------|---------|
@@ -284,7 +283,7 @@ For more details, consult our [Region Management Guide](../guides/Regions.md).
 - **Description:** A young apprentice just starting their journey. Equipped with simple gear to survive the world.
 - **Delay:** 24 hours (86400 seconds)
 
-### Items:
+#### Items:
 
 | Item               | Quantity | Enchantments | Offhand |
 |--------------------|----------|--------------|---------|
@@ -306,7 +305,7 @@ For more details, consult our [Region Management Guide](../guides/Regions.md).
 - **Description:** A trained warrior ready for battle. Wielding stronger armor and a loyal steed.
 - **Delay:** 48 hours (172800 seconds)
 
-### Items:
+#### Items:
 
 | Item                     | Quantity | Enchantments | Offhand |
 |--------------------------|----------|--------------|---------|
@@ -329,7 +328,7 @@ For more details, consult our [Region Management Guide](../guides/Regions.md).
 - **Description:** A noble with wealth and power. Wields enchanted gear and a bow for ranged combat.
 - **Delay:** 72 hours (259200 seconds)
 
-### Items:
+#### Items:
 
 | Item                     | Quantity | Enchantments | Offhand |
 |--------------------------|----------|--------------|---------|
@@ -354,7 +353,7 @@ For more details, consult our [Region Management Guide](../guides/Regions.md).
 - **Description:** A master of both sword and bow, with durable armor and enchanted tools.
 - **Delay:** 96 hours (345600 seconds)
 
-### Items:
+#### Items:
 
 | Item                     | Quantity | Enchantments                | Offhand |
 |--------------------------|----------|-----------------------------|---------|
@@ -380,7 +379,7 @@ For more details, consult our [Region Management Guide](../guides/Regions.md).
 - **Description:** A wealthy and powerful ruler, equipped with superior enchanted gear.
 - **Delay:** 120 hours (432000 seconds)
 
-### Items:
+#### Items:
 
 | Item                     | Quantity | Enchantments                  | Offhand |
 |--------------------------|----------|-------------------------------|---------|
@@ -407,7 +406,7 @@ For more details, consult our [Region Management Guide](../guides/Regions.md).
 - **Description:** A noble of the highest order, nearly unstoppable with Netherite armor and elite weaponry.
 - **Delay:** 144 hours (518400 seconds)
 
-### Items:
+#### Items:
 
 | Item                     | Quantity | Enchantments                  | Offhand |
 |--------------------------|----------|-------------------------------|---------|
@@ -436,7 +435,7 @@ For more details, consult our [Region Management Guide](../guides/Regions.md).
 - **Description:** The supreme ruler, wielding the mightiest weapons, enchanted armor, and the power of flight.
 - **Delay:** 168 hours (604800 seconds)
 
-### Items:
+#### Items:
 
 | Item                     | Quantity | Enchantments                                | Offhand |
 |--------------------------|----------|---------------------------------------------|---------|
