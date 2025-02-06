@@ -4,7 +4,6 @@
 
 - 🛡️ Survival
 - 💰 Economy
-- 🔮 Slimefun
 - 🛠️ Jobs
 - 🎯 mcMMO
 - 🌍 Seasons
@@ -39,7 +38,6 @@ Explore our server's core features:
 - 🔱 [**mcMMO**](/MINECRAFT/guides/mcMMO.md): Master RPG-like skills, abilities, and leveling systems with mcMMO.
 - ❄️ [**RealisticSeasons**](/MINECRAFT/guides/RealisticSeasons.md): Experience dynamic and immersive seasons.
 - 🗺️ [**Regions**](/MINECRAFT/guides/Regions.md): Claim, protect, and manage specific areas on the server.
-- 🧪 [**Slimefun**](/MINECRAFT/guides/Slimefun.md): Explore new items, machines, and crafting recipes in Slimefun.
 
 ### [Explore more features here](/MINECRAFT/features/features.md)
 

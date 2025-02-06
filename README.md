@@ -37,7 +37,6 @@ Explore detailed guides and resources for the JeriCraft Minecraft server:
     - **[mcMMO](MINECRAFT/guides/mcMMO.md)**
     - **[RealisticSeasons](MINECRAFT/guides/RealisticSeasons.md)**
     - **[Regions](MINECRAFT/guides/Regions.md)**
-    - **[Slimefun](MINECRAFT/guides/Slimefun.md)**
 6. 💎 **[Perks / Webstore](/MINECRAFT/webstore/store.md)**
 
 ---

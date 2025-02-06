@@ -256,17 +256,10 @@ your unique journey today!
 
 ### Kits:
 
-Enhance your building and crafting experience in JeriCraft with our versatile Kits! This category offers a variety of
-kits packed with essential materials to elevate your gameplay. From Slimefun Ingots and Dust for advanced crafting to
-diverse blocks like Glass, Terracotta, and Wool, you’ll have everything you need to create stunning structures and
-intricate designs. Unlock the Pyro Kit for explosive fun, complete with tools to harness the power of fire. Each kit is
-designed to inspire your creativity and streamline your building process, making it easier than ever to bring your
-visions to life!
+Enhance your building and crafting experience in JeriCraft with our versatile Kits!
 
 | **PERK**              | **PRICE** | **DESCRIPTION**                                                                                                                     | **PERMISSION**       |
 |-----------------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------|----------------------|
-| Kit - Slimefun Ingots | $7.00     | Get a kit filled with various Slimefun ingots, providing you with essential materials for creating advanced items and machinery.    | `cmi.kit.sf_ingots`  |
-| Kit - Slimefun Dust   | $7.00     | Receive a kit containing an assortment of Slimefun dusts, allowing you to enhance your items and create powerful magical artifacts. | `cmi.kit.sf_dust`    |
 | Kit - Glass           | $4.00     | Obtain a kit with a variety of glass blocks, making it easier to construct beautiful glass structures and decorations.              | `cmi.kit.glass`      |
 | Kit - Terracotta      | $4.00     | Acquire a kit featuring a diverse range of terracotta blocks, empowering you to build vibrant and detailed architectural designs.   | `cmi.kit.terracotta` |
 | Kit - Banner          | $3.00     | Get a kit with all banner colors for your creative and decorative needs.                                                            | `cmi.kit.banner`     |

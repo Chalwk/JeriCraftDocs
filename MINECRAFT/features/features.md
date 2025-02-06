@@ -8,29 +8,27 @@ our server unique, along with detailed descriptions and links to guides for furt
 
 ### 📑 Table of Contents
 
-1. [**Slimefun 4**](#1-slimefun-4)
-    - [Our Slimefun Addons](#our-slimefun-addons)
-2. [**Jobs Reborn**](#2-jobs-reborn)
+- [**Jobs Reborn**](#jobs-reborn)
     - [Full List of Jobs Available on Our Server](#full-list-of-jobs-available-on-our-server)
     - [Jobs Boost](#job-boosters)
-3. [**mcMMO**](#3-mcmmo)
+- [**mcMMO**](#mcmmo)
     - [Full List of McMMO Skills on Our Server](#full-list-of-mcmmo-skills-on-our-server)
-4. [**AuctionHouse**](#4-auctionhouse)
-5. [**RealisticSeasons**](#5-realisticseasons)
-6. [**Chest Shop**](#6-chestshop)
-7. [**LevelledMobs**](#7-levelledmobs)
-8. [**WorldGuard**](#8-worldguard)
+- [**AuctionHouse**](#auctionhouse)
+- [**RealisticSeasons**](#realisticseasons)
+- [**Chest Shop**](#chestshop)
+- [**LevelledMobs**](#levelledmobs)
+- [**WorldGuard**](#worldguard)
     - [Players can set the following flags in their claims](#players-can-set-the-following-flags-in-their-claims)
-9. [**Kits**](#kits)
-    - [Commoner](#-commoner-non-donormember)
-    - [Squire](#-squire)
-    - [Knight](#-knight)
-    - [Baron](#-baron)
-    - [Count](#-count)
-    - [Duke](#-duke)
-    - [Archduke](#-archduke)
-    - [Overlord](#-overlord)
-10. [**Additional Features**](#additional-features)
+- [**Kits**](#kits)
+    - [Commoner](#-commoner-non-donormemberstarting-kit)
+    - [Squire](#-squire-donor-kit)
+    - [Knight](#-knight-donor-kit)
+    - [Baron](#-baron-donor-kit)
+    - [Count](#-count-donor-kit)
+    - [Duke](#-duke-donor-kit)
+    - [Archduke](#-archduke-donor-kit)
+    - [Overlord](#-overlord-donor-kit)
+- [**Additional Features**](#additional-features)
     - [Recurring Playtime Rewards](#recurring-playtime-rewards)
     - [Rewards Overview](#rewards-overview)
     - [Sit Anywhere!](#sit-anywhere-members-and-above)
@@ -52,36 +50,7 @@ our server unique, along with detailed descriptions and links to guides for furt
 
 ---
 
-## 1. [Slimefun 4](https://github.com/Slimefun/Slimefun4)
-
-**Slimefun** is a **tech and magic mod-inspired plugin** that adds hundreds of hours of new content to Minecraft. From
-advanced machinery to magical items, Slimefun offers endless possibilities for creativity and exploration.
-
-📖 Guide: [Slimefun Guide](../guides/Slimefun.md)
-🔗 Project Page: [Slimefun 4 on GitHub](https://github.com/Slimefun/Slimefun4)
-
-#### Our Slimefun Addons:
-
-| Addon Name            | Description                                                              | Project Page                                                    |
-|-----------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------|
-| **Advanced Tech**     | Adds advanced tech machines and tools.                                   | [Link](https://github.com/PranavVerma-droid/AdvancedTech)       |
-| **DynaTech**          | A technology-based addon featuring new devices and mechanisms.           | [Link](https://github.com/ProfElements/DynaTech)                |
-| **EcoPower**          | Introduces eco-friendly energy sources and sustainable systems.          | [Link](https://github.com/TheBusyBiscuit/EcoPower)              |
-| **ExtraGear**         | Expands the tools and armor in the game, offering additional options.    | [Link](https://github.com/TheBusyBiscuit/ExtraGear)             |
-| **FlowerPower**       | Magic-based mechanics, focusing on the power of flowers.                 | [Link](https://github.com/NCBPFluffyBear/FlowerPower/)          |
-| **FluffyMachines**    | Adds various mechanical devices and utilities.                           | [Link](https://github.com/NCBPFluffyBear/FluffyMachines)        |
-| **FN Amplifications** | Enhances and expands the capabilities of Slimefun’s existing features.   | [Link](https://github.com/FN-FAL113/FN-FAL-s-Amplifications)    |
-| **FoxyMachines**      | Machines with unique and fun mechanics that add extra depth.             | [Link](https://github.com/GallowsDove/FoxyMachines)             |
-| **Galactifun**        | Space-themed machines and items, perfect for cosmic adventures.          | [Link](https://github.com/Slimefun-Addon-Community/Galactifun/) |
-| **MobCapturer**       | Capture and tame mobs, introducing a new way to interact with creatures. | [Link](https://github.com/Slimefun-Addon-Community/MobCapturer) |
-| **Networks**          | Introduces networking and communication systems between machines.        | [Link](https://github.com/Sefiraat/Networks)                    |
-| **RelicsOfCthonia**   | Adds mystical and ancient relics with special properties.                | [Link](https://github.com/FN-FAL113/RelicsOfCthonia)            |
-| **LuckyBlocks**       | Adds the famous Lucky Block feature to the game.                         | [Link](https://github.com/TheBusyBiscuit/luckyblocks-sf)        |
-| **VillagerUtil**      | Enhances villagers, allowing for better trading and interaction.         | [Link](https://github.com/Apeiros-46B/VillagerUtil)             |
-
----
-
-## 2. [Jobs Reborn](https://www.spigotmc.org/resources/jobs-reborn.4216/)
+## [Jobs Reborn](https://www.spigotmc.org/resources/jobs-reborn.4216/)
 
 **Jobs Reborn** allows players to earn money for a variety of activities such as breaking blocks, crafting, killing
 mobs, fishing, and more. As you complete tasks within your job, you gain experience, leveling up your abilities and
@@ -138,7 +107,7 @@ more information on joining jobs, use `/jobs browse` and `/jobs join <job name>`
 
 ---
 
-## 3. [McMMO](https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/)
+## [McMMO](https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/)
 
 **McMMO** adds a skill-based leveling system to Minecraft, rewarding players for using tools and weapons. As you gain
 experience in various activities, you unlock special abilities, such as double drops, rare drops, and unique abilities.
@@ -167,7 +136,7 @@ For further details, visit [mcmmo.org](http://mcmmo.org) or refer to our [McMMO 
 
 ---
 
-## 4. [AuctionHouse](https://www.spigotmc.org/resources/auctionhouse.61836/)
+## [AuctionHouse](https://www.spigotmc.org/resources/auctionhouse.61836/)
 
 **AuctionHouse** allows players to auction off their items, creating a dynamic economy where players can sell, buy, and
 bid on various goods.
@@ -176,7 +145,7 @@ For more details, refer to our [AuctionHouse Guide](../guides/AuctionHouse.md).
 
 ---
 
-## 5. [RealisticSeasons](https://www.spigotmc.org/resources/realisticseasons-1-16-3-1-20-2-seasons-in-your-minecraft-world-with-temperature-and-calendar.93275/)
+## [RealisticSeasons](https://www.spigotmc.org/resources/realisticseasons-1-16-3-1-20-2-seasons-in-your-minecraft-world-with-temperature-and-calendar.93275/)
 
 This plugin introduces **realistic seasons** (Spring, Summer, Autumn, and Winter) to our world, complete with
 temperature fluctuations, weather effects, and a seasonal calendar.
@@ -185,7 +154,7 @@ For more information, refer to our [RealisticSeasons Guide](../guides/RealisticS
 
 ---
 
-## 6. [ChestShop](https://www.spigotmc.org/resources/chestshop.51856/)
+## [ChestShop](https://www.spigotmc.org/resources/chestshop.51856/)
 
 **ChestShop** is a simple yet powerful system for creating physical shops using signs and chests. Players can create
 their own shops and sell items to other players.
@@ -194,7 +163,7 @@ For guidance, check out our [ChestShop Guide](../guides/ChestShop.md).
 
 ---
 
-## 7. [LevelledMobs](https://www.spigotmc.org/resources/levelledmobs.74304/)
+## [LevelledMobs](https://www.spigotmc.org/resources/levelledmobs.74304/)
 
 **LevelledMobs** allows mobs to gain levels, becoming progressively stronger and more challenging as they defeat
 players. This creates a dynamic and evolving world.
@@ -203,7 +172,7 @@ For more information, see our [LevelledMobs Guide](../guides/LevelledMobs.md).
 
 ---
 
-## 8. [WorldGuard](https://enginehub.org/worldguard)
+## [WorldGuard](https://enginehub.org/worldguard)
 
 **WorldGuard** is a robust land protection plugin, allowing players to protect their land from griefing and control
 gameplay features within their region.
@@ -271,7 +240,6 @@ For more details, consult our [Region Management Guide](../guides/Regions.md).
 | Stone Shovel    | 1        | None         | -       |
 | Stone Axe       | 1        | None         | -       |
 | Shield          | 1        | None         | YES     |
-| Slimefun Guide  | 1        | None         | -       |
 | Spruce Boat     | 1        | None         | -       |
 | Red Bed         | 1        | None         | -       |
 | Torches         | 4        | None         | -       |

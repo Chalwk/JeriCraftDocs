@@ -30,8 +30,6 @@ To enhance your gameplay experience, here are some essential commands to get you
 |                     | `/kit <name>`                         | Redeem a specific kit.                                              |
 |                     | `/jobs`                               | Manage your RPG jobs and roles.                                     |
 |                     | `/mcmmo`                              | View and manage your RPG skills and stats.                          |
-| **Slimefun Guide**  | `/sf guide`                           | Obtain the Slimefun guidebook for crafting recipes and information. |
-|                     | `/sf wiki`                            | Access the Slimefun wiki for additional information.                |
 | **Land Protection** | `/pos1` → `/pos2`                     | Mark the corners of a region for claiming.                          |
 |                     | `/rg claim <region name>`             | Claim a region for yourself.                                        |
 |                     | `/rg flag <region name> pvp deny`     | Prevent PvP in your claimed region.                                 |
@@ -58,7 +56,6 @@ JeriCraft offers a variety of features to make your world feel more immersive:
 
 Here are some features that make JeriCraft a truly unique experience:
 
-- **Slimefun Plugin**: Discover hundreds of custom items and machines for endless crafting possibilities.
 - **mcMMO & Jobs**: Level up your skills and abilities for unique perks and rewards.
 - **Challenging Mobs & Bosses**: Explore a world filled with dangerous creatures and powerful bosses.
 - **Player-driven Economy**: Engage in the economy with **Chest Shops** and **Auctions**.

@@ -26,8 +26,6 @@
 | Night Vision               | `nv`                                                            |
 | Sign Copy                  | `sc`                                                            |
 | Head Database              | `hdb`                                                           |
-| Slimefun Kit (Ingots)      | `kit sf_ingots`                                                 |
-| Slimefun Kit (Dust)        | `kit sf_dust`                                                   |
 | Kit Glass                  | `kit glass`                                                     |
 | Kit Terracotta             | `kit terracotta`                                                |
 | Kit Banner                 | `kit banner`                                                    |

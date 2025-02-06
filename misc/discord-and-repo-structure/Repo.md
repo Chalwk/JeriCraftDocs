@@ -79,7 +79,6 @@
 │   │       mcMMO.md
 │   │       RealisticSeasons.md
 │   │       Regions.md
-│   │       Slimefun.md
 │   │
 │   ├───ideas
 │   │       CMI Ranks.yaml
