@@ -1,54 +1,54 @@
-### 〔📚〕about-us
+### 〔📜〕the-kingdoms-chronicle
 
-### 〔🚪〕 welcome-wagon
+### 〔📕〕the-royal-decree
 
-### 〔📝〕 community-rules
+### 〔🚪〕the-portcullis-gate
 
-### 〔🔔〕 NEWS & INFO
+### ◉ THE HERALD'S PROCLAMATION
 
-    -〔🔊〕announcements
-    -〔🔴〕twitch-live
-    -〔🔄〕updates
-    -〔📅〕events
-    -〔💡〕feedback-and-suggestions
+    -〔📢〕town-bulletin
+    -〔🔄〕blacksmiths-forge
+    -〔📅〕tourney-grounds
+    -〔📩〕court-council
+    -〔🛒〕merchants-stall
     -〔🛒〕webstore
-    -〔📝〕forms-and-applications
-    -〔🚫〕appeals
-    -〔🌟〕introductions
+    -〔📜〕scribes-quill
+    -〔🚫〕pardoners-appeal
+    -〔👋〕introductions
 
-### 〔👥〕 SOCIAL CHAT
+### ◉ THE TAVERN SQUARE
 
-    -〔💬〕minecraft
-    -〔💬〕halo
-    -〔📺〕media
-    -〔🎶〕music
-    -〔😂〕memes
+    -〔💬〕the-forge-and-anvil
+    -〔💬〕the-orbital-sanctum
+    -〔🖼〕bards-gallery
+    -〔🎶〕minstrels-melodies
+    -〔😂〕jesters-japes
 
-### 〔🎙〕 THE LOUNGE
+### ◉ THE MEAD HALL
 
     -〔🎤〕General
     -〔🎤〕minecraft
     -〔🎤〕Halo
     -〔🔴〕stream
 
-### 〔🔄〕 GAME EVENTS FEED
+### ◉ TOURNEY FIELDS
 
-    -〔⛏️〕minecraft
-    -〔👾〕divide-and-conquer
-    -〔👾〕gun-game
-    -〔👾〕hunter-prey
-    -〔👾〕kill-confirmed
-    -〔👾〕market
-    -〔👾〕melee-attack
-    -〔👾〕one-in-the-chamber
-    -〔👾〕rooster-ctf
-    -〔👾〕sabotage
-    -〔👾〕snipers-dream-team-mod
-    -〔👾〕tag
-    -〔👾〕team-Defender
-    -〔👾〕zombies
+    -〔⚒〕jericraft
+    -〔🌌〕divide-and-conquer
+    -〔🌌〕gun-game
+    -〔🌌〕hunter-prey
+    -〔🌌〕kill-confirmed
+    -〔🌌〕market
+    -〔🌌〕melee-attack
+    -〔🌌〕one-in-the-chamber
+    -〔🌌〕rooster-ctf
+    -〔🌌〕sabotage
+    -〔🌌〕snipers-dream-team-mod
+    -〔🌌〕tag
+    -〔🌌〕team-Defender
+    -〔🌌〕zombies
 
-### 〔🔗〕JERICRAFTDOCS GITHUB
+### ◉ JERICRAFTDOCS GITHUB
 
     -〔📚〕docs
     -〔📣〕updates
@@ -56,7 +56,7 @@
     -〔🛠〕contributors
     -〔🐛〕bug-reports
 
-### 〔🔗〕 HSP-GITHUB
+### ◉ HSP-GITHUB
 
     -〔📝〕about
     -〔🔔〕repo-activity
@@ -64,16 +64,15 @@
     -〔🎨〕dev
     -〔🐛〕bug-reports
 
-### 〔☗〕 MANAGEMENT (hidden to public)
+### ◉ COUNCIL CHAMBERS
 
-    - 〔🔒〕security-alerts
-    - 〔📊〕performance-reports
-    - 〔🎮〕server-maintenance
-    - 〔📂〕task-management
-    - 〔🔍〕moderation-logs
-    - 〔🗣〕staff-communication
-    - 〔🏅〕staff-recognition
-    - 〔📑〕policy-updates
-    - 〔📅〕staff-calendar
-    - 〔🎤〕Staff Voice
-    - 〔🎥〕movie-time
+    - 〔🔒〕the-watchtower
+    - 〔📊〕realms-ledger
+    - 〔🎮〕castle-upkeep
+    - 〔📂〕quest-board
+    - 〔🔍〕the-inquisitors-ledger
+    - 〔🗣〕royal-council
+    - 〔🏅〕order-of-merit
+    - 〔📑〕edict-revisions
+    - 〔📅〕astrologers-almanac
+    - 〔🎤〕Court's Echo
