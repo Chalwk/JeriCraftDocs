@@ -2,6 +2,8 @@
 
 ### 〔📕〕the-royal-decree
 
+### 〔📜〕writ-of-allegiance
+
 ### 〔🚪〕the-portcullis-gate
 
 ### ◉ THE HERALD'S PROCLAMATION
@@ -11,7 +13,6 @@
     -〔📅〕tourney-grounds
     -〔📩〕court-council
     -〔🛒〕merchants-stall
-    -〔🛒〕webstore
     -〔📜〕scribes-quill
     -〔🚫〕pardoners-appeal
     -〔👋〕introductions
