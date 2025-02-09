@@ -3,7 +3,7 @@
 # MessageAnnouncer v1.12.3 Main configuration
 announcer_enabled: true
 announcer_random: false
-announce_interval: 1
+announce_interval: 240
 sound:
   enabled: false
   sound_name: BLOCK_NOTE_BLOCK_PLING
@@ -180,7 +180,7 @@ announcements:
   mcmmo:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &&eMCMMO GUIDE &8⚔
+        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eMCMMO GUIDE &8⚔
       
       &7Skill Mastery bestows experience upon thee as thou
       wield tools, weapons, and perform various tasks.
@@ -219,7 +219,7 @@ announcements:
   discord:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: ROYAL CHAMBERS &8⚔
+        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eROYAL CHAMBERS &8⚔
       
       &7Join our &bDiscord&7 to chat with fellow adventurers!
       • Click here to receive the &binvite scroll&7 or type &b/discord.",
@@ -307,7 +307,7 @@ announcements:
   scavenge:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l📢 Explorer’s Note: &eSCAVENGING &8⚔
+        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eSCAVENGING &8⚔
       
       &7Plunder treasures, unearth enchantments, and reclaim thy spoils!
       •  Click to Scavenge or type &b/scavenge.",
@@ -323,7 +323,7 @@ announcements:
   sitting:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l📢 Knight’s Herald: &eSITTING &8⚔
+        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eSITTING &8⚔
       
       &7Ye humble members may sit in many a place:
       • Right-click upon a carpet, stair, or slab to take a seat.
@@ -342,7 +342,7 @@ announcements:
       {
         "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eWEBSTORE &8⚔
       
-      &7•  Click to visit our webstore and browse for rare and
+      &7• Click to visit our webstore and browse for rare and
       exclusive perks to enhance thy adventures.",
         "clickEvent": {
           "action": "open_url",
