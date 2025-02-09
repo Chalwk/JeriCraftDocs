@@ -3,7 +3,7 @@
 # MessageAnnouncer v1.12.3 Main configuration
 announcer_enabled: true
 announcer_random: false
-announce_interval: 240
+announce_interval: 1
 sound:
   enabled: false
   sound_name: BLOCK_NOTE_BLOCK_PLING
@@ -27,7 +27,6 @@ interval_announcement_list:
   - previous_location
   - region_management
   - scavenge
-  - server_shop
   - sitting
   - server_rules
   - webstore
@@ -35,14 +34,14 @@ announcements:
   auctions:
     - |-
       {
-        "text": "&8======= &6&l⚖ AUCTION HALL &8=======
+        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eAUCTION HALL &8⚔
       
-        &7Step forth, noble merchants and cunning traders!
-        &7Bid for grand treasures in this &bplayer-driven market&7.
-        &7Learn the ways of the auctioneer in our &aancient scrolls &7(click).
+      &7Step forth, noble merchants and cunning traders!
+      &7Bid for grand treasures in this &bplayer-driven market&7.
+      &7Learn the ways of the auctioneer in our &aancient scrolls &7(click).
       
-        • &7&b/ah &8- &7Enter the Auction Hall
-        • &7&b/ah help &8- &7Seek guidance from the auctioneer",
+      • &7&b/ah &8- &7Enter the Auction Hall
+      • &7&b/ah help &8- &7Seek guidance from the auctioneer",
         "clickEvent": {
           "action": "open_url",
           "value": "https://github.com/Chalwk/JeriCraftDocs/blob/main/MINECRAFT/guides/AuctionHouse.md"
@@ -55,7 +54,7 @@ announcements:
   boosts:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l📢 Decree: &bAuto Boosts &6&l📢 &2&l[🏰] &8⚔
+        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eAUTO BOOSTS &8⚔
       
       • &bWeekend Party: &71.25x XP, 1.5x Money (Fri-Sat, 8-11 PM)
       • &bEarly Bird: &71.5x XP, 1.25x Money (Mon-Fri, 6-9 AM)
@@ -75,9 +74,9 @@ announcements:
   chest_shop:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &bChest Shop Scroll &2&l[🏰] &8⚔
-      Seeking guidance on building your Chest Shop?
+        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eCHEST SHOP &8⚔
       
+      Seeking guidance on building your Chest Shop?
       • &7Unveil the &astep-by-step scroll &7(click) to learn the ways of the merchant.",
         "clickEvent": {
           "action": "open_url",
@@ -91,9 +90,9 @@ announcements:
   emojis:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l🔮 Arcane Knowledge: &bSigils &6&l🔮 &2&l[🏰] &8⚔
-      &7Use sigils &f(emojis) &7in chat, on scrolls, and in tomes!
+        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eARCANE KNOWLEDGE &8⚔
       
+      &7Use sigils &f(emojis) &7in chat, on scrolls, and in tomes!
       • &7Click to unveil our custom sigils or type &b/emojis",
         "clickEvent": {
           "action": "run_command",
@@ -107,9 +106,9 @@ announcements:
   bookshelves:
     - |-
       {
-        "text": "&8📖 &2&l[🏰] &6&l📜 Library Archive: &bBookshelves &6&l📜 &2&l[🏰] &8📖
-      &7Store and display your tomes with ease!
+        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eFUNCTIONAL BOOKSHELVES &8⚔
       
+      &7Store and display your tomes with ease!
       • &7Hold a &bwritten book &7to place upon the shelf.
       • &7Left-click to place or examine a fleeting copy.
       • &7Right-click to read.
@@ -122,9 +121,9 @@ announcements:
   hats:
     - |-
       {
-        "text": "&8🎩 &2&l[🏰] &6&l👑 Noble Attire: &bHats &6&l👑 &2&l[🏰] &8🎩
-      &7Adorn thy head with any item using the &b/hat &7command!
+        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eNOBLE ATTIRE &8⚔
       
+      &7Adorn thy head with any item using the &b/hat &7command!
       • &8&l🏘 &f[&8&lVillager&f]&8+ &7only!",
         "hoverEvent": {
           "action": "show_text",
@@ -134,7 +133,8 @@ announcements:
   item_recipes:
     - |-
       {
-        "text": "&8📜 &2&l[🏰] &6&l🔨 Ancient Wisdom: &bCrafting Tome &6&l📖 &2&l[🏰] &8📜&7
+        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eANCIENT WISDOM &8⚔
+      
       • &7Type &b/recipe <material name>&7 to view a visual guide to craft thy desired item.",
         "clickEvent": {
           "action": "run_command",
@@ -148,9 +148,9 @@ announcements:
   jobs_gui:
     - |-
       {
-        "text": "&8⚒ &2&l[🏰] &6&l📜 Work Decree: &bJOBS &6&l⚔ &2&l[🏰] &8⚒
-      &7Keep track of thy &b&lJobs &7with our custom stats scroll!
+        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eJOBS GUI &8⚔
       
+      &7Keep track of thy &b&lJobs &7with our custom stats scroll!
       • &7Click to open the &bJobs Ledger &7or type &b/jobs.",
         "clickEvent": {
           "action": "run_command",
@@ -164,9 +164,9 @@ announcements:
   jobs_guide:
     - |-
       {
-        "text": "&8⚒ &2&l[🏰] &6&l📜 Guild Scroll: &bJobs Guide &6&l📖 &2&l[
-      &7Jobs reward thee for breaking, placing, slaying, fishing, crafting, and more!
+        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eJOBS GUIDE &8⚔
       
+      &7Jobs reward thee for breaking, placing, slaying, fishing, crafting, and more!
       • &7Click here or type &b/docs &7for more knowledge.",
         "clickEvent": {
           "action": "open_url",
@@ -180,7 +180,8 @@ announcements:
   mcmmo:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l🧙‍♂️ Mastery of the Arts: &bmcMMO &6&l📜 &2&l[🏰] &8⚔
+        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &&eMCMMO GUIDE &8⚔
+      
       &7Skill Mastery bestows experience upon thee as thou
       wield tools, weapons, and perform various tasks.
       
@@ -200,84 +201,165 @@ announcements:
         }
       }
   mcmmo_gui:
-    - "{\n  \"text\": \"&8======= &2&l] &c&lINFO: &bSkill Mastery Ledger &2&l[ &8=======\
-    \ &7  \nKeep track of thy Skill Mastery stats with our custom stats scroll!\n\n\
-    • &7Click to open the ledger or type &b/skillmastery.\",\n  \"clickEvent\": {\n\
-    \    \"action\": \"run_command\",\n    \"value\": \"/mcmmo\"\n  },\n  \"hoverEvent\"\
-    : {\n    \"action\": \"show_text\",\n    \"value\": \"&eClick to open the Skill\
-    \ Mastery Ledger.\"\n  }\n}"
-  member_rank:
-    - "{\n  \"text\": \"&8======= &2&l] &c&lINFO: &bGuild Member Rank &2&l[ &8=======\
-    \ &7  \nJoin our Discord to earn thy Guild Member title!\n\n• &7Click here to\
-    \ receive the &binvite scroll&7 or type &b/discord.\",\n  \"clickEvent\": {\n\
-    \    \"action\": \"open_url\",\n    \"value\": \"https://discord.com/invite/wuVcM9AZrr\"\
-    \n  },\n  \"hoverEvent\": {\n    \"action\": \"show_text\",\n    \"value\": \"\
-    &eClick to join our Guild's Discord!\"\n  }\n}"
+    - |-
+      {
+        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eMCMMO GUI &8⚔
+      
+      &7Keep track of thy &b&lSkill Mastery &7with our custom stats scroll!
+      • &7Click to open the &bSkill Mastery Ledger &7or type &b/skillmastery.",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/mcmmo"
+        },
+        "hoverEvent": {
+          "action": "show_text",
+          "value": "&eClick to open the Skill Mastery Ledger."
+        }
+      }
+  discord:
+    - |-
+      {
+        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: ROYAL CHAMBERS &8⚔
+      
+      &7Join our &bDiscord&7 to chat with fellow adventurers!
+      • Click here to receive the &binvite scroll&7 or type &b/discord.",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/discord"
+        },
+        "hoverEvent": {
+          "action": "show_text",
+          "value": "&eClick to join our Discord!"
+        }
+      }
   playtime_rewards:
-    - "{\n  \"text\": \"&8======= &2&l] &c&lINFO: &bPlaytime Bounties &2&l[ &8=======\
-    \ &7  \nEarn bounties for thy time spent in the realm!\n\n• Hourly: 50 Gold, 10\
-    \ XP, full heal\n• 6/12/24 hours: Gold, XP, free heal, rare/epic item\n• Weekly:\
-    \ 5000 Gold, 100 XP, Totem of Undying\n• Monthly: 10000 Gold, 200 XP, Chest of\
-    \ Rare Relics\n\nType &b/bounties &cto claim your rewards. &7\nType &b/playtimetop\
-    \ &cto see the realm's finest adventurers.\",\n  \"clickEvent\": {\n    \"action\"\
-    : \"suggest_command\",\n    \"value\": \"/prewards\"\n  },\n  \"hoverEvent\":\
-    \ {\n    \"action\": \"show_text\",\n    \"value\": \"&eClick to learn about our\
-    \ Playtime Bounties.\"\n  }\n}"
+    - |-
+      {
+        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &ePLAYTIME BOUNTIES &8⚔
+      
+      &7Earn bounties for thy time spent in the realm!
+      
+      • Hourly: 50 Gold, 10 XP, full heal
+      • 6/12/24 hours: Gold, XP, free heal, rare/epic item
+      • Weekly: 5000 Gold, 100 XP, Totem of Undying
+      • Monthly: 10000 Gold, 200 XP, Chest of Rare Relics
+      
+      Type &b/bounties &cto claim your rewards.
+      Type &b/playtimetop &cto see the realm's finest adventurers.",
+        "clickEvent": {
+          "action": "suggest_command",
+          "value": "/prewards"
+        },
+        "hoverEvent": {
+          "action": "show_text",
+          "value": "&eClick to learn about our Playtime Bounties."
+        }
+      }
   portable_ender_chest:
-    - "{\n  \"text\": \"&8======= &2&l] &c&lINFO: &bPortable Vault &2&l[ &8======= &7\
-    \  \n  Access thy Ender Chest from anywhere in the kingdom!\n\n• Click to open\
-    \ thy Vault or type &b/vault.\",\n  \"clickEvent\": {\n    \"action\": \"run_command\"\
-    ,\n    \"value\": \"/ender\"\n  },\n  \"hoverEvent\": {\n    \"action\": \"show_text\"\
-    ,\n    \"value\": \"&eClick to access thy Portable Vault.\"\n  }\n}"
+    - |-
+      {
+        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &ePORTABLE ENDER CHEST &8⚔
+      
+      &7Access thy Ender Chest from anywhere in the kingdom!
+      
+      • Click to open thy Vault or type &b/ender.",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/ender"
+        },
+        "hoverEvent": {
+          "action": "show_text",
+          "value": "&eClick to access thy Portable Vault."
+        }
+      }
   previous_location:
-    - "{\n  \"text\": \"&8======= &2&l] &c&lINFO: &bReturn to Last Resting Place &2&l[\
-    \ &8======= &7  \nFear not, for thy path is never lost!  \nType &b/back &7to return\
-    \ to thy previous resting place, \na boon when thou respawn.\",\n  \"clickEvent\"\
-    : {\n    \"action\": \"run_command\",\n    \"value\": \"/back\"\n  },\n  \"hoverEvent\"\
-    : {\n    \"action\": \"show_text\",\n    \"value\": \"&eClick to return to thy\
-    \ last resting place.\"\n  }\n}"
+    - |-
+      {
+        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eRETURN TO LAST RESTING PLACE &8⚔
+      
+      &7Fear not, for thy path is never lost!
+      Type &b/back &7to return to thy previous resting place, a boon when thou respawn.",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/back"
+        },
+        "hoverEvent": {
+          "action": "show_text",
+          "value": "&eClick to return to thy last resting place."
+        }
+      }
   region_management:
-    - "{\n  \"text\": \"&8======= &2&l] &c&lINFO: &bGuide to Managing Thy Lands &2&l[\
-    \ &8======= &7  \nSeek to command thy lands with mastery?  \n•  Click here to\
-    \ behold the guide to managing thy regions.\",\n  \"clickEvent\": {\n    \"action\"\
-    : \"open_url\",\n    \"value\": \"https://github.com/Chalwk/JeriCraftDocs/blob/main/MINECRAFT/guides/Regions.md\"\
-    \n  },\n  \"hoverEvent\": {\n    \"action\": \"show_text\",\n    \"value\": \"\
-    &eClick to uncover the secrets of region management.\"\n  }\n}"
+    - |-
+      {
+        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eGUIDE TO MANAGING THY LANDS &8⚔
+      
+      &7Seek to command thy lands with mastery?
+      •  Click here to behold the guide to managing thy regions.",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://github.com/Chalwk/JeriCraftDocs/blob/main/MINECRAFT/guides/Regions.md"
+        },
+        "hoverEvent": {
+          "action": "show_text",
+          "value": "&eClick to uncover the secrets of region management."
+        }
+      }
   scavenge:
-    - "{\n  \"text\": \"&8======= &2&l] &c&lINFO: &bScavenge &2&l[ &8======= &7  \n\
-    Plunder treasures, unearth enchantments, and reclaim thy spoils!  \n•  Click to\
-    \ Scavenge or type &b/scavenge\",\n  \"clickEvent\": {\n    \"action\": \"run_command\"\
-    ,\n    \"value\": \"/scavenge\"\n  },\n  \"hoverEvent\": {\n    \"action\": \"\
-    show_text\",\n    \"value\": \"&eClick to embark on thy scavenger's quest.\"\n\
-    \  }\n}"
-  server_shop:
-    - "{\n  \"text\": \"&8======= &2&l] &c&lINFO: &bServer Shop &2&l[ &8======= &7 \
-    \ \nSeek ye supplies? Journey to &b/warp shop&7!  \n•  Click to fast-travel to\
-    \ the marketplace.\",\n  \"clickEvent\": {\n    \"action\": \"run_command\",\n\
-    \    \"value\": \"/warp shop\"\n },\n  \"hoverEvent\": {\n    \"action\": \"show_text\"\
-    ,\n    \"value\": \"&eClick to embark on thy journey to the marketplace.\"\n \
-    \ }\n}"
+    - |-
+      {
+        "text": "&8⚔ &2&l[🏰] &6&l📢 Explorer’s Note: &eSCAVENGING &8⚔
+      
+      &7Plunder treasures, unearth enchantments, and reclaim thy spoils!
+      •  Click to Scavenge or type &b/scavenge.",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/scavenge"
+        },
+        "hoverEvent": {
+          "action": "show_text",
+          "value": "&eClick to embark on thy scavenger's quest."
+        }
+      }
   sitting:
-    - "{\n  \"text\": \"&8======= &2&l] &c&lINFO: &bSitting &2&l[ &8======= &7  \nYe\
-    \ humble members may sit in many a place:  \n• Right-click upon a carpet, stair,\
-    \ or slab to take a seat.  \n• Use &b/sit&7 to perch upon any surface!\",\n  \"\
-    clickEvent\": {\n    \"action\": \"run_command\",\n    \"value\": \"/sit\"\n \
-    \ },\n  \"hoverEvent\": {\n    \"action\": \"show_text\",\n    \"value\": \"&eClick\
-    \ to use the /sit command and take a rest.\"\n  }\n}"
+    - |-
+      {
+        "text": "&8⚔ &2&l[🏰] &6&l📢 Knight’s Herald: &eSITTING &8⚔
+      
+      &7Ye humble members may sit in many a place:
+      • Right-click upon a carpet, stair, or slab to take a seat.
+      • Use &b/sit&7 to perch upon any surface!",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/sit"
+        },
+        "hoverEvent": {
+          "action": "show_text",
+          "value": "&eClick to use the /sit command and take a rest."
+        }
+      }
   webstore:
-    - "{\n  \"text\": \"&8======= &2&l] &c&lINFO: &bPERKS &2&l[ &8======= &7  \n•  Click\
-    \ to visit our webstore and browse  \n   for rare and exclusive perks to enhance\
-    \  \n   thy adventures.\",\n  \"clickEvent\": {\n      \"action\": \"open_url\"\
-    ,\n      \"value\": \"https://jericraft-shop.tebex.io/\"\n   },\n  \"hoverEvent\"\
-    : {\n    \"action\": \"show_text\",\n    \"value\": \"&eClick to explore the treasures\
-    \ of our webstore.\"\n  }\n}"
+    - |-
+      {
+        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eWEBSTORE &8⚔
+      
+      &7•  Click to visit our webstore and browse for rare and
+      exclusive perks to enhance thy adventures.",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://jericraft-shop.tebex.io/"
+        },
+        "hoverEvent": {
+          "action": "show_text",
+          "value": "&eClick to explore the treasures of our webstore."
+        }
+      }
   server_rules:
     - |-
       {
-        "text": "&8======= &2&l] &c&lINFO: &bServer Rules &2&l[ &8======= &7
-      •  Read the sacred laws that govern this realm,
-      so all may abide by the honor and respect
-      of this server.",
+        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eCOMMUNITY RULES &8⚔
+      
+      &7• Read the sacred laws that govern this realm,
+      so all may abide by the honor and respect of this server.",
         "clickEvent": {
             "action": "open_url",
             "value": "https://github.com/Chalwk/JeriCraftDocs/blob/main/policies/Community-Rules.md"
