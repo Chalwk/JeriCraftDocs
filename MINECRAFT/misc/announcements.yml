@@ -4,9 +4,9 @@ announcer_random: false
 announce_interval: 240
 sound:
   enabled: true
-  sound_name: BLOCK_NOTE_BLOCK_PLING
-  volume: 10
-  pitch: 1
+  sound_name: BLOCK_NOTE_BLOCK_CHIME
+  volume: 1.2
+  pitch: 7.0
 interval_announcement_list:
   - auctions
   - boosts
