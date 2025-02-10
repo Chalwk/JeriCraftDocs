@@ -1,9 +1,7 @@
 # MessageAnnouncer v1.12.3 Main configuration
-
-# MessageAnnouncer v1.12.3 Main configuration
 announcer_enabled: true
 announcer_random: false
-announce_interval: 1
+announce_interval: 240
 sound:
   enabled: true
   sound_name: BLOCK_NOTE_BLOCK_PLING
