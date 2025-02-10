@@ -3,9 +3,9 @@
 # MessageAnnouncer v1.12.3 Main configuration
 announcer_enabled: true
 announcer_random: false
-announce_interval: 240
+announce_interval: 1
 sound:
-  enabled: false
+  enabled: true
   sound_name: BLOCK_NOTE_BLOCK_PLING
   volume: 10
   pitch: 1
@@ -28,20 +28,20 @@ interval_announcement_list:
   - region_management
   - scavenge
   - sitting
-  - server_rules
+  - community_rules
   - webstore
 announcements:
   auctions:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eAUCTION HALL &8⚔
+        "text": "&e&l꧁ ༺&6&lProclamation&e&l༻ ꧂ &e👉 &eAUCTION HALL
       
       &7Step forth, noble merchants and cunning traders!
-      &7Bid for grand treasures in this &bplayer-driven market&7.
-      &7Learn the ways of the auctioneer in our &aancient scrolls &7(click).
+      Bid for grand treasures in this &bplayer-driven market&7.
       
-      • &7&b/ah &8- &7Enter the Auction Hall
-      • &7&b/ah help &8- &7Seek guidance from the auctioneer",
+      • Click to learn the ways of the auctioneer with our &eguide&7.
+      • &b/ah &8- &7Enter the Auction Hall.
+      • &b/ah help &8- &7Seek guidance from the auctioneer.",
         "clickEvent": {
           "action": "open_url",
           "value": "https://github.com/Chalwk/JeriCraftDocs/blob/main/MINECRAFT/guides/AuctionHouse.md"
@@ -54,7 +54,7 @@ announcements:
   boosts:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eAUTO BOOSTS &8⚔
+        "text": "&e&l꧁ ༺&6&lProclamation&e&l༻ ꧂ &e👉 &eAUTO BOOSTS&7
       
       • &bWeekend Party: &71.25x XP, 1.5x Money (Fri-Sat, 8-11 PM)
       • &bEarly Bird: &71.5x XP, 1.25x Money (Mon-Fri, 6-9 AM)
@@ -74,10 +74,10 @@ announcements:
   chest_shop:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eCHEST SHOP &8⚔
+        "text": "&e&l꧁ ༺&6&lProclamation&e&l༻ ꧂ &e👉 &eCHEST SHOP
       
-      Seeking guidance on building your Chest Shop?
-      • &7Unveil the &astep-by-step scroll &7(click) to learn the ways of the merchant.",
+      &7Seeking guidance on building your Chest Shop?
+      • Unveil the &astep-by-step scroll &7(click) to learn the ways of the merchant.",
         "clickEvent": {
           "action": "open_url",
           "value": "https://github.com/Chalwk/JeriCraftDocs/blob/main/MINECRAFT/guides/ChestShop.md"
@@ -90,10 +90,11 @@ announcements:
   emojis:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eARCANE KNOWLEDGE &8⚔
+        "text": "&e&l꧁ ༺&6&lProclamation&e&l༻ ꧂ &e👉 &eARCANE KNOWLEDGE
       
       &7Use sigils &f(emojis) &7in chat, on scrolls, and in tomes!
-      • &7Click to unveil our custom sigils or type &b/emojis",
+      
+      • Click to unveil our custom sigils or type &b/emojis",
         "clickEvent": {
           "action": "run_command",
           "value": "/emojis"
@@ -106,13 +107,14 @@ announcements:
   bookshelves:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eFUNCTIONAL BOOKSHELVES &8⚔
+        "text": "&e&l꧁ ༺&6&lProclamation&e&l༻ ꧂ &e👉 &eFUNCTIONAL BOOKSHELVES
       
       &7Store and display your tomes with ease!
-      • &7Hold a &bwritten book &7to place upon the shelf.
-      • &7Left-click to place or examine a fleeting copy.
-      • &7Right-click to read.
-      • &7Shift-left-click to remove.",
+      
+      • Hold a &bwritten book &7to place upon the shelf.
+      • Left-click to place or examine a fleeting copy.
+      • Right-click to read.
+      • Shift-left-click to remove.",
         "hoverEvent": {
           "action": "show_text",
           "value": "&eStore, display & remove your tomes with ease!"
@@ -121,9 +123,10 @@ announcements:
   hats:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eNOBLE ATTIRE &8⚔
+        "text": "&e&l꧁ ༺&6&lProclamation&e&l༻ ꧂ &e👉 &eNOBLE ATTIRE
       
       &7Adorn thy head with any item using the &b/hat &7command!
+      
       • &8&l🏘 &f[&8&lVillager&f]&8+ &7only!",
         "hoverEvent": {
           "action": "show_text",
@@ -133,9 +136,9 @@ announcements:
   item_recipes:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eANCIENT WISDOM &8⚔
+        "text": "&e&l꧁ ༺&6&lProclamation&e&l༻ ꧂ &e👉 &eANCIENT WISDOM&7
       
-      • &7Type &b/recipe <material name>&7 to view a visual guide to craft thy desired item.",
+      • Type &b/recipe <material name>&7 to view a visual guide to craft thy desired item.",
         "clickEvent": {
           "action": "run_command",
           "value": "/recipe"
@@ -148,10 +151,11 @@ announcements:
   jobs_gui:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eJOBS GUI &8⚔
+        "text": "&e&l꧁ ༺&6&lProclamation&e&l༻ ꧂ &e👉 &eJOBS GUI
       
-      &7Keep track of thy &b&lJobs &7with our custom stats scroll!
-      • &7Click to open the &bJobs Ledger &7or type &b/jobs.",
+      &7Keep track of thy &bJobs &7with our custom stats scroll!
+      
+      • Click to open the &bJobs Ledger &7or type &b/jobs&7.",
         "clickEvent": {
           "action": "run_command",
           "value": "/jobs"
@@ -164,10 +168,11 @@ announcements:
   jobs_guide:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eJOBS GUIDE &8⚔
+        "text": "&e&l꧁ ༺&6&lProclamation&e&l༻ ꧂ &e👉 &eJOBS GUIDE
       
       &7Jobs reward thee for breaking, placing, slaying, fishing, crafting, and more!
-      • &7Click here or type &b/docs &7for more knowledge.",
+      
+      • Click here or type &b/docs &7for more knowledge.",
         "clickEvent": {
           "action": "open_url",
           "value": "https://github.com/Chalwk/JeriCraftDocs/blob/main/MINECRAFT/guides/Jobs.md"
@@ -180,7 +185,7 @@ announcements:
   mcmmo:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eMCMMO GUIDE &8⚔
+        "text": "&e&l꧁ ༺&6&lProclamation&e&l༻ ꧂ &e👉 &eMCMMO GUIDE
       
       &7Skill Mastery bestows experience upon thee as thou
       wield tools, weapons, and perform various tasks.
@@ -190,7 +195,7 @@ announcements:
       Earn bonuses like &bdouble yields&7, &brare treasures&7, and
       &bpower enhancements&7 as thou level up.
       
-      • &7Click here to explore our detailed Skill Mastery scroll.",
+      • Click here to explore our detailed Skill Mastery scroll.",
         "clickEvent": {
           "action": "open_url",
           "value": "https://github.com/Chalwk/JeriCraftDocs/blob/main/MINECRAFT/guides/mcMMO.md"
@@ -203,10 +208,11 @@ announcements:
   mcmmo_gui:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eMCMMO GUI &8⚔
+        "text": "&e&l꧁ ༺&6&lProclamation&e&l༻ ꧂ &e👉 &eMCMMO GUI
       
-      &7Keep track of thy &b&lSkill Mastery &7with our custom stats scroll!
-      • &7Click to open the &bSkill Mastery Ledger &7or type &b/skillmastery.",
+      &7Keep track of thy &bSkill Mastery &7with our custom stats scroll!
+      
+      • Click to open the &bSkill Mastery Ledger &7or type &b/skillmastery&7.",
         "clickEvent": {
           "action": "run_command",
           "value": "/mcmmo"
@@ -219,9 +225,10 @@ announcements:
   discord:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eROYAL CHAMBERS &8⚔
+        "text": "&e&l꧁ ༺&6&lProclamation&e&l༻ ꧂ &e👉 &eROYAL CHAMBERS
       
       &7Join our &bDiscord&7 to chat with fellow adventurers!
+      
       • Click here to receive the &binvite scroll&7 or type &b/discord.",
         "clickEvent": {
           "action": "run_command",
@@ -235,7 +242,7 @@ announcements:
   playtime_rewards:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &ePLAYTIME BOUNTIES &8⚔
+        "text": "&e&l꧁ ༺&6&lProclamation&e&l༻ ꧂ &e👉 &ePLAYTIME BOUNTIES
       
       &7Earn bounties for thy time spent in the realm!
       
@@ -244,8 +251,8 @@ announcements:
       • Weekly: 5000 Gold, 100 XP, Totem of Undying
       • Monthly: 10000 Gold, 200 XP, Chest of Rare Relics
       
-      Type &b/bounties &cto claim your rewards.
-      Type &b/playtimetop &cto see the realm's finest adventurers.",
+      Type &b/bounties &7to claim your rewards.
+      Type &b/playtimetop &7to see the realm's finest adventurers.",
         "clickEvent": {
           "action": "suggest_command",
           "value": "/prewards"
@@ -258,11 +265,11 @@ announcements:
   portable_ender_chest:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &ePORTABLE ENDER CHEST &8⚔
+        "text": "&e&l꧁ ༺&6&lProclamation&e&l༻ ꧂ &e👉 &ePORTABLE ENDER CHEST
       
       &7Access thy Ender Chest from anywhere in the kingdom!
       
-      • Click to open thy Vault or type &b/ender.",
+      • Click to open thy Vault or type &b/ender&7.",
         "clickEvent": {
           "action": "run_command",
           "value": "/ender"
@@ -275,10 +282,12 @@ announcements:
   previous_location:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eRETURN TO LAST RESTING PLACE &8⚔
+        "text": "&e&l꧁ ༺&6&lProclamation&e&l༻ ꧂ &e👉 &eRETURN TO LAST RESTING PLACE
       
-      &7Fear not, for thy path is never lost!
-      Type &b/back &7to return to thy previous resting place, a boon when thou respawn.",
+      &7Art thou lost, traveler?
+      Fret not, for no path is ever truly forsaken!
+      
+      • Type &b/back &7to return to thy previous resting place, a boon when thou respawn.",
         "clickEvent": {
           "action": "run_command",
           "value": "/back"
@@ -291,10 +300,11 @@ announcements:
   region_management:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eGUIDE TO MANAGING THY LANDS &8⚔
+        "text": "&e&l꧁ ༺&6&lProclamation&e&l༻ ꧂ &e👉 &eGUIDE TO MANAGING THY LANDS
       
       &7Seek to command thy lands with mastery?
-      •  Click here to behold the guide to managing thy regions.",
+      
+      • Click here to behold the guide to managing thy regions.",
         "clickEvent": {
           "action": "open_url",
           "value": "https://github.com/Chalwk/JeriCraftDocs/blob/main/MINECRAFT/guides/Regions.md"
@@ -307,10 +317,11 @@ announcements:
   scavenge:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eSCAVENGING &8⚔
+        "text": "&e&l꧁ ༺&6&lProclamation&e&l༻ ꧂ &e👉 &eSCAVENGING
       
       &7Plunder treasures, unearth enchantments, and reclaim thy spoils!
-      •  Click to Scavenge or type &b/scavenge.",
+      
+      •  Click to Scavenge or type &b/scavenge&7.",
         "clickEvent": {
           "action": "run_command",
           "value": "/scavenge"
@@ -323,10 +334,10 @@ announcements:
   sitting:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eSITTING &8⚔
+        "text": "&e&l꧁ ༺&6&lProclamation&e&l༻ ꧂ &e👉 &eSITTING
       
       &7Ye humble members may sit in many a place:
-      • Right-click upon a carpet, stair, or slab to take a seat.
+      • Right-click upon a &bcarpet&7, &bstair&7, or &bslab&7 to take a seat.
       • Use &b/sit&7 to perch upon any surface!",
         "clickEvent": {
           "action": "run_command",
@@ -340,10 +351,10 @@ announcements:
   webstore:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eWEBSTORE &8⚔
+        "text": "&e&l꧁ ༺&6&lProclamation&e&l༻ ꧂ &e👉 &eWEBSTORE&7
       
-      &7• Click to visit our webstore and browse for rare and
-      exclusive perks to enhance thy adventures.",
+      • Click to visit our webstore and browse for rare and
+        exclusive perks to enhance thy adventures.",
         "clickEvent": {
           "action": "open_url",
           "value": "https://jericraft-shop.tebex.io/"
@@ -353,13 +364,15 @@ announcements:
           "value": "&eClick to explore the treasures of our webstore."
         }
       }
-  server_rules:
+  community_rules:
     - |-
       {
-        "text": "&8⚔ &2&l[🏰] &6&l📢 Proclamation: &eCOMMUNITY RULES &8⚔
+        "text": "&e&l꧁ ༺&6&lProclamation&e&l༻ ꧂ &e👉 &eCOMMUNITY RULES
       
-      &7• Read the sacred laws that govern this realm,
-      so all may abide by the honor and respect of this server.",
+      &7Read the sacred laws that govern this realm,
+      so all may abide by the honor and respect of this server.
+      
+      • Click to learn the rules of our land and ensure fair play.",
         "clickEvent": {
             "action": "open_url",
             "value": "https://github.com/Chalwk/JeriCraftDocs/blob/main/policies/Community-Rules.md"
