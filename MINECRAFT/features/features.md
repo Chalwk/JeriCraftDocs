@@ -223,7 +223,8 @@ For more details, consult our [Region Management Guide](../guides/Regions.md).
 
 ### 🏚️ Commoner (non-donor/member/starting kit)
 
-- **Description:** A humble folk just beginning their life in the village. Equipped with basic essentials for survival in
+- **Description:** A humble folk just beginning their life in the village. Equipped with basic essentials for survival
+  in
   the wilds.
 - **Delay:** 24 hours (86400 seconds)
 
@@ -688,3 +689,69 @@ Now you can **organize** and **display** your book collection with ease, adding 
 | **Thunder**     | `:thunder:`    | ⚡             |
 | **Comet**       | `:comet:`      | ☄️            |
 | **Crown**       | `:crown:`      | 👑            |
+
+---
+
+# NPC Shops
+
+*(These NPCs are a work in progress! More items will be added or removed over time, including seasonal items. Their
+spoken dialogue will also change as they develop!)*
+
+### Bowen the Brave (Archery Shop)
+
+**Warp**: `/warp archeryshop`
+**Sells**:
+
+- Regular Arrows
+- Flame Arrows :fire:
+- Spectral Arrows :sparkles:
+- Target Arrows :dart:
+
+### Beckky the Blacksmith
+
+**Warp**: `/warp blacksmith`
+**Sells**:
+
+- All tiers of swords, axes, armor, and shovels
+- Iron, Gold, and Netherite Ingots
+- Iron Blocks, Hoppers, and Anvils
+
+### Trotter's Treasures (Horse Stables)
+
+**Warp**: `/warp stables`
+**Sells**:
+
+- All tiers of :horse_racing: Horse Armor
+- Horse Spawn Egg :egg:
+- Hay Blocks :ear_of_rice:
+
+### Elyais Dawnpetal (Flower Shop)
+
+**Warp**: `/warp flowershop`
+**Sells**: A variety of flowers and garden supplies!
+
+### Wilma the Weaponsmith
+
+**Warp**: `/warp weaponsmith`
+**Sells**:
+
+- All tiers of swords
+- Crossbows & Bows
+- Arrows
+- Shields
+
+### Farmer Gil
+
+**Warp**: `/warp farmergil`
+**Sells**: A variety of farm supplies!
+
+### Baldric Barrelhelm (Innkeeper)
+
+**Warp**: `/warp innkeeper`
+**Sells**:
+
+- Mushroom Stew
+- Baked Potatoes
+- Honey Pottles
+- Milk Buckets
+- Beds :bed:, Respawn Anchors, Barrels & Chests
