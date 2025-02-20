@@ -699,10 +699,10 @@ spoken dialogue will also change as they develop!)*
 
 | Shop Name                           | Warp Command        | Sells                                                                                                             |
 |-------------------------------------|---------------------|-------------------------------------------------------------------------------------------------------------------|
-| Bowen the Brave (Archery Shop)      | `/warp archeryshop` | Regular Arrows, Flame Arrows :fire:, Spectral Arrows :sparkles:, Target Arrows :dart:                             |
+| Bowen the Brave (Archery Shop)      | `/warp archeryshop` | Regular Arrows, Flame Arrows, Spectral Arrows, Target Arrows :dart:                                               |
 | Beckky the Blacksmith               | `/warp blacksmith`  | All tiers of swords, axes, armor, and shovels, Iron, Gold, and Netherite Ingots, Iron Blocks, Hoppers, and Anvils |
-| Trotter's Treasures (Horse Stables) | `/warp stables`     | All tiers of :horse_racing: Horse Armor, Horse Spawn Egg :egg:, Hay Blocks :ear_of_rice:                          |
+| Trotter's Treasures (Horse Stables) | `/warp stables`     | All tiers of Horse Armor, Horse Spawn Egg, Hay Blocks                                                             |
 | Elyais Dawnpetal (Flower Shop)      | `/warp flowershop`  | A variety of flowers and garden supplies!                                                                         |
 | Wilma the Weaponsmith               | `/warp weaponsmith` | All tiers of swords, Crossbows & Bows, Arrows, Shields                                                            |
 | Farmer Gil                          | `/warp farmergil`   | A variety of farm supplies!                                                                                       |
-| Baldric Barrelhelm (Innkeeper)      | `/warp innkeeper`   | Mushroom Stew, Baked Potatoes, Honey Pottles, Milk Buckets, Beds :bed:, Respawn Anchors, Barrels & Chests         |
+| Baldric Barrelhelm (Innkeeper)      | `/warp innkeeper`   | Mushroom Stew, Baked Potatoes, Honey Pottles, Milk Buckets, Beds, Respawn Anchors, Barrels & Chests               |
