@@ -140,7 +140,7 @@ Example: `/rg flag myregion mob-spawning deny`
 This command will **prevent mobs from spawning** in the "myregion" area. 🚫
 
 For a full list of available region flags, check out
-the [Region Flags section](/MINECRAFT/features/features.md#8-worldguard) in the main documentation.
+the [Region Flags section](/MINECRAFT/features/features.md#worldguard) in the main documentation.
 
 ---
 
