@@ -28,10 +28,10 @@ to help you effectively manage your regions, collaborate with others, and make t
 To create a region, you must first define its corners.
 
 1. **Stand at one corner** of the area you want to protect.
-2. **Use the command**: `/pos1`  
+2. **Use the command**: `//pos1`  
    This marks the first corner of your region.
 3. **Move to the opposite corner** of your desired region.
-4. **Use the command**: `/pos2`  
+4. **Use the command**: `//pos2`  
    This marks the second corner of your region and establishes the boundaries.
 
 Once you've defined the two corners, the area between them will be the protected region.
@@ -40,9 +40,9 @@ Once you've defined the two corners, the area between them will be the protected
 
 ## 🗺️ Expanding Regions
 
-You can expand your region vertically or horizontally using the `expand` command:
+You can expand your region vertically or horizontally using the `//expand` command:
 
-Syntax: `expand <vert|<amount> <amount> [reverseAmount] [direction]`
+Syntax: `//expand <vert|<amount> <amount> [reverseAmount] [direction]`
 
 - **vert**: Expands the region vertically.
 - **[amount]**: The number of blocks to expand.
@@ -51,7 +51,7 @@ Syntax: `expand <vert|<amount> <amount> [reverseAmount] [direction]`
 - **[reverseAmount]** *(optional)*: Expands in the opposite direction.
 - **[direction]** *(optional)*: Expands in a specific direction (north, south, east, west).
 
-Example: `expand vert 10`
+Example: `//expand vert 10`
 
 This will expand your region **upwards** by 10 blocks.
 
@@ -59,10 +59,10 @@ This will expand your region **upwards** by 10 blocks.
 
 ## 🔐 Claiming and Removing Regions
 
-- **Claim a region**: `rg claim <rg name>`  
+- **Claim a region**: `/rg claim <rg name>`  
   Replace `<rg name>` with the desired name for your region.
 
-- **Remove a region**: `rg remove <rg name>`  
+- **Remove a region**: `/rg remove <rg name>`  
   This will delete the specified region.
 
 ---
@@ -96,14 +96,14 @@ staff or community for assistance.
 
 ## 📖 Displaying Region Information
 
-To view detailed information about the region you're standing in, use the following command: `rg i`  
+To view detailed information about the region you're standing in, use the following command: `/rg i`  
 This will display information such as the region's name, owner, and other important details.
 
 ---
 
 ## 📝 Listing Owned Regions
 
-To see a list of all regions you own, use the command: `rg list`  
+To see a list of all regions you own, use the command: `/rg list`  
 This will display a list of all regions you have claimed.
 
 ---
@@ -112,16 +112,16 @@ This will display a list of all regions you have claimed.
 
 You can manage who has access to your region by adding and removing members or owners.
 
-- **Add a member**: `rg addmember <rg name> <player>`  
+- **Add a member**: `/rg addmember <rg name> <player>`  
   This adds the specified player to your region.
 
-- **Remove a member**: `rg removemember <rg name> <player>`  
+- **Remove a member**: `/rg removemember <rg name> <player>`  
   This removes the specified player from your region.
 
-- **Add an owner**: `rg addowner <rg name> <player>`  
+- **Add an owner**: `/rg addowner <rg name> <player>`  
   This grants the player owner permissions for your region.
 
-- **Remove an owner**: `rg removeowner <rg name> <player>`  
+- **Remove an owner**: `/rg removeowner <rg name> <player>`  
   This removes the player's owner permissions.
 
 ---
@@ -131,12 +131,12 @@ You can manage who has access to your region by adding and removing members or o
 You can customize the settings of your region using flags. Flags allow you to modify specific behaviors within your
 region, such as preventing mob spawning or enabling PvP.
 
-Syntax: `rg flag <rg name> <flag> <value>`
+Syntax: `/rg flag <rg name> <flag> <value>`
 
 - **[flag]**: The specific setting you want to change (e.g., `mob-spawning`, `pvp`).
 - **[value]**: The value you want to assign to the flag (e.g., `deny`, `allow`).
 
-Example: `rg flag myregion mob-spawning deny`  
+Example: `/rg flag myregion mob-spawning deny`  
 This command will **prevent mobs from spawning** in the "myregion" area. 🚫
 
 For a full list of available region flags, check out
