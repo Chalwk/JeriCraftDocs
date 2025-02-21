@@ -45,7 +45,7 @@ Here’s how the days and night lengths adjust throughout the year for each mont
   on the real seasons of the Southern Hemisphere.
 - The **season start dates** are set to align with the natural calendar, making your server's world feel as if it
   follows the rhythm of the Earth.
-- Use the `/seasons` command to check the current season and time remaining until the next change.
+- Use the `/season` command to check the current season and time remaining until the next change.
 - Plan your activities and projects around the seasons to take advantage of their unique benefits.
 - Experiment with different strategies to adapt to the changing environment and enjoy the beauty of each season as it
   unfolds.
