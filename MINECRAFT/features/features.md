@@ -697,12 +697,13 @@ Now you can **organize** and **display** your book collection with ease, adding 
 *(These NPCs are a work in progress! More items will be added or removed over time, including seasonal items. Their
 spoken dialogue will also change as they develop!)*
 
-| Shop Name                           | Warp Command        | Sells                                                                                                             |
-|-------------------------------------|---------------------|-------------------------------------------------------------------------------------------------------------------|
-| Bowen the Brave (Archery Shop)      | `/warp archeryshop` | Regular Arrows, Flame Arrows, Spectral Arrows, Target Arrows :dart:                                               |
-| Beckky the Blacksmith               | `/warp blacksmith`  | All tiers of swords, axes, armor, and shovels, Iron, Gold, and Netherite Ingots, Iron Blocks, Hoppers, and Anvils |
-| Trotter's Treasures (Horse Stables) | `/warp stables`     | All tiers of Horse Armor, Horse Spawn Egg, Hay Blocks                                                             |
-| Elyais Dawnpetal (Flower Shop)      | `/warp flowershop`  | A variety of flowers and garden supplies!                                                                         |
-| Wilma the Weaponsmith               | `/warp weaponsmith` | All tiers of swords, Crossbows & Bows, Arrows, Shields                                                            |
-| Farmer Gil                          | `/warp farmergil`   | A variety of farm supplies!                                                                                       |
-| Baldric Barrelhelm (Innkeeper)      | `/warp innkeeper`   | Mushroom Stew, Baked Potatoes, Honey Pottles, Milk Buckets, Beds, Respawn Anchors, Barrels & Chests               |
+| Shop Name                      | Warp Command        | Sells                                                                                                                   |
+|--------------------------------|---------------------|-------------------------------------------------------------------------------------------------------------------------|
+| Bowen Ashwood (Arrowsmith)     | `/warp arrowsmith`  | Regular Arrows, Flame Arrows, Spectral Arrows, Target Arrows :dart:                                                     |
+| Astrid Ironheart (Blacksmith)  | `/warp blacksmith`  | All tiers of swords, axes, armor, and shovels, Iron, Gold, and Netherite Ingots, Iron Blocks, Hoppers, and Anvils       |
+| Kaela Bloodforge (Weaponsmith) | `/warp weaponsmith` | All tiers of swords, Crossbows & Bows, Arrows, Shields                                                                  |
+| Eadric Ironhoof (Saddler)      | `/warp saddler`     | All tiers of Horse Armor, Horse Spawn Egg, Hay Blocks                                                                   |
+| Elyais Dawnpetal (Florist)     | `/warp florist`     | A variety of flowers and garden supplies!                                                                               |
+| Alden Greenfield (Farmer)      | `/warp farmer`      | A variety of farm supplies!                                                                                             |
+| Baldric Barrelhelm (Innkeeper) | `/warp innkeeper`   | Mushroom Stew, Baked Potatoes, Honey Pottles, Milk Buckets, Beds, Respawn Anchors, Barrels & Chests                     |
+| Bennick Ironfang (Hunter)      | `/warp hunter`      | Pelt of the Wild, Hunter’s Bone, Cooked Venison, Cooked Boar Meat, Feather of the Falcon, Phantom Wing, Monster’s Flesh |
