@@ -708,5 +708,4 @@ spoken dialogue will also change as they develop!)*
 | Baldric Barrelhelm (Innkeeper) | `/warp innkeeper`   | 
 | Bennick Ironfang (Hunter)      | `/warp hunter`      |
 | Cedric Angler                  | `/warp fisherman`   |
-| Cedric Angler                  | `/warp fisherman`   |
 | Thorne Oakbark                 | `/warp lumberjack`  |
