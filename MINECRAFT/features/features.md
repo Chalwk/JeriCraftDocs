@@ -709,3 +709,4 @@ spoken dialogue will also change as they develop!)*
 | Bennick Ironfang (Hunter)      | `/warp hunter`      |
 | Cedric Angler                  | `/warp fisherman`   |
 | Thorne Oakbark                 | `/warp lumberjack`  |
+| Edmund Honeywell               | `/warp beekeeper`   |
