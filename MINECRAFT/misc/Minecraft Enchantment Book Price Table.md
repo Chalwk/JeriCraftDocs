@@ -30,11 +30,11 @@
 | Curse of Binding      | 3,500         | N/A           | N/A           | N/A           | N/A           |
 | Curse of Vanishing    | 3,500         | N/A           | N/A           | N/A           | N/A           |
 | Mending               | 10,000        | N/A           | N/A           | N/A           | N/A           |
-| **NEW: Channeling**   | 2,500         | N/A           | N/A           | N/A           | N/A           |
-| **NEW: Loyalty**      | 1,200         | 2,400         | 4,800         | N/A           | N/A           |
-| **NEW: Riptide**      | 1,500         | 3,000         | 6,000         | N/A           | N/A           |
-| **NEW: Impaling**     | 1,200         | 2,400         | 4,800         | 9,600         | 19,200        |
-| **NEW: Piercing**     | 800           | 1,600         | 3,200         | 6,400         | N/A           |
-| **NEW: Quick Charge** | 1,000         | 2,000         | 4,000         | N/A           | N/A           |
-| **NEW: Soul Speed**   | 2,000         | 4,000         | 8,000         | N/A           | N/A           |
-| **NEW: Swift Sneak**  | 2,500         | 5,000         | 10,000        | N/A           | N/A           |
+| Channeling            | 2,500         | N/A           | N/A           | N/A           | N/A           |
+| Loyalty               | 1,200         | 2,400         | 4,800         | N/A           | N/A           |
+| Riptide               | 1,500         | 3,000         | 6,000         | N/A           | N/A           |
+| Impaling              | 1,200         | 2,400         | 4,800         | 9,600         | 19,200        |
+| Piercing              | 800           | 1,600         | 3,200         | 6,400         | N/A           |
+| Quick Charge          | 1,000         | 2,000         | 4,000         | N/A           | N/A           |
+| Soul Speed            | 2,000         | 4,000         | 8,000         | N/A           | N/A           |
+| Swift Sneak           | 2,500         | 5,000         | 10,000        | N/A           | N/A           |
