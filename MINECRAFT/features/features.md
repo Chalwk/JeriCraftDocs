@@ -225,8 +225,7 @@ For more details, consult our [Region Management Guide](../guides/Regions.md).
 ### 🏚️ Commoner (non-donor/member/starting kit)
 
 - **Description:** A humble folk just beginning their life in the village. Equipped with basic essentials for survival
-  in
-  the wilds.
+  in the wilds.
 - **Delay:** 24 hours (86400 seconds)
 
 #### Items:
@@ -508,8 +507,8 @@ friendly and supportive atmosphere on the server.
 Show off your **creativity** and **style** with the **/hat** command. Simply hold an item and type `/hat` to wear it on
 your head.
 
-Express yourself with unique hats that'll make you stand out from the crowd. **Unlock** this **fun** feature as a *
-*reward** for being a valued Member of our community!
+Express yourself with unique hats that'll make you stand out from the crowd. **Unlock** this **fun** feature
+as a **reward** for being a valued Member of our community!
 
 This is a members only feature!
 
@@ -711,3 +710,5 @@ spoken dialogue will also change as they develop!)*
 | Cedric Angler                  | `/warp fisherman`   |
 | Thorne Oakbark                 | `/warp lumberjack`  |
 | Edmund Honeywell               | `/warp beekeeper`   |
+| Velora Nightshade              | `/warp alchemist`   |
+| Felix Everquill                | `/warp scribe`      |
