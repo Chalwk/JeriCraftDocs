@@ -40,7 +40,7 @@ A comprehensive list of active and expired bans.
 | 23            | BlitzHitler      | Extreme hacking                                 | 13-Jul-2016 20:40         | Indefinite       | -                            | Chalwk            | 🟢 Active         | Permanent Ban   | 3           |
 | 24            | HunterLachy      | Ban evasion                                     | 15-Aug-2016 18:33         | 2 weeks          | 29-Aug-2016 18:33            | Chalwk            | 🔴 Expired        | Temporary Ban   | 2           |
 | 25            | LOONAZ           | Excessive griefing and stealing                 | 20-Sep-2016 12:48         | Indefinite       | -                            | Chalwk            | 🟢 Active         | Permanent Ban   | 2           |
-| 26            | IXIXLE_          | Hacked Client (Xray)                            | 25-Feb-2025 11:55         | 1 money          | 25-03-2025 11:55             | Chalwk            | 🟢 Active         | Temporary Ban   | 2           |
+| 26            | IXIXLE_          | Hacked Client (Xray)                            | 25-Feb-2025 11:55         | Indefinite       | -                            | Chalwk            | 🟢 Active         | Permanent Ban   | 1-2         |
 
 ---
 
