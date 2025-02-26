@@ -41,6 +41,7 @@ A comprehensive list of active and expired bans.
 | 24            | HunterLachy      | Ban evasion                                     | 15-Aug-2016 18:33         | 2 weeks          | 29-Aug-2016 18:33            | Chalwk            | 🔴 Expired        | Temporary Ban   | 2           |
 | 25            | LOONAZ           | Excessive griefing and stealing                 | 20-Sep-2016 12:48         | Indefinite       | -                            | Chalwk            | 🟢 Active         | Permanent Ban   | 2           |
 | 26            | IXIXLE_          | Hacked Client (Xray)                            | 25-Feb-2025 11:55         | Indefinite       | -                            | Chalwk            | 🟢 Active         | Permanent Ban   | 1-2         |
+| 27            | Slokilol         | Hacked Client (Fly Hack)                        | 26-Feb-2025 11:40         | 2 Weeks          | 12-Mar-2025 11:40            | Chalwk            | 🟢 Active         | Temp            | 1           |
 
 ---
 
