@@ -189,34 +189,34 @@ For more details, consult our [Region Management Guide](../guides/Regions.md).
 | `damage-animals`            | **allow**/**deny** | Controls whether players can harm friendly animals (e.g., cows, sheep).                          |
 | `chest-access`              | **allow**/**deny** | Dictates whether players can access inventories.                                                 |
 | `ride`                      | **allow**/**deny** | Controls whether players can mount vehicles (including animals).                                 |
-| `pvp`                       | **allow**/**deny** | Determines if player versus player combat is allowed.                                            |
-| `tnt`                       | **allow**/**deny** | Controls whether TNT can detonate or cause damage.                                               |
+| ~~`pvp`~~                   | **allow**/**deny** | Determines if player versus player combat is allowed.                                            |
+| ~~`tnt`~~                   | **allow**/**deny** | Controls whether TNT can detonate or cause damage.                                               |
 | `vehicle-place`             | **allow**/**deny** | Determines if vehicles (boats, minecarts) can be placed.                                         |
 | `vehicle-destroy`           | **allow**/**deny** | Controls whether vehicles can be destroyed.                                                      |
 | `lighter`                   | **allow**/**deny** | Determines if players can use flint and steel to ignite blocks.                                  |
-| `block-trampling`           | **allow**/**deny** | Controls whether farmland and turtle eggs can be trampled.                                       |
-| `frosted-ice-form`          | **allow**/**deny** | Determines if players with frost walker boots will create ice.                                   |
+| ~~`block-trampling`~~       | **allow**/**deny** | Controls whether farmland and turtle eggs can be trampled.                                       |
+| ~~`frosted-ice-form`~~      | **allow**/**deny** | Determines if players with frost walker boots will create ice.                                   |
 | `item-frame-rotation`       | **allow**/**deny** | Controls whether items can be rotated within item frames.                                        |
 | `firework-damage`           | **allow**/**deny** | Determines if fireworks can deal damage to entities.                                             |
 | `use-anvil`                 | **allow**/**deny** | Controls whether players can use an anvil.                                                       |
 | `use-dripleaf`              | **allow**/**deny** | Determines if dripleaf can be interacted with.                                                   |
-| `creeper-explosion`         | **allow**/**deny** | Controls whether creepers can cause damage.                                                      |
-| `ghast-fireball`            | **allow**/**deny** | Determines if ghast fireballs and wither skulls can deal damage.                                 |
-| `other-explosion`           | **allow**/**deny** | Controls whether other types of explosions (e.g., TNT, end crystals) can deal damage.            |
+| ~~`creeper-explosion`~~     | **allow**/**deny** | Controls whether creepers can cause damage.                                                      |
+| ~~`ghast-fireball`~~        | **allow**/**deny** | Determines if ghast fireballs and wither skulls can deal damage.                                 |
+| ~~`other-explosion`~~       | **allow**/**deny** | Controls whether other types of explosions (e.g., TNT, end crystals) can deal damage.            |
 | `fire-spread`               | **allow**/**deny** | Determines if fire can spread.                                                                   |
 | `enderman-griefing`         | **allow**/**deny** | Controls whether endermen can move blocks.                                                       |
 | `snowman-trails`            | **allow**/**deny** | Determines if snowmen create snow beneath them.                                                  |
-| `ravager-griefing`          | **allow**/**deny** | Controls whether ravagers can destroy blocks.                                                    |
+| ~~`ravager-griefing`~~      | **allow**/**deny** | Controls whether ravagers can destroy blocks.                                                    |
 | `entity-painting-destroy`   | **allow**/**deny** | Determines if non-player entities can destroy paintings.                                         |
 | `entity-item-frame-destroy` | **allow**/**deny** | Controls whether non-player entities can destroy item frames.                                    |
-| `mob-damage`                | **allow**/**deny** | Determines if mobs can harm players.                                                             |
+| ~~`mob-damage`~~            | **allow**/**deny** | Determines if mobs can harm players.                                                             |
 | ~~~`mob-spawning`~~~        | **allow**/**deny** | Controls whether mobs can spawn.                                                                 |
 | `lava-fire`                 | **allow**/**deny** | Determines if lava can start fires.                                                              |
-| `potion-splash`             | **allow**/**deny** | Controls whether potions can splash.                                                             |
-| `lightning`                 | **allow**/**deny** | Determines if lightning can strike.                                                              |
-| `chorus-fruit-teleport`     | **allow**/**deny** | Controls whether chorus fruit can teleport players.                                              |
+| ~~`potion-splash`~~         | **allow**/**deny** | Controls whether potions can splash.                                                             |
+| ~~`lightning`~~             | **allow**/**deny** | Determines if lightning can strike.                                                              |
+| ~~`chorus-fruit-teleport`~~ | **allow**/**deny** | Controls whether chorus fruit can teleport players.                                              |
 | `water-flow`                | **allow**/**deny** | Determines if water can flow into the area.                                                      |
-| `snow-drift`                | **allow**/**deny** | Controls whether snow can accumulate.                                                            |
+| ~~`snow-drift`~~            | **allow**/**deny** | Controls whether snow can accumulate.                                                            |
 
 ---
 
