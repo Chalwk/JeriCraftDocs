@@ -210,7 +210,7 @@ For more details, consult our [Region Management Guide](../guides/Regions.md).
 | `entity-painting-destroy`   | **allow**/**deny** | Determines if non-player entities can destroy paintings.                                         |
 | `entity-item-frame-destroy` | **allow**/**deny** | Controls whether non-player entities can destroy item frames.                                    |
 | `mob-damage`                | **allow**/**deny** | Determines if mobs can harm players.                                                             |
-| `mob-spawning`              | **allow**/**deny** | Controls whether mobs can spawn.                                                                 |
+| ~~~`mob-spawning`~~~        | **allow**/**deny** | Controls whether mobs can spawn.                                                                 |
 | `lava-fire`                 | **allow**/**deny** | Determines if lava can start fires.                                                              |
 | `potion-splash`             | **allow**/**deny** | Controls whether potions can splash.                                                             |
 | `lightning`                 | **allow**/**deny** | Determines if lightning can strike.                                                              |
