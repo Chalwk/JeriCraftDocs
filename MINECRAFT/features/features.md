@@ -182,41 +182,45 @@ For more details, consult our [Region Management Guide](../guides/Regions.md).
 
 #### Players can set the following flags in their claims:
 
-| Flag                        | State              | Description                                                                                      |
-|-----------------------------|--------------------|--------------------------------------------------------------------------------------------------|
-| `interact`                  | **allow**/**deny** | Controls whether actions involving using blocks or entities are permitted (e.g., opening doors). |
-| `use`                       | **allow**/**deny** | Determines if non-inventory-related block interactions are allowed.                              |
-| `damage-animals`            | **allow**/**deny** | Controls whether players can harm friendly animals (e.g., cows, sheep).                          |
-| `chest-access`              | **allow**/**deny** | Dictates whether players can access inventories.                                                 |
-| `ride`                      | **allow**/**deny** | Controls whether players can mount vehicles (including animals).                                 |
-| ~~`pvp`~~                   | **allow**/**deny** | Determines if player versus player combat is allowed.                                            |
-| ~~`tnt`~~                   | **allow**/**deny** | Controls whether TNT can detonate or cause damage.                                               |
-| `vehicle-place`             | **allow**/**deny** | Determines if vehicles (boats, minecarts) can be placed.                                         |
-| `vehicle-destroy`           | **allow**/**deny** | Controls whether vehicles can be destroyed.                                                      |
-| `lighter`                   | **allow**/**deny** | Determines if players can use flint and steel to ignite blocks.                                  |
-| ~~`block-trampling`~~       | **allow**/**deny** | Controls whether farmland and turtle eggs can be trampled.                                       |
-| ~~`frosted-ice-form`~~      | **allow**/**deny** | Determines if players with frost walker boots will create ice.                                   |
-| `item-frame-rotation`       | **allow**/**deny** | Controls whether items can be rotated within item frames.                                        |
-| `firework-damage`           | **allow**/**deny** | Determines if fireworks can deal damage to entities.                                             |
-| `use-anvil`                 | **allow**/**deny** | Controls whether players can use an anvil.                                                       |
-| `use-dripleaf`              | **allow**/**deny** | Determines if dripleaf can be interacted with.                                                   |
-| ~~`creeper-explosion`~~     | **allow**/**deny** | Controls whether creepers can cause damage.                                                      |
-| ~~`ghast-fireball`~~        | **allow**/**deny** | Determines if ghast fireballs and wither skulls can deal damage.                                 |
-| ~~`other-explosion`~~       | **allow**/**deny** | Controls whether other types of explosions (e.g., TNT, end crystals) can deal damage.            |
-| `fire-spread`               | **allow**/**deny** | Determines if fire can spread.                                                                   |
-| `enderman-griefing`         | **allow**/**deny** | Controls whether endermen can move blocks.                                                       |
-| `snowman-trails`            | **allow**/**deny** | Determines if snowmen create snow beneath them.                                                  |
-| ~~`ravager-griefing`~~      | **allow**/**deny** | Controls whether ravagers can destroy blocks.                                                    |
-| `entity-painting-destroy`   | **allow**/**deny** | Determines if non-player entities can destroy paintings.                                         |
-| `entity-item-frame-destroy` | **allow**/**deny** | Controls whether non-player entities can destroy item frames.                                    |
-| ~~`mob-damage`~~            | **allow**/**deny** | Determines if mobs can harm players.                                                             |
-| ~~~`mob-spawning`~~~        | **allow**/**deny** | Controls whether mobs can spawn.                                                                 |
-| `lava-fire`                 | **allow**/**deny** | Determines if lava can start fires.                                                              |
-| ~~`potion-splash`~~         | **allow**/**deny** | Controls whether potions can splash.                                                             |
-| ~~`lightning`~~             | **allow**/**deny** | Determines if lightning can strike.                                                              |
-| ~~`chorus-fruit-teleport`~~ | **allow**/**deny** | Controls whether chorus fruit can teleport players.                                              |
-| `water-flow`                | **allow**/**deny** | Determines if water can flow into the area.                                                      |
-| ~~`snow-drift`~~            | **allow**/**deny** | Controls whether snow can accumulate.                                                            |
+| Flag                      | Description                                                  |
+|---------------------------|--------------------------------------------------------------|
+| interact                  | Controls player interactions with blocks and entities.       |
+| use                       | Allows players to use items like doors, levers, and buttons. |
+| damage-animals            | Determines if players can harm passive animals.              |
+| chest-access              | Controls access to chests and other container blocks.        |
+| ride                      | Allows players to ride entities like horses and minecarts.   |
+| vehicle-place             | Determines if players can place boats and minecarts.         |
+| vehicle-destroy           | Controls whether players can destroy vehicles like boats.    |
+| item-frame-rotation       | Allows players to rotate item frames.                        |
+| use-anvil                 | Determines if players can use anvils.                        |
+| use-dripleaf              | Controls if players can interact with dripleaf plants.       |
+| fire-spread               | Determines if fire can spread within the region.             |
+| snowman-trails            | Allows snow golems to leave snow trails.                     |
+| entity-painting-destroy   | Controls if players can break paintings.                     |
+| entity-item-frame-destroy | Determines if players can break item frames.                 |
+| lava-fire                 | Allows lava to ignite nearby blocks.                         |
+| water-flow                | Determines if water can flow.                                |
+| lava-flow                 | Determines if lava can flow.                                 |
+| snow-fall                 | Controls whether snow can accumulate naturally.              |
+| snow-melt                 | Determines if snow layers can melt.                          |
+| ice-form                  | Controls if ice can naturally generate.                      |
+| ice-melt                  | Determines if ice can melt.                                  |
+| enderpearl                | Controls whether players can use ender pearls.               |
+| frosted-ice-melt          | Determines if frosted ice can melt.                          |
+| mushroom-growth           | Allows mushrooms to spread.                                  |
+| leaf-decay                | Determines if leaves can decay naturally.                    |
+| grass-growth              | Controls if grass can spread to dirt blocks.                 |
+| mycelium-spread           | Allows mycelium to spread to dirt blocks.                    |
+| vine-growth               | Determines if vines can grow downward.                       |
+| rock-growth               | Controls if mossy cobblestone spreads.                       |
+| sculk-growth              | Determines if sculk can spread.                              |
+| crop-growth               | Allows crops like wheat to grow.                             |
+| soil-dry                  | Controls if farmland can dry out.                            |
+| coral-fade                | Determines if coral blocks dry out and die.                  |
+| greeting                  | Sets a message displayed when a player enters a region.      |
+| farewell                  | Sets a message displayed when a player leaves a region.      |
+| greeting-title            | Displays an on-screen title when entering a region.          |
+| farewell-title            | Displays an on-screen title when leaving a region.           |
 
 ---
 
