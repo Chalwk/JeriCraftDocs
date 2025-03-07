@@ -16,9 +16,11 @@
     -〔📜〕scribes-quill
     -〔🚫〕pardoners-appeal
     -〔👋〕introductions
+    -〔🔴〕twitch-live
 
 ### ◉ THE TAVERN SQUARE
 
+    -〔🔴〕server-activity
     -〔💬〕the-forge-and-anvil
     -〔💬〕the-orbital-sanctum
     -〔🖼〕bards-gallery
@@ -28,34 +30,14 @@
 ### ◉ THE MEAD HALL
 
     -〔🎤〕General
-    -〔🎤〕minecraft
-    -〔🎤〕Halo
-    -〔🔴〕stream
-
-### ◉ TOURNEY FIELDS
-
-    -〔⚒〕jericraft
-    -〔🌌〕divide-and-conquer
-    -〔🌌〕gun-game
-    -〔🌌〕hunter-prey
-    -〔🌌〕kill-confirmed
-    -〔🌌〕market
-    -〔🌌〕melee-attack
-    -〔🌌〕one-in-the-chamber
-    -〔🌌〕rooster-ctf
-    -〔🌌〕sabotage
-    -〔🌌〕snipers-dream-team-mod
-    -〔🌌〕tag
-    -〔🌌〕team-Defender
-    -〔🌌〕zombies
+    -〔🎤〕In-Game
+    -〔🔴〕Stream
 
 ### ◉ JERICRAFTDOCS GITHUB
 
     -〔📚〕docs
     -〔📣〕updates
-    -〔💬〕discussion 
-    -〔🛠〕contributors
-    -〔🐛〕bug-reports
+    -〔💬〕discussion
 
 ### ◉ HSP-GITHUB
 

@@ -24,31 +24,8 @@
 │           player-report.yaml
 │           server-suggestions.yaml
 │           staff-application.yaml
-│           tournament.yaml
 │
-├───HALO
-│   │   ABOUT.md
-│   │   Admins.md
-│   │   CUSTOM MAP IDEAS.md
-│   │   Maintenance Log.md
-│   │   staff-commands.md
-│   │
-│   └───servers
-│           Divide and Conquer.md
-│           Gun Game.md
-│           Hunter Prey.md
-│           Kill Confirmed.md
-│           Market.md
-│           Melee Brawl.md
-│           One In The Chamber.md
-│           Rooster CTF.md
-│           Sabotage.md
-│           Snipers Dream Team Mod.md
-│           Tag.md
-│           Team Defender.md
-│           Zombies.md
-│
-├───MINECRAFT
+├───docs
 │   ├───about-the-server
 │   │       About.md
 │   │       Events.md
