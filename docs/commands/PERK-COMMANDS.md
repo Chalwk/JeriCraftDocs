@@ -1,16 +1,16 @@
-| PERK                       | COMMAND(S)                                                      |
-|----------------------------|-----------------------------------------------------------------|
-| Custom Nickname            | `nick [newNickName/off]`                                        |
+| PERK                           | COMMAND(S)                                                      |
+|--------------------------------|-----------------------------------------------------------------|
+| Custom Nickname                | `nick [newNickName/off]`                                        |
 | ~~Creative Mode~~              | `gm c`, `gm s`                                                  | 
 | ~~Extinguish~~                 | `ext`                                                           |
 | ~~Clear Inventory~~            | `clear`                                                         |
 | ~~Feed~~                       | `feed`                                                          |
-| Fly                        | `fly`                                                           |
+| Fly                            | `fly`                                                           |
 | ~~God Mode~~                   | `god`                                                           |
 | ~~Personal Time~~              | `ptime (freeze/unfreeze/day/night/dusk/morning/realtime/reset)` |
 | ~~Personal Weather~~           | `pweather [sun/rain/reset]`                                     |
-| Magnet                     | `magnet`                                                        |
-| Repair Hand                | `repair hand`                                                   |
+| Magnet                         | `magnet`                                                        |
+| Repair Hand                    | `repair hand`                                                   |
 | ~~Repair All~~                 | `repair all`                                                    |
 | ~~Fly Speed Increase~~         | `flyspeed <amount>`                                             |
 | ~~Walk Speed Increase~~        | `walkspeed <amount>`                                            |
@@ -23,11 +23,11 @@
 | ~~Portable Cartography Table~~ | `cartography`                                                   |
 | ~~Me~~                         | `me`                                                            |
 | ~~Merchant~~                   | `merchant [type] (level)`                                       |
-| Night Vision               | `nv`                                                            |
-| Sign Copy                  | `sc`                                                            |
-| Head Database              | `hdb`                                                           |
-| Kit Glass                  | `kit glass`                                                     |
-| Kit Terracotta             | `kit terracotta`                                                |
-| Kit Banner                 | `kit banner`                                                    |
-| Kit Wool                   | `kit wool`                                                      |
-| Kit Pyro                   | `kit pyro`                                                      |
+| Night Vision                   | `nv`                                                            |
+| Sign Copy                      | `sc`                                                            |
+| Head Database                  | `hdb`                                                           |
+| Kit Glass                      | `kit glass`                                                     |
+| Kit Terracotta                 | `kit terracotta`                                                |
+| Kit Banner                     | `kit banner`                                                    |
+| Kit Wool                       | `kit wool`                                                      |
+| Kit Pyro                       | `kit pyro`                                                      |
