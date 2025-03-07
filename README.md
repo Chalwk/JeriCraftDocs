@@ -1,7 +1,7 @@
 # 📝 JeriCraft Documentation Repository 📝
 
 <p style="text-align: left;">
-  <img src="/misc/assets/jericraft_logo.png" alt="JeriCraft Logo" width="300" />
+  <img src="/misc/assets/images/logos/jericraft_logo_1.png" alt="JeriCraft Logo" width="300" />
 </p>
 
 🌟 **Welcome to the official JeriCraft Documentation Repository!** 🌟
