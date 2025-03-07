@@ -12,9 +12,11 @@ There are several ways to accumulate wealth within the JeriCraft economy:
 
 | **Method**                  | **Description**                                                                                                                |
 |-----------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| **Jobs**                    | Join a job using the Jobs plugin and perform various tasks to earn Gold Coins and experience.                                  |
+| **Jobs**                    | Join a job and perform various tasks to earn Gold Coins and experience.                                                        |
+|                             | To learn more about jobs, refer to our detailed [Jobs Guide](/docs/guides/Jobs.md).                                            |
 | **Participating in Events** | Join server-wide events for a chance to Gold Coins.                                                                            |
 | **Creating Shops**          | Set up your own shop using the ChestShop plugin to sell items to other players.                                                |
+|                             | See our [ChestShop Tutorial](/docs/guides/Chest%20Shop.md) for more details.                                                   |
 | **Completing Job Quests**   | Complete job quests with the `/jobs quests` command to earn additional Gold Coins and experience.                              |
 | **Playtime Rewards**        | Earn Gold Coins, experience, and other valuable items through various playtime rewards, such as:                               |
 |                             | - **Hourly Fiefdom Reward**: Grants 10 Gold Coins, 5 levels of experience, and restores health every hour.                     |
