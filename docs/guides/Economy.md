@@ -10,41 +10,34 @@ and make the most of the available commands, shops, and features.
 
 There are several ways to accumulate wealth within the JeriCraft economy:
 
-| **Method**                  | **Description**                                                                                                      |
-|-----------------------------|----------------------------------------------------------------------------------------------------------------------|
-| **Jobs**                    | Join a job using the Jobs plugin and perform various tasks to earn Gold Coins and experience.                        |
-| **Selling Items**           | Use the `/sell` command to sell items in your inventory or utilize the Auction House to sell items to other players. |
-| **Participating in Events** | Join server-wide events for a chance to win prizes and earn extra Gold Coins.                                        |
-| **Creating Shops**          | Set up your own shop using the ChestShop plugin to sell items to other players.                                      |
-| **Loot Containers**         | Discover loot containers hidden throughout the world, offering valuable rewards.                                     |
+| **Method**                  | **Description**                                                                                                                |
+|-----------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| **Jobs**                    | Join a job using the Jobs plugin and perform various tasks to earn Gold Coins and experience.                                  |
+| **Participating in Events** | Join server-wide events for a chance to Gold Coins.                                                                            |
+| **Creating Shops**          | Set up your own shop using the ChestShop plugin to sell items to other players.                                                |
+| **Completing Job Quests**   | Complete job quests with the `/jobs quests` command to earn additional Gold Coins and experience.                              |
+| **Playtime Rewards**        | Earn Gold Coins, experience, and other valuable items through various playtime rewards, such as:                               |
+|                             | - **Hourly Fiefdom Reward**: Grants 10 Gold Coins, 5 levels of experience, and restores health every hour.                     |
+|                             | - **6-Hour Fief Reward**: Grants 50 Gold Coins, a Stone Pickaxe with Efficiency II, and 10 levels of experience.               |
+|                             | - **12-Hour Vigilance Reward**: Grants 100 Gold Coins, a Chainmail Chestplate with Protection II, and 15 levels of experience. |
+|                             | - **24-Hour Heroic Reward**: Grants 200 Gold Coins, an Iron Sword with Sharpness II, and 25 levels of experience.              |
+|                             | - **1-Week Service Reward**: Grants 500 Gold Coins, a Shield with Unbreaking II, and 50 levels of experience.                  |
+|                             | - **1-Month Noble Reward**: Grants 1000 Gold Coins, a Diamond Sword with Sharpness III, and 100 levels of experience.          |
+|                             | - **2-Month Champion’s Reward**: Grants 2000 Gold Coins, a Diamond Helmet with Protection III, and 200 levels of experience.   |
+|                             | - **3-Month Sovereign’s Reward**: Grants 5000 Gold Coins, a Golden Apple, and 500 levels of experience.                        |
 
 ---
 
-## **Selling Items with `/sell`**
+## **Auctions**
 
-The `/sell` command provides an easy way to sell items in your inventory. Use these subcommands for different selling
-options:
-
-| **Command**    | **Description**                                 |
-|----------------|-------------------------------------------------|
-| `/sell all`    | Sells all sellable items in your inventory.     |
-| `/sell blocks` | Sells all blocks in your inventory.             |
-| `/sell hand`   | Sells the item you’re currently holding.        |
-| `/sell same`   | Sells the same item you last sold.              |
-| `/sell gui`    | Opens a GUI interface to select and sell items. |
-
----
-
-## **Auction House**
-
-Buy and sell items through the Auction House using the `/ah` command. The following commands will help you list items,
+Buy and sell items through the Auctions using the `/ah` command. The following commands will help you list items,
 place bids, or buy directly:
 
-| **Command**        | **Description**                                                   |
-|--------------------|-------------------------------------------------------------------|
-| `/ah`              | Opens the Auction House GUI, where you can view items for sale.   |
-| `/ah sell <price>` | Lists the item in your hand for sale at the specified price.      |
-| `/ah buy <price>`  | Buys the item listed in the Auction House at the specified price. |
+| **Command**        | **Description**                                              |
+|--------------------|--------------------------------------------------------------|
+| `/ah`              | Opens the Auctions GUI, where you can view items for sale.   |
+| `/ah sell <price>` | Lists the item in your hand for sale at the specified price. |
+| `/ah buy <price>`  | Buys the item listed in the Auctions at the specified price. |
 
 ---
 
@@ -52,19 +45,6 @@ place bids, or buy directly:
 
 To create your own shop using ChestShop, refer to our detailed [ChestShop Tutorial](/docs/guides/Chest%20Shop.md).
 This guide provides step-by-step instructions on setting up and customizing your shop.
-
----
-
-## **Spending Gold Coins**
-
-Spend your hard-earned Gold Coins in various ways:
-
-| **Method**           | **Description**                                                                       |
-|----------------------|---------------------------------------------------------------------------------------|
-| **Admin Shops**      | Purchase items and resources at the server’s Admin Shops.                             |
-| **Auction House**    | Buy items listed by other players at the Auction House.                               |
-| **Player Shops**     | Support fellow players by shopping at their custom-made shops.                        |
-| **In-Game Services** | Pay for services offered by other players, such as building, crafting, or enchanting. |
 
 ---
 
