@@ -142,7 +142,7 @@ For further details, visit [mcmmo.org](http://mcmmo.org) or refer to our [McMMO 
 **AuctionHouse** allows players to auction off their items, creating a dynamic economy where players can sell, buy, and
 bid on various goods.
 
-For more details, refer to our [AuctionHouse Guide](../guides/AuctionHouse.md).
+For more details, refer to our [AuctionHouse Guide](../guides/Auctions).
 
 ---
 
@@ -151,7 +151,7 @@ For more details, refer to our [AuctionHouse Guide](../guides/AuctionHouse.md).
 This plugin introduces **realistic seasons** (Spring, Summer, Autumn, and Winter) to our world, complete with
 temperature fluctuations, weather effects, and a seasonal calendar.
 
-For more information, refer to our [RealisticSeasons Guide](../guides/RealisticSeasons.md).
+For more information, refer to our [RealisticSeasons Guide](../guides/Realistic Seasons).
 
 ---
 
@@ -160,7 +160,7 @@ For more information, refer to our [RealisticSeasons Guide](../guides/RealisticS
 **ChestShop** is a simple yet powerful system for creating physical shops using signs and chests. Players can create
 their own shops and sell items to other players.
 
-For guidance, check out our [ChestShop Guide](../guides/ChestShop.md).
+For guidance, check out our [ChestShop Guide](../guides/Chest Shop).
 
 ---
 
@@ -169,7 +169,7 @@ For guidance, check out our [ChestShop Guide](../guides/ChestShop.md).
 **LevelledMobs** allows mobs to gain levels, becoming progressively stronger and more challenging as they defeat
 players. This creates a dynamic and evolving world.
 
-For more information, see our [LevelledMobs Guide](../guides/LevelledMobs.md).
+For more information, see our [LevelledMobs Guide](../guides/Levelled Mobs).
 
 ---
 

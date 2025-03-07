@@ -50,7 +50,7 @@ place bids, or buy directly:
 
 ## **Creating a Shop with ChestShop**
 
-To create your own shop using ChestShop, refer to our detailed [ChestShop Tutorial](/docs/guides/ChestShop.md).
+To create your own shop using ChestShop, refer to our detailed [ChestShop Tutorial](/docs/guides/Chest Shop).
 This guide provides step-by-step instructions on setting up and customizing your shop.
 
 ---

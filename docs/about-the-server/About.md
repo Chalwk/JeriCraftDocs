@@ -29,16 +29,16 @@ supportive community, balanced gameplay, and new features added regularly to kee
 
 Explore our server's core features:
 
-- 📢 [**AuctionHouse**](/docs/guides/AuctionHouse.md): Learn how to buy and sell items using the AuctionHouse
+- 📢 [**AuctionHouse**](/docs/guides/Auctions): Learn how to buy and sell items using the AuctionHouse
   plugin.
-- 🛍️ [**ChestShop**](/docs/guides/ChestShop.md): Create and manage shops with the ChestShop plugin.
+- 🛍️ [**ChestShop**](/docs/guides/Chest Shop): Create and manage shops with the ChestShop plugin.
 - 💰 [**Economy**](/docs/guides/Economy.md): Understand JeriCraft's in-game economy system.
-- 🌟 [**Getting Started**](/docs/guides/GettingStarted.md): New to JeriCraft? Start here to get up and running
+- 🌟 [**Getting Started**](/docs/guides/Getting Started): New to JeriCraft? Start here to get up and running
   quickly.
 - 💼 [**Jobs**](/docs/guides/Jobs.md): Join professions, complete tasks, and earn in-game money with Jobs.
-- 🦾 [**LevelledMobs**](/docs/guides/LevelledMobs.md): Discover how the LevelledMobs plugin enhances mob combat.
+- 🦾 [**LevelledMobs**](/docs/guides/Levelled Mobs): Discover how the LevelledMobs plugin enhances mob combat.
 - 🔱 [**mcMMO**](/docs/guides/mcMMO.md): Master RPG-like skills, abilities, and leveling systems with mcMMO.
-- ❄️ [**RealisticSeasons**](/docs/guides/RealisticSeasons.md): Experience dynamic and immersive seasons.
+- ❄️ [**RealisticSeasons**](/docs/guides/Realistic Seasons): Experience dynamic and immersive seasons.
 - 🗺️ [**Regions**](/docs/guides/Regions.md): Claim, protect, and manage specific areas on the server.
 
 ### [Explore more features here](/docs/features/features.md)
