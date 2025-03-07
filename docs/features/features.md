@@ -151,7 +151,7 @@ For more details, refer to our [AuctionHouse Guide](../guides/Auctions).
 This plugin introduces **realistic seasons** (Spring, Summer, Autumn, and Winter) to our world, complete with
 temperature fluctuations, weather effects, and a seasonal calendar.
 
-For more information, refer to our [RealisticSeasons Guide](../guides/Realistic Seasons).
+For more information, refer to our [RealisticSeasons Guide](../guides/Realistic%20Seasons.md).
 
 ---
 
@@ -160,7 +160,7 @@ For more information, refer to our [RealisticSeasons Guide](../guides/Realistic 
 **ChestShop** is a simple yet powerful system for creating physical shops using signs and chests. Players can create
 their own shops and sell items to other players.
 
-For guidance, check out our [ChestShop Guide](../guides/Chest Shop).
+For guidance, check out our [ChestShop Guide](../guides/Chest%20Shop.md).
 
 ---
 
@@ -169,7 +169,7 @@ For guidance, check out our [ChestShop Guide](../guides/Chest Shop).
 **LevelledMobs** allows mobs to gain levels, becoming progressively stronger and more challenging as they defeat
 players. This creates a dynamic and evolving world.
 
-For more information, see our [LevelledMobs Guide](../guides/Levelled Mobs).
+For more information, see our [LevelledMobs Guide](../guides/Levelled%20Mobs.md).
 
 ---
 

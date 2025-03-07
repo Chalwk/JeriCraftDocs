@@ -12,8 +12,8 @@ Every donation helps us keep the server running, and we are grateful for your su
 4. **[Disclaimer](#-disclaimer)**
 5. **[Full List of Perks](#-full-list-of-perks)**
     - [Text and Customization Perks](#text-and-customization-perks)
-    - [Gameplay Enhancements](#gameplay-enhancements)
-    - [Commands and Utility Perks](#commands-and-utility-perks)
+    - [Gameplay Enhancements](#armory-of-æther)
+    - [Commands and Utility Perks](#arcane-commands)
     - [Crafting and Utility Items](#crafting-and-utility-items)
     - [MCMMO and Skills Boost](#mcmmo-and-skills-boost)
     - [Health Boost Perks](#health-boost-perks)
