@@ -44,10 +44,10 @@ place bids, or buy directly:
 
 ---
 
-## **Selling Items with `/sell`**
+## ~~**Selling Items with `/sell`**~~
 
-The `/sell` command provides an easy way to sell items in your inventory. Use these subcommands for different selling
-options:
+~~The `/sell` command provides an easy way to sell items in your inventory. Use these subcommands for different selling
+options:~~
 
 | **Command**        | **Description**                                 |
 |--------------------|-------------------------------------------------|
