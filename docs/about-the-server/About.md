@@ -1,25 +1,27 @@
-# 🎮 Welcome to JeriCraft - Your Ultimate Virtual Sanctuary! 🎮
+# 🏹 Welcome to JeriCraft – A Realm Forged in Block and Battle!
 
-**JeriCraft** is a Medieval-themed **Semi-RPG Survival Multiplayer (SMP)** server focusing on:
+**Hear ye, hear ye!** Welcome to **JeriCraft**, a semi-RPG, Survival Multiplayer (SMP) server set in a rich medieval world where **RPG gameplay**, a **Player-Driven Economy**, and **PvP skirmishes** come together to create an immersive experience. Whether you're a brave adventurer, master merchant, or humble farmer, there's a place for you in our ever-growing kingdom, where every player has the chance to write their own legend and shape their destiny in a dynamic, ever-evolving realm.
 
-- 🛡️ Survival
-- 💰 Economy
-- 🛠️ Jobs
-- 🎯 mcMMO
-- 🌍 Seasons
-- 💪 Challenging Mobs
-- And more!
+### 🔑 Key Features:
+* ⚔️ Survival & PvP – Brave the wilds, fortify your homestead, or wage war against rival factions.
+* 💰 Player-Driven Economy – Earn gold coins through Jobs, Auctions, and Chest Shops.
+* 🧑‍🏭 Guild Trades & Professions – Choose from 22 different jobs, including Blacksmith, Lumberjack, Miner, and more with Jobs.
+* 🏹 mcMMO Skills – Level up your combat and crafting skills to become a legendary hero.
+* 🌦️ Realistic Seasons – Feast in the warmth of summer, survive the harsh bite of winter.
+* 🐉 Levelled Mobs & Beast Hunts – Face corrupted knights, nether-born horrors, and other abominations.
+* 🏪 NPC Merchants – Trade with 14 NPC shopkeepers in our bustling marketplace.
+
+### 📜 What Awaits Thee?
+* Rich lore and immersive medieval atmosphere
+* Frequent events, quests, and seasonal updates
+* Community-driven projects and player-owned shops
+* Friendly players and a Discord community
+
+### 📜 Scroll of Entry: JERICRAFT.NET (1.21.4)
+_(Carve these runes into thy portal frame, lest ye wander the void forever…)_
 
 Join us for a wide range of activities that bring you into an exciting and ever-evolving world. You’ll enjoy a
 supportive community, balanced gameplay, and new features added regularly to keep things fresh.
-
----
-
-## 🚀 Quick Start
-
-| **Minecraft Version** |  **Server IP**  |                  **Discord**                  |
-|:---------------------:|:---------------:|:---------------------------------------------:|
-|       `1.20.1`        | `jericraft.net` | [**Join Now**](https://discord.gg/wuVcM9AZrr) |
 
 ---
 
