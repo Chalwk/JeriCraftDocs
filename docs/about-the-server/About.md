@@ -79,7 +79,7 @@ Explore our server's core features:
 ## 🎁 Perks
 
 Discover all the fantastic perks available on the JeriCraft server by browsing
-our [Perks Guide](/docs/webstore/store.md).
+our [Perks Guide](https://jericraft-shop.tebex.io/).
 
 ---
 
