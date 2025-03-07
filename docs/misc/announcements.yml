@@ -42,7 +42,7 @@ announcements:
       • &b/ah help &8- &7Seek guidance from the auctioneer.",
         "clickEvent": {
           "action": "open_url",
-          "value": "https://github.com/Chalwk/JeriCraftDocs/blob/main/MINECRAFT/guides/AuctionHouse.md"
+          "value": "https://github.com/Chalwk/JeriCraftDocs/blob/main/docs/guides/AuctionHouse.md"
         },
         "hoverEvent": {
           "action": "show_text",
@@ -78,7 +78,7 @@ announcements:
       • Unveil the &astep-by-step scroll &7(click) to learn the ways of the merchant.",
         "clickEvent": {
           "action": "open_url",
-          "value": "https://github.com/Chalwk/JeriCraftDocs/blob/main/MINECRAFT/guides/ChestShop.md"
+          "value": "https://github.com/Chalwk/JeriCraftDocs/blob/main/docs/guides/ChestShop.md"
         },
         "hoverEvent": {
           "action": "show_text",
@@ -173,7 +173,7 @@ announcements:
       • Click here or type &b/docs &7for more knowledge.",
         "clickEvent": {
           "action": "open_url",
-          "value": "https://github.com/Chalwk/JeriCraftDocs/blob/main/MINECRAFT/guides/Jobs.md"
+          "value": "https://github.com/Chalwk/JeriCraftDocs/blob/main/docs/guides/Jobs.md"
         },
         "hoverEvent": {
           "action": "show_text",
@@ -196,7 +196,7 @@ announcements:
       • Click here to explore our detailed Skill Mastery scroll.",
         "clickEvent": {
           "action": "open_url",
-          "value": "https://github.com/Chalwk/JeriCraftDocs/blob/main/MINECRAFT/guides/mcMMO.md"
+          "value": "https://github.com/Chalwk/JeriCraftDocs/blob/main/docs/guides/mcMMO.md"
         },
         "hoverEvent": {
           "action": "show_text",
@@ -305,7 +305,7 @@ announcements:
       • Click here to behold the guide to managing thy regions.",
         "clickEvent": {
           "action": "open_url",
-          "value": "https://github.com/Chalwk/JeriCraftDocs/blob/main/MINECRAFT/guides/Regions.md"
+          "value": "https://github.com/Chalwk/JeriCraftDocs/blob/main/docs/guides/Regions.md"
         },
         "hoverEvent": {
           "action": "show_text",

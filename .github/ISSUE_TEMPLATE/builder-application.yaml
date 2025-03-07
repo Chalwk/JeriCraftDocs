@@ -44,7 +44,7 @@ body:
         **Restricted access to World Edit:**
           - World Edit will be limited to regions that you own.
           - Make sure you set the `worldedit allow` flag in your region before performing World Edit operations.
-          - Certain commands will be disabled for you. See the [Player Commands](https://github.com/Chalwk/JeriCraftDocs/blob/main/MINECRAFT/commands/PLAYER-COMMANDS.md) for more information.
+          - Certain commands will be disabled for you. See the [Player Commands](https://github.com/Chalwk/JeriCraftDocs/blob/main/docs/commands/PLAYER-COMMANDS.md) for more information.
 
         ---
   - type: checkboxes
