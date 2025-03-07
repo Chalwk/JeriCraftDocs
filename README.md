@@ -29,13 +29,14 @@ guidelines and form templates.
    - **[Perk Commands](docs/commands/PERK-COMMANDS.md)**
 4. 🌟 **[Server Features](docs/features/features.md)**
 5. 📖 **[Guides](docs/guides)**
-   - **[AuctionHouse](docs/guides/Auctions)**
-   - **[ChestShop](docs/guides/Chest%20Shop.md)**
+   - **[Auction House](docs/guides/Auctions)**
+   - **[Chest Shop](docs/guides/Chest%20Shop.md)**
+   - **[Discord](docs/guides/Discord.md)**
    - **[Economy](docs/guides/Economy.md)**
    - **[Jobs](docs/guides/Jobs.md)**
-   - **[LevelledMobs](docs/guides/Levelled%20Mobs.md)**
+   - **[Levelled Mobs](docs/guides/Levelled%20Mobs.md)**
    - **[mcMMO](docs/guides/mcMMO.md)**
-   - **[RealisticSeasons](docs/guides/Realistic%20Seasons.md)**
+   - **[Realistic Seasons](docs/guides/Realistic%20Seasons.md)**
    - **[Regions](docs/guides/Regions.md)**
 6. 💎 **[Perks / Webstore](/docs/webstore/store.md)**
 7. 📜 **[Community Rules](policies/Community-Rules.md)**
