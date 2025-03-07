@@ -18,6 +18,7 @@ There are several ways to accumulate wealth within the JeriCraft economy:
 | **Creating Shops**          | Set up your own shop using the ChestShop plugin to sell items to other players.                                                |
 |                             | See our [ChestShop Tutorial](/docs/guides/Chest%20Shop.md) for more details.                                                   |
 | **Completing Job Quests**   | Complete job quests with the `/jobs quests` command to earn additional Gold Coins and experience.                              |
+| ~~**Selling Items**~~       | ~~Use the `/sell` command to sell items in your inventory or utilize the Auction House to sell items to other players.~~       |
 | **Playtime Rewards**        | Earn Gold Coins, experience, and other valuable items through various playtime rewards, such as:                               |
 |                             | - **Hourly Fiefdom Reward**: Grants 10 Gold Coins, 5 levels of experience, and restores health every hour.                     |
 |                             | - **6-Hour Fief Reward**: Grants 50 Gold Coins, a Stone Pickaxe with Efficiency II, and 10 levels of experience.               |
@@ -43,6 +44,21 @@ place bids, or buy directly:
 
 ---
 
+## **Selling Items with `/sell`**
+
+The `/sell` command provides an easy way to sell items in your inventory. Use these subcommands for different selling
+options:
+
+| **Command**        | **Description**                                 |
+|--------------------|-------------------------------------------------|
+| ~~`/sell all`~~    | Sells all sellable items in your inventory.     |
+| ~~`/sell blocks`~~ | Sells all blocks in your inventory.             |
+| ~~`/sell hand`~~   | Sells the item you’re currently holding.        |
+| ~~`/sell same`~~   | Sells the same item you last sold.              |
+| ~~`/sell gui`~~    | Opens a GUI interface to select and sell items. |
+
+---
+
 ## **Creating a Shop with ChestShop**
 
 To create your own shop using ChestShop, refer to our detailed [ChestShop Tutorial](/docs/guides/Chest%20Shop.md).
@@ -54,12 +70,12 @@ This guide provides step-by-step instructions on setting up and customizing your
 
 Track and manage your Gold Coins easily:
 
-| **Command**                 | **Description**                                                        |
-|-----------------------------|------------------------------------------------------------------------|
-| `/bal`                      | Check your current Gold Coins balance.                                 |
-| `/pay <player> <amount>`    | Pay other players a specified amount of Gold Coins.                    |
-| `/baltop`                   | View the top rankings of the wealthiest players on the server.         |
-| `/cheque <player> <amount>` | Send a cheque to another player with a specified amount of Gold Coins. |
+| **Command**                     | **Description**                                                        |
+|---------------------------------|------------------------------------------------------------------------|
+| `/bal`                          | Check your current Gold Coins balance.                                 |
+| `/pay <player> <amount>`        | Pay other players a specified amount of Gold Coins.                    |
+| `/baltop`                       | View the top rankings of the wealthiest players on the server.         |
+| ~~`/cheque <player> <amount>`~~ | Send a cheque to another player with a specified amount of Gold Coins. |
 
 ---
 
