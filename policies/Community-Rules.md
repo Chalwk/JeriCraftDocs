@@ -26,27 +26,38 @@ staff for review. However, bans tied to VPNs are rarely overturned.
 
 The following rules apply to **Minecraft, Halo, and the JeriCraft Discord server**:
 
-| Rule                                  | Description                                                                                                                                                   |
-|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **No Offensive Language or Content**  | Avoid offensive/inappropriate language, usernames, skins, **profile pictures**, or messages **in-game or on Discord**.                                        |
-| **No Trolling or Harassment**         | Do not troll, harass, or intentionally upset others **in any platform**.                                                                                      |
-| **No Impersonation**                  | Do not impersonate players, staff, **or community brands** (**including Discord server names or bot identities**).                                            |
-| **No Scamming or Exploiting**         | Be honest in interactions; avoid exploiting bugs, **begging for in-game items, or misusing Discord giveaways**.                                               |
-| **No Lavacasting**                    | Lavacasting (using lava and water to create massive stone/obsidian structures) is prohibited. It causes unfair advantages, server lag, and disrupts gameplay. |
-| **Keep Personal Information Private** | Do not share sensitive information.                                                                                                                           |
-| **No Controversial Topics**           | Avoid discussing drama, politics, or religion **in public chats or Discord channels**.                                                                        |
-| **No Spamming or Advertising**        | Do not disrupt conversations with irrelevant messages, **@mentions**, ads, **or Discord invite links**.                                                       |
-| **Respect Staff Instructions**        | Follow staff instructions **in-game, on Discord, or during events**.                                                                                          |
-| **No Bypassing Filters**              | Do not circumvent chat filters **in-game or on Discord**.                                                                                                     |
-| **Respect Player Boundaries**         | Do not encroach on others’ territory **in-game** or invade privacy **via DMs or Discord**.                                                                    |
-| **No Malicious Activities**           | Do not distribute malware **or share harmful links on any platform**.                                                                                         |
-| **No Disrupting Server Performance**  | Avoid actions that cause performance issues, such as lag-inducing exploits.                                                                                   |
-| **No Game Mechanics Abuse**           | Play as intended; avoid exploiting glitches **or misusing Discord bots/features**.                                                                            |
-| **No Team Killing (Halo)**            | Do not intentionally kill teammates.                                                                                                                          |
-| **No NSFW Content**                   | Do not post explicit material, including text, images, or links.                                                                                              |
-| **Use Appropriate Discord Channels**  | Keep conversations relevant to channel purposes (e.g., no off-topic discussions in #minecraft).                                                               |
-| **Discord Voice Chat Etiquette**      | Avoid loud noises, background music, or mic spam in voice channels.                                                                                           |
-| **Respect @mentions**                 | Do not abuse @everyone, @here, or staff roles without permission.                                                                                             |
+| Rule                                             | Description                                                                                                                                                   |
+|--------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **No Offensive Language or Content**             | Avoid offensive/inappropriate language, usernames, skins, **profile pictures**, or messages **in-game or on Discord**.                                        |
+| **No Trolling or Harassment**                    | Do not troll, harass, or intentionally upset others **in any platform**.                                                                                      |
+| **No Impersonation**                             | Do not impersonate players, staff, **or community brands** (**including Discord server names or bot identities**).                                            |
+| **No Scamming or Exploiting**                    | Be honest in interactions; avoid exploiting bugs, **begging for in-game items, or misusing Discord giveaways**.                                               |
+| **No Lavacasting**                               | Lavacasting (using lava and water to create massive stone/obsidian structures) is prohibited. It causes unfair advantages, server lag, and disrupts gameplay. |
+| **Keep Personal Information Private**            | Do not share sensitive information.                                                                                                                           |
+| **No Controversial Topics**                      | Avoid discussing drama, politics, or religion **in public chats or Discord channels**.                                                                        |
+| **No Spamming or Advertising**                   | Do not disrupt conversations with irrelevant messages, **@mentions**, ads, **or Discord invite links**.                                                       |
+| **Respect Staff Instructions**                   | Follow staff instructions **in-game, on Discord, or during events**.                                                                                          |
+| **No Bypassing Filters**                         | Do not circumvent chat filters **in-game or on Discord**.                                                                                                     |
+| **Respect Player Boundaries**                    | Do not encroach on others’ territory **in-game** or invade privacy **via DMs or Discord**.                                                                    |
+| **No Malicious Activities**                      | Do not distribute malware **or share harmful links on any platform**.                                                                                         |
+| **No Disrupting Server Performance**             | Avoid actions that cause performance issues, such as lag-inducing exploits.                                                                                   |
+| **No Game Mechanics Abuse**                      | Play as intended; avoid exploiting glitches **or misusing Discord bots/features**.                                                                            |
+| **No Team Killing (Halo)**                       | Do not intentionally kill teammates.                                                                                                                          |
+| **No NSFW Content**                              | Do not post explicit material, including text, images, or links.                                                                                              |
+| **Use Appropriate Discord Channels**             | Keep conversations relevant to channel purposes (e.g., no off-topic discussions in #minecraft).                                                               |
+| **Discord Voice Chat Etiquette**                 | Avoid loud noises, background music, or mic spam in voice channels.                                                                                           |
+| **Respect @mentions**                            | Do not abuse @everyone, @here, or staff roles without permission.                                                                                             |
+| **No Griefing**                                  | Do not destroy or alter other players' builds or resources without permission. Griefing disrupts gameplay and the community experience.                       |
+| **No Duplication Exploits or Cheats**            | Do not use duplication glitches, cheats, or third-party programs to gain unfair advantages in-game.                                                           |
+| **No AFK Farming or Abuse of Automated Systems** | Do not use AFK (away-from-keyboard) farming techniques or automation tools (e.g., bots) to gain resources or rewards while not actively playing.              |
+| **Respect Build and Land Claims**                | Do not build or alter structures on land that other players have claimed, unless permitted. Respect others' builds and territory.                             |
+| **No Alt Accounts for Evading Punishments**      | Using alternate accounts to bypass server punishments is strictly prohibited. All accounts associated with the offending player will be penalized.            |
+| **Keep Player-to-Player Trades Fair**            | Do not coerce or manipulate players into unfair trades. All trades must be mutually agreed upon and conducted fairly.                                         |
+| **Respect for Server Events and Competitions**   | Do not disrupt or cheat during server-hosted events, competitions, or tournaments. Respect the integrity of these activities.                                 |
+| **Use of Server-Specific Features**              | Familiarize yourself with and use server-specific features such as custom plugins and rules as intended. Misuse may result in disciplinary action.            |
+| **No Excessive Toxicity or Negative Behavior**   | Avoid excessively toxic behavior, insults, or disruptive negativity. Maintain a positive and respectful attitude toward all players.                          |
+| **Respect for Staff and Volunteers**             | Staff and volunteers are here to help the community. Treat them with respect, and do not argue with their decisions in public chat.                           |
+| **Proper Use of Server Commands**                | Use commands properly as intended. Do not spam or misuse commands in a way that disrupts gameplay or other players.                                           |
 
 ---
 
