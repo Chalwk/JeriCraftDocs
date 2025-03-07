@@ -39,7 +39,7 @@
     -〔📣〕updates
     -〔💬〕discussion
 
-### ◉ HSP-GITHUB
+### ◉ HSP-GITHUB (hidden to the public)
 
     -〔📝〕about
     -〔🔔〕repo-activity
@@ -47,7 +47,7 @@
     -〔🎨〕dev
     -〔🐛〕bug-reports
 
-### ◉ COUNCIL CHAMBERS
+### ◉ COUNCIL CHAMBERS (hidden to the public)
 
     - 〔🔒〕the-watchtower
     - 〔📊〕realms-ledger
