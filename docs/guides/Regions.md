@@ -72,10 +72,10 @@ This will expand your region **upwards** by 10 blocks.
 To ensure a fair and balanced experience for all players, JeriCraft has specific limitations on the number of blocks and regions you can claim.
 
 ### **Max Claim Volume per Region**:
-Each individual region you claim can have a maximum volume of **30,000 blocks**. This means each region can be up to 30,000 blocks in size, but you can claim multiple regions as long as they don't exceed the limit.
+Each individual region you claim can have a maximum volume of **25,000 blocks**. This means each region can be up to 25,000 blocks in size, but you can claim multiple regions as long as they don't exceed the limit.
 
 ### **Max Regions per Player**:
-Each player can own up to **5 regions**. This means you can claim multiple areas, but you will be limited to a maximum of 5 separate regions. This ensures that everyone has a fair opportunity to claim space while preventing excessive land ownership by a single player.
+Each player can own up to **3 regions**. This means you can claim multiple areas, but you will be limited to a maximum of 5 separate regions. This ensures that everyone has a fair opportunity to claim space while preventing excessive land ownership by a single player.
 
 These limits help maintain a balanced gameplay environment and make sure there's plenty of space for everyone to build and explore!
 
