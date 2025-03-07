@@ -38,12 +38,12 @@ guidelines and form templates.
    - **[mcMMO](docs/guides/mcMMO.md)**
    - **[Realistic Seasons](docs/guides/Realistic%20Seasons.md)**
    - **[Regions](docs/guides/Regions.md)**
+   - **[NPC Shops](docs/guides/NPC%20Shops.md)**
 6. 💎 **[Perks / Webstore](/docs/webstore/store.md)**
 7. 📜 **[Community Rules](policies/Community-Rules.md)**
 8. 📝 **[Form Templates](#-form-templates)**
 9. 🤝 **[Contributing](CONTRIBUTING.md)**
 10. 📄 **[License](LICENCE.md)**
-
 
 ---
 
