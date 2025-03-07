@@ -27,19 +27,19 @@ supportive community, balanced gameplay, and new features added regularly to kee
 
 Explore our server's core features:
 
-- 📢 [**AuctionHouse**](/MINECRAFT/guides/AuctionHouse.md): Learn how to buy and sell items using the AuctionHouse
+- 📢 [**AuctionHouse**](/docs/guides/AuctionHouse.md): Learn how to buy and sell items using the AuctionHouse
   plugin.
-- 🛍️ [**ChestShop**](/MINECRAFT/guides/ChestShop.md): Create and manage shops with the ChestShop plugin.
-- 💰 [**Economy**](/MINECRAFT/guides/Economy.md): Understand JeriCraft's in-game economy system.
-- 🌟 [**Getting Started**](/MINECRAFT/guides/GettingStarted.md): New to JeriCraft? Start here to get up and running
+- 🛍️ [**ChestShop**](/docs/guides/ChestShop.md): Create and manage shops with the ChestShop plugin.
+- 💰 [**Economy**](/docs/guides/Economy.md): Understand JeriCraft's in-game economy system.
+- 🌟 [**Getting Started**](/docs/guides/GettingStarted.md): New to JeriCraft? Start here to get up and running
   quickly.
-- 💼 [**Jobs**](/MINECRAFT/guides/Jobs.md): Join professions, complete tasks, and earn in-game money with Jobs.
-- 🦾 [**LevelledMobs**](/MINECRAFT/guides/LevelledMobs.md): Discover how the LevelledMobs plugin enhances mob combat.
-- 🔱 [**mcMMO**](/MINECRAFT/guides/mcMMO.md): Master RPG-like skills, abilities, and leveling systems with mcMMO.
-- ❄️ [**RealisticSeasons**](/MINECRAFT/guides/RealisticSeasons.md): Experience dynamic and immersive seasons.
-- 🗺️ [**Regions**](/MINECRAFT/guides/Regions.md): Claim, protect, and manage specific areas on the server.
+- 💼 [**Jobs**](/docs/guides/Jobs.md): Join professions, complete tasks, and earn in-game money with Jobs.
+- 🦾 [**LevelledMobs**](/docs/guides/LevelledMobs.md): Discover how the LevelledMobs plugin enhances mob combat.
+- 🔱 [**mcMMO**](/docs/guides/mcMMO.md): Master RPG-like skills, abilities, and leveling systems with mcMMO.
+- ❄️ [**RealisticSeasons**](/docs/guides/RealisticSeasons.md): Experience dynamic and immersive seasons.
+- 🗺️ [**Regions**](/docs/guides/Regions.md): Claim, protect, and manage specific areas on the server.
 
-### [Explore more features here](/MINECRAFT/features/features.md)
+### [Explore more features here](/docs/features/features.md)
 
 ---
 
@@ -77,7 +77,7 @@ Explore our server's core features:
 ## 🎁 Perks
 
 Discover all the fantastic perks available on the JeriCraft server by browsing
-our [Perks Guide](/MINECRAFT/webstore/store.md).
+our [Perks Guide](/docs/webstore/store.md).
 
 ---
 
@@ -85,15 +85,15 @@ our [Perks Guide](/MINECRAFT/webstore/store.md).
 
 - 👨‍💼 **Player Commands**:
   > Discover the commands available to players on the JeriCraft server by visiting
-  our [**Player Commands Guide**](/MINECRAFT/commands/PLAYER-COMMANDS.md).
+  our [**Player Commands Guide**](/docs/commands/PLAYER-COMMANDS.md).
 
 - 👨‍💼 **Staff Commands**:
   > Explore the commands available to staff members on the JeriCraft server by visiting
-  our [**Staff Commands Guide**](/MINECRAFT/commands/STAFF-COMMANDS.md).
+  our [**Staff Commands Guide**](/docs/commands/STAFF-COMMANDS.md).
 
 - 🌟 **Perk Commands**:
   > Learn about the commands associated with JeriCraft's perks by visiting
-  our [**Perk Commands Guide**](/MINECRAFT/commands/PLAYER-COMMANDS.md).
+  our [**Perk Commands Guide**](/docs/commands/PLAYER-COMMANDS.md).
 
 ## 📝 Applications 📝
 

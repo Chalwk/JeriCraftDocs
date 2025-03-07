@@ -22,23 +22,23 @@ guidelines and form templates.
 
 Explore detailed guides and resources for the JeriCraft Minecraft server:
 
-1. 🛠 **[About The Server](MINECRAFT/about-the-server/About.md)**
-2. 🚀 **[Getting Started](MINECRAFT/guides/GettingStarted.md)**
-3. ⚡ **[Ranks and Commands](MINECRAFT/commands)**
-    - **[Player Commands](MINECRAFT/commands/PLAYER-COMMANDS.md)**
-    - **[Staff Commands](MINECRAFT/commands/STAFF-COMMANDS.md)**
-    - **[Perk Commands](MINECRAFT/commands/PERK-COMMANDS.md)**
-4. 🌟 **[Server Features](MINECRAFT/features/features.md)**
-5. 📖 **[Guides](MINECRAFT/guides)**
-    - **[AuctionHouse](MINECRAFT/guides/AuctionHouse.md)**
-    - **[ChestShop](MINECRAFT/guides/ChestShop.md)**
-    - **[Economy](MINECRAFT/guides/Economy.md)**
-    - **[Jobs](MINECRAFT/guides/Jobs.md)**
-    - **[LevelledMobs](MINECRAFT/guides/LevelledMobs.md)**
-    - **[mcMMO](MINECRAFT/guides/mcMMO.md)**
-    - **[RealisticSeasons](MINECRAFT/guides/RealisticSeasons.md)**
-    - **[Regions](MINECRAFT/guides/Regions.md)**
-6. 💎 **[Perks / Webstore](/MINECRAFT/webstore/store.md)**
+1. 🛠 **[About The Server](docs/about-the-server/About.md)**
+2. 🚀 **[Getting Started](docs/guides/GettingStarted.md)**
+3. ⚡ **[Ranks and Commands](docs/commands)**
+    - **[Player Commands](docs/commands/PLAYER-COMMANDS.md)**
+    - **[Staff Commands](docs/commands/STAFF-COMMANDS.md)**
+    - **[Perk Commands](docs/commands/PERK-COMMANDS.md)**
+4. 🌟 **[Server Features](docs/features/features.md)**
+5. 📖 **[Guides](docs/guides)**
+    - **[AuctionHouse](docs/guides/AuctionHouse.md)**
+    - **[ChestShop](docs/guides/ChestShop.md)**
+    - **[Economy](docs/guides/Economy.md)**
+    - **[Jobs](docs/guides/Jobs.md)**
+    - **[LevelledMobs](docs/guides/LevelledMobs.md)**
+    - **[mcMMO](docs/guides/mcMMO.md)**
+    - **[RealisticSeasons](docs/guides/RealisticSeasons.md)**
+    - **[Regions](docs/guides/Regions.md)**
+6. 💎 **[Perks / Webstore](/docs/webstore/store.md)**
 
 ---
 
