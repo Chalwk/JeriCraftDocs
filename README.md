@@ -17,7 +17,7 @@ guidelines and form templates.
 
 [![Discord](https://img.shields.io/badge/Discord-Join_Our_Server-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/wuVcM9AZrr)
 
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-00AF54?style=for-the-badge&logo=curseforge)](jericraft.net)
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.4-00AF54?style=for-the-badge&logo=curseforge)](jericraft.net)
 
 ## 🌍 Table of Contents
 

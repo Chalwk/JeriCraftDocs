@@ -115,6 +115,6 @@ The Resource Team ensures all operational resources are maintained and optimized
 <center>
 
 [![Discord](https://img.shields.io/discord/1071172977326403634?label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/wuVcM9AZrr)
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-00AF54?style=for-the-badge&logo=curseforge)](jericraft.net)
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.4-00AF54?style=for-the-badge&logo=curseforge)](jericraft.net)
 
 </center>
