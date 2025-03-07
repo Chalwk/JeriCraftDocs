@@ -1,20 +1,20 @@
 # 💰 JeriCraft Economy Guide 💳
 
 Welcome to the **JeriCraft Economy Guide**! Our server provides various opportunities to earn and spend in-game
-currency, enhancing your overall gameplay experience. This guide will help you navigate our economy system and make the
-most of the available commands, shops, and features.
+currency (Gold Coins), enhancing your overall gameplay experience. This guide will help you navigate our economy system
+and make the most of the available commands, shops, and features.
 
 ---
 
-## **Earning Money**
+## **Earning Gold Coins**
 
 There are several ways to accumulate wealth within the JeriCraft economy:
 
 | **Method**                  | **Description**                                                                                                      |
 |-----------------------------|----------------------------------------------------------------------------------------------------------------------|
-| **Jobs**                    | Join a job using the Jobs plugin and perform various tasks to earn money and experience.                             |
+| **Jobs**                    | Join a job using the Jobs plugin and perform various tasks to earn Gold Coins and experience.                        |
 | **Selling Items**           | Use the `/sell` command to sell items in your inventory or utilize the Auction House to sell items to other players. |
-| **Participating in Events** | Join server-wide events for a chance to win prizes and earn extra cash.                                              |
+| **Participating in Events** | Join server-wide events for a chance to win prizes and earn extra Gold Coins.                                        |
 | **Creating Shops**          | Set up your own shop using the ChestShop plugin to sell items to other players.                                      |
 | **Loot Containers**         | Discover loot containers hidden throughout the world, offering valuable rewards.                                     |
 
@@ -55,9 +55,9 @@ This guide provides step-by-step instructions on setting up and customizing your
 
 ---
 
-## **Spending Money**
+## **Spending Gold Coins**
 
-Spend your hard-earned cash in various ways:
+Spend your hard-earned Gold Coins in various ways:
 
 | **Method**           | **Description**                                                                       |
 |----------------------|---------------------------------------------------------------------------------------|
@@ -70,15 +70,15 @@ Spend your hard-earned cash in various ways:
 
 ## **Checking Your Balance and Paying Others**
 
-Track and manage your funds easily:
+Track and manage your Gold Coins easily:
 
-| **Command**                 | **Description**                                                |
-|-----------------------------|----------------------------------------------------------------|
-| `/bal`                      | Check your current balance.                                    |
-| `/pay <player> <amount>`    | Pay other players a specified amount.                          |
-| `/baltop`                   | View the top rankings of the wealthiest players on the server. |
-| `/cheque <player> <amount>` | Send a cheque to another player with a specified amount.       |
+| **Command**                 | **Description**                                                        |
+|-----------------------------|------------------------------------------------------------------------|
+| `/bal`                      | Check your current Gold Coins balance.                                 |
+| `/pay <player> <amount>`    | Pay other players a specified amount of Gold Coins.                    |
+| `/baltop`                   | View the top rankings of the wealthiest players on the server.         |
+| `/cheque <player> <amount>` | Send a cheque to another player with a specified amount of Gold Coins. |
 
 ---
 
-Now that you're familiar with the JeriCraft Economy System, go forth and build your fortune!
+Now that you're familiar with the JeriCraft Economy System, go forth and build your fortune in **Gold Coins**! 💰

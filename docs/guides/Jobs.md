@@ -79,7 +79,7 @@ Here’s a table of essential commands to help you navigate the JeriCraft Jobs p
 | `/bal`              | Check your current in-game currency balance.                                    |
 | `/baltop`           | View the leaderboard of the wealthiest players.                                 |
 
-By utilizing these commands, you'll be on your way to making money and gaining experience through the JeriCraft Jobs
+By utilizing these commands, you'll be on your way to earning gold coins and gaining experience through the JeriCraft Jobs
 plugin. Happy working, and we wish you success in your career! 💼💰
 
 ## Detailed Job Information:
@@ -95,7 +95,7 @@ supply and support other players by growing food resources for the community.
     - Harvesting crops
     - Breeding animals
 - **Rewards:**
-    - Earn money and experience for every crop you plant or harvest.
+    - Earn gold coins and experience for every crop you plant or harvest.
     - Boost your farming level to unlock additional rewards.
 
 ---
@@ -110,7 +110,7 @@ and contribute to resource gathering on the server.
     - Digging dirt, sand, gravel, clay, and other earth materials
     - Excavating and leveling land
 - **Rewards:**
-    - Earn money for every block you dig up.
+    - Earn gold coins for every block you dig up.
     - Experience and bonuses for completing large excavation tasks.
 
 ---
@@ -119,13 +119,13 @@ and contribute to resource gathering on the server.
 
 The **Builder** job allows you to focus on constructing structures and placing blocks. Whether you’re designing a
 building, making roads, or setting up structures for the community, Builders play a crucial role in shaping the world.
-Builders earn money for every block they place and contribute to the server’s aesthetic and functionality.
+Builders earn gold coins for every block they place and contribute to the server’s aesthetic and functionality.
 
 - **Key Activities:**
     - Placing blocks for construction purposes
     - Creating large-scale projects like buildings, roads, and arenas
 - **Rewards:**
-    - Earn money for each block you place.
+    - Earn gold coins for each block you place.
     - Receive experience for the scale and complexity of the builds you contribute to.
 
 ---
@@ -140,7 +140,7 @@ is perfect for those who enjoy exploring caves and uncovering hidden resources.
     - Mining ores like coal, iron, gold, diamond, and emerald
     - Excavating underground resources
 - **Rewards:**
-    - Earn money for every ore you mine.
+    - Earn gold coins for every ore you mine.
     - Receive experience and bonuses for finding rare ores like diamonds and emeralds.
 
 ---
@@ -149,13 +149,13 @@ is perfect for those who enjoy exploring caves and uncovering hidden resources.
 
 As a **Woodcutter**, your primary responsibility is to cut down trees and collect wood. This job allows you to help
 clear forests, provide timber for building, and support players in need of wood resources. The more trees you chop, the
-more money you earn.
+more gold coins you earn.
 
 - **Key Activities:**
     - Chopping down trees for wood
     - Collecting logs and saplings
 - **Rewards:**
-    - Earn money for every tree you chop.
+    - Earn gold coins for every tree you chop.
     - Receive experience for different types of wood and the quantity you gather.
 
 ---
@@ -170,7 +170,7 @@ swords, axes, and bows, and are an essential part of the server’s economy.
     - Crafting weapons like swords, axes, and bows
     - Refining weapons to improve their durability and strength
 - **Rewards:**
-    - Earn money for each weapon you craft.
+    - Earn gold coins for each weapon you craft.
     - Receive bonuses for crafting higher-tier weapons or enchanted items.
 
 ---
@@ -185,7 +185,7 @@ treasures from the sea, making this a rewarding job for anyone who enjoys the ca
     - Catching fish and other aquatic animals
     - Using a fishing rod or other tools to gather resources from the water
 - **Rewards:**
-    - Earn money for each fish caught.
+    - Earn gold coins for each fish caught.
     - Earn experience for catching rare fish and treasure items.
 
 ---
@@ -200,7 +200,7 @@ enjoy combining materials to make useful products.
     - Crafting tools, armor, blocks, and other items
     - Experimenting with recipes to create new items
 - **Rewards:**
-    - Earn money for each item you craft.
+    - Earn gold coins for each item you craft.
     - Receive experience for crafting unique or high-quality items.
 
 ---
@@ -215,7 +215,7 @@ structures, and secrets, this is the perfect job for you.
     - Exploring new areas, biomes, and structures
     - Discovering hidden treasures and landmarks
 - **Rewards:**
-    - Earn money for exploring new areas.
+    - Earn gold coins for exploring new areas.
     - Receive experience and bonuses for discovering rare or difficult-to-reach places.
 
 ---
@@ -224,14 +224,14 @@ structures, and secrets, this is the perfect job for you.
 
 The **Hunter** job involves tracking and defeating hostile mobs that spawn in the world. Whether it’s hunting for food
 or clearing areas of dangerous creatures, Hunters play an essential role in keeping the server safe and providing
-valuable resources. You’ll earn money and experience by killing mobs like zombies, skeletons, and other hostile
+valuable resources. You’ll earn gold coins and experience by killing mobs like zombies, skeletons, and other hostile
 creatures.
 
 - **Key Activities:**
     - Killing hostile mobs such as zombies, skeletons, and creepers
     - Hunting for materials like meat, bones, and string
 - **Rewards:**
-    - Earn money for each mob you kill.
+    - Earn gold coins for each mob you kill.
     - Receive experience for defeating rare or difficult mobs.
 
 ---
@@ -246,7 +246,7 @@ This job is perfect for those who enjoy intellectual pursuits and providing othe
     - Collecting and organizing knowledge, such as books and enchanting materials
     - Enchanting books and providing players with enchanted items
 - **Rewards:**
-    - Earn money for each book you organize or enchant.
+    - Earn gold coins for each book you organize or enchant.
     - Receive bonuses for enchanting rare or high-tier books.
 
 ---
@@ -254,14 +254,14 @@ This job is perfect for those who enjoy intellectual pursuits and providing othe
 ### Chef
 
 The **Chef** job is all about preparing food and cooking meals. As a Chef, you’ll craft food items to feed the server
-community and earn money for each dish you prepare. Whether you’re cooking simple meals or crafting more advanced
+community and earn gold coins for each dish you prepare. Whether you’re cooking simple meals or crafting more advanced
 gourmet dishes, this job allows you to contribute to the server’s well-being through food.
 
 - **Key Activities:**
     - Cooking and preparing meals for players
     - Gathering ingredients and experimenting with recipes
 - **Rewards:**
-    - Earn money for each food item you cook.
+    - Earn gold coins for each food item you cook.
     - Receive experience for cooking unique or high-quality dishes.
 
 ---
@@ -276,7 +276,7 @@ enjoys adding magic and power to their equipment.
     - Enchanting items like armor, weapons, and tools
     - Using enchanted books and materials to enhance items
 - **Rewards:**
-    - Earn money for each enchantment applied.
+    - Earn gold coins for each enchantment applied.
     - Receive experience for enchanting powerful or rare items.
 
 ---
@@ -291,7 +291,7 @@ great job for those who enjoy experimenting with brewing recipes.
     - Brewing potions for various effects (healing, strength, speed, etc.)
     - Experimenting with different brewing combinations
 - **Rewards:**
-    - Earn money for each potion you brew.
+    - Earn gold coins for each potion you brew.
     - Receive experience for brewing rare or potent potions.
 
 ---
@@ -306,5 +306,5 @@ Tool smiths help ensure the server’s economy keeps moving.
     - Crafting and refining tools like pickaxes, shovels, and axes
     - Repairing and upgrading tools to increase their durability
 - **Rewards:**
-    - Earn money for each tool you craft.
+    - Earn gold coins for each tool you craft.
     - Receive bonuses for creating rare or high-tier tools.
