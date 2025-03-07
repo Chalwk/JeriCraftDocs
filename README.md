@@ -22,7 +22,7 @@ guidelines and form templates.
 ## 🌍 Table of Contents
 
 1. 🛠 **[About The Server](docs/about-the-server/About.md)**
-2. 🚀 **[Getting Started](docs/guides/Getting Started)**
+2. 🚀 **[Getting Started](docs/guides/Getting%20Started)**
 3. ⚡ **[Ranks and Commands](docs/commands)**
    - **[Player Commands](docs/commands/PLAYER-COMMANDS.md)**
    - **[Staff Commands](docs/commands/STAFF-COMMANDS.md)**
@@ -30,12 +30,12 @@ guidelines and form templates.
 4. 🌟 **[Server Features](docs/features/features.md)**
 5. 📖 **[Guides](docs/guides)**
    - **[AuctionHouse](docs/guides/Auctions)**
-   - **[ChestShop](docs/guides/Chest Shop)**
+   - **[ChestShop](docs/guides/Chest%20Shop)**
    - **[Economy](docs/guides/Economy.md)**
    - **[Jobs](docs/guides/Jobs.md)**
-   - **[LevelledMobs](docs/guides/Levelled Mobs)**
+   - **[LevelledMobs](docs/guides/Levelled%20Mobs)**
    - **[mcMMO](docs/guides/mcMMO.md)**
-   - **[RealisticSeasons](docs/guides/Realistic Seasons)**
+   - **[RealisticSeasons](docs/guides/Realistic%20Seasons)**
    - **[Regions](docs/guides/Regions.md)**
 6. 💎 **[Perks / Webstore](/docs/webstore/store.md)**
 7. 📜 **[Community Rules](policies/Community-Rules.md)**
