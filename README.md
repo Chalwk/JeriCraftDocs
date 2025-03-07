@@ -1,8 +1,8 @@
 
-<p style="text-align: center;">
-# 📝 JeriCraft Documentation Repository 📝
+<div style="text-align: center;">
+  <h1>📝 JeriCraft Documentation Repository 📝</h1>
   <img src="/misc/assets/images/logos/jericraft_logo_1.png" alt="JeriCraft Logo" width="400" />
-</p>
+</div>
 
 🌟 **Welcome to the official JeriCraft Documentation Repository!** 🌟
 
