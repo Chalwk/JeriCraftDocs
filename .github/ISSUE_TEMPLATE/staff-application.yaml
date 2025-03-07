@@ -11,7 +11,7 @@ body:
       value: |
         # 🎮 JeriCraft Staff Application 🎮
 
-        Thank you for your interest in joining the **JeriCraft Staff Team**! This form is intended for individuals who wish to apply for a staff position on our **Halo** and/or **Minecraft** servers. Please take your time to provide detailed and accurate information.
+        Thank you for your interest in joining the **JeriCraft Staff Team**! This form is intended for individuals who wish to apply for a staff position on our **Minecraft** server. Please take your time to provide detailed and accurate information.
 
         **📌 Important Notes:**
         - Applications are reviewed as soon as possible. If selected, you will be contacted for further consideration.
@@ -33,9 +33,7 @@ body:
         - **Rules Familiarity**: Must read and agree to our [Community Rules](https://github.com/Chalwk/JeriCraftDocs/blob/main/policies/Community-Rules.md).
         - **Command Knowledge**: Familiarize yourself with:
           - [Minecraft Staff Commands](https://github.com/Chalwk/JeriCraftDocs/blob/main/MINECRAFT/commands/STAFF-COMMANDS.md)
-          - [Halo Staff Commands](https://github.com/Chalwk/JeriCraftDocs/blob/main/HALO/staff-commands.md)
           - [Minecraft Server Features](https://github.com/Chalwk/JeriCraftDocs/tree/main/MINECRAFT/features)
-          - [Halo Server Features](https://github.com/Chalwk/JeriCraftDocs/blob/main/HALO/ABOUT.md)
 
         **⚠️ Warning**: Do not apply if you do not meet these requirements. Your application will be denied.
 
@@ -68,23 +66,12 @@ body:
     validations:
       required: true
 
-  - type: checkboxes
-    id: game-selection
-    attributes:
-      label: Which game are you applying for? (Select all that apply)
-      description: Please select the game(s) you are interested in moderating.
-      options:
-        - label: Halo
-        - label: Minecraft
-    validations:
-      required: true
-
   - type: input
     id: usernames
     attributes:
-      label: 🎮 Minecraft, Halo, and Discord Usernames
-      description: Provide your usernames for Minecraft, Halo, and Discord.
-      placeholder: "e.g., Minecraft: Player1, Halo: Player2, Discord: Player3#1234"
+      label: 🎮 Minecraft, and Discord Usernames
+      description: Provide your usernames for Minecraft, and Discord.
+      placeholder: "e.g., Minecraft: Player1, Discord: Player3#1234"
     validations:
       required: true
 
@@ -118,7 +105,7 @@ body:
   - type: textarea
     id: account-access
     attributes:
-      label: 🔒 Does anyone else have access to your Minecraft, Halo, or Discord account?
+      label: 🔒 Does anyone else have access to your Minecraft or Discord account?
       description: This is important for security reasons. If yes, please explain. Otherwise, type 'No'.
       placeholder: "e.g., No, only I have access to my accounts."
     validations:
@@ -163,7 +150,7 @@ body:
   - type: textarea
     id: minecraft-ban
     attributes:
-      label: ⛔ Have you ever been banned on a Minecraft or Halo server?
+      label: ⛔ Have you ever been banned on a Minecraft server?
       description: If yes, please explain. Otherwise, type 'No'.
       placeholder: "e.g., No, I have never been banned."
     validations:

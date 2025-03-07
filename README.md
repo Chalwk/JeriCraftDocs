@@ -6,10 +6,11 @@
 
 🌟 **Welcome to the official JeriCraft Documentation Repository!** 🌟
 
-This repository serves as the central hub for comprehensive guides, manuals, and documentation for the **JeriCraft
-Minecraft** and **Halo: Combat Evolved** servers. Whether you're a new player or a seasoned community member, you'll
-find everything you need to enhance your JeriCraft experience, from server features and commands to community guidelines
-and form templates.
+This repository serves as the central hub for comprehensive guides, manuals, and documentation for the
+**JeriCraft Minecraft** server. Whether you're a new player or a seasoned community member, you'll find
+everything you need to enhance your JeriCraft experience, from server features and commands to community
+guidelines and form templates.
+
 
 ---
 
@@ -38,30 +39,6 @@ Explore detailed guides and resources for the JeriCraft Minecraft server:
     - **[RealisticSeasons](MINECRAFT/guides/RealisticSeasons.md)**
     - **[Regions](MINECRAFT/guides/Regions.md)**
 6. 💎 **[Perks / Webstore](/MINECRAFT/webstore/store.md)**
-
----
-
-## 🚀 Halo Documentation
-
-Dive into the world of JeriCraft's Halo: Combat Evolved servers:
-
-1. 📜 **[JeriCraft Halo Servers Overview](HALO/ABOUT.md)**
-2. 👑 **[Halo Server Admins](HALO/Admins.md)**
-3. ⚔️ **[Staff Commands](HALO/staff-commands.md)**
-4. 🌐 **[Server List](HALO/servers/)**
-    - **[Divide & Conquer](HALO/servers/Divide%20and%20Conquer.md)**
-    - **[Gun Game](HALO/servers/Gun%20Game.md)**
-    - **[Hunter Prey](HALO/servers/Hunter%20Prey.md)**
-    - **[Kill Confirmed](HALO/servers/Kill%20Confirmed.md)**
-    - **[Market](HALO/servers/Market.md)**
-    - **[Melee Brawl](HALO/servers/Melee%20Brawl.md)**
-    - **[One In The Chamber](HALO/servers/One%20In%20The%20Chamber.md)**
-    - **[Rooster CTF](HALO/servers/Rooster%20CTF.md)**
-    - **[Sabotage](HALO/servers/Sabotage.md)**
-    - **[Snipers Dream Team Mod](HALO/servers/Snipers%20Dream%20Team%20Mod.md)**
-    - **[Tag](HALO/servers/Tag.md)**
-    - **[Team Defender](HALO/servers/Team%20Defender.md)**
-    - **[Zombies](HALO/servers/Zombies.md)**
 
 ---
 

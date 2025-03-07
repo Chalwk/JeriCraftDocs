@@ -24,7 +24,7 @@ staff for review. However, bans tied to VPNs are rarely overturned.
 
 ## 🕹️ Common Rules (Apply to **All Platforms**) 💻
 
-The following rules apply to **Minecraft, Halo, and the JeriCraft Discord server**:
+The following rules apply to the JeriCraft Minecraft and Discord servers**:
 
 | Rule                                             | Description                                                                                                                                                   |
 |--------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -42,7 +42,6 @@ The following rules apply to **Minecraft, Halo, and the JeriCraft Discord server
 | **No Malicious Activities**                      | Do not distribute malware **or share harmful links on any platform**.                                                                                         |
 | **No Disrupting Server Performance**             | Avoid actions that cause performance issues, such as lag-inducing exploits.                                                                                   |
 | **No Game Mechanics Abuse**                      | Play as intended; avoid exploiting glitches **or misusing Discord bots/features**.                                                                            |
-| **No Team Killing (Halo)**                       | Do not intentionally kill teammates.                                                                                                                          |
 | **No NSFW Content**                              | Do not post explicit material, including text, images, or links.                                                                                              |
 | **Use Appropriate Discord Channels**             | Keep conversations relevant to channel purposes (e.g., no off-topic discussions in #minecraft).                                                               |
 | **Discord Voice Chat Etiquette**                 | Avoid loud noises, background music, or mic spam in voice channels.                                                                                           |
@@ -94,14 +93,14 @@ and are at the discretion of the issuing staff member.
 
 ### 🕒 **Tier 3: Minor Offenses - Up to 1-Week Ban**
 
-| Offense                           | Description                                                  |
-|-----------------------------------|--------------------------------------------------------------|
-| **Unwanted Communication**        | Sending unsolicited content or spamming irrelevant messages. |
-| **Inappropriate Roleplay (Halo)** | Engaging in roleplay with offensive themes.                  |
-| **Misuse of Slang**               | Using abusive slang in a way that could offend others.       |
-| **Inappropriate Conversations**   | Discussing inappropriate content on any platform.            |
-| **Off-Topic Discussions**         | Excessive off-topic messages or derailing conversations.     |
-| **Voice Chat Etiquette**          | Mic/voice channel misuse (e.g., accidental soundboard spam). |
+| Offense                         | Description                                                  |
+|---------------------------------|--------------------------------------------------------------|
+| **Unwanted Communication**      | Sending unsolicited content or spamming irrelevant messages. |
+| **Inappropriate Roleplay**      | Engaging in roleplay with offensive themes.                  |
+| **Misuse of Slang**             | Using abusive slang in a way that could offend others.       |
+| **Inappropriate Conversations** | Discussing inappropriate content on any platform.            |
+| **Off-Topic Discussions**       | Excessive off-topic messages or derailing conversations.     |
+| **Voice Chat Etiquette**        | Mic/voice channel misuse (e.g., accidental soundboard spam). |
 
 ---
 
@@ -114,9 +113,9 @@ Discord after a Minecraft ban may result in a Tier 2 penalty.
 
 ### 🔄 **Cross-Platform Offenses**
 
-- **Tier 1:** Using Discord to coordinate cheating across Minecraft/Halo servers.
+- **Tier 1:** Using Discord to coordinate cheating on our Minecraft server.
 - **Tier 2:** Evading a Minecraft ban by discussing the offense in Discord.
-- **Tier 3:** Minor rule-breaking in Discord after a prior Halo/Minecraft warning.
+- **Tier 3:** Minor rule-breaking in Discord after a prior warning on Minecraft.
 
 ---
 
