@@ -10,8 +10,8 @@ Want to make the most out of your time on **JeriCraft**? Sign up to the Discord 
 * 💬 **Access to All Public Discord Channels & Voice**: Join the conversation in all public channels and chat in voice!
 
 ### How to Link Your Minecraft Account to Discord:
-* In-game: Type `/discord link` in the Minecraft chat.
-* Send a PM: Send the code you get to @JeriCraft MC  via private message.
-* Once confirmed, you’ll automatically get your **Villager Rank** both in-game and on Discord! 🎉
+* **In-game**: Type `/discord link` in the Minecraft chat.
+* **Send a PM**: Send the code you get to @JeriCraft MC  via private message.
+* Once confirmed, you’ll automatically get your **Villager Rank** both **in-game** and **on Discord**! 🎉
 
 Sign up now and join the fun with your **Villager Rank** today!
