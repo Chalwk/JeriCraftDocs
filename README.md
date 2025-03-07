@@ -19,27 +19,30 @@ guidelines and form templates.
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-00AF54?style=for-the-badge&logo=curseforge)](jericraft.net)
 
-## 🌍 Minecraft Documentation
-
-Explore detailed guides and resources for the JeriCraft Minecraft server:
+## 🌍 Table of Contents
 
 1. 🛠 **[About The Server](docs/about-the-server/About.md)**
 2. 🚀 **[Getting Started](docs/guides/GettingStarted.md)**
 3. ⚡ **[Ranks and Commands](docs/commands)**
-    - **[Player Commands](docs/commands/PLAYER-COMMANDS.md)**
-    - **[Staff Commands](docs/commands/STAFF-COMMANDS.md)**
-    - **[Perk Commands](docs/commands/PERK-COMMANDS.md)**
+   - **[Player Commands](docs/commands/PLAYER-COMMANDS.md)**
+   - **[Staff Commands](docs/commands/STAFF-COMMANDS.md)**
+   - **[Perk Commands](docs/commands/PERK-COMMANDS.md)**
 4. 🌟 **[Server Features](docs/features/features.md)**
 5. 📖 **[Guides](docs/guides)**
-    - **[AuctionHouse](docs/guides/AuctionHouse.md)**
-    - **[ChestShop](docs/guides/ChestShop.md)**
-    - **[Economy](docs/guides/Economy.md)**
-    - **[Jobs](docs/guides/Jobs.md)**
-    - **[LevelledMobs](docs/guides/LevelledMobs.md)**
-    - **[mcMMO](docs/guides/mcMMO.md)**
-    - **[RealisticSeasons](docs/guides/RealisticSeasons.md)**
-    - **[Regions](docs/guides/Regions.md)**
+   - **[AuctionHouse](docs/guides/AuctionHouse.md)**
+   - **[ChestShop](docs/guides/ChestShop.md)**
+   - **[Economy](docs/guides/Economy.md)**
+   - **[Jobs](docs/guides/Jobs.md)**
+   - **[LevelledMobs](docs/guides/LevelledMobs.md)**
+   - **[mcMMO](docs/guides/mcMMO.md)**
+   - **[RealisticSeasons](docs/guides/RealisticSeasons.md)**
+   - **[Regions](docs/guides/Regions.md)**
 6. 💎 **[Perks / Webstore](/docs/webstore/store.md)**
+7. 📜 **[Community Rules](policies/Community-Rules.md)**
+8. 📝 **[Form Templates](#-form-templates)**
+9. 🤝 **[Contributing](CONTRIBUTING.md)**
+10. 📄 **[License](LICENCE.md)**
+
 
 ---
 
