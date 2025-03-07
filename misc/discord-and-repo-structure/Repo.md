@@ -1,12 +1,4 @@
-# Repository Overview
-
-### The JeriCraft GitHub repository is organized into various directories, each serving a specific purpose.
-#### Below is a detailed outline of the repository structure:
-
----
-
-```
-.
+```none
 │   .gitignore
 │   CONTRIBUTING.md
 │   LICENCE.md
@@ -15,15 +7,25 @@
 ├───.github
 │   │   FUNDING.yml
 │   │
-│   └───ISSUE_TEMPLATE
-│           ban-appeal.yaml
-│           bug-report.yaml
-│           builder-application.yaml
-│           complaints.yaml
-│           config.yml
-│           player-report.yaml
-│           server-suggestions.yaml
-│           staff-application.yaml
+│   ├───ISSUE_TEMPLATE
+│   │       ban-appeal.yaml
+│   │       bug-report.yaml
+│   │       builder-application.yaml
+│   │       complaints.yaml
+│   │       config.yml
+│   │       player-report.yaml
+│   │       server-suggestions.yaml
+│   │       staff-application.yaml
+│   │
+│   └───workflows
+├───.idea
+│       .gitignore
+│       discord.xml
+│       JeriCraftDocs.iml
+│       misc.xml
+│       modules.xml
+│       vcs.xml
+│       workspace.xml
 │
 ├───docs
 │   ├───about-the-server
@@ -43,7 +45,6 @@
 │   │       STAFF-COMMANDS.md
 │   │
 │   ├───features
-│   │       Chat Emojis.md
 │   │       features.md
 │   │
 │   ├───guides
@@ -59,14 +60,54 @@
 │   │
 │   ├───ideas
 │   │       CMI Ranks.yaml
-│   │       Kit Ideas.md
 │   │       Quest Ideas.md
+│   │       worth.yml
+│   │
+│   ├───images
+│   │   │   Alden Greenfield.png
+│   │   │   Astrid Ironheart.png
+│   │   │   Baldric Barrelhelm.png
+│   │   │   Bennick Ironfang.png
+│   │   │   Bowen Ashwood.png
+│   │   │   Cedric Angler.png
+│   │   │   Eadric Ironhoof.png
+│   │   │   Edumnd Honeywell.png
+│   │   │   Elysia Dawnpettle.png
+│   │   │   Felix Everquill.png
+│   │   │   Kaela Bloodforge.png
+│   │   │   Thalric Weavershield.png
+│   │   │   Thorne Oakbark.png
+│   │   │   Velora Nightshade.png
+│   │   │
+│   │   └───ADVERTISING
+│   │           2025-03-06_21.29.11.png
+│   │           2025-03-06_21.29.26.png
+│   │           2025-03-06_21.29.53.png
+│   │           2025-03-06_21.31.05.png
+│   │           2025-03-06_21.55.57.png
+│   │           2025-03-06_22.00.46.png
+│   │           2025-03-06_22.25.46.png
+│   │           2025-03-06_22.28.44.png
+│   │           2025-03-06_22.37.21.png
+│   │           2025-03-06_22.44.15.png
+│   │           2025-03-07_13.20.33.png
+│   │           2025-03-07_13.22.03.png
+│   │
+│   ├───misc
+│   │       announcements.yml
+│   │       Leatherworker.md
+│   │       Minecraft Enchantment Book Price Table.md
 │   │
 │   └───webstore
 │           store.md
 │
 ├───misc
 │   │   MARKDOWN TUTORIAL.md
+│   │   old_perms.yml
+│   │
+│   ├───assets
+│   │       jericraft_discord_avatar.png
+│   │       jericraft_logo.png
 │   │
 │   └───discord-and-repo-structure
 │           Discord.md
@@ -76,5 +117,4 @@
         Community-Rules.md
         MC-Staff-Guidelines.md
         STAFF.md
-
 ```
