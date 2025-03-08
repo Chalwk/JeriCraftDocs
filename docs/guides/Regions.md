@@ -2,8 +2,8 @@
 
 ### 🎯 Introduction
 
-Welcome to the JeriCraft Region Management tutorial! 📚 Protecting your builds and managing access to specific areas is
-essential for a seamless and enjoyable experience on our server. 💻 In this guide, we will cover the necessary commands
+Welcome to the JeriCraft Region Management tutorial! Protecting your builds and managing access to specific areas is
+essential for a seamless and enjoyable experience on our server. In this guide, we will cover the necessary commands
 to help you effectively manage your regions, collaborate with others, and make the most out of your protected areas.
 
 ---
@@ -28,10 +28,10 @@ to help you effectively manage your regions, collaborate with others, and make t
 To create a region, you must first define its corners.
 
 1. **Stand at one corner** of the area you want to protect.
-2. **Use the command**: `//pos1`  
+2. **Use the command**: `//p1`
    This marks the first corner of your region.
 3. **Move to the opposite corner** of your desired region.
-4. **Use the command**: `//pos2`  
+4. **Use the command**: `//p2`
    This marks the second corner of your region and establishes the boundaries.
 
 Once you've defined the two corners, the area between them will be the protected region.
@@ -121,7 +121,7 @@ This will display a list of all regions you have claimed.
 
 You can manage who has access to your region by adding and removing members or owners.
 
-- **Add a member**: `/rg addmember <rg name> <player>`  
+- **Add a member**: `/rg addmember <rg name> <player>`
   This adds the specified player to your region.
 
 - **Remove a member**: `/rg removemember <rg name> <player>`  
@@ -142,11 +142,11 @@ region, such as preventing mob spawning or enabling PvP.
 
 Syntax: `/rg flag <rg name> <flag> <value>`
 
-- **[flag]**: The specific setting you want to change (e.g., `mob-spawning`, `pvp`).
+- **[flag]**: The specific setting you want to change (e.g., `use`, `pvp`).
 - **[value]**: The value you want to assign to the flag (e.g., `deny`, `allow`).
 
-Example: `/rg flag myregion mob-spawning deny`  
-This command will **prevent mobs from spawning** in the "myregion" area. 🚫
+Example: `/rg flag myregion use deny`  
+This command will **prevent players from using blocks** within the region named `myregion`.
 
 For a full list of available region flags, check out
 the [Region Flags section](/docs/features/features.md#worldguard) in the main documentation.
