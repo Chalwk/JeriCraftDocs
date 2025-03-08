@@ -69,37 +69,44 @@ This will expand your region **upwards** by 10 blocks.
 
 ## 🌟 Max Claim Volume and Region Limits
 
-To ensure a fair and balanced experience for all players, JeriCraft has specific limitations on the number of blocks and regions you can claim.
+To ensure a fair and balanced experience for all players, JeriCraft has specific limitations on the number of blocks and
+regions you can claim.
 
 ### **Max Claim Volume per Region**:
-Each individual region you claim can have a maximum volume of **25,000 blocks**. This means each region can be up to 25,000 blocks in size, but you can claim multiple regions as long as they don't exceed the limit.
+
+Each individual region you claim can have a maximum volume of **25,000 blocks**. This means each region can be up to
+25,000 blocks in size, but you can claim multiple regions as long as they don't exceed the limit.
 
 ### **Max Regions per Player**:
-Each player can own up to **3 regions**. This means you can claim multiple areas, but you will be limited to a maximum of 5 separate regions. This ensures that everyone has a fair opportunity to claim space while preventing excessive land ownership by a single player.
 
-These limits help maintain a balanced gameplay environment and make sure there's plenty of space for everyone to build and explore!
+Each player can own up to **3 regions**. This means you can claim multiple areas, but you will be limited to a maximum
+of 5 separate regions. This ensures that everyone has a fair opportunity to claim space while preventing excessive land
+ownership by a single player.
+
+These limits help maintain a balanced gameplay environment and make sure there's plenty of space for everyone to build
+and explore!
 
 ---
 
 ### Region Dimensions and Volume:
 
 Regions on JeriCraft are cuboid-shaped, meaning they have six rectangular faces. Here are a few examples of possible
-dimensions for a region with a total volume of **1,000,000 blocks**:
+dimensions for a region with a total volume of **25,000 blocks** (the new maximum claim volume):
 
 | **Region Dimensions** | **Description**           |
 |-----------------------|---------------------------|
-| **1000 x 1000 x 1**   | A thin, flat region.      |
-| **100 x 100 x 100**   | A perfectly cubic region. |
-| **500 x 500 x 4**     | A large, shallow region.  |
-| **1000 x 500 x 2**    | A large, flat region.     |
-| **200 x 200 x 25**    | A tall, thin region.      |
-| **100 x 100 x 1000**  | A very tall, thin region. |
+| **250 x 100 x 1**     | A thin, flat region.      |
+| **50 x 50 x 10**      | A perfectly cubic region. |
+| **100 x 100 x 2.5**   | A shallow, flat region.   |
+| **250 x 100 x 1**     | A large, flat region.     |
+| **100 x 50 x 5**      | A tall, thin region.      |
+| **50 x 50 x 10**      | A very tall, thin region. |
 
-Feel free to choose any dimensions within this volume limit to create your region as you see fit! The flexibility allows
-for different shapes and structures based on your needs.
-
-For help determining the best dimensions for your region, or if you have any questions, feel free to reach out to our
-staff or community for assistance.
+Because each individual region you claim can have a maximum volume of **25,000 blocks**, you can still claim multiple
+regions, as long as their combined volume doesn’t exceed the limit. Feel free to choose any dimensions within this
+volume limit to create your region as you see fit! The flexibility allows for different shapes and structures based on
+your needs. For help determining the best dimensions for your region, or if you have any questions, feel free to reach
+out to our staff or community for assistance.
 
 ---
 
