@@ -66,6 +66,12 @@
 
 ---
 
+### ⚒ Thalric Weavershield (Leatherworker)
+**Warp**: `/warp leatherworker`  
+<img src="/misc/assets/images/NPC%20SHOPS/12.png" width="500">
+
+---
+
 ### 🖋 Felix Everquill (Scribe)
 **Warp**: `/warp scribe`  
 <img src="/misc/assets/images/NPC%20SHOPS/13.png" width="500">
@@ -78,8 +84,8 @@
 
 ---
 
-### ⚒ Thalric Weavershield (Leatherworker)
-**Warp**: `/warp leatherworker`  
-<img src="/misc/assets/images/NPC%20SHOPS/12.png" width="500">
+### 🌾 Bartholomew Woolwrigh (General Store)
+**Warp**: `/warp generalstore`
+<img src="/misc/assets/images/NPC%20SHOPS/15.png" width="500">
 
 ---
