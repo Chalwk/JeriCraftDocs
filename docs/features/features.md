@@ -234,22 +234,49 @@ For more details, consult our [Region Management Guide](../guides/Regions.md).
 
 #### Items:
 
-| Item            | Quantity | Enchantments | Offhand |
-|-----------------|----------|--------------|---------|
-| Iron Helmet     | 1        | None         | -       |
-| Iron Chestplate | 1        | None         | -       |
-| Iron Leggings   | 1        | None         | -       |
-| Iron Boots      | 1        | None         | -       |
-| Stone Sword     | 1        | None         | -       |
-| Stone Pickaxe   | 1        | None         | -       |
-| Stone Shovel    | 1        | None         | -       |
-| Stone Axe       | 1        | None         | -       |
-| Shield          | 1        | None         | YES     |
-| Spruce Boat     | 1        | None         | -       |
-| Red Bed         | 1        | None         | -       |
-| Torches         | 4        | None         | -       |
-| Cooked Mutton   | 8        | None         | -       |
-| Cooked Chicken  | 4        | None         | -       |
+| Item                 | Quantity | Enchantments | Offhand |
+|----------------------|----------|--------------|---------|
+| Chainmail Helmet     | 1        | None         | -       |
+| Chainmail Chestplate | 1        | None         | -       |
+| Chainmail Leggings   | 1        | None         | -       |
+| Chainmail Boots      | 1        | None         | -       |
+| Stone Sword          | 1        | None         | -       |
+| Stone Pickaxe        | 1        | None         | -       |
+| Stone Shovel         | 1        | None         | -       |
+| Stone Axe            | 1        | None         | -       |
+| Shield               | 1        | None         | YES     |
+| Spruce Boat          | 1        | None         | -       |
+| Red Bed              | 1        | None         | -       |
+| Torches              | 4        | None         | -       |
+| Cooked Mutton        | 8        | None         | -       |
+| Cooked Chicken       | 4        | None         | -       |
+
+# 🏡 Villager Kit (Discord-linked)
+
+**Description:** A trusted member of the community, skilled in trade and craftsmanship.
+Equipped with sturdy tools, basic protection, and some merchant goods.  
+**Delay:** 24 hours (86400 seconds)
+
+## 🎒 Items:
+
+| Item               | Quantity | Enchantments | Offhand |
+|--------------------|----------|--------------|---------|
+| Chainmail Helmet   | 1        | Unbreaking I | -       |
+| Iron Chestplate    | 1        | None         | -       |
+| Chainmail Leggings | 1        | Unbreaking I | -       |
+| Iron Boots         | 1        | None         | -       |
+| Iron Sword         | 1        | Unbreaking I | -       |
+| Iron Pickaxe       | 1        | Efficiency I | -       |
+| Iron Axe           | 1        | Efficiency I | -       |
+| Iron Shovel        | 1        | None         | -       |
+| Shield             | 1        | None         | YES     |
+| Torch              | 16       | None         | -       |
+| Cooked Porkchop    | 12       | None         | -       |
+| Bread              | 12       | None         | -       |
+| Emerald            | 6        | None         | -       |
+| Spruce Boat        | 1        | None         | -       |
+| Crafting Table     | 1        | None         | -       |
+| Anvil              | 1        | None         | -       |
 
 ### 📜 Squire (donor kit)
 
