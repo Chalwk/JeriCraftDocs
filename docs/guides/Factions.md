@@ -74,11 +74,11 @@ claim land, build power, and raid enemy territories.
 > A kingdom must have strong communication among its warriors. Use **faction chat** to strategize, plan attacks, and
 > share your vision.
 
-| **Action**       | **Command** | **Description**                            |
-|------------------|-------------|--------------------------------------------|
-| **Faction chat** | `/f chat`   | Speak privately in your kingdom’s council. |
+| **Action**       | **Command**                                   | **Description**                            |
+|------------------|-----------------------------------------------|--------------------------------------------|
+| **Faction chat** | `/f chat <alliance/faction/mod/public/truce>` | Send a message to a specific chat channel. |
 
-> Stay connected with your knights and advisors to ensure the prosperity of your realm.
+> Stay connected with your knights and advisors to **coordinate strategies** and **plan attacks**.
 
 ---
 
