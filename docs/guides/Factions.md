@@ -4,6 +4,7 @@ Welcome to the **JeriCraft Factions System**! This guide will help you understan
 claim land, build power, and raid enemy territories.
 
 ## 📜 Table of Contents
+
 1. [Kingdom Management](#-kingdom-management)
 2. [Claiming Land](#-claiming-land)
 3. [Membership & Ranks](#-membership--ranks)
