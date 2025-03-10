@@ -30,6 +30,7 @@ claim land, build power, and raid enemy territories.
 | **Action**                  | **Command**                 | **Description**                                                              |
 |-----------------------------|-----------------------------|------------------------------------------------------------------------------|
 | **Create a faction**        | `/f create <name>`          | Establish your own kingdom and take the throne as its ruler.                 |
+| **Faction Description**     | `/f desc <description>`     | Set a short description for your kingdom.                                    |
 | **Rename your faction**     | `/f tag <name>`             | Change your kingdom’s official banner (name).                                |
 | **View faction details**    | `/f show`                   | Display a full overview of your kingdom, including members, power, and land. |
 | **Inspect another faction** | `/f who <name>`             | Gather intelligence on another faction, including its members and power.     |
