@@ -294,6 +294,25 @@ A kingdom is built on wealth! The **JeriCraft** economy offers various ways for 
     - Certain mobs (e.g., hostile mobs) are prevented from spawning in safe zones and war zones.
 - Use portals and spawning rules to your advantage when defending or raiding.
 
+## ⚔️ **Enemy Faction Territory - Denied Commands** ⚔️
+
+> When you enter the claimed territory of an enemy faction, certain commands will be disabled to
+> maintain the integrity and balance of the game. These commands are restricted to prevent
+> players from easily escaping, teleporting, or getting an unfair advantage while in enemy territory.
+
+### 🚫 **Denied Commands:**
+
+- **/spawn** – Teleport to spawn (disabled in enemy territory)
+- **/tpa** – Send teleport requests to others
+- **/sethome** – Set a home location (disabled in enemy territory)
+- **/tpahere** – Teleport someone to your location
+- **/tpaccept** – Accept a teleport request
+- **/home** – Teleport to your home location
+
+> These restrictions are in place to enhance the challenge and ensure that players cannot easily
+> escape or bypass the territorial control of enemy factions.
+> Stay alert, strategize carefully, and prepare for battle when venturing into enemy lands!
+
 ---
 
 ## 📊 Scoreboard and UI
