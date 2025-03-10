@@ -3,6 +3,21 @@
 Welcome to the **JeriCraft Factions System**! This guide will help you understand how to create and manage your faction,
 claim land, build power, and raid enemy territories.
 
+## 📜 Table of Contents
+1. [Kingdom Management](#-kingdom-management)
+2. [Claiming Land](#-claiming-land)
+3. [Membership & Ranks](#-membership--ranks)
+4. [Communication](#-communication)
+5. [Additional Help](#-additional-help)
+6. [Power System](#-power-system)
+7. [Raiding & Warfare](#-raiding--warfare)
+8. [Faction Relations and Limits](#-faction-relations-and-limits)
+9. [Faction Commands Reference](#-faction-commands-reference)
+10. [Tips for Survival](#-tips-for-survival)
+11. [Faction Colors and Relations](#-faction-colors-and-relations)
+12. [Economy and Faction Banks](#-economy-and-faction-banks)
+13. [Faction Bank Commands](#-faction-bank-commands)
+
 ---
 
 ## 📜 Kingdom Management
