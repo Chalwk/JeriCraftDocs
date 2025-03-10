@@ -222,7 +222,7 @@ If you ever need guidance, use these commands to **learn more about faction mech
 - Use the faction bank to pool resources and fund expansions.
 - Be mindful of the costs associated with managing your faction.
 
-A kingdom is built on wealth! The **JeriCraft** economy offers various ways for players to earn and spend money.
+A kingdom is built on wealth! The **JeriCraft** economy offers various ways for players to earn and spend money:
 
 ### 1. Jobs:
 
@@ -243,7 +243,7 @@ A kingdom is built on wealth! The **JeriCraft** economy offers various ways for 
 > Your faction also has its own bank where you can pool resources and fund land claims, repairs,
 > and other faction-related costs.
 
-- ### 💰 Faction Bank Commands
+## 💰 Faction Bank Commands
 
 | **Command**                                        | **Description**                                                              |
 |----------------------------------------------------|------------------------------------------------------------------------------|
