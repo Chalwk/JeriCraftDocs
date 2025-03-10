@@ -117,14 +117,14 @@ If you ever need guidance, use these commands to **learn more about faction mech
 
 > Power determines how much land your faction can **claim** and **defend**.
 
-- **Starting Power:** `0`
-- **Maximum Power per Player:** `500`
-- **Minimum Power per Player:** `-10`
-- **Power Loss Per Death:** `2`
+- **Starting Power:** `5`
+- **Max Faction Power:** `1000`
+- **Max Power per Player:** `250`
+- **Min Power per Player:** `-10`
+- **Power Loss Per Death:** `3.5`
+- **Power Freeze Duration:** `45 seconds` (freeze power gain for 45 seconds after death)
 - **Power Regeneration Rate:** `0.2 per minute` (takes 5 minutes to regain 1 power)
-- **Offline Power Loss:** `-1 per day`
-- **Offline Power Regeneration:** ❌ *Disabled*
-- **Max Faction Power:** Unlimited (0 means no cap, extra power acts as a buffer)
+- **Offline Power Loss:** `-0.4 per day`
 
 > You gain power over time while online, but **death and inactivity** will reduce it!
 > Your factions **Power** is the total sum of your members' **power levels** (not mcMMO power level).
