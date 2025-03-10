@@ -14,11 +14,11 @@ claim land, build power, and raid enemy territories.
 5. [Economy and Faction Banks](#-economy-and-faction-banks)
 6. [Player Commands](#-player-commands)
 7. [Admin Commands](#-admin-commands)
-8. [Power System](#-power-system)
-9. [Raiding & Warfare](#-raiding--warfare)
-10. [Faction Relations and Limits](#-faction-relations-and-limits)
-11. [Protection and PvP](#-protection-and-pvp)
-12. [Advanced Features](#-advanced-features)
+8. [Base Cost to Claim Land](#-base-cost-to-claim-land)
+9. [Power System](#-power-system)
+10. [Raiding & Warfare](#-raiding--warfare)
+11. [Faction Relations and Limits](#-faction-relations-and-limits)
+12. [Protection and PvP](#-protection-and-pvp)
 
 ---
 
@@ -170,37 +170,31 @@ These commands are reserved for server administrators to manage factions and gam
 
 ---
 
-### **Base Cost to Claim Land**
+### 🏠 Base Cost to Claim Land
 
-Each chunk of land requires **power** to maintain, and your **faction’s total power** determines how much land can be
-claimed.
+Each chunk of land requires **[power](#-power-system)** to maintain, and your **faction’s total power** determines how
+much land can be claimed. The base cost to claim land is $30 and increases with each additional claim. Each new claim
+costs **50%** the previous claim's cost. This multiplier makes it progressively more expensive to expand your faction's
+territory.
 
-- **Faction Power** = Sum of all members' power.
-- **Death Reduces Power** → Losing power limits land claims.
-- **Recruit More Members** → Strengthen your kingdom and expand!
-
-#### **Claim Cost Scaling**
+#### Claim Cost Scaling
 
 | Claim # | Cost Formula        |      Cost |
 |---------|---------------------|----------:|
-| 1st     | Base Cost           |        30 |
-| 2nd     | Previous Cost × 0.5 |        45 |
-| 3rd     | Previous Cost × 0.5 |        60 |
-| 4th     | Previous Cost × 0.5 |        75 |
-| 5th     | Previous Cost × 0.5 |        90 |
-| 6th     | Previous Cost × 0.5 |       105 |
+| 1st     | Base Cost           |       $30 |
+| 2nd     | Previous Cost × 0.5 |       $45 |
+| 3rd     | Previous Cost × 0.5 |       $60 |
+| 4th     | Previous Cost × 0.5 |       $75 |
+| 5th     | Previous Cost × 0.5 |       $90 |
+| 6th     | Previous Cost × 0.5 |      $105 |
 | ...     | ...                 |       ... |
 | etc.    | Previous Cost × 0.5 | Continues |
-
-⚠️ **Cost increases by 50% per additional claim!**
-The cost to claim land increases with each additional claim. Each new claim costs **50%** the previous claim's cost.
-This multiplier makes it progressively more expensive to expand your faction's territory.
 
 ---
 
 ## ⚡ Power System
 
-Power determines how much land your faction can **claim** and **defend**.
+Power determines how much land your faction can **claim** and **defend**. Recruit members to **strengthen your kingdom**
 
 - **Max Faction Power:** `1000` (limits the total power a faction can have)
 - **Max Power per Player:** `250` (limits the maximum power a single player can have)
@@ -209,6 +203,7 @@ Power determines how much land your faction can **claim** and **defend**.
 - **Offline Power Loss:** `-0.4 per day` (how much power is lost while a player is offline each day)
 - **Power Regeneration Rate:** `0.2 per minute` (how quickly power regenerates over time)
 - **Power Freeze Duration:** `45 seconds` (how long power gain is frozen after death)
+- **Faction Power:** The total power of your faction is the sum of all members' power.
 
 ---
 
