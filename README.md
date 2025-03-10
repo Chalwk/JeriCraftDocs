@@ -33,6 +33,7 @@ guidelines and form templates.
    - **[Chest Shop](docs/guides/Chest%20Shop.md)**
    - **[Discord](docs/guides/Discord.md)**
    - **[Economy](docs/guides/Economy.md)**
+   - **[Factions](docs/guides/Factions.md)**
    - **[Jobs](docs/guides/Jobs.md)**
    - **[Levelled Mobs](docs/guides/Levelled%20Mobs.md)**
    - **[mcMMO](docs/guides/mcMMO.md)**
