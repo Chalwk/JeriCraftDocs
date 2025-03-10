@@ -37,6 +37,8 @@ claim land, build power, and raid enemy territories.
 | **List all factions**       | `/f list`                   | Discover all known kingdoms that roam these lands.                           |
 | **Disband your faction**    | `/f disband`                | Dissolve your kingdom, scattering its people and relinquishing its lands.    |
 | **Home Management**         | `/f sethome/delhome <name>` | Set or remove your home location (a safe haven for your kingdom).            |
+| **Warping Management**      | `/f setwarp/delwarp <name>` | Set or remove a warp point for quick travel.                                 |
+| **View Faction Warps**      | `/f warps`                  | List all warp points set by your kingdom.                                    |
 
 > Once created, you become the **leader** of your faction, wielding the power to **expand your domain**,
 > **recruit allies**, and **command your kingdom’s fate**. You can **manage your faction’s land, power, and members** to
@@ -180,25 +182,6 @@ If you ever need guidance, use these commands to **learn more about faction mech
 - **Truces for Peace:** Use truces to temporarily avoid conflict with other factions while focusing on other goals.
 - **Neutral Stance:** Staying neutral with most factions can help you avoid unnecessary conflicts and focus on building
   your power.
-
----
-
-## 🏰 Faction Commands Reference
-
-| Command              | Description                                 |
-|----------------------|---------------------------------------------|
-| `/f create <name>`   | Create a faction                            |
-| `/f invite <player>` | Invite a player to your faction             |
-| `/f join <faction>`  | Join a faction                              |
-| `/f leave`           | Leave your current faction                  |
-| `/f disband`         | Disband your faction (leader only)          |
-| `/f claim`           | Claim land for your faction                 |
-| `/f unclaim`         | Unclaim the current land chunk              |
-| `/f unclaimall`      | Unclaim all faction land                    |
-| `/f power`           | View your power stats                       |
-| `/f map`             | See the land claimed by factions around you |
-| `/f top`             | View the top factions by power              |
-| `/f seechunks`       | See claimed chunks (colorized particles)    |
 
 ---
 
