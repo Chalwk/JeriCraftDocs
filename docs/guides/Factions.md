@@ -236,5 +236,3 @@ Factions can form alliances, truces, or enmity with other factions. Manage your 
 - **Wilderness:** No protections; players can build and PvP freely.
 
 ---
-
-🛡️ **Defend your kingdom, forge alliances, and become the most powerful faction in JeriCraft!** 🏆
