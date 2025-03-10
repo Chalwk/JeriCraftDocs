@@ -66,6 +66,17 @@ claim land, build power, and raid enemy territories.
 - If a member dies, their power decreases, reducing your faction’s ability to claim land.
 - Keep your kingdom strong by **recruiting more members** and **avoiding unnecessary deaths** in battle!
 
+### **Base Cost to Claim Land**
+
+- **Claim Cost**: 30
+    - The base cost to claim a chunk of land is set to **30**.
+- The cost to claim land increases with each additional claim within your faction's territory.
+    - **How It Works**:
+        - The first claim costs the base amount (30).
+        - The second claim will cost **30 * 1.5 = 45**.
+        - The third claim will cost **45 * 1.5 = 67.5**.
+        - The cost will continue to increase by 50% with each new claim.
+
 ---
 
 ## 🏹 Membership & Ranks
