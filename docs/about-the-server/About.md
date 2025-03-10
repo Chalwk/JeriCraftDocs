@@ -15,8 +15,7 @@ every player can shape their legend in a dynamic, ever-evolving realm.
 * 🏹 **mcMMO Skills** – Level up your combat and crafting skills to become a legendary hero.
 * 🌦️ **Realistic Seasons** – Feast in the warmth of summer, survive the harsh bite of winter.
 * 🐉 **Levelled Mobs & Beast Hunts** – Face corrupted knights, nether-born horrors, and other abominations.
-* 🏰 **Factions (Nations, Politics & Warfare)** – Establish nations, claim lands, engage in warfare or diplomacy, and
-  even write your laws.
+* 🏰 **Factions** – Establish nations, claim lands, engage in warfare or diplomacy, and even write laws.
 * 🏪 **NPC Merchants** – Trade with 15 NPC shopkeepers in our bustling marketplace.
 * 🌐 **Discord Integration** – Stay connected with the community through our Discord server.
 
