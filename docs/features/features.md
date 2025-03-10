@@ -1,14 +1,8 @@
 # Server Features Overview
 
-Welcome to the **JeriCraft Server Features** guide! Our server is packed with a variety of
-**popular and custom plugins** designed to elevate your Minecraft experience.
-Below, you’ll find a curated list of the **core features** that make
-our server unique, along with detailed descriptions and links to guides for further exploration.
-
----
-
 ### 📑 Table of Contents
 
+- [**Factions**](#factions)
 - [**Jobs Reborn**](#jobs-reborn)
     - [Full List of Jobs Available on Our Server](#full-list-of-jobs-available-on-our-server)
     - [Jobs Boost](#job-boosters)
@@ -48,6 +42,15 @@ our server unique, along with detailed descriptions and links to guides for furt
         - [Miscellaneous](#miscellaneous)
 
 ---
+
+## [Factions](https://factions.support/)
+
+**Factions** is a powerful system that allows players to create and manage kingdoms, alliances, and factions within
+the game. Factions serve as the backbone of any great empire, allowing players to forge alliances, build power, and
+carve their legacy into the lands of JeriCraft. Please see our guide for more details:
+
+📖 Guide: [Factions Guide](../guides/Factions.md)
+🔗 Project Page: [FactionsUUID](https://factions.support/)
 
 ---
 
