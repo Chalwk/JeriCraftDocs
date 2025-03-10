@@ -183,7 +183,7 @@ If you ever need guidance, use these commands to **learn more about faction mech
 - **Keep your power high!** Avoid dying and stay online to regenerate power.
 - **Don’t overclaim!** If your land exceeds your power, your faction can be raided.
 - **Strategic alliances** can help protect your land from powerful enemies.
-- **Set faction homes** (`/f sethome`) to quickly regroup with your allies.
+- **Set faction homes** (`/sethome <location>`, `/home <location>`) to quickly regroup with your allies.
 
 ---
 
