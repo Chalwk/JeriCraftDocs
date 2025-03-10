@@ -7,24 +7,20 @@ every player can shape their legend in a dynamic, ever-evolving realm.
 
 ## 🔑 Key Features:
 
-* ⚔️ **Survival & PvP/PvE** – Brave the wilds, fortify your homestead, or wage war against rival factions.
-* 💰 **Player-Driven Economy** – Earn money through Jobs, Chest Shops, Auctions, and trading.
-* 💼 **Guild Trades & Professions** – Choose from 22 different jobs, including Miner, Hunter, Weaponsmith, and more with
-  Jobs.
-* 📜 **Daily Quests** – Take on Job Quests to earn gold and experience points daily.
-* 🏹 **mcMMO Skills** – Level up your combat and crafting skills to become a legendary hero.
-* 🌦️ **Realistic Seasons** – Feast in the warmth of summer, survive the harsh bite of winter.
-* 🐉 **Levelled Mobs & Beast Hunts** – Face corrupted knights, nether-born horrors, and other abominations.
-* 🏰 **Factions** – Establish nations, claim lands, engage in warfare or diplomacy, and even write laws.
-* 🏪 **NPC Merchants** – Trade with 15 NPC shopkeepers in our bustling marketplace.
-* 🌐 **Discord Integration** – Stay connected with the community through our Discord server.
-
-### 📜 What Awaits Thee?
-
-* Rich lore and immersive medieval atmosphere
-* Frequent events, quests, and seasonal updates
-* Community-driven projects and player-owned shops
-* Friendly players and a Discord community
+| Feature                             | Description                                                                                                                                        |
+|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| ⚔️ **Survival & Strategic Warfare** | Forge your legacy in untamed wilderness, defend fortified strongholds, or engage in epic PvP/PvE battles. Every choice shapes your survival story. |
+| 🏰 **Factions**                     | Claim territory, draft laws, and lead alliances. Wage wars or broker peace—your faction’s destiny is yours to carve.                               |
+| 💰 **Player-Driven Economy**        | Thrive in a bustling marketplace: barter at player-run Chest Shops, bid in auctions, or profit from daily Job quests.                              |
+| 🔨 **22 Specialized Professions**   | Master roles like weaponsmith, miner or hunter, each with unique progression paths and rewards.                                                    |
+| 📜 **Quests**                       | Complete rotating quests for rare loot, bonus XP, and escalating rewards that keep every day fresh.                                                |
+| 🎯 **mcMMO**                        | Level combat and crafting skills to unlock devastating abilities—become a whispered legend across realms.                                          |
+| 🌦️ **Seasons**                     | Adapt to punishing winters and lush summers where weather alters crop growth, mob behavior, and resource scarcity.                                 |
+| 🐉 **Evolving World Threats**       | Face corrupted knights, nether-born horrors, and other abominations.                                                                               |
+| 🏪 **NPC Merchants**                | Trade with 15+ AI merchants offering rare goods, fluctuating prices, and faction-specific deals.                                                   |
+| 🌐 **Discord-Synced Community**     | Chat cross-platform, claim in-game rewards via Discord roles, and receive real-time war alerts.                                                    |
+| 😊 **Friendly Community**           | Join a supportive and welcoming community of players from all walks of life.                                                                       |
+| And so much more!                   |
 
 ### 📜 Scroll of Entry: JERICRAFT.NET (1.21.4)
 
