@@ -128,34 +128,39 @@ If you ever need guidance, use these commands to **learn more about faction mech
 
 ## 🤝 Faction Relations and Limits
 
-> Factions can form different types of relationships with other factions, such as alliances, 
+> Factions can form different types of relationships with other factions, such as alliances,
 > truces, or enmity. However, there are limits to how many of each type of relationship a faction can have.
 
 ### Types of Relations
+
 - **Ally:** A friendly relationship. Allies can help each other in battles and share resources.
 - **Enemy:** A hostile relationship. Enemies can attack and raid each other.
 - **Neutral:** A default relationship. Neutral factions are neither friendly nor hostile.
 - **Truce:** A temporary peace agreement. Truces prevent PvP between factions.
 
 ### Limits on Relations
+
 - **Maximum Allies:** `5`
-  - Your faction can form alliances with up to 5 other factions.
+    - Your faction can form alliances with up to 5 other factions.
 - **Maximum Enemies:** `10`
-  - Your faction can declare up to 10 other factions as enemies.
+    - Your faction can declare up to 10 other factions as enemies.
 - **Maximum Truces:** `5`
-  - Your faction can have up to 5 truces with other factions.
+    - Your faction can have up to 5 truces with other factions.
 - **Neutral Relations:** Unlimited
-  - There is no limit to the number of factions your faction can remain neutral with.
+    - There is no limit to the number of factions your faction can remain neutral with.
 
 ### Default Relation
+
 - The default relationship between factions is **Neutral**.
-  - This ensures that factions can always revert to a neutral stance if needed.
+    - This ensures that factions can always revert to a neutral stance if needed.
 
 ### Important:
+
 - **Strategic Alliances:** Form alliances with strong factions to protect your territory and gain support in battles.
 - **Manage Enemies:** Be cautious when declaring enemies, as you can only have up to 10 at a time.
 - **Truces for Peace:** Use truces to temporarily avoid conflict with other factions while focusing on other goals.
-- **Neutral Stance:** Staying neutral with most factions can help you avoid unnecessary conflicts and focus on building your power.
+- **Neutral Stance:** Staying neutral with most factions can help you avoid unnecessary conflicts and focus on building
+  your power.
 
 ---
 
@@ -216,6 +221,33 @@ If you ever need guidance, use these commands to **learn more about faction mech
     - **Claim Land:** `$30` per chunk
 - Use the faction bank to pool resources and fund expansions.
 - Be mindful of the costs associated with managing your faction.
+
+> A kingdom is built on wealth! The **JeriCraft** economy offers various ways for players to earn and spend money.
+
+- **Jobs**: Players can earn money by taking on different jobs within the server. Jobs such as miner, builder,
+  fisherman, and more let you accumulate wealth through your activities.
+- **Chest Shops**: Players can buy and sell items using their own player-run shops. Set up a chest shop, and others can
+  purchase your goods!
+- **NPC Shops**: Players can also buy items directly from NPC-run shops, which are available throughout the kingdom.
+- **Faction Banks**: Your faction also has its own bank where you can pool resources and fund land claims, repairs, and
+  other faction-related costs.
+
+- ### 💰 Faction Bank Commands
+
+| **Command**                                        | **Description**                                                              |
+|----------------------------------------------------|------------------------------------------------------------------------------|
+| **/f money**                                       | View the faction's current bank balance.                                     |
+| **/f money balance**                               | See the available funds in the faction bank.                                 |
+| **/f money deposit <amount> [faction]**            | Deposit a specific amount of money into the faction's bank.                  |
+| **/f money ff <amount> <factionfrom> <factionto>** | Transfer money between two factions (from one faction to another).           |
+| **/f money fp <amount> <factionfrom> <playerto>**  | Transfer money from a faction to a player.                                   |
+| **/f money pf <amount> <playerfrom> <factionto>**  | Transfer money from a player to a faction.                                   |
+| **/f money withdraw <amount> [faction]**           | Withdraw a specified amount of money from the faction's bank.                |
+| **/f money modify <amount> <faction>**             | Modify the faction's bank balance manually (for admins or authorized users). |
+
+> Use these commands to manage your faction’s finances, transfer funds between factions, and ensure your kingdom's
+> financial health is maintained! Manage your faction’s finances wisely, as **money** can play a huge role in
+> both *expanding your territory** and **funding your military endeavors**!
 
 ---
 
