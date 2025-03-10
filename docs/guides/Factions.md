@@ -119,7 +119,7 @@ If you ever need guidance, use these commands to **learn more about faction mech
 - **Starting Power:** `0`
 - **Maximum Power per Player:** `500`
 - **Minimum Power per Player:** `-10`
-- **Power Loss Per Death:** `1`
+- **Power Loss Per Death:** `2`
 - **Power Regeneration Rate:** `0.2 per minute` (takes 5 minutes to regain 1 power)
 - **Offline Power Loss:** `-1 per day`
 - **Offline Power Regeneration:** ❌ *Disabled*
