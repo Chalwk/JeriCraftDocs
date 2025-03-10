@@ -149,7 +149,7 @@ These commands are available to all players for managing their faction and gamep
 
 ## 🔧 Admin Commands
 
-> These commands are reserved for server administrators to manage factions and gameplay mechanics.
+These commands are reserved for server administrators to manage factions and gameplay mechanics.
 
 | **Command**                                      | **Description**                                                         |
 |--------------------------------------------------|-------------------------------------------------------------------------|
@@ -200,7 +200,7 @@ This multiplier makes it progressively more expensive to expand your faction's t
 
 ## ⚡ Power System
 
-> Power determines how much land your faction can **claim** and **defend**.
+Power determines how much land your faction can **claim** and **defend**.
 
 - **Max Faction Power:** `1000` (limits the total power a faction can have)
 - **Max Power per Player:** `250` (limits the maximum power a single player can have)
@@ -214,7 +214,7 @@ This multiplier makes it progressively more expensive to expand your faction's t
 
 ## ⚔️ Raiding & Warfare
 
-> If your faction’s **claimed land exceeds its power**, **your land becomes vulnerable to raids**!
+If your faction’s **claimed land exceeds its power**, **your land becomes vulnerable to raids**!
 
 - **Raidability:** ✅ *Enabled* (Allows factions to be raided)
 - **Raid Triggers:** If a faction’s land is **greater than or equal to** their power.
@@ -225,7 +225,7 @@ This multiplier makes it progressively more expensive to expand your faction's t
 
 ## 🤝 Faction Relations and Limits
 
-> Factions can form alliances, truces, or enmity with other factions. Manage your relationships wisely!
+Factions can form alliances, truces, or enmity with other factions. Manage your relationships wisely!
 
 - **Maximum Enemies:** `10`
 - **Maximum Allies:** `5`
