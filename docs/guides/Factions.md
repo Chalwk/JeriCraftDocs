@@ -46,17 +46,14 @@ carve your legacy into the lands of JeriCraft.
 
 A kingdom thrives on its people! Recruit allies, build a loyal court, and manage your ranks wisely.
 
-| **Command**                                | **Description**                                                            |
-|--------------------------------------------|----------------------------------------------------------------------------|
-| `/f join <faction>`                        | Swear fealty to a faction and become its subject.                          |
-| `/f leave`                                 | Renounce your oath and walk your own path.                                 |
-| `/f chat <mode>`                           | Switch between faction, alliance, or public chat modes.                    |
-| `/f togglealliancechat`                    | Toggle alliance chat on or off.                                            |
-| `/f home`                                  | Teleport to your faction’s home location.                                  |
-| `/f warp [name] [password]`                | Teleport to a faction warp point. Optional password for restricted access. |
-| `/f warpother <faction> [name] [password]` | Teleport another faction to a warp point.                                  |
-| `/f fly`                                   | Toggle flight mode in your faction’s territory (if enabled).               |
-| `/f vault [number]`                        | Access your faction’s vault (if enabled).                                  |
+| **Command**                 | **Description**                                                            |
+|-----------------------------|----------------------------------------------------------------------------|
+| `/f join <faction>`         | Swear fealty to a faction and become its subject.                          |
+| `/f leave`                  | Renounce your oath and walk your own path.                                 |
+| `/f chat <mode>`            | Switch between faction, alliance, or public chat modes.                    |
+| `/f togglealliancechat`     | Toggle alliance chat on or off.                                            |
+| `/f home`                   | Teleport to your faction’s home location.                                  |
+| `/f warp [name] [password]` | Teleport to a faction warp point. Optional password for restricted access. |
 
 ---
 
@@ -169,6 +166,7 @@ These commands are available to all players for managing their faction and gamep
 | `/f saveall`                                     | Force save all factions data to disk.                                   |
 | `/f setmaxvaults <faction> <number>`             | Set the max vaults a faction can have.                                  |
 | `/f version`                                     | Show the version string for FactionsUUID.                               |
+| `/f warpother <faction> [name] [password]`       | Teleport another faction to a warp point.                               |
 
 ---
 
