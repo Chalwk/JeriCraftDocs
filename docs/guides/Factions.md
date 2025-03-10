@@ -31,11 +31,13 @@ claim land, build power, and raid enemy territories.
 > A kingdom is nothing without its territory! Factions must **claim land** to establish castles, villages, and
 > fortifications.
 
-| **Action**           | **Command**     | **Description**                                    |
-|----------------------|-----------------|----------------------------------------------------|
-| **Claim land**       | `/f claim`      | Seize control of a chunk of land for your kingdom. |
-| **Unclaim land**     | `/f unclaim`    | Relinquish a previously claimed territory.         |
-| **Unclaim all land** | `/f unclaimall` | Release all faction-owned land at once.            |
+| **Action**           | **Command**      | **Description**                                                    |
+|----------------------|------------------|--------------------------------------------------------------------|
+| **Claim land**       | `/f claim`       | Seize control of a chunk of land for your kingdom.                 |
+| **Unclaim land**     | `/f unclaim`     | Relinquish a previously claimed territory.                         |
+| **Unclaim all land** | `/f unclaimall`  | Release all faction-owned land at once.                            |
+| **Fill claim**       | `/f fillclaim`   | Automatically claim up to `25` chunks within a `5`-chunk radius.   |
+| **Fill unclaim**     | `/f fillunclaim` | Automatically unclaim up to `25` chunks within a `5`-chunk radius. |
 
 > Each chunk of land requires **power** to maintain, and you can only claim as much land as your
 **faction’s total power allows**.
@@ -124,6 +126,39 @@ If you ever need guidance, use these commands to **learn more about faction mech
 
 ---
 
+## 🤝 Faction Relations and Limits
+
+> Factions can form different types of relationships with other factions, such as alliances, 
+> truces, or enmity. However, there are limits to how many of each type of relationship a faction can have.
+
+### Types of Relations
+- **Ally:** A friendly relationship. Allies can help each other in battles and share resources.
+- **Enemy:** A hostile relationship. Enemies can attack and raid each other.
+- **Neutral:** A default relationship. Neutral factions are neither friendly nor hostile.
+- **Truce:** A temporary peace agreement. Truces prevent PvP between factions.
+
+### Limits on Relations
+- **Maximum Allies:** `5`
+  - Your faction can form alliances with up to 5 other factions.
+- **Maximum Enemies:** `10`
+  - Your faction can declare up to 10 other factions as enemies.
+- **Maximum Truces:** `5`
+  - Your faction can have up to 5 truces with other factions.
+- **Neutral Relations:** Unlimited
+  - There is no limit to the number of factions your faction can remain neutral with.
+
+### Default Relation
+- The default relationship between factions is **Neutral**.
+  - This ensures that factions can always revert to a neutral stance if needed.
+
+### Important:
+- **Strategic Alliances:** Form alliances with strong factions to protect your territory and gain support in battles.
+- **Manage Enemies:** Be cautious when declaring enemies, as you can only have up to 10 at a time.
+- **Truces for Peace:** Use truces to temporarily avoid conflict with other factions while focusing on other goals.
+- **Neutral Stance:** Staying neutral with most factions can help you avoid unnecessary conflicts and focus on building your power.
+
+---
+
 ## 🏰 Faction Commands Reference
 
 | Command              | Description                                 |
@@ -139,6 +174,7 @@ If you ever need guidance, use these commands to **learn more about faction mech
 | `/f power`           | View your power stats                       |
 | `/f map`             | See the land claimed by factions around you |
 | `/f top`             | View the top factions by power              |
+| `/f seechunks`       | See claimed chunks (colorized particles)    |
 
 ---
 
@@ -178,8 +214,6 @@ If you ever need guidance, use these commands to **learn more about faction mech
 - **Costs:**
     - **Create a Faction:** `$100`
     - **Claim Land:** `$30` per chunk
-    - **~~Set Home~~:** `$30`
-    - **~~Set Warp~~:** `$0` (free)
 - Use the faction bank to pool resources and fund expansions.
 - Be mindful of the costs associated with managing your faction.
 
