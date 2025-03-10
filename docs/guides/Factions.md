@@ -14,10 +14,10 @@ claim land, build power, and raid enemy territories.
 7. [Raiding & Warfare](#-raiding--warfare)
 8. [Faction Relations and Limits](#-faction-relations-and-limits)
 9. [Faction Commands Reference](#-faction-commands-reference)
-10. [Tips for Survival](#-tips-for-survival)
-11. [Faction Colors and Relations](#-faction-colors-and-relations)
-12. [Economy and Faction Banks](#-economy-and-faction-banks)
-13. [Faction Bank Commands](#-faction-bank-commands)
+10. [Faction Colors and Relations](#-faction-colors-and-relations)
+11. [Economy and Faction Banks](#-economy-and-faction-banks)
+12. [Faction Bank Commands](#-faction-bank-commands)
+13. [Protection and PvP](#-protection-and-pvp)
 
 ---
 
@@ -27,14 +27,15 @@ claim land, build power, and raid enemy territories.
 > your legacy into the lands of JeriCraft. A faction serves as your **kingdom**, a gathering of warriors, builders, and
 > rulers under one banner.
 
-| **Action**                  | **Command**        | **Description**                                                              |
-|-----------------------------|--------------------|------------------------------------------------------------------------------|
-| **Create a faction**        | `/f create <name>` | Establish your own kingdom and take the throne as its ruler.                 |
-| **Rename your faction**     | `/f tag <name>`    | Change your kingdom’s official banner (name).                                |
-| **View faction details**    | `/f show`          | Display a full overview of your kingdom, including members, power, and land. |
-| **Inspect another faction** | `/f who <name>`    | Gather intelligence on another faction, including its members and power.     |
-| **List all factions**       | `/f list`          | Discover all known kingdoms that roam these lands.                           |
-| **Disband your faction**    | `/f disband`       | Dissolve your kingdom, scattering its people and relinquishing its lands.    |
+| **Action**                  | **Command**                 | **Description**                                                              |
+|-----------------------------|-----------------------------|------------------------------------------------------------------------------|
+| **Create a faction**        | `/f create <name>`          | Establish your own kingdom and take the throne as its ruler.                 |
+| **Rename your faction**     | `/f tag <name>`             | Change your kingdom’s official banner (name).                                |
+| **View faction details**    | `/f show`                   | Display a full overview of your kingdom, including members, power, and land. |
+| **Inspect another faction** | `/f who <name>`             | Gather intelligence on another faction, including its members and power.     |
+| **List all factions**       | `/f list`                   | Discover all known kingdoms that roam these lands.                           |
+| **Disband your faction**    | `/f disband`                | Dissolve your kingdom, scattering its people and relinquishing its lands.    |
+| **Home Management**         | `/f sethome/delhome <name>` | Set or remove your home location (a safe haven for your kingdom).            |
 
 > Once created, you become the **leader** of your faction, wielding the power to **expand your domain**,
 > **recruit allies**, and **command your kingdom’s fate**. You can **manage your faction’s land, power, and members** to
@@ -199,15 +200,6 @@ If you ever need guidance, use these commands to **learn more about faction mech
 
 ---
 
-## ⚠️ Tips for Survival
-
-- **Keep your power high!** Avoid dying and stay online to regenerate power.
-- **Don’t overclaim!** If your land exceeds your power, your faction can be raided.
-- **Strategic alliances** can help protect your land from powerful enemies.
-- **Set faction homes** (`/sethome <location>`, `/home <location>`) to quickly regroup with your allies.
-
----
-
 ## 🎨 Faction Colors and Relations
 
 - **Faction Colors:**
@@ -290,23 +282,6 @@ A kingdom is built on wealth! The **JeriCraft** economy offers various ways for 
     - No protections; players can build and PvP freely.
 - Safe zones are ideal for new players or trading.
 - War zones are high-risk areas for PvP and raiding.
-
----
-
-## 🏠 Faction Homes and Warps
-
-- **Faction Homes:**
-    - Enabled
-    - Must be set in claimed territory.
-    - Players can teleport to the faction home using `/f home`.
-- **Warps:**
-    - Maximum of `5` warps per faction.
-    - Warps can be set using `/f setwarp`.
-
-**What Players Need to Know:**
-
-- Set a faction home (`/f sethome`) to regroup quickly with allies.
-- Use warps to create strategic locations for your faction.
 
 ---
 
