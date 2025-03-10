@@ -305,10 +305,10 @@ A kingdom is built on wealth! The **JeriCraft** economy offers various ways for 
 
 - **/spawn** – Teleport to spawn (disabled in enemy territory)
 - **/tpa** – Send teleport requests to others
-- **/sethome** – Set a home location (disabled in enemy territory)
+- **/f sethome** – Set a home location (disabled in enemy territory)
 - **/tpahere** – Teleport someone to your location
 - **/tpaccept** – Accept a teleport request
-- **/home** – Teleport to your home location
+- **/f home** – Teleport to your home location
 
 > These restrictions are in place to enhance the challenge and ensure that players cannot easily
 > escape or bypass the territorial control of enemy factions.
