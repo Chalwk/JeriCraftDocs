@@ -222,15 +222,26 @@ If you ever need guidance, use these commands to **learn more about faction mech
 - Use the faction bank to pool resources and fund expansions.
 - Be mindful of the costs associated with managing your faction.
 
-> A kingdom is built on wealth! The **JeriCraft** economy offers various ways for players to earn and spend money.
+A kingdom is built on wealth! The **JeriCraft** economy offers various ways for players to earn and spend money.
 
-- **Jobs**: Players can earn money by taking on different jobs within the server. Jobs such as miner, builder,
-  fisherman, and more let you accumulate wealth through your activities.
-- **Chest Shops**: Players can buy and sell items using their own player-run shops. Set up a chest shop, and others can
-  purchase your goods!
-- **NPC Shops**: Players can also buy items directly from NPC-run shops, which are available throughout the kingdom.
-- **Faction Banks**: Your faction also has its own bank where you can pool resources and fund land claims, repairs, and
-  other faction-related costs.
+### 1. Jobs:
+
+> Players can earn money by taking on different jobs within the server. Jobs such as miner, builder, fisherman, and more
+> let you accumulate wealth through your activities.
+
+### 2. Chest Shops:
+
+> Players can buy and sell items using their own player-run shops. Set up a chest shop,
+> and others can purchase your goods!
+
+### 3. NPC Shops:
+
+> Players can also buy items directly from NPC-run shops, which are available throughout the kingdom.
+
+### 4. Faction Banks:
+
+> Your faction also has its own bank where you can pool resources and fund land claims, repairs,
+> and other faction-related costs.
 
 - ### 💰 Faction Bank Commands
 
