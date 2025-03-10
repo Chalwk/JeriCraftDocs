@@ -6,16 +6,13 @@ and make the most of the available commands, shops, and features.
 
 ---
 
-## **Earning Money**
+## Earning Money
 
 There are several ways to accumulate wealth within the JeriCraft economy:
 
 - **Jobs**:  
   Join a job and perform various tasks to earn money and experience.  
   To learn more about jobs, refer to our detailed [Jobs Guide](/docs/guides/Jobs.md).
-
-- **Participating in Events**:  
-  Join server-wide events for a chance to earn money.
 
 - **Creating Shops**:  
   Set up your own shop using the ChestShop plugin to sell items to other players.  
@@ -38,9 +35,15 @@ There are several ways to accumulate wealth within the JeriCraft economy:
       experience.
     - **3-Month Sovereign’s Reward**: Grants $5000, a Golden Apple, and 500 levels of experience.
 
+- **Auctions**:  
+  Buy and sell items through auctions (see more details in the Auctions section below).
+
+- **Participating in Events**:  
+  Join server-wide events for a chance to earn money.
+
 ---
 
-## **Auctions**
+## Auctions
 
 Buy and sell items through the Auctions using the `/ah` command. The following commands will help you list items,
 place bids, or buy directly:
@@ -53,22 +56,26 @@ place bids, or buy directly:
 
 ---
 
-## **Creating a Shop with ChestShop**
+## Creating a Shop with ChestShop
 
 To create your own shop using ChestShop, refer to our detailed [ChestShop Tutorial](/docs/guides/Chest%20Shop.md).
 This guide provides step-by-step instructions on setting up and customizing your shop.
 
 ---
 
-## **Checking Your Balance and Paying Others**
+## Checking Your Balance and Paying Others
 
 Track and manage your money easily:
 
-| **Command**                     | **Description**                                                   |
-|---------------------------------|-------------------------------------------------------------------|
-| `/bal`                          | Check your current balance.                                       |
-| `/pay <player> <amount>`        | Pay other players a specified amount of money.                    |
-| `/baltop`                       | View the top rankings of the wealthiest players on the server.    |
+| **Command**              | **Description**                                                |
+|--------------------------|----------------------------------------------------------------|
+| `/bal`                   | Check your current balance.                                    |
+| `/pay <player> <amount>` | Pay other players a specified amount of money.                 |
+| `/baltop`                | View the top rankings of the wealthiest players on the server. |
+
+## Factions Economy Commands
+
+For Factions related economy commands, refer to our [Factions Guide](/docs/guides/Factions.md).
 
 ---
 
