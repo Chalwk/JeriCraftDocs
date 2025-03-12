@@ -133,19 +133,20 @@ A kingdom is built on wealth! Manage your faction’s finances to fund expansion
 
 These commands are available to all players for managing their faction and gameplay experience.
 
-| **Command**                | **Description**                                                             |
-|----------------------------|-----------------------------------------------------------------------------|
-| `/f map [on/off]`          | View the faction map of the area around you.                                |
-| `/f coords`                | Send faction members your current position.                                 |
-| `/f near`                  | Show nearby faction members.                                                |
-| `/f status`                | Show status of all players in your faction.                                 |
-| `/f top <criteria> [page]` | List top factions by criteria (members, start, power, land, online, money). |
-| `/f stuck`                 | Attempt to teleport to the nearest wilderness chunk.                        |
-| `/f sb`                    | Toggle the factions scoreboard on or off.                                   |
-| `/f boom [on/off]`         | Toggle peaceful explosions in your faction's territory.                     |
-| `/f sc`                    | See outlines around the border of the chunk you're standing in.             |
-| `/f ownerlist`             | Get the current owner of the chunk you're in if it's in your faction.       |
-| `/f mapheight [value]`     | Set how many lines your `/f map` will show.                                 |
+| **Command**                | **Description**                                                                          |
+|----------------------------|------------------------------------------------------------------------------------------|
+| `/f map [on/off]`          | View the faction map of the area around you.                                             |
+| `/f coords`                | Send faction members your current position.                                              |
+| `/f near`                  | Show nearby faction members.                                                             |
+| `/f status`                | Show status of all players in your faction.                                              |
+| `/f top <criteria> [page]` | List top factions by criteria (members, start, power, land, online, money).              |
+| `/f stuck`                 | Attempt to teleport to the nearest wilderness chunk.                                     |
+| `/f sb`                    | Toggle the factions scoreboard on or off.                                                |
+| `/f boom [on/off]`         | Toggle peaceful explosions in your faction's territory.                                  |
+| `/f sc`                    | See outlines around the border of the chunk you're standing in.                          |
+| `/f ownerlist`             | Get the current owner of the chunk you're in if it's in your faction.                    |
+| `/f mapheight [value]`     | Set how many lines your `/f map` will show.                                              |
+| `/f seechunk`              | See the chunk you're in (represented with particles): Green = Claimed, Gray = Unclaimed. |
 
 ---
 
@@ -199,7 +200,7 @@ territory.
 Power determines how much land your faction can **claim** and **defend**. Recruit members to **strengthen your kingdom**
 
 - **Max Faction Power:** `1000` (limits the total power a faction can have)
-- **Max Power per Player:** `250` (limits the maximum power a single player can have)
+- **Max Power per Player:** `100` (limits the maximum power a single player can have)
 - **Starting Power:** `5` (determines the initial power each player starts with)
 - **Power Loss Per Death:** `3.5` (how much power a player loses when they die)
 - **Offline Power Loss:** `-0.4 per day` (how much power is lost while a player is offline each day)
