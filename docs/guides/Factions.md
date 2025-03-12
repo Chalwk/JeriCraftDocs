@@ -16,9 +16,10 @@ claim land, build power, and raid enemy territories.
 7. [Admin Commands](#-admin-commands)
 8. [Base Cost to Claim Land](#-base-cost-to-claim-land)
 9. [Power System](#-power-system)
-10. [Raiding & Warfare](#-raiding--warfare)
-11. [Faction Relations and Limits](#-faction-relations-and-limits)
-12. [Protection and PvP](#-protection-and-pvp)
+10. [Power Limits & Gains](#-power-limits--gains)
+11. [Power Loss & Raidability](#-power-loss--raidability)
+12. [Faction Relations and Limits](#-faction-relations-and-limits)
+13. [Miscellaneous](#-miscellaneous)
 
 ---
 
