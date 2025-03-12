@@ -197,27 +197,57 @@ territory.
 
 ## ⚡ Power System
 
-Power determines how much land your faction can **claim** and **defend**. Recruit members to **strengthen your kingdom**
-
-- **Max Faction Power:** `1000` (limits the total power a faction can have)
-- **Max Power per Player:** `100` (limits the maximum power a single player can have)
-- **Starting Power:** `5` (determines the initial power each player starts with)
-- **Power Loss Per Death:** `3.5` (how much power a player loses when they die)
-- **Offline Power Loss:** `-0.4 per day` (how much power is lost while a player is offline each day)
-- **Power Regeneration Rate:** `0.2 per minute` (how quickly power regenerates over time)
-- **Power Freeze Duration:** `45 seconds` (how long power gain is frozen after death)
-- **Faction Power:** The total power of your faction is the sum of all members' power.
+Power determines how much land your faction can **claim** and **defend**. Recruit members to **strengthen your kingdom**.
 
 ---
 
-## ⚔️ Raiding & Warfare
+## 🔥 Power Limits & Gains
 
-If your faction’s **claimed land exceeds its power**, **your land becomes vulnerable to raids**!
+- **Max Faction Power:** `1000` → The total power a faction can have.
+- **Max Power per Player:** `100` → The maximum power a single player can have.
+- **Min Power per Player:** `-20` → Prevents rapid recovery after multiple deaths.
+- **Starting Power:** `5` → The initial power each player starts with.
+- **Power Regeneration Rate:** `0.2 per minute` → How quickly power regenerates over time.
+- **Power Freeze Duration:** `45 seconds` → The time power gain is frozen after death.
 
-- **Raidability:** ✅ *Enabled* (Allows factions to be raided)
-- **Raid Triggers:** If a faction’s land is **greater than or equal to** their power.
-- **WarZone & Wilderness Power Loss:** ✅ *Enabled* (You lose power when dying in warzones and wilderness.)
-- **Power Stealing on Kill:** `50%` (Attackers gain half of the power lost by the victim.)
+---
+
+## 💀 Power Loss & Raidability
+
+- **Power Loss Per Death:** `5` → How much power a player loses when they die.
+- **Offline Power Loss:** `-0.4 per day` → How much power is lost daily while offline.
+- **Offline Power Loss Limit:** `5` → The lowest power a player can reach due to inactivity.
+- **Players Can Leave While Negative Power:** ✅ `true`
+- **Raidability Enabled:** ✅ `true` → Factions can be raided if their land exceeds their power.
+- **Raidable at Land >= Power:** ❌ `false` → Requires land to be greater than power for raidability.
+
+---
+
+## ⚔️ Power & PvP Mechanics
+
+### ⚡ Power Transfer & Stealing
+- **Vampirism (Power Stealing):** `0.5` → Killers receive 50% of the power lost by their target.
+
+### ⚔ War Zones
+- PvP is always enabled.
+- **WarZone Power Loss:** ✅ `true` → Players lose power when dying in war zones.
+
+### 🏰 Safe Zones
+- No PvP or building allowed.
+
+### 🌲 Wilderness
+- **Wilderness Power Loss:** ✅ `true` → Players lose power when dying in the wilderness.
+- **Wilderness:** No protections; players can build and PvP freely.
+
+### ☮️ Peaceful Factions
+- **Peaceful Members Power Loss:** ❌ `false` → Peaceful faction members do not lose power.
+
+---
+
+## 🌍 Miscellaneous
+
+- **Power Regenerates While Offline:** ❌ `false`
+- **Respawn Home from No Power Loss Worlds:** ✅ `true`
 
 ---
 
@@ -229,13 +259,5 @@ Factions can form alliances, truces, or enmity with other factions. Manage your 
 - **Maximum Allies:** `5`
 - **Maximum Truces:** `5`
 - **Neutral Relations:** Unlimited
-
----
-
-## 🛡️ Protection and PvP
-
-- **Safe Zones:** No PvP or building allowed.
-- **War Zones:** PvP is always enabled.
-- **Wilderness:** No protections; players can build and PvP freely.
 
 ---
