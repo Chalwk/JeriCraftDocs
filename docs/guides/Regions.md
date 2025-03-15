@@ -1,4 +1,6 @@
-# 🏗️ JeriCraft Region Management Commands
+## This Guide is no longer in use. See the [Factions Guide](/docs/guides/Factions.md)
+
+---
 
 ### 🎯 Introduction
 
