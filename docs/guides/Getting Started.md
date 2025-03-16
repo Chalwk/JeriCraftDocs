@@ -19,24 +19,24 @@ You can join **JeriCraft** by connecting to `jericraft.net` on **Minecraft Java 
 
 To enhance your gameplay experience, here are some essential commands to get you started:
 
-| **Category**        | **Command**                           | **Description**                                                     |
-|---------------------|---------------------------------------|---------------------------------------------------------------------|
-| **Teleportation**   | `/rt` or `/rtp`                       | Teleports you to a random location in the wild.                     |
-|                     | `/sethome`                            | Sets your current location as your home.                            |
-|                     | `/home`                               | Returns you to your set home location.                              |
-|                     | `/homes`                              | Lists all your homes.                                               |
-|                     | `/spawn`                              | Teleports you to the server spawn hub (castle).                     |
-| **Kits and Jobs**   | `/kit`                                | View available kits and their contents.                             |
-|                     | `/kit <name>`                         | Redeem a specific kit.                                              |
-|                     | `/jobs`                               | Manage your RPG jobs and roles.                                     |
-|                     | `/mcmmo`                              | View and manage your RPG skills and stats.                          |
-| **Land Protection** | `/pos1` → `/pos2`                     | Mark the corners of a region for claiming.                          |
-|                     | `/rg claim <region name>`             | Claim a region for yourself.                                        |
-|                     | `/rg flag <region name> pvp deny`     | Prevent PvP in your claimed region.                                 |
-|                     | `/rg addmember <region name> @Player` | Add a player to your region.                                        |
-|                     | `/rg flag <region name> shop allow`   | Allow chest shops in your region.                                   |
-| **Miscellaneous**   | `/warp`                               | Teleport to key locations on the server.                            |
-|                     | `/msg [player] [message]`             | Send a private message to another player.                           |
+| **Category**        | **Command**                               | **Description**                                 |
+|---------------------|-------------------------------------------|-------------------------------------------------|
+| **Teleportation**   | `/rt` or `/rtp`                           | Teleports you to a random location in the wild. |
+|                     | ~~`/sethome`~~                            | Sets your current location as your home.        |
+|                     | ~~`/home`~~                               | Returns you to your set home location.          |
+|                     | ~~`/homes`~~                              | Lists all your homes.                           |
+|                     | `/spawn`                                  | Teleports you to the server spawn hub (castle). |
+| **Kits and Jobs**   | `/kit`                                    | View available kits and their contents.         |
+|                     | `/kit <name>`                             | Redeem a specific kit.                          |
+|                     | `/jobs`                                   | Manage your RPG jobs and roles.                 |
+|                     | `/mcmmo`                                  | View and manage your RPG skills and stats.      |
+| **Land Protection** | ~~`/pos1` → `/pos2`~~                     | Mark the corners of a region for claiming.      |
+|                     | ~~`/rg claim <region name>`~~             | Claim a region for yourself.                    |
+|                     | ~~`/rg flag <region name> pvp deny`~~     | Prevent PvP in your claimed region.             |
+|                     | ~~`/rg addmember <region name> @Player`~~ | Add a player to your region.                    |
+|                     | ~~`/rg flag <region name> shop allow`~~   | Allow chest shops in your region.               |
+| **Miscellaneous**   | `/warp`                                   | Teleport to key locations on the server.        |
+|                     | `/msg [player] [message]`                 | Send a private message to another player.       |
 
 ---
 
