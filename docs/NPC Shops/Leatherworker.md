@@ -1,5 +1,7 @@
 # Thalric Weavershield's Leatherworker Shop
 
+# THIS NPC IS GOING TO BE DELETED
+
 **Warp**: `/warp leatherworker`
 
 | Item Name                        | Buy Price |
