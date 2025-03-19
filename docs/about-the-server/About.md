@@ -62,26 +62,15 @@ supportive community, balanced gameplay, and new features added regularly to kee
 
 ---
 
-## 🎁 Perks
-
-Discover all the fantastic perks available on the JeriCraft server by browsing
-our [Perks Guide](https://jericraft-shop.tebex.io/).
-
----
-
-## 👥 Player Ranks and Commands 👥
+## 👥 Commands 👥
 
 - 👨‍💼 **Player Commands**:
   > Discover the commands available to players on the JeriCraft server by visiting
-  our [**Player Commands Guide**](/docs/commands/PLAYER-COMMANDS.md).
+  our [**Player Commands Page**](/docs/commands/PLAYER-COMMANDS.md).
 
 - 👨‍💼 **Staff Commands**:
   > Explore the commands available to staff members on the JeriCraft server by visiting
-  our [**Staff Commands Guide**](/docs/commands/STAFF-COMMANDS.md).
-
-- 🌟 **Perk Commands**:
-  > Learn about the commands associated with JeriCraft's perks by visiting
-  our [**Perk Commands Guide**](/docs/commands/PLAYER-COMMANDS.md).
+  our [**Staff Commands Page**](/docs/commands/STAFF-COMMANDS.md).
 
 ## 📝 Applications 📝
 
