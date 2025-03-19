@@ -1,4 +1,4 @@
-# JeriCraft Web
+# JeriCraft Webstore
 
 Instead of traditional donation packages, we offer individual perks that can be obtained separately. Your donation rank
 is determined by the total amount you've donated since your first contribution. Every donation helps us keep the server
