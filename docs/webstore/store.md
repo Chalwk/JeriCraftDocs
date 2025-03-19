@@ -25,11 +25,13 @@ perk is abused.
 
 ---
 
-## Terms and Conditions
+## Terms and Conditions:
+
+**All prices are in USD (United States Dollars).**
 
 ### 1. Refund Policy:
 
-- We have a strict **no-refund policy**. A full refund will only be provided if you do not receive your perk(s).
+- We have a strict **no-refund** policy. A full refund will only be provided if you do not receive your perk(s).
 - If you are banned from the server, you will **not** be eligible for a refund, as you accepted the rules upon donating.
 - No refunds will be issued if the server ceases operation, provided that an official announcement has been made on the
   JeriCraft community Discord regarding its closure.
@@ -37,8 +39,8 @@ perk is abused.
 
 ### 2. Perk Misuse:
 
-- Misuse of perk(s) is **strictly prohibited**.
-- The server Owner/Admin reserves the right to revoke your perk(s) at any time if misuse is suspected.
+- Misuse of perk(s) is strictly prohibited. The server Owner/Admin reserves the right to revoke your perk(s) at any time
+  if misuse is suspected.
 
 ### 3. Donation Accumulation:
 
@@ -46,32 +48,28 @@ perk is abused.
 
 ### 4. Agreement to Terms:
 
-- By donating, you agree to these **Terms and Conditions**, regardless of whether you have read them.
-- No refunds will be granted for any reason.
-- You must accept the **JeriCraft Web Store Terms and Conditions** before proceeding with your donation.
+- By donating, you agree to these Terms and Conditions, regardless of whether you have read them. No refunds will be
+  granted for any reason.
+- You must accept the JeriCraft Web Store Terms and Conditions before proceeding with your donation.
 
 ### 5. Payment Responsibility:
 
-- Donations must be made using an accepted payment method, and you are responsible for the validity of your payment.
-- You are solely responsible for any actions taken through your account.
+- Donations must be made using your PayPal account. You are solely responsible for any actions taken through your
+  account.
 
-### 6. Perk Availability:
+### 6. Support:
+
+- If you do not receive your perk(s) within 24 hours, please contact a senior staff member for assistance.
+
+## Perk Availability:
 
 - As the server evolves over time, we **reserve the right to remove perks from our webstore without reason**.
 - An announcement will **typically** be made on our Discord server if a perk is removed.
 
-### 7. Support:
-
-- If you do not receive your perk(s) within **24 hours**, please contact a senior staff member for assistance.
-
----
-
 ## ⚠️ Disclaimer
 
-JeriCraft is **not affiliated** with Mojang AB. All contributions go directly to the **JeriCraft Management and
-Development Team**.
-
-For support, inquiries, or purchase history, email us at **jericho.crosby227@gmail.com**.
+**JeriCraft is not affiliated with Mojang AB.** All contributions go directly to the JeriCraft Management and
+Development Team. For support, inquiries, or purchase history, email us at **jericho.crosby227@gmail.com**.
 
 ---
 
