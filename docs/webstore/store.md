@@ -29,42 +29,31 @@ perk is abused.
 
 **All prices are in USD (United States Dollars).**
 
-### 1. Refund Policy:
+### **Agreement to Terms:**
+  - By donating, you agree to these Terms and Conditions, regardless of whether you have read them. No refunds will be granted for any reason.
+  - You must accept the JeriCraft Web Store Terms and Conditions before proceeding with your donation.
 
-- We have a strict **no-refund** policy. A full refund will only be provided if you do not receive your perk(s).
-- If you are banned from the server, you will **not** be eligible for a refund, as you accepted the rules upon donating.
-- No refunds will be issued if the server ceases operation, provided that an official announcement has been made on the
-  JeriCraft community Discord regarding its closure.
-- Refunds for accidental donations will be evaluated on a case-by-case basis.
+### **Refund Policy:**
+  - We have a strict **no-refund** policy. A full refund will only be provided if you do not receive your perk(s).
+  - If you are banned from the server, you will **not** be eligible for a refund, as you accepted the rules upon donating.
+  - No refunds will be issued if the server ceases operation, provided that an official announcement has been made on the JeriCraft community Discord regarding its closure.
+  - Refunds for accidental donations will be evaluated on a case-by-case basis.
 
-### 2. Perk Misuse:
+### **Payment Responsibility:**
+  - Donations must be made using your PayPal account. You are solely responsible for any actions taken through your account.
 
-- Misuse of perk(s) is strictly prohibited. The server Owner/Admin reserves the right to revoke your perk(s) at any time
-  if misuse is suspected.
+### **Perk Misuse:**
+  - Misuse of perk(s) is strictly prohibited. The server Owner/Admin reserves the right to revoke your perk(s) at any time if misuse is suspected.
 
-### 3. Donation Accumulation:
+### **Perk Availability:**
+  - As the server evolves over time, we **reserve the right to remove perks from our webstore without reason**.
+  - An announcement will **typically** be made on our Discord server if a perk is removed.
 
-- Donations will accumulate. For example, if you donate $5 on two separate occasions, your total will be $10.00.
+### **Donation Accumulation:**
+  - Donations will accumulate. For example, if you donate $5 on two separate occasions, your total will be $10.00.
 
-### 4. Agreement to Terms:
-
-- By donating, you agree to these Terms and Conditions, regardless of whether you have read them. No refunds will be
-  granted for any reason.
-- You must accept the JeriCraft Web Store Terms and Conditions before proceeding with your donation.
-
-### 5. Payment Responsibility:
-
-- Donations must be made using your PayPal account. You are solely responsible for any actions taken through your
-  account.
-
-### 6. Support:
-
-- If you do not receive your perk(s) within 24 hours, please contact a senior staff member for assistance.
-
-## Perk Availability:
-
-- As the server evolves over time, we **reserve the right to remove perks from our webstore without reason**.
-- An announcement will **typically** be made on our Discord server if a perk is removed.
+### **Support:**
+  - If you do not receive your perk(s) within 24 hours, please contact a senior staff member for assistance.
 
 ## ⚠️ Disclaimer
 
