@@ -120,13 +120,13 @@ Development Team. For support, inquiries, or purchase history, email us at **jer
 Enhance your building and crafting experience in JeriCraft with our versatile Kits!
 Preview kits in-game with `/kitpreview <name>`
 
-| **PERK**   | **PRICE** | **DESCRIPTION**                                                                                                                                       | **PERMISSION**       |
-|------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
-| Banner     | $3.45     | Gain access to a kit containing 16 of each banner.<br>Cooldown Period: 4 hours                                                                        | `cmi.kit.banner`     |
-| Glass      | $4.60     | Gain access to a kit containing 16 of each glass block.<br>Cooldown Period: 4 hours                                                                   | `cmi.kit.glass`      |
-| Terracotta | $4.60     | Gain access to a kit containing 16 of each terracotta block.<br>Cooldown Period: 4 hours                                                              | `cmi.kit.terracotta` |
-| Wool       | $5.75     | Gain access to a kit containing 16 of each wool block.<br>Cooldown Period: 4 hours                                                                    | `cmi.kit.wool`       |
-| Pyro       | $6.33     | Unlock the Pyro kit, providing you with all the tools and materials you need to harness the power of fire and explosions.<br>Cooldown Period: 4 hours | `cmi.kit.pyro`       |
+| **PERK**   | **PRICE** | **DESCRIPTION**                                                                                                                                                                      | **PERMISSION**       |
+|------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
+| Banner     | $3.45     | Gain access to a kit containing 16 of each banner.<br>Cooldown Period: 4 hours</br>Use `/kit banner` to access.                                                                      | `cmi.kit.banner`     |
+| Glass      | $4.60     | Gain access to a kit containing 16 of each glass block.<br>Cooldown Period: 4 hours</br>Use `/kit glass` to access.                                                                  | `cmi.kit.glass`      |
+| Terracotta | $4.60     | Gain access to a kit containing 16 of each terracotta block.<br>Cooldown Period: 4 hours</br>Use `/kit terracotta` to access.                                                        | `cmi.kit.terracotta` |
+| Wool       | $5.75     | Gain access to a kit containing 16 of each wool block.<br>Cooldown Period: 4 hours</br>Use `/kit wool` to access.                                                                    | `cmi.kit.wool`       |
+| Pyro       | $6.33     | Unlock the Pyro kit, providing you with all the tools and materials you need to harness the power of fire and explosions.<br>Cooldown Period: 4 hours</br>Use `/kit pyro` to access. | `cmi.kit.pyro`       |
 
 ---
 
