@@ -3,14 +3,18 @@
 | Sweeping Edge         | 600           | 1,200         | 3,000         | N/A           | N/A           |
 | Fire Aspect           | 800           | 2,500         | N/A           | N/A           | N/A           |
 | Knockback             | 500           | 1,500         | N/A           | N/A           | N/A           |
+| Breach                | 1,200         | 1,400         | 4,800         | 9,600         | N/A           |
 | Smite                 | 800           | 1,600         | 3,200         | 6,400         | 12,800        |
 | Sharpness             | 1,000         | 2,000         | 4,000         | 8,000         | 16,000        |
 | Looting               | 1,200         | 2,400         | 4,800         | N/A           | N/A           |
 | Bane of Arthropods    | 800           | 1,600         | 3,200         | 6,400         | 12,800        |
 | Infinity              | 3,000         | N/A           | N/A           | N/A           | N/A           |
+| Cleaving	             | 800	          | 1,600	        | 3,200	        | N/A	          | N/A           |
+| Density	              | 1,000	        | 2,000	        | 4,000	        | 8,000	        | 16,000        |
 | Punch                 | 1,000         | 2,000         | N/A           | N/A           | N/A           |
 | Power                 | 1,500         | 3,000         | 6,000         | 12,000        | 24,000        |
 | Flame                 | 2,500         | N/A           | N/A           | N/A           | N/A           |
+| Multishot	            | 3,000	        | N/A	          | N/A	          | N/A	          | N/A           |
 | Efficiency            | 1,200         | 2,400         | 4,800         | 9,600         | 19,200        |
 | Unbreaking            | 1,000         | 2,000         | 4,000         | N/A           | N/A           |
 | Silk Touch            | 5,000         | N/A           | N/A           | N/A           | N/A           |
