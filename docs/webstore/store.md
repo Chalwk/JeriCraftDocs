@@ -75,12 +75,10 @@ Development Team. For support, inquiries, or purchase history, email us at **jer
 
 ### [Customization](https://jericraft-shop.tebex.io/category/customization)
 
-| **PERK**                | **PRICE** | **DESCRIPTION**                                                                                       | **PERMISSION**                                                                                                                                      |
-|-------------------------|-----------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Custom Name Prefix      | $4.60     | Personalize your in-game chat with a unique prefix.                                                   | `custom_prefix`                                                                                                                                     |
-| Custom Name Suffix      | $4.60     | Personalize your in-game chat with a unique suffix.                                                   | `custom_suffix`                                                                                                                                     |
-| Custom Text Formatting  | $5.75     | Customize your in-game text with various colors and styles for books, nicknames, messages, and signs. | `cmi.colors.books.*`, `cmi.colors.me.*`, `cmi.colors.nickname.*`, `cmi.colors.privatemessage.*`, `cmi.colors.publicmessage.*`, `cmi.colors.signs.*` |
-| Custom Nickname Command | $5.75     | Create a unique, personalized in-game nickname with custom colors.                                    | `cmi.command.nick`, `cmi.command.nick.different`, `cmi.colors.nickname.*`                                                                           |
+| **PERK**               | **PRICE** | **DESCRIPTION**                                                                                                          | **PERMISSION**                                                                                                                                      |
+|------------------------|-----------|--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Custom Nickname        | $5.75     | Personalize your in-game name with a unique nickname.<br>Usage: `/nick <name>`<br>Use `/colors` to help you beautify it. | `cmi.command.nick`, `cmi.command.nick.different`, `cmi.colors.nickname.*`                                                                           |
+| Custom Text Formatting | $5.75     | Customize your in-game text with various colors and styles for books, nicknames, messages, and signs.                    | `cmi.colors.books.*`, `cmi.colors.me.*`, `cmi.colors.nickname.*`, `cmi.colors.privatemessage.*`, `cmi.colors.publicmessage.*`, `cmi.colors.signs.*` |
 
 ---
 
