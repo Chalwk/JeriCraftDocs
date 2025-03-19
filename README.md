@@ -39,7 +39,7 @@ guidelines and form templates.
    - **[Realistic Seasons](docs/guides/Realistic%20Seasons.md)**
    - **[Regions](docs/guides/Regions.md)**
    - **[NPC Shops](docs/guides/NPC%20Shops.md)**
-6. 💎 **[Perks / Webstore](/docs/webstore/store.md)**
+6. 💎 **[Webstore](/docs/webstore/store.md)**
 7. 📜 **[Community Rules](policies/Community-Rules.md)**
 8. 📝 **[Form Templates](#-form-templates)**
 9. 🤝 **[Contributing](CONTRIBUTING.md)**
@@ -67,7 +67,6 @@ Need to submit a form? Use the templates below to get started:
 | 🚨 **[Player Report](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=player-report.yaml)**             | Report rule-breaking players for investigation.                    |
 | 🌟 **[Server Suggestions](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=server-suggestions.yaml)**   | Suggest ideas to improve the game server or Discord community.     |
 | 👩‍💻 **[Staff Application](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=staff-application.yaml)**  | Apply to join the staff team.                                      |
-| 🏆 **[Tournament](https://github.com/Chalwk/JeriCraftDocs/issues/new?template=tournament.yaml)**                   | Create a Halo tournament                                           |
 
 ---
 
@@ -84,4 +83,4 @@ This repository is licensed under the **[MIT License](LICENCE.md)**.
 
 ---
 
-Thanks for being part of the JeriCraft adventure! 💖 See you in the game! 🕹
+Thanks for being part of the JeriCraft adventure! 💖 See you in the game!
