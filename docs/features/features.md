@@ -3,19 +3,16 @@
 ### 📑 Table of Contents
 
 - [**Factions**](#factions)
-- [**Jobs Reborn**](#jobs-reborn)
-    - [Full List of Jobs Available on Our Server](#full-list-of-jobs-available-on-our-server)
-    - [Jobs Boost](#job-boosters)
+- [**Jobs**](#jobs)
 - [**mcMMO**](#mcmmo)
     - [Full List of McMMO Skills on Our Server](#full-list-of-mcmmo-skills-on-our-server)
-- [**AuctionHouse**](#auctionhouse)
-- [**RealisticSeasons**](#realisticseasons)
-- [**Chest Shop**](#chestshop)
-- [**LevelledMobs**](#levelledmobs)
-- [**WorldGuard**](#worldguard)
-    - [Players can set the following flags in their claims](#players-can-set-the-following-flags-in-their-claims)
+- [**Auctions**](#auctions)
+- [**RealisticSeasons**](#realistic-seasons)
+- [**Chest Shop**](#chest-shop)
+- [**LevelledMobs**](#levelled-mobs)
 - [**Kits**](#kits)
     - [Commoner](#-commoner-non-donormemberstarting-kit)
+    - [Villager](#-villager-kit-discord-linked)
     - [Squire](#-squire-donor-kit)
     - [Knight](#-knight-donor-kit)
     - [Baron](#-baron-donor-kit)
@@ -24,12 +21,10 @@
     - [Archduke](#-archduke-donor-kit)
     - [Overlord](#-overlord-donor-kit)
 - [**Additional Features**](#additional-features)
-    - [Recurring Playtime Rewards](#recurring-playtime-rewards)
-    - [Rewards Overview](#rewards-overview)
-    - [Sit Anywhere!](#sit-anywhere-members-and-above)
+    - [Recurring Playtime Rewards](#recurring-hourly-playtime-reward)
+    - [Sit Anywhere!](#sit-anywhere-villager-and-above)
     - [Portable Ender Chest (27 Slots)](#portable-ender-chest-27-slots)
     - [Scavenge (salvage items and enchantments)](#scavenge-salvage-items-and-enchantments)
-    - [Cheque (create cheques for players)](#cheque-create-cheques-for-players)
     - [Donate (give items to other players)](#donate-give-items-to-other-players)
     - [Hats (wear any item on your head)](#hats-wear-any-item-on-your-head)
     - [Functional Book Shelves](#functional-book-shelves)
@@ -94,25 +89,25 @@ For further details, visit [mcmmo.org](http://mcmmo.org) or refer to our [McMMO 
 
 ---
 
-## [AuctionHouse](https://www.spigotmc.org/resources/auctionhouse.61836/)
+## [Auctions](https://www.spigotmc.org/resources/auctionhouse.61836/)
 
-**AuctionHouse** allows players to auction off their items, creating a dynamic economy where players can sell, buy, and
+**Auctions** allows players to auction off their items, creating a dynamic economy where players can sell, buy, and
 bid on various goods.
 
-For more details, refer to our [AuctionHouse Guide](../guides/Auctions).
+For more details, refer to our [Auctions Guide](../guides/Auctions).
 
 ---
 
-## [RealisticSeasons](https://www.spigotmc.org/resources/realisticseasons-1-16-3-1-20-2-seasons-in-your-minecraft-world-with-temperature-and-calendar.93275/)
+## [Realistic Seasons](https://www.spigotmc.org/resources/realisticseasons-1-16-3-1-20-2-seasons-in-your-minecraft-world-with-temperature-and-calendar.93275/)
 
 This plugin introduces **realistic seasons** (Spring, Summer, Autumn, and Winter) to our world, complete with
 temperature fluctuations, weather effects, and a seasonal calendar.
 
-For more information, refer to our [RealisticSeasons Guide](../guides/Realistic%20Seasons.md).
+For more information, refer to our [Realistic Seasons Guide](../guides/Realistic%20Seasons.md).
 
 ---
 
-## [ChestShop](https://www.spigotmc.org/resources/chestshop.51856/)
+## [Chest Shop](https://www.spigotmc.org/resources/chestshop.51856/)
 
 **ChestShop** is a simple yet powerful system for creating physical shops using signs and chests. Players can create
 their own shops and sell items to other players.
@@ -121,63 +116,12 @@ For guidance, check out our [ChestShop Guide](../guides/Chest%20Shop.md).
 
 ---
 
-## [LevelledMobs](https://www.spigotmc.org/resources/levelledmobs.74304/)
+## [Levelled Mobs](https://www.spigotmc.org/resources/levelledmobs.74304/)
 
 **LevelledMobs** allows mobs to gain levels, becoming progressively stronger and more challenging as they defeat
 players. This creates a dynamic and evolving world.
 
 For more information, see our [LevelledMobs Guide](../guides/Levelled%20Mobs.md).
-
----
-
-## [WorldGuard](https://enginehub.org/worldguard)
-
-**WorldGuard** is a robust land protection plugin, allowing players to protect their land from griefing and control
-gameplay features within their region.
-
-For more details, consult our [Region Management Guide](../guides/Regions.md).
-
-#### Players can set the following flags in their claims:
-
-| Flag                      | Description                                                  |
-|---------------------------|--------------------------------------------------------------|
-| interact                  | Controls player interactions with blocks and entities.       |
-| use                       | Allows players to use items like doors, levers, and buttons. |
-| damage-animals            | Determines if players can harm passive animals.              |
-| chest-access              | Controls access to chests and other container blocks.        |
-| ride                      | Allows players to ride entities like horses and minecarts.   |
-| vehicle-place             | Determines if players can place boats and minecarts.         |
-| vehicle-destroy           | Controls whether players can destroy vehicles like boats.    |
-| item-frame-rotation       | Allows players to rotate item frames.                        |
-| use-anvil                 | Determines if players can use anvils.                        |
-| use-dripleaf              | Controls if players can interact with dripleaf plants.       |
-| fire-spread               | Determines if fire can spread within the region.             |
-| snowman-trails            | Allows snow golems to leave snow trails.                     |
-| entity-painting-destroy   | Controls if players can break paintings.                     |
-| entity-item-frame-destroy | Determines if players can break item frames.                 |
-| lava-fire                 | Allows lava to ignite nearby blocks.                         |
-| water-flow                | Determines if water can flow.                                |
-| lava-flow                 | Determines if lava can flow.                                 |
-| snow-fall                 | Controls whether snow can accumulate naturally.              |
-| snow-melt                 | Determines if snow layers can melt.                          |
-| ice-form                  | Controls if ice can naturally generate.                      |
-| ice-melt                  | Determines if ice can melt.                                  |
-| enderpearl                | Controls whether players can use ender pearls.               |
-| frosted-ice-melt          | Determines if frosted ice can melt.                          |
-| mushroom-growth           | Allows mushrooms to spread.                                  |
-| leaf-decay                | Determines if leaves can decay naturally.                    |
-| grass-growth              | Controls if grass can spread to dirt blocks.                 |
-| mycelium-spread           | Allows mycelium to spread to dirt blocks.                    |
-| vine-growth               | Determines if vines can grow downward.                       |
-| rock-growth               | Controls if mossy cobblestone spreads.                       |
-| sculk-growth              | Determines if sculk can spread.                              |
-| crop-growth               | Allows crops like wheat to grow.                             |
-| soil-dry                  | Controls if farmland can dry out.                            |
-| coral-fade                | Determines if coral blocks dry out and die.                  |
-| greeting                  | Sets a message displayed when a player enters a region.      |
-| farewell                  | Sets a message displayed when a player leaves a region.      |
-| greeting-title            | Displays an on-screen title when entering a region.          |
-| farewell-title            | Displays an on-screen title when leaving a region.           |
 
 ---
 
@@ -421,25 +365,13 @@ Equipped with sturdy tools, basic protection, and some merchant goods.
 
 # Additional Features:
 
-## Recurring Playtime Rewards
+## Recurring Hourly Playtime Reward
 
-**Note:** These rewards are granted automatically, so keep playing and enjoy your well-deserved bonuses! Rewards are
-given at each interval as you continue to play.
-
-#### Rewards Overview
-
-| Interval    | Reward Details                                                                                                                                          |
-|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Hourly**  | $50, 10 XP levels, Full health restore                                                                                                                  |
-| **6-hour**  | $500, 15 XP levels, Full health restore, Diamond Pickaxe with Fortune III and Efficiency V                                                              |
-| **12-hour** | $1000, 25 XP levels, Full health restore, Diamond Chestplate with Protection IV and Unbreaking III                                                      |
-| **24-hour** | $2000, 50 XP levels, Full health restore, Elytra with Unbreaking III and Mending                                                                        |
-| **1-week**  | $5000, 100 XP levels, Full health restore, Totem of Undying                                                                                             |
-| **1-month** | $10000, 200 XP levels, Full health restore, Shulker Box filled with valuable items (16 diamonds, 16 iron blocks, 16 gold blocks, and 16 emerald blocks) |
+Players are rewarded **$100** and **35 XP levels** for every **hour** of playtime.
 
 ---
 
-## Sit Anywhere! (Members and Above)
+## Sit Anywhere! (Villager and above)
 
 As a **Member** or higher rank, you have the ability to **sit** on various surfaces:
 
@@ -467,16 +399,6 @@ resources.
 
 This **resourceful** command lets you **recycle** items and **reclaim** enchantments, giving you more control over your
 inventory and crafting possibilities!
-
----
-
-## Cheque (create cheques for players)
-
-Share your wealth and help out fellow players with the **/cheque** command!<br>
-Simply type `/cheque [player name] [amount]` to create a **customized cheque** for the specified player.
-
-This **generous** feature lets you **transfer** in-game currency easily, facilitating player-to-player transactions and
-encouraging a **thriving** server economy!
 
 ---
 
