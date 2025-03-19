@@ -26,7 +26,6 @@ guidelines and form templates.
 3. ⚡ **[Ranks and Commands](docs/commands)**
    - **[Player Commands](docs/commands/PLAYER-COMMANDS.md)**
    - **[Staff Commands](docs/commands/STAFF-COMMANDS.md)**
-   - **[Perk Commands](docs/commands/PERK-COMMANDS.md)**
 4. 🌟 **[Server Features](docs/features/features.md)**
 5. 📖 **[Guides](docs/guides)**
    - **[Auction House](docs/guides/Auctions)**
