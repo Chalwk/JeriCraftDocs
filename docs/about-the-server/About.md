@@ -62,20 +62,18 @@ supportive community, balanced gameplay, and new features added regularly to kee
 
 ---
 
-## 👥 Commands 👥
+## Useful Resources:
 
-- 👨‍💼 **Player Commands**:
-  > Discover the commands available to players on the JeriCraft server by visiting
-  our [**Player Commands Page**](/docs/commands/PLAYER-COMMANDS.md).
+1. [Player Commands Page](/docs/commands/PLAYER-COMMANDS.md)<br>
+For Factions commands, please refer to [Factions Guide](/docs/guides/Factions.md).
 
-- 👨‍💼 **Staff Commands**:
-  > Explore the commands available to staff members on the JeriCraft server by visiting
-  our [**Staff Commands Page**](/docs/commands/STAFF-COMMANDS.md).
+2. [Staff Commands Page](/docs/commands/STAFF-COMMANDS.md)
+
+3. [Guides](/docs/guides)
 
 ## 📝 Applications 📝
 
-> Interested in joining the JeriCraft staff team or becoming a builder? Check out
-> our [**Applications**](https://github.com/Chalwk/JeriCraftDocs/issues/new/choose) section for more information on how
-> to apply.
+Interested in joining the JeriCraft staff team or becoming a builder? Check out our [**Applications
+**](https://github.com/Chalwk/JeriCraftDocs/issues/new/choose) section for more information on how to apply.
 
 ---

@@ -23,7 +23,7 @@ guidelines and form templates.
 
 1. 🛠 **[About The Server](docs/about-the-server/About.md)**
 2. 🚀 **[Getting Started](docs/guides/Getting%20Started.md)**
-3. ⚡ **[Ranks and Commands](docs/commands)**
+3. ⚡ **[Commands](docs/commands)**
    - **[Player Commands](docs/commands/PLAYER-COMMANDS.md)**
    - **[Staff Commands](docs/commands/STAFF-COMMANDS.md)**
 4. 🌟 **[Server Features](docs/features/features.md)**
