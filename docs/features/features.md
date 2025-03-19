@@ -54,60 +54,14 @@ carve their legacy into the lands of JeriCraft. Please see our guide for more de
 
 ---
 
-## [Jobs Reborn](https://www.spigotmc.org/resources/jobs-reborn.4216/)
+## [Jobs](https://www.spigotmc.org/resources/jobs-reborn.4216/)
 
-**Jobs Reborn** allows players to earn money for a variety of activities such as breaking blocks, crafting, killing
+**Jobs** allows players to earn money for a variety of activities such as breaking blocks, crafting, killing
 mobs, fishing, and more. As you complete tasks within your job, you gain experience, leveling up your abilities and
 unlocking new rewards.
 
 📖 Guide: [Jobs Guide](../guides/Jobs.md)
-🔗 Project Page: [Jobs Reborn on Spigot](https://www.spigotmc.org/resources/jobs-reborn.4216/)
-
-#### Full List of Jobs Available on Our Server:
-
-| Job Name        | Description                                                                     |
-|-----------------|---------------------------------------------------------------------------------|
-| **Baker**       | Bake delicious bread and sweets to earn rewards.                                |
-| **Brewer**      | Brew potions and unlock powerful alchemy abilities.                             |
-| **Builder**     | Use your building skills to create amazing structures.                          |
-| **Caretaker**   | Manage and tend to animals and plants.                                          |
-| **Cooker**      | Cook food for players and enhance your culinary skills.                         |
-| **Crafter**     | Craft items, tools, and more to gain valuable resources.                        |
-| **Digger**      | Dig for precious ores and minerals in the ground.                               |
-| **Enchanter**   | Enchant tools and weapons with special effects.                                 |
-| **Explorer**    | Explore the world, uncover secrets, and gain rewards for discovering new areas. |
-| **Farmer**      | Grow crops and raise animals for a living.                                      |
-| **Fisherman**   | Fish for new items and rewards in bodies of water.                              |
-| **Hunter**      | Hunt mobs for drops and rewards.                                                |
-| **Merchant**    | Trade with other players for valuable items.                                    |
-| **Miner**       | Mine ores and gems deep beneath the surface.                                    |
-| **Smelter**     | Smelt ores into valuable ingots and materials.                                  |
-| **Taster**      | Taste and test new foods and potions.                                           |
-| **Weaponsmith** | Forge powerful weapons to defend your world.                                    |
-| **Woodcutter**  | Chop down trees and gather valuable wood resources.                             |
-
-#### Job Boosters
-
-Boost your experience and rewards with the following job boosts:
-
-| Boost Name                           | Boost Period                      | Boost                | Applicable Jobs | Boost Days    |
-|--------------------------------------|-----------------------------------|----------------------|-----------------|---------------|
-| 💸 **Midnight Boost**                | 00:00:00 - 03:00:00 (server time) | 2.0x Exp & Money     | All             | Every Day     |
-| 💸 **Morning Boost**                 | 08:00:00 - 11:00:00 (server time) | 2.0x Exp & Money     | All             | Every Day     |
-| 💸 **Afternoon Boost**               | 16:00:00 - 19:00:00 (server time) | 2.0x Exp & Money     | All             | Every Day     |
-| 💸 **Weekend Party Boost**           | 20:00:00 - 23:00:00 (server time) | 1.25x XP, 1.5x Money | All             | Fri–Sat       |
-| 💸 **Early Bird Boost**              | 06:00:00 - 09:00:00 (server time) | 1.5x XP, 1.25x Money | All             | Mon-Fri       |
-| 💸 **Mid-Week Motivation Boost**     | 12:00:00 - 15:00:00 (server time) | 1.75x XP & Money     | All             | Wednesday     |
-| 💸 **Crafter's Delight Boost**       | 14:00:00 - 16:00:00 (server time) | 2.5x XP, 2x Money    | Crafter         | Mon, Wed, Fri |
-| 💸 **Enchanter's Empowerment Boost** | 21:00:00 - 23:00:00 (server time) | 3x XP, 1.75x Money   | Enchanter       | Tue, Thu, Sat |
-| 💸 **Hunter's Harvest Boost**        | 18:00:00 - 20:00:00 (server time) | 2.25x XP & Money     | Hunter          | Mon, Wed, Fri |
-| 💸 **Builder's Bonanza Boost**       | 10:00:00 - 13:00:00 (server time) | 2x XP, 1.75x Money   | Builder         | Tue, Thu, Sat |
-| 💸 **Merchant's Marvel Boost**       | 15:00:00 - 18:00:00 (server time) | 1.75x XP, 2x Money   | Merchant        | Wednesday     |
-| 💸 **Miner's Madness Boost**         | 20:00:00 - 22:00:00 (server time) | 2x XP, 1.5x Money    | Miner           | Mon, Wed, Fri |
-| 💸 **Farmer's Feast Boost**          | 06:00:00 - 09:00:00 (server time) | 2x XP & Money        | Farmer          | Tue, Thu, Sat |
-
-Enjoy the boosted jobs experience during the designated hours and make the most of your playtime on **JeriCraft**! For
-more information on joining jobs, use `/jobs browse` and `/jobs join <job name>`.
+🔗 Project Page: [Jobs on Spigot](https://www.spigotmc.org/resources/jobs-reborn.4216/)
 
 ---
 
