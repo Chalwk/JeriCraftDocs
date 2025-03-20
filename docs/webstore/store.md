@@ -102,14 +102,14 @@ Development Team. For support, inquiries, or purchase history, email us at **jer
 
 ### [Commands & Abilities](https://jericraft-shop.tebex.io/category/commands-and-abilities)
 
-| **PERK**              | **PRICE** | **DESCRIPTION**                                                                                                                                 | **PERMISSION**                                  |
-|-----------------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| Item Magnet Ability   | $5.75     | Automatically pull nearby dropped items into your inventory<br><br>Usage: `/magnet`                                                             | `magnet.use`                                    |
-| Night Vision Ability  | $11.50    | See clearly in dark areas without the need for torches or other light sources, giving you an edge in nighttime exploration.<br><br>Usage: `/nv` | `nightvision.use`                               |
-| Instant Tool Repair   | $17.25    | Instantly repair the item in your hand.<br><br>Usage: `/repair`.                                                                                | `cmi.command.repair`, `cmi.command.repair.hand` |
-| Flight Ability        | $28.75    | Fly freely in the world.<br><br>Usage: `/fly`                                                                                                   | `cmi.command.fly`                               |
-| Flight Speed Increase | $5.00     | Increase your flight speed.<br><br>Usage: `/flyspeed <speed (max 5)>`                                                                           | `cmi.command.flyspeed`                          |
-| Walk Speed Increase   | $5.00     | Increase your walking speed.<br><br>Usage: `/walkspeed <speed (max 5)>`                                                                         | `cmi.command.walkspeed`                         |
+| **PERK**              | **PRICE** | **DESCRIPTION**                                                                                                                                 | **PERMISSION**                                     |
+|-----------------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+| Item Magnet Ability   | $5.75     | Automatically pull nearby dropped items into your inventory<br><br>Usage: `/magnet`                                                             | `magnet.use`                                       |
+| Night Vision Ability  | $11.50    | See clearly in dark areas without the need for torches or other light sources, giving you an edge in nighttime exploration.<br><br>Usage: `/nv` | `nightvision.use`                                  |
+| Instant Tool Repair   | $17.25    | Instantly repair the item in your hand.<br><br>Usage: `/repair`.                                                                                | `cmi.command.repair`, `cmi.command.repair.hand`    |
+| Flight Ability        | $28.75    | Fly freely in the world.<br><br>Usage: `/fly`                                                                                                   | `cmi.command.fly`                                  |
+| Flight Speed Increase | $5.00     | Increase your flight speed.<br><br>Usage: `/flyspeed <speed (max 5)>`                                                                           | `cmi.command.flyspeed`, `cmi.command.flyspeed.5`   |
+| Walk Speed Increase   | $5.00     | Increase your walking speed.<br><br>Usage: `/walkspeed <speed (max 5)>`                                                                         | `cmi.command.walkspeed`, `cmi.command.walkspeed.5` |
 
 ---
 
