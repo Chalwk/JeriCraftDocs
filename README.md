@@ -28,7 +28,7 @@ guidelines and form templates.
    - **[Staff Commands](docs/commands/STAFF-COMMANDS.md)**
 4. 🌟 **[Server Features](docs/features/features.md)**
 5. 📖 **[Guides](docs/guides)**
-   - **[Auction House](docs/guides/Auctions)**
+   - **[Auctions](docs/guides/Auctions)**
    - **[Chest Shop](docs/guides/Chest%20Shop.md)**
    - **[Discord](docs/guides/Discord.md)**
    - **[Economy](docs/guides/Economy.md)**
@@ -36,7 +36,7 @@ guidelines and form templates.
    - **[Jobs](docs/guides/Jobs.md)**
    - **[Levelled Mobs](docs/guides/Levelled%20Mobs.md)**
    - **[mcMMO](docs/guides/mcMMO.md)**
-   - **[Realistic Seasons](docs/guides/Realistic%20Seasons.md)**
+   - **[Seasons](docs/guides/Realistic%20Seasons.md)**
    - **[NPC Shops](docs/NPC%20Shops)**
 6. 💎 **[Webstore](/docs/webstore/store.md)**
 7. 📜 **[Community Rules](policies/Community-Rules.md)**
