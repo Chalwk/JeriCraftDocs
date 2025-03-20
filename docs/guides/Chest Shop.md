@@ -62,10 +62,10 @@ find what they need. For example:
 Create your shop sign with this exact formatting:
 
 ```none
-[Shop Owner]       Auto-filled by system
-[Quantity]         Stack size: 1-64
-[Price]            Format: B/S [Amount] or B X : S Y
-[Item Name]        Use /iinfo for ID
+[Shop Owner]    Auto-filled by system
+[Quantity]      Stack size: 1-64
+[Price]         Format: B/S [Amount] or B X : S Y
+[Item Name]     Use /iinfo for ID
 ```
 
 **Example Configurations:**
