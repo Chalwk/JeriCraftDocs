@@ -15,40 +15,18 @@ There are several ways to accumulate wealth within the JeriCraft economy:
   To learn more about jobs, refer to our detailed [Jobs Guide](/docs/guides/Jobs.md).
 
 - **Creating Shops**:  
-  Set up your own shop using the ChestShop plugin to sell items to other players.  
-  See our [ChestShop Tutorial](/docs/guides/Chest%20Shop.md) for more details.
+  Set up your own shop using the Chest Shops to sell items to other players.  
+  See our [Chest Shop Tutorial](/docs/guides/Chest%20Shop.md) for more details.
 
 - **Completing Job Quests**:  
   Complete job quests with the `/jobs quests` command to earn additional money and experience.
 
 - **Playtime Reward**:  
-  **Hourly Fiefdom Reward**: Grants $100 and 15 levels of experience every hour.
+  **Hourly Fiefdom Reward**: Grants **$100** and **15 levels** of **experience** every hour.
 
 - **Auctions**:  
-  Buy and sell items through auctions (see more details in the Auctions section below).
-
-- **Participating in Events**:  
-  Join server-wide events for a chance to earn money.
-
----
-
-## Auctions
-
-Buy and sell items through the Auctions using the `/ah` command. The following commands will help you list items,
-place bids, or buy directly:
-
-| **Command**        | **Description**                                              |
-|--------------------|--------------------------------------------------------------|
-| `/ah`              | Opens the Auctions GUI, where you can view items for sale.   |
-| `/ah sell <price>` | Lists the item in your hand for sale at the specified price. |
-| `/ah buy <price>`  | Buys the item listed in the Auctions at the specified price. |
-
----
-
-## Creating a Shop with ChestShop
-
-To create your own shop using ChestShop, refer to our detailed [ChestShop Tutorial](/docs/guides/Chest%20Shop.md).
-This guide provides step-by-step instructions on setting up and customizing your shop.
+  Buy and sell items through auctions
+  See our [Auctions Guide](/docs/guides/Auctions.md) for more details.
 
 ---
 
@@ -58,7 +36,7 @@ Track and manage your money easily:
 
 | **Command**              | **Description**                                                |
 |--------------------------|----------------------------------------------------------------|
-| `/bal`                   | Check your current balance.                                    |
+| `/balance`, `/money`     | Check your current balance.                                    |
 | `/pay <player> <amount>` | Pay other players a specified amount of money.                 |
 | `/baltop`                | View the top rankings of the wealthiest players on the server. |
 

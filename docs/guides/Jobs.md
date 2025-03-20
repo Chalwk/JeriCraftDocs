@@ -7,43 +7,37 @@ experience by completing various tasks. Whether you prefer building, exploring, 
 this guide, we'll walk you through the essentials of joining jobs, using the commands, and succeeding in your chosen
 profession.
 
-## Table of Contents
-
-1. [Available Jobs](#available-jobs)
-2. [Essential Commands](#essential-commands)
-3. [Boosters](#boosters)
-
 ### **Available Jobs**
 
 Choose from a diverse range of jobs that cater to different play styles. Each job offers unique rewards and
 opportunities to earn currency and level up. Below is an overview of the available jobs and their primary focus:
 
-| **Job**                | **Focus**                                                                       |
-|------------------------|---------------------------------------------------------------------------------|
-| **Alchemist**          | Crafting potions and potions of various effects  - NEW                          |
-| **Aquatic Adventurer** | Diving, fishing, salvaging treasures, and exploring aquatic environments  - NEW |
-| **Baker**              | Baking delicious bread and sweets  - NEW                                        |
-| **Builder**            | Placing blocks and constructing buildings and structures                        |
-| **Brewer**             | Brewing potent potions for various effects                                      |
-| **Caretaker**          | Taking care of animals and pets  - NEW                                          |
-| **Chef**               | Preparing delicious meals to feed others                                        |
-| **Crafter**            | Crafting various items and blocks                                               |
-| **Digger**             | Excavating earth materials (dirt, sand, gravel, etc.)                           |
-| **Enchanter**          | Enchanting items with magical properties                                        |
-| **Explorer**           | Exploring new areas and discovering hidden treasures                            |
-| **Farmer**             | Growing and harvesting crops                                                    |
-| **Fisherman**          | Catching fish and other aquatic creatures                                       |
-| **Herbalist**          | Gathering herbs and plants for alchemical research                              |
-| **Hunter**             | Tracking and defeating hostile mobs                                             |
-| **Jeweler**            | Crafting and repairing jewelry  - NEW                                           |
-| **Librarian**          | Collecting and organizing knowledge, including enchanting                       |
-| **Merchant**           | Trading and selling goods and services  - NEW                                   |
-| **Miner**              | Extracting valuable ores and minerals                                           |
-| **Smelter**            | Smelting materials into useful items  - NEW                                     |
-| **Taster**             | Tasting and enjoying delicious food  - NEW                                      |
-| **Toolsmith**          | Crafting and refining tools                                                     |
-| **Weaponsmith**        | Crafting and refining weapons                                                   |
-| **Woodcutter**         | Cutting down trees and gathering wood                                           |
+| **Job**                | **Focus**                                                                |
+|------------------------|--------------------------------------------------------------------------|
+| **Alchemist**          | Crafting potions and potions of various effects                          |
+| **Aquatic Adventurer** | Diving, fishing, salvaging treasures, and exploring aquatic environments |
+| **Baker**              | Baking delicious bread and sweets                                        |
+| **Builder**            | Placing blocks and constructing buildings and structures                 |
+| **Brewer**             | Brewing potent potions for various effects                               |
+| **Caretaker**          | Taking care of animals and pets                                          |
+| **Chef**               | Preparing delicious meals to feed others                                 |
+| **Crafter**            | Crafting various items and blocks                                        |
+| **Digger**             | Excavating earth materials (dirt, sand, gravel, etc.)                    |
+| **Enchanter**          | Enchanting items with magical properties                                 |
+| **Explorer**           | Exploring new areas and discovering hidden treasures                     |
+| **Farmer**             | Growing and harvesting crops                                             |
+| **Fisherman**          | Catching fish and other aquatic creatures                                |
+| **Herbalist**          | Gathering herbs and plants for alchemical research                       |
+| **Hunter**             | Tracking and defeating hostile mobs                                      |
+| **Jeweler**            | Crafting and repairing jewelry                                           |
+| **Librarian**          | Collecting and organizing knowledge, including enchanting                |
+| **Merchant**           | Trading and selling goods and services                                   |
+| **Miner**              | Extracting valuable ores and minerals                                    |
+| **Smelter**            | Smelting materials into useful items                                     |
+| **Taster**             | Tasting and enjoying delicious food                                      |
+| **Toolsmith**          | Crafting and refining tools                                              |
+| **Weaponsmith**        | Crafting and refining weapons                                            |
+| **Woodcutter**         | Cutting down trees and gathering wood                                    |
 
 ### Essential Commands
 

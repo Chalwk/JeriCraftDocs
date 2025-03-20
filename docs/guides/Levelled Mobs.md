@@ -1,6 +1,6 @@
-# LevelledMobs Guide
+# Levelled Mobs Guide
 
-Welcome to the **LevelledMobs** guide! This plugin enhances your Minecraft experience by introducing an RPG-like system, adding dynamic levels to mobs, and providing new challenges and rewards. Follow this guide to understand how it works:
+Welcome to the **Levelled Mobs** guide! This plugin enhances your Minecraft experience by introducing an RPG-like system, adding dynamic levels to mobs, and providing new challenges and rewards. Follow this guide to understand how it works:
 
 ### Leveled Mobs Overview
 - **Levels**: Mobs now spawn with levels, ranging from low to high. Higher-level mobs are significantly stronger, with increased health, damage, and potentially better loot.
@@ -11,7 +11,7 @@ Welcome to the **LevelledMobs** guide! This plugin enhances your Minecraft exper
 - **Difficulty Awareness**: Higher-level mobs are tougher to defeat, but they drop superior rewards. Approach with caution when you encounter stronger enemies.
 
 ### Compatibility
-- **mcMMO Integration**: LevelledMobs works seamlessly with the mcMMO plugin, enriching your RPG gameplay experience.
+- **mcMMO Integration**: Levelled Mobs works seamlessly with the mcMMO plugin, enriching your RPG gameplay experience.
 - **Skill Leveling**: Level up your skills to enhance your ability to defeat higher-level mobs and unlock new challenges.
 
 ### Player Strategy
@@ -19,4 +19,4 @@ Welcome to the **LevelledMobs** guide! This plugin enhances your Minecraft exper
 - **Upgrade Your Gear**: Equip stronger weapons, armor, and enchantments to increase your chances of survival against high-level mobs.
 - **Team Play**: Consider teaming up with other players to take on the most formidable enemies. Cooperation will help ensure that no mob is too powerful to defeat.
 
-Embrace the RPG experience on JeriCraft with **LevelledMobs** and enjoy facing increasingly powerful mobs for valuable loot and rewards. **Happy adventuring!**
+Embrace the RPG experience on JeriCraft with **Levelled Mobs** and enjoy facing increasingly powerful mobs for valuable loot and rewards. **Happy adventuring!**
