@@ -3,17 +3,19 @@
 
 # 🏰 JeriCraft: Where Legends Are Forged
 
-*"A Realm of Steel, Strategy, and Survival"*
+![JERICRAFT.NET](https://img.shields.io/badge/JERICRAFT.NET-1.21.4-00AF54?style=for-the-badge&logo=curseforge)
+
+"All that is gold does not glitter, Not all those who wander are lost"
 </div>
 
 ---
-
-# 🏹 Welcome to JeriCraft – A Realm Forged in Block and Battle!
 
 **Hear ye, hear ye!** Welcome to **JeriCraft**, a **Medieval-themed SMP/RPG Factions** server set in a medieval world
 with **RPG gameplay**, a **Player-Driven Economy**, and **PvP/PvE skirmishes** for an immersive experience. Whether
 you're a brave adventurer, master merchant, or humble farmer, there's a place for you in our growing kingdom, where
 every player can shape their legend in a dynamic, ever-evolving realm.
+
+---
 
 ## 🔑 Key Features:
 
@@ -32,56 +34,45 @@ every player can shape their legend in a dynamic, ever-evolving realm.
 | 😊 **Friendly Community**           | Join a supportive and welcoming community of players from all walks of life.                                                                                   |
 | And so much more!                   |
 
-### 📜 Scroll of Entry: JERICRAFT.NET (1.21.4)
-
-_(Carve these runes into thy portal frame, lest ye wander the void forever…)_
-
-Join us for a wide range of activities that bring you into an exciting and ever-evolving world. You’ll enjoy a
-supportive community, balanced gameplay, and new features added regularly to keep things fresh.
-
----
-
 ### Player Ranks
 
-- 🏚️ **Commoner** (Guest)
-- 🏘️ **Villager** (Members - Obtained after joining Discord or 1 month of playtime)
-- 🏗️ **Artisan**  (Builders - Skilled Artisans who apply for World Edit and Creative mode access (non-donor rank))
-
----
+| Rank                                                                            | Description                                                                                 |
+|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| ![Commoner](https://img.shields.io/badge/🏚️_Commoner-Guest-808080?style=flat)  | Discord guests toiling in the fields or players on the Minecraft server without membership. |
+| ![Villager](https://img.shields.io/badge/🏘️_Villager-Member-555555?style=flat) | The Member rank is for players who have linked their Discord account                        |
+| ![Artisan](https://img.shields.io/badge/🏗️_Artisan-Builder-5555FF?style=flat)  | The Builder rank is for players who have applied for World Edit and Creative mode access.   |
 
 ### Donor Ranks (Nobility)
 
-- 📜 **Squire**
-- 🛡️ **Knight**
-- ⚔️ **Baron**
-- 🏹 **Count**
-- 🏰 **Duke**
-- 🏛️ **Archduke**
-- 🗡️ **Overlord**
-
----
+| Rank                                                                     | Description                                                 |
+|--------------------------------------------------------------------------|-------------------------------------------------------------|
+| ![Squire](https://img.shields.io/badge/📜_Squire-FFAA00?style=flat)      | The Squire rank is for players who have donated $1-19.      |
+| ![Knight](https://img.shields.io/badge/🛡️_Knight-FFAA00?style=flat)     | The Knight rank is for players who have donated $20-39.     |
+| ![Baron](https://img.shields.io/badge/⚔️_Baron-AA00AA?style=flat)        | The Baron rank is for players who have donated $40-59.      |
+| ![Count](https://img.shields.io/badge/🏹_Count-00AA00?style=flat)        | The Count rank is for players who have donated $60-99.      |
+| ![Duke](https://img.shields.io/badge/🏰_Duke-00AAAA?style=flat)          | The Duke rank is for players who have donated $100-149.     |
+| ![Archduke](https://img.shields.io/badge/🏛️_Archduke-0000AA?style=flat) | The Archduke rank is for players who have donated $150-299. |
+| ![Overlord](https://img.shields.io/badge/🗡️_Overlord-5555FF?style=flat) | The Overlord rank is for players who have donated $300+     |
 
 ### Staff/Admin Ranks
 
-| Rank Emoji & Name | Role         | Description                                                                                  |  
-|-------------------|--------------|----------------------------------------------------------------------------------------------|  
-| 🕊️ **Sentinel**  | Trial-Mod    | New staff members. Monitors chat, assists players, and reports issues (limited permissions). |  
-| ⚖️ **Justiciar**  | Moderator    | Handles moderation: mute, kick, ban, and resolves disputes.                                  |  
-| 🔱 **High Lord**  | Admin        | Manages plugins, configs, and junior staff. Oversees server stability.                       |  
-| 👑 **Sovereign**  | Senior-Admin | Ultimate authority. Controls all systems, finances, and final decisions.                     |
+| Rank                                                                      | Role         | Description                                                                                  |
+|---------------------------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------|
+| ![Sentinel](https://img.shields.io/badge/🕊️_Sentinel-FF55FF?style=flat)  | Trial-Mod    | New staff members. Monitors chat, assists players, and reports issues (limited permissions). |
+| ![Justicar](https://img.shields.io/badge/⚖️_Justicar-FFFF55?style=flat)   | Moderator    | Handles moderation: mute, kick, ban, and resolves disputes.                                  |
+| ![Highlord](https://img.shields.io/badge/🔱_Highlord-FF5555?style=flat)   | Admin        | Manages plugins, configs, and junior staff. Oversees server stability.                       |
+| ![Sovereign](https://img.shields.io/badge/👑_Sovereign-AA0000?style=flat) | Senior-Admin | Ultimate authority. Controls all systems, finances, and final decisions.                     |
 
 ---
 
 ## Useful Resources:
 
 1. [Player Commands Page](/docs/commands/PLAYER-COMMANDS.md)<br>
-For Factions commands, please refer to [Factions Guide](/docs/guides/Factions.md).
+   For Factions commands, please refer to [Factions Guide](/docs/guides/Factions.md).
 
 2. [Staff Commands Page](/docs/commands/STAFF-COMMANDS.md)
 
 3. [Guides](/docs/guides)
-
-## 📝 Applications 📝
 
 Interested in joining the JeriCraft staff team or becoming a builder? Check out our [**Applications
 **](https://github.com/Chalwk/JeriCraftDocs/issues/new/choose) section for more information on how to apply.
