@@ -12,17 +12,35 @@ You can join **JeriCraft** by connecting to `jericraft.net` on **Minecraft Java 
 
 ## **Essential Commands**
 
-| **Category**        | **Command**               | **Description**                                                 |
-|---------------------|---------------------------|-----------------------------------------------------------------|
-| **Teleportation**   | `/rt` or `/rtp`           | Teleports you to a random location in the wild.                 |
-|                     | `/spawn`                  | Teleports you to the server spawn hub (castle).                 |
-| **Kits and Jobs**   | `/kit`                    | View available kits and their contents.                         |
-|                     | `/kit <name>`             | Redeem a specific kit.                                          |
-|                     | `/jobs`                   | Manage your RPG jobs and roles.                                 |
-|                     | `/mcmmo`                  | View and manage your RPG skills and stats.                      |
-| **Land Protection** |                           | Please refer to our [Factions Guide](/docs/guides/Factions.md). |
-| **Miscellaneous**   | `/warp`                   | Teleport to key locations on the server.                        |
-|                     | `/msg [player] [message]` | Send a private message to another player.                       |
+| **Category**                     | **Command**               | **Description**                                                 |
+|----------------------------------|---------------------------|-----------------------------------------------------------------|
+| **Land Protection**              |                           | Please refer to our [Factions Guide](/docs/guides/Factions.md). |
+| **Teleportation**                | `/rt`, `/rtp`, `/wild`    | Teleports you to a random location in the wild.                 |
+|                                  | `/spawn`                  | Teleports you to the server spawn hub (castle).                 |
+|                                  | `/warp`                   | Teleport to key locations on the server.                        |
+|                                  | `/tpa <player>`           | Request to teleport to another player.                          |
+|                                  | `/tphere <player>`        | Ask another player to teleport to you.                          |
+|                                  | `/tpaccept`               | Accept a teleport request.                                      |
+|                                  | `/tpdeny`                 | Deny a teleport request.                                        |
+| **Kits, Jobs/Skills, and Ranks** | `/kit`                    | View available kits and their contents.                         |
+|                                  | `/kit <name>`             | Redeem a specific kit.                                          |
+|                                  | `/jobs`                   | Manage your RPG jobs and roles.                                 |
+|                                  | `/mcmmo`                  | View and manage your RPG skills and stats.                      |
+|                                  | `/rankinfo`               | Shows info about your current rank.                             |
+|                                  | `/rankup`                 | Upgrade your rank by spending in-game currency.                 |
+|                                  | `/ranklist`               | Shows a list of possible ranks.                                 |
+| **Economy & Trading**            | `/balance`, `/money`      | Check your in-game currency balance.                            |
+|                                  | `/pay <player> <amount>`  | Send money to another player.                                   |
+|                                  | `/ah`                     | Open the auction GUI to buy and sell items.                     |
+| **Communication**                | `/msg <player> <message>` | Send a private message to another player.                       |
+|                                  | `/r <message>`            | Reply to the last private message.                              |
+|                                  | `/ignore <player>`        | Ignore a player's messages.                                     |
+|                                  | `/mail send <player>`     | Send an offline message to a player.                            |
+|                                  | `/mail read`              | Read your received messages.                                    |
+| **Miscellaneous**                | `/rules`                  | View server rules and guidelines.                               |
+|                                  | `/jobs quests`            | View available job quests.                                      |
+|                                  | `/time`                   | Check the current in-game time.                                 |
+|                                  | `/weather`                | Check the current in-game weather.                              |
 
 ---
 
