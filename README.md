@@ -37,7 +37,6 @@ guidelines and form templates.
    - **[Levelled Mobs](docs/guides/Levelled%20Mobs.md)**
    - **[mcMMO](docs/guides/mcMMO.md)**
    - **[Realistic Seasons](docs/guides/Realistic%20Seasons.md)**
-   - **[Regions](docs/guides/Regions.md)**
    - **[NPC Shops](docs/NPC%20Shops)**
 6. 💎 **[Webstore](/docs/webstore/store.md)**
 7. 📜 **[Community Rules](policies/Community-Rules.md)**
