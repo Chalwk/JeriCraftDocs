@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Chalwk/JeriCraftDocs/main/misc/assets/images/banners/about_banner.png" alt="JeriCraft Realm" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+  <img src="/misc/assets/images/logos/jericraft_logo_1.png" alt="JeriCraft Realm" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
 
 # 🏰 JeriCraft: Where Legends Are Forged
 
