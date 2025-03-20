@@ -78,3 +78,39 @@ Interested in joining the JeriCraft staff team or becoming a builder? Check out 
 **](https://github.com/Chalwk/JeriCraftDocs/issues/new/choose) section for more information on how to apply.
 
 ---
+
+<div align="center">
+
+## 📚 Knowledge Archives
+
+[![Player Commands](https://img.shields.io/badge/📜-Command_Scrolls-8B4513?style=for-the-badge&logo=book)](/docs/commands/PLAYER-COMMANDS.md)
+[![Factions Guide](https://img.shields.io/badge/⚔️-War_Chronicles-C72424?style=for-the-badge&logo=sword)](/docs/guides/Factions.md)
+[![Staff Protocols](https://img.shields.io/badge/🔒-Council_Archives-2F4F4F?style=for-the-badge&logo=shield)](/docs/commands/STAFF-COMMANDS.md)
+[![Guides](https://img.shields.io/badge/📖-Master's_Library-00AA00?style=for-the-badge&logo=library)](/docs/guides)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏰 Join the Royal Court
+
+<h3>Choose Your Path</h3>
+
+  <a href="https://github.com/Chalwk/JeriCraftDocs/issues/new?template=staff-application.yaml">
+    <img src="https://img.shields.io/badge/⚖️_Staff_Application-Apply_Here-2F4F4F?style=for-the-badge&logo=shield-check" alt="Staff Application" style="margin: 5px;">
+  </a>
+
+  <a href="https://github.com/Chalwk/JeriCraftDocs/issues/new?template=builder-application.yaml">
+    <img src="https://img.shields.io/badge/🏗️_Builder_Application-Apply_Here-FFD700?style=for-the-badge&logo=hammer-screwdriver" alt="Builder Application" style="margin: 5px;">
+  </a>
+
+<br>
+
+  <a href="https://github.com/Chalwk/JeriCraftDocs/issues/new/choose">
+    <img src="https://img.shields.io/badge/📮_All_Forms-Check_Them_Out-7289DA?style=for-the-badge" alt="General Applications">
+  </a>
+
+  <p>"Forge your legacy in our realm's leadership"</p>
+</div>
