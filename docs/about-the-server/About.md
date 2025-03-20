@@ -65,20 +65,6 @@ every player can shape their legend in a dynamic, ever-evolving realm.
 
 ---
 
-## Useful Resources:
-
-1. [Player Commands Page](/docs/commands/PLAYER-COMMANDS.md)<br>
-   For Factions commands, please refer to [Factions Guide](/docs/guides/Factions.md).
-
-2. [Staff Commands Page](/docs/commands/STAFF-COMMANDS.md)
-
-3. [Guides](/docs/guides)
-
-Interested in joining the JeriCraft staff team or becoming a builder? Check out our [**Applications
-**](https://github.com/Chalwk/JeriCraftDocs/issues/new/choose) section for more information on how to apply.
-
----
-
 <div align="center">
 
 ## 📚 Knowledge Archives
