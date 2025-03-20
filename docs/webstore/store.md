@@ -1,12 +1,19 @@
-# JeriCraft Webstore
+# 🏰 JeriCraft Patronage System
+
+<div align="center">
+
+[![Visit Store](https://img.shields.io/badge/🛒-Visit_Webstore-00AF54?style=for-the-badge&logo=shopping-bag)](https://jericraft-shop.tebex.io/)
+[![Support](https://img.shields.io/badge/💌-Contact_Support-7289DA?style=for-the-badge)](mailto:jericho.crosby227@gmail.com)
+
+</div>
 
 Instead of traditional donation packages, we offer individual perks that can be obtained separately. Your donation rank
 is determined by the total amount you've donated since your first contribution. Every donation helps us keep the server
 running, and we are grateful for your support.
 
-## Visit our [webstore](https://jericraft-shop.tebex.io/) to purchase perks.
+---
 
-## 🏆 Donor Ranks and Requirements
+## 🏅 Patronage Tiers
 
 Your donor rank is determined by your **total lifetime contributions**. Here’s how it works:
 
