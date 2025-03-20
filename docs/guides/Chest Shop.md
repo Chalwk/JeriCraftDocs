@@ -103,69 +103,17 @@ Diamond         Item Name (Must match exactly)
 
 ---
 
-## 💰 Step 6: How Customers *Buy* or *Sell* Items
-<div align="center">
-  <table>
-    <tr>
-      <th>Action</th>
-      <th>Click Type</th>
-      <th>Transaction</th>
-    </tr>
-    <tr>
-      <td>Purchase Single</td>
-      <td><kbd>Right Click</kbd></td>
-      <td>🔼 Takes 1 transaction from chest</td>
-    </tr>
-    <tr>
-      <td>Purchase Stack</td>
-      <td><kbd>Shift + Right Click</kbd></td>
-      <td>🔼 Takes max stacks (inventory space)</td>
-    </tr>
-    <tr>
-      <td>Sell Single</td>
-      <td><kbd>Left Click</kbd></td>
-      <td>🔽 Adds 1 transaction to chest</td>
-    </tr>
-    <tr>
-      <td>Sell Stack</td>
-      <td><kbd>Shift + Left Click</kbd></td>
-      <td>🔽 Adds max stacks (chest space)</td>
-    </tr>
-  </table>
-</div>
+## 💰 Step 5: How Customers *Buy* or *Sell* Items
 
-<div style="background-color: #e3f2fd; padding: 15px; border-radius: 5px; margin-top: 10px;">
-💡 <strong>Pro Tip:</strong> Holding <kbd>Shift</kbd> while clicking lets you:
-- <span style="color: #2e7d32;">Buy</span> multiple quantities based on your inventory space
-- <span style="color: #c62828;">Sell</span> multiple quantities based on chest space
-<br>
-<small>Transaction size determined by quantity set in your shop sign</small>
-</div>
+| **Action**      | **Click Type**          | **Transaction**                       |
+|-----------------|-------------------------|---------------------------------------|
+| Purchase Single | `Right Click`           | 🔼 Takes 1 transaction from chest     |
+| Purchase Stack  | `Shift` + `Right Click` | 🔼 Takes max stacks (inventory space) |
+| Sell Single     | `Left Click`            | 🔽 Adds 1 transaction to chest        |
+| Sell Stack      | `Shift` + `Left Click`  | 🔽 Adds max stacks (chest space)      |
+
+💡 Pro Tip: You can hold `Shift` while clicking to buy or sell multiple items at once.
 
 ---
 
-## Step 7: Restocking Your Shop 🔄
-
-To restock, simply place more items into the chest. Keeping your inventory full ensures uninterrupted sales.
-
----
-
-## Step 8: Shop Protection 🛡️
-
-Your shop is automatically protected! Only you can modify or break the chest and sign, ensuring the security of your
-inventory.
-
----
-
-## Step 9: WorldGuard Protected Regions 🛠️
-
-If your shop is located in a **WorldGuard protected region**, you need to enable the `allow-shop` flag for your shop to
-function correctly.
-Use the following command: `/rg flag <region id> allow-shop allow`
-
----
-
-## **You're All Set! 🎉**
-
-Congratulations! Your ChestShop is now fully operational and ready to contribute to JeriCraft’s thriving economy. Happy
-trading!
+<div align="center"> <h3 style="color: #2ecc71; border: 2px solid #27ae60; padding: 10px; border-radius: 5px;"> 🎊 Shop Successfully Created! 🎊 </h3> <p>Your shop is now contributing to JeriCraft's economy!</p> <img src="https://img.shields.io/badge/Next_Steps-Create_Shop_Hub-orange?style=for-the-badge" alt="Next Steps"> </div><hr><div align="center"> <sup>Need help? Contact our support team in-game or create an issue on <a href="https://github.com/yourrepo/issues">GitHub</a></sup> <br> <img src="https://img.shields.io/badge/Server_Online-Yes-brightgreen?style=flat-square"> <img src="https://img.shields.io/badge/Uptime-99.9%25-important?style=flat-square"> </div> ```
