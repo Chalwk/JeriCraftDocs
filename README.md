@@ -1,22 +1,18 @@
-
-<div style="text-align: center;">
+<div align="center">
   <h1>📝 JeriCraft Documentation Repository 📝</h1>
-  <img src="/misc/assets/images/logos/jericraft_logo_1.png" alt="JeriCraft Logo" width="400" />
-</div>
+  <img src="/misc/assets/images/logos/jericraft_logo_1.png" alt="JeriCraft Realm" width="400">
 
----
-
-<div style="text-align: center;">
+![JERICRAFT.NET](https://img.shields.io/badge/JERICRAFT.NET-1.21.4-00AF54?style=for-the-badge&logo=curseforge)
+[![Discord](https://img.shields.io/badge/Discord-Join_Our_Server-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/wuVcM9AZrr)
 
 This repository serves as the central hub for guides, manuals, and documentation for the
 **JeriCraft Minecraft** server. Whether you're a new player or a seasoned community member, you'll find
 everything you need to enhance your JeriCraft experience, from server features and commands to community
 guidelines and form templates.
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Our_Server-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/wuVcM9AZrr)
-
-![Minecraft](https://img.shields.io/badge/JERICRAFT.NET-1.21.4-00AF54?style=for-the-badge&logo=curseforge)
 </div>
+
+---
 
 ## 🌍 Table of Contents
 
