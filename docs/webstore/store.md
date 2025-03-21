@@ -130,12 +130,16 @@ Development Team. For support, inquiries, or purchase history, email us at **jer
 
 ### [Jobs & Economy](https://jericraft-shop.tebex.io/category/jobs-and-economy)
 
-| **PERK**                | **PRICE** | **DESCRIPTION**            | **PERMISSION** |
-|-------------------------|-----------|----------------------------|----------------|
-| Increase Job Limit to 5 | $4.00     | Unlock 5 simultaneous jobs | `jobs.max.5`   |
-| Increase Job Limit to 6 | $5.00     | Unlock 6 simultaneous jobs | `jobs.max.6`   |
-| Increase Job Limit to 7 | $6.00     | Unlock 7 simultaneous jobs | `jobs.max.7`   |
-| Increase Job Limit to 8 | $7.00     | Unlock 8 simultaneous jobs | `jobs.max.8`   |
+| **PERK**                | **PRICE** | **DESCRIPTION**            | **PERMISSION**          |
+|-------------------------|-----------|----------------------------|-------------------------|
+| Increase Job Limit to 5 | $5.00     | Unlock 5 simultaneous jobs | `jobs.max.5`            |
+| Increase Job Limit to 6 | $6.00     | Unlock 6 simultaneous jobs | `jobs.max.6`            |
+| Increase Job Limit to 7 | $7.00     | Unlock 7 simultaneous jobs | `jobs.max.7`            |
+| Increase Job Limit to 8 | $8.00     | Unlock 8 simultaneous jobs | `jobs.max.8`            |
+| Chest Shop 5% Discount  | $5.00     | 5% discount on all items   | `chestshop.discount.5`  |
+| Chest Shop 10% Discount | $10.00    | 10% discount on all items  | `chestshop.discount.10` |
+| Chest Shop 15% Discount | $15.00    | 15% discount on all items  | `chestshop.discount.15` |
+| Chest Shop 20% Discount | $20.00    | 20% discount on all items  | `chestshop.discount.20` |
 
 ---
 
