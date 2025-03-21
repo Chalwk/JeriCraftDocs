@@ -367,7 +367,7 @@ Equipped with sturdy tools, basic protection, and some merchant goods.
 
 ## Recurring Hourly Playtime Reward
 
-Players are rewarded **$100** and **35 XP levels** for every **hour** of playtime.
+Players are rewarded **$100** and **5 XP levels** for every **hour** of playtime.
 
 ---
 
