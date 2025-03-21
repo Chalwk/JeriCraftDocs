@@ -84,60 +84,10 @@ Development Team. For support, inquiries, or purchase history, email us at **jer
 
 | **PERK**               | **PRICE** | **DESCRIPTION**                                                                                                          | **PERMISSION**                                                                                                                                      |
 |------------------------|-----------|--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Custom Nickname        | $5.75     | Personalize your in-game name with a unique nickname.<br>Usage: `/nick <name>`<br>Use `/colors` to help you beautify it. | `cmi.command.nick`, `cmi.command.nick.different`, `cmi.colors.nickname.*`                                                                           |
-| Custom Name Prefix     | $4.60     | Choose a unique name prefix like [Warrior], [Noble], [Merchant], etc.                                                    | `jericraft.name.prefix`                                                                                                                             |
-| Custom Name Suffix     | $4.60     | Choose a unique name suffix like [Warrior], [Noble], [Merchant], etc.                                                    | `jericraft.name.suffix`                                                                                                                             |
-| Custom Text Formatting | $6.90     | Customize your in-game text with various colors and styles for books, nicknames, messages, and signs.                    | `cmi.colors.books.*`, `cmi.colors.me.*`, `cmi.colors.nickname.*`, `cmi.colors.privatemessage.*`, `cmi.colors.publicmessage.*`, `cmi.colors.signs.*` |
-
----
-
-### [Survival & Utility](https://jericraft-shop.tebex.io/category/survival-and-utility)
-
-| **PERK**                | **PRICE** | **DESCRIPTION**                                                                                                                                                                                                                 | **PERMISSION**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|-------------------------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|
-| Armor Stand Editor      | $9.20     | Customize armor stands with various options like plate, head, body, size, arms, legs, torso, interactivity, glow, position, and name.<br><br>Usage: [Please refer to this guide](https://www.zrips.net/cmi/armor-stand-editor/) | `cmi.command.armorstand`, `cmi.command.armorstand.plate`, `cmi.command.armorstand.head`, `cmi.command.armorstand.body`, `cmi.command.armorstand.size`, `cmi.command.armorstand.arms`, `cmi.command.armorstand.rightarm`, `cmi.command.armorstand.leftarm`, `cmi.command.armorstand.rightleg`, `cmi.command.armorstand.leftleg`, `cmi.command.armorstand.torso`, `cmi.command.armorstand.interactable`, `cmi.command.armorstand.glow`, `cmi.command.armorstand.pos`, `cmi.command.armorstand.name` |
-| Keep Inventory on Death | $23.00    | Keep your items upon death to avoid loss and frustration.                                                                                                                                                                       | `cmi.keepinventory`                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Keep XP on Death        | $23.00    | Preserve experience levels when you die.                                                                                                                                                                                        | `cmi.keepexp`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-
----
-
-### [Commands & Abilities](https://jericraft-shop.tebex.io/category/commands-and-abilities)
-
-| **PERK**              | **PRICE** | **DESCRIPTION**                                                                                                                                 | **PERMISSION**                                     |
-|-----------------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
-| Item Magnet Ability   | $5.75     | Automatically pull nearby dropped items into your inventory<br><br>Usage: `/magnet`                                                             | `magnet.use`                                       |
-| Night Vision Ability  | $11.50    | See clearly in dark areas without the need for torches or other light sources, giving you an edge in nighttime exploration.<br><br>Usage: `/nv` | `nightvision.use`                                  |
-| Instant Tool Repair   | $17.25    | Instantly repair the item in your hand.<br><br>Usage: `/repair`.                                                                                | `cmi.command.repair`, `cmi.command.repair.hand`    |
-| Flight Ability        | $28.75    | Fly freely in the world.<br><br>Usage: `/fly`                                                                                                   | `cmi.command.fly`                                  |
-| Flight Speed Increase | $5.00     | Increase your flight speed.<br><br>Usage: `/flyspeed <speed (max 5)>`                                                                           | `cmi.command.flyspeed`, `cmi.command.flyspeed.5`   |
-| Walk Speed Increase   | $5.00     | Increase your walking speed.<br><br>Usage: `/walkspeed <speed (max 5)>`                                                                         | `cmi.command.walkspeed`, `cmi.command.walkspeed.5` |
-
----
-
-### [Jobs & Economy](https://jericraft-shop.tebex.io/category/jobs-and-economy)
-
-| **PERK**                | **PRICE** | **DESCRIPTION**            | **PERMISSION** |
-|-------------------------|-----------|----------------------------|----------------|
-| Increase Job Limit to 5 | $4.60     | Unlock 5 simultaneous jobs | `jobs.max.5`   |
-| Increase Job Limit to 6 | $5.75     | Unlock 6 simultaneous jobs | `jobs.max.6`   |
-| Increase Job Limit to 7 | $6.90     | Unlock 7 simultaneous jobs | `jobs.max.7`   |
-| Increase Job Limit to 8 | $8.05     | Unlock 8 simultaneous jobs | `jobs.max.8`   |
-
----
-
-### [Kits](https://jericraft-shop.tebex.io/category/kits)
-
-Enhance your building and crafting experience in JeriCraft with our versatile Kits!
-Preview kits in-game with `/kitpreview <name>`
-
-| **PERK**   | **PRICE** | **DESCRIPTION**                                                                                                                                                                      | **PERMISSION**       |
-|------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
-| Banner     | $3.45     | Gain access to a kit containing 16 of each banner.<br>Cooldown Period: 4 hours</br>Use `/kit banner` to access.                                                                      | `cmi.kit.banner`     |
-| Glass      | $4.60     | Gain access to a kit containing 16 of each glass block.<br>Cooldown Period: 4 hours</br>Use `/kit glass` to access.                                                                  | `cmi.kit.glass`      |
-| Terracotta | $4.60     | Gain access to a kit containing 16 of each terracotta block.<br>Cooldown Period: 4 hours</br>Use `/kit terracotta` to access.                                                        | `cmi.kit.terracotta` |
-| Wool       | $5.75     | Gain access to a kit containing 16 of each wool block.<br>Cooldown Period: 4 hours</br>Use `/kit wool` to access.                                                                    | `cmi.kit.wool`       |
-| Pyro       | $6.33     | Unlock the Pyro kit, providing you with all the tools and materials you need to harness the power of fire and explosions.<br>Cooldown Period: 4 hours</br>Use `/kit pyro` to access. | `cmi.kit.pyro`       |
+| Custom Nickname        | $5.00     | Personalize your in-game name with a unique nickname.<br>Usage: `/nick <name>`<br>Use `/colors` to help you beautify it. | `cmi.command.nick`, `cmi.command.nick.different`, `cmi.colors.nickname.*`                                                                           |
+| Custom Name Prefix     | $4.00     | Choose a unique name prefix like [Warrior], [Noble], [Merchant], etc.                                                    | `jericraft.name.prefix`                                                                                                                             |
+| Custom Name Suffix     | $4.00     | Choose a unique name suffix like [Warrior], [Noble], [Merchant], etc.                                                    | `jericraft.name.suffix`                                                                                                                             |
+| Custom Text Formatting | $6.00     | Customize your in-game text with various colors and styles for books, nicknames, messages, and signs.                    | `cmi.colors.books.*`, `cmi.colors.me.*`, `cmi.colors.nickname.*`, `cmi.colors.privatemessage.*`, `cmi.colors.publicmessage.*`, `cmi.colors.signs.*` |
 
 ---
 
@@ -154,10 +104,60 @@ Preview kits in-game with `/kitpreview <name>`
 
 ---
 
+### [Survival & Utility](https://jericraft-shop.tebex.io/category/survival-and-utility)
+
+| **PERK**                | **PRICE** | **DESCRIPTION**                                                                                                                                                                                                                 | **PERMISSION**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|-------------------------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|
+| Armor Stand Editor      | $8.00     | Customize armor stands with various options like plate, head, body, size, arms, legs, torso, interactivity, glow, position, and name.<br><br>Usage: [Please refer to this guide](https://www.zrips.net/cmi/armor-stand-editor/) | `cmi.command.armorstand`, `cmi.command.armorstand.plate`, `cmi.command.armorstand.head`, `cmi.command.armorstand.body`, `cmi.command.armorstand.size`, `cmi.command.armorstand.arms`, `cmi.command.armorstand.rightarm`, `cmi.command.armorstand.leftarm`, `cmi.command.armorstand.rightleg`, `cmi.command.armorstand.leftleg`, `cmi.command.armorstand.torso`, `cmi.command.armorstand.interactable`, `cmi.command.armorstand.glow`, `cmi.command.armorstand.pos`, `cmi.command.armorstand.name` |
+| Keep Inventory on Death | $20.00    | Keep your items upon death to avoid loss and frustration.                                                                                                                                                                       | `cmi.keepinventory`                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Keep XP on Death        | $20.00    | Preserve experience levels when you die.                                                                                                                                                                                        | `cmi.keepexp`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+
+---
+
+### [Commands & Abilities](https://jericraft-shop.tebex.io/category/commands-and-abilities)
+
+| **PERK**              | **PRICE** | **DESCRIPTION**                                                                                                                                 | **PERMISSION**                                     |
+|-----------------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+| Item Magnet Ability   | $5.00     | Automatically pull nearby dropped items into your inventory<br><br>Usage: `/magnet`                                                             | `magnet.use`                                       |
+| Night Vision Ability  | $10.00    | See clearly in dark areas without the need for torches or other light sources, giving you an edge in nighttime exploration.<br><br>Usage: `/nv` | `nightvision.use`                                  |
+| Instant Tool Repair   | $15.00    | Instantly repair the item in your hand.<br><br>Usage: `/repair`.                                                                                | `cmi.command.repair`, `cmi.command.repair.hand`    |
+| Flight Ability        | $25.00    | Fly freely in the world.<br><br>Usage: `/fly`                                                                                                   | `cmi.command.fly`                                  |
+| Flight Speed Increase | $4.50     | Increase your flight speed.<br><br>Usage: `/flyspeed <speed (max 5)>`                                                                           | `cmi.command.flyspeed`, `cmi.command.flyspeed.5`   |
+| Walk Speed Increase   | $4.50     | Increase your walking speed.<br><br>Usage: `/walkspeed <speed (max 5)>`                                                                         | `cmi.command.walkspeed`, `cmi.command.walkspeed.5` |
+
+---
+
+### [Jobs & Economy](https://jericraft-shop.tebex.io/category/jobs-and-economy)
+
+| **PERK**                | **PRICE** | **DESCRIPTION**            | **PERMISSION** |
+|-------------------------|-----------|----------------------------|----------------|
+| Increase Job Limit to 5 | $4.00     | Unlock 5 simultaneous jobs | `jobs.max.5`   |
+| Increase Job Limit to 6 | $5.00     | Unlock 6 simultaneous jobs | `jobs.max.6`   |
+| Increase Job Limit to 7 | $6.00     | Unlock 7 simultaneous jobs | `jobs.max.7`   |
+| Increase Job Limit to 8 | $7.00     | Unlock 8 simultaneous jobs | `jobs.max.8`   |
+
+---
+
+### [Kits](https://jericraft-shop.tebex.io/category/kits)
+
+Enhance your building and crafting experience in JeriCraft with our versatile Kits!
+Preview kits in-game with `/kitpreview <name>`
+
+| **PERK**   | **PRICE** | **DESCRIPTION**                                                                                                                                                                      | **PERMISSION**       |
+|------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
+| Banner     | $3.00     | Gain access to a kit containing 16 of each banner.<br>Cooldown Period: 4 hours</br>Use `/kit banner` to access.                                                                      | `cmi.kit.banner`     |
+| Glass      | $4.00     | Gain access to a kit containing 16 of each glass block.<br>Cooldown Period: 4 hours</br>Use `/kit glass` to access.                                                                  | `cmi.kit.glass`      |
+| Terracotta | $4.00     | Gain access to a kit containing 16 of each terracotta block.<br>Cooldown Period: 4 hours</br>Use `/kit terracotta` to access.                                                        | `cmi.kit.terracotta` |
+| Wool       | $5.00     | Gain access to a kit containing 16 of each wool block.<br>Cooldown Period: 4 hours</br>Use `/kit wool` to access.                                                                    | `cmi.kit.wool`       |
+| Pyro       | $5.50     | Unlock the Pyro kit, providing you with all the tools and materials you need to harness the power of fire and explosions.<br>Cooldown Period: 4 hours</br>Use `/kit pyro` to access. | `cmi.kit.pyro`       |
+
+---
+
 ### [Miscellaneous](https://jericraft-shop.tebex.io/category/miscellaneous)
 
 | **PERK**         | **PRICE** | **DESCRIPTION**                                                                                                                 | **PERMISSION**                                           |
 |------------------|-----------|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
-| Painting Scroll  | $9.20     | Transform any painting into another, creating unique and ever-changing artwork in your builds.                                  | `neopaintingswitch.use`                                  |
-| Sign Copier Tool | $9.20     | Quickly and easily copy text from one sign to another, saving time and ensuring consistency across your builds.                 | `cmi.command.sc`                                         |
-| Head Database    | $23.00    | Access a vast database of custom heads for your builds, granting you creative freedom to design unique and detailed structures. | `headdb.open`, `headdb.allow.buy.*`, `headdb.category.*` |
+| Painting Scroll  | $8.00     | Transform any painting into another, creating unique and ever-changing artwork in your builds.                                  | `neopaintingswitch.use`                                  |
+| Sign Copier Tool | $8.00     | Quickly and easily copy text from one sign to another, saving time and ensuring consistency across your builds.                 | `cmi.command.sc`                                         |
+| Head Database    | $20.00    | Access a vast database of custom heads for your builds, granting you creative freedom to design unique and detailed structures. | `headdb.open`, `headdb.allow.buy.*`, `headdb.category.*` |
