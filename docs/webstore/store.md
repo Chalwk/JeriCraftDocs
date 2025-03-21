@@ -139,6 +139,19 @@ Preview kits in-game with `/kitpreview <name>`
 
 ---
 
+### [Factions](https://jericraft-shop.tebex.io/category/factions)
+
+| PERK                   | PRICE  | DESCRIPTION                |
+|------------------------|--------|----------------------------|
+| Player Power Boost +5  | $5.00  | Add +5 to your max power.  |
+| Player Power Boost +10 | $8.00  | Add +10 to your max power. |
+| Player Power Boost +15 | $11.00 | Add +15 to your max power. |
+| Player Power Boost +20 | $14.00 | Add +20 to your max power. |
+| Player Power Boost +25 | $17.00 | Add +25 to your max power. |
+| Player Power Boost +30 | $20.00 | Add +30 to your max power. |
+
+---
+
 ### [Miscellaneous](https://jericraft-shop.tebex.io/category/miscellaneous)
 
 | **PERK**         | **PRICE** | **DESCRIPTION**                                                                                                                 | **PERMISSION**                                           |
