@@ -12,7 +12,7 @@
 | Book and Quill       | $150      |
 | Arcane Altar         | $2,500    |
 | Ancient Bookshelves  | $250      |
-| Ender Pearls         | $200      |
+| Ender Pearls         | $450      |
 | Efficiency III       | $3,400    |
 | Thorns III           | $2,500    |
 | Depth Strider III    | $2,200    |
