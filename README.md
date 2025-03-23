@@ -23,7 +23,7 @@ guidelines and form templates.
    - **[Staff Commands](docs/commands/STAFF-COMMANDS.md)**
 4. 🌟 **[Server Features](docs/features/features.md)**
 5. 📖 **[Guides](docs/guides)**
-   - **[Auctions](docs/guides/Auctions)**
+   - **[Auctions](docs/guides/Auctions.md)**
    - **[Chest Shop](docs/guides/Chest%20Shop.md)**
    - **[Discord](docs/guides/Discord.md)**
    - **[Economy](docs/guides/Economy.md)**
