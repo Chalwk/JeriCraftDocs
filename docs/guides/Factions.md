@@ -177,28 +177,31 @@ These commands are reserved for server administrators to manage factions and gam
 ### 🏠 Base Cost to Claim Land
 
 Each chunk of land requires **[power](#-power-system)** to maintain, and your **faction’s total power** determines how
-much land can be claimed. The base cost to claim land is $30 and increases with each additional claim. Each new claim
-costs **50%** the previous claim's cost. This multiplier makes it progressively more expensive to expand your faction's
-territory.
+much land can be claimed.
+
+The base cost to claim land is **$30**, and each additional claim increases the cost by **a fixed $15** from the
+previous claim. This results in a steady linear increase as your faction expands.
 
 #### Claim Cost Scaling
 
-| Claim # | Cost Formula        |      Cost |
-|---------|---------------------|----------:|
-| 1st     | Base Cost           |       $30 |
-| 2nd     | Previous Cost × 0.5 |       $45 |
-| 3rd     | Previous Cost × 0.5 |       $60 |
-| 4th     | Previous Cost × 0.5 |       $75 |
-| 5th     | Previous Cost × 0.5 |       $90 |
-| 6th     | Previous Cost × 0.5 |      $105 |
-| ...     | ...                 |       ... |
-| etc.    | Previous Cost × 0.5 | Continues |
+| Claim # | Cost Formula             | Cost |
+|---------|--------------------------|-----:|
+| 1st     | Base Cost                |  $30 |
+| 2nd     | Previous Cost + $15      |  $45 |
+| 3rd     | Previous Cost + $15      |  $60 |
+| 4th     | Previous Cost + $15      |  $75 |
+| 5th     | Previous Cost + $15      |  $90 |
+| 6th     | Previous Cost + $15      | $105 |
+| ...     | `Base Cost + 15 × (n-1)` |  ... |
+
+This linear scaling ensures that larger factions must carefully manage their resources while expanding their territory.
 
 ---
 
 ## ⚡ Power System
 
-Power determines how much land your faction can **claim** and **defend**. Recruit members to **strengthen your kingdom**.
+Power determines how much land your faction can **claim** and **defend**.
+Recruit members to **strengthen your kingdom**.
 
 ---
 
@@ -227,20 +230,25 @@ Power determines how much land your faction can **claim** and **defend**. Recrui
 ## ⚔️ Power & PvP Mechanics
 
 ### ⚡ Power Transfer & Stealing
+
 - **Vampirism (Power Stealing):** `0.5` → Killers receive 50% of the power lost by their target.
 
 ### ⚔ War Zones
+
 - PvP is always enabled.
 - **WarZone Power Loss:** ✅ `true` → Players lose power when dying in war zones.
 
 ### 🏰 Safe Zones
+
 - No PvP or building allowed.
 
 ### 🌲 Wilderness
+
 - **Wilderness Power Loss:** ✅ `true` → Players lose power when dying in the wilderness.
 - **Wilderness:** No protections; players can build and PvP freely.
 
 ### ☮️ Peaceful Factions
+
 - **Peaceful Members Power Loss:** ❌ `false` → Peaceful faction members do not lose power.
 
 ---
