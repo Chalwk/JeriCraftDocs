@@ -1,61 +1,58 @@
-### 〔📜〕the-kingdoms-chronicle
+# JERICRAFT DISCORD CATEGORY/CHANNEL STRUCTURE:
 
-### 〔📕〕the-royal-decree
+## Not in a category:
 
-### 〔📜〕writ-of-allegiance
+* 〔📜〕the-kingdoms-chronicle
+* 〔📕〕the-royal-decree
+* 〔📜〕writ-of-allegiance
+* 〔🚪〕the-portcullis-gate
 
-### 〔🚪〕the-portcullis-gate
+---
 
-### ◉ THE HERALD'S PROCLAMATION
+## Category:
 
-    -〔📢〕town-bulletin
-    -〔🔄〕blacksmiths-forge
-    -〔📅〕tourney-grounds
-    -〔📩〕court-council
-    -〔🛒〕merchants-stall
-    -〔📜〕scribes-quill
-    -〔🚫〕pardoners-appeal
-    -〔👋〕introductions
-    -〔🔴〕twitch-live
+* ◉ THE HERALD'S PROCLAMATION
+    * 〔📢〕town-bulletin
+    * 〔🔄〕blacksmiths-forge
+    * 〔📅〕tourney-grounds
+    * 〔📩〕court-council
+    * 〔🛒〕merchants-stall
+    * 〔📜〕scribes-quill
+    * 〔🚫〕pardoners-appeal
+    * 〔👋〕introductions
+    * 〔🔴〕twitch-live
 
-### ◉ THE TAVERN SQUARE
+* ◉ THE TAVERN SQUARE
+    * 〔🔴〕server-activity
+    * 〔💬〕the-forge-and-anvil
+    * 〔📷〕bards-gallery
+    * 〔🎶〕minstrels-melodies
+    * 〔😂〕jesters-japes
+    * 〔💁〕the-boasting-hall
 
-    -〔🔴〕server-activity
-    -〔💬〕the-forge-and-anvil
-    -〔💬〕the-orbital-sanctum
-    -〔🖼〕bards-gallery
-    -〔🎶〕minstrels-melodies
-    -〔😂〕jesters-japes
+* ◉ THE MEAD HALL
+    * 〔🎤〕General
+    * 〔🎤〕In-Game
 
-### ◉ THE MEAD HALL
+* ◉ JERICRAFTDOCS GITHUB
+    * 〔📚〕docs
+    * 〔📣〕updates
 
-    -〔🎤〕General
-    -〔🎤〕In-Game
-    -〔🔴〕Stream
+* ◉ HSP-GITHUB (hidden to the public)
+    * 〔📝〕about
+    * 〔🔔〕repo-activity
+    * 〔🙋〕help
+    * 〔🎨〕dev
+    * 〔🐛〕bug-reports
 
-### ◉ JERICRAFTDOCS GITHUB
-
-    -〔📚〕docs
-    -〔📣〕updates
-    -〔💬〕discussion
-
-### ◉ HSP-GITHUB (hidden to the public)
-
-    -〔📝〕about
-    -〔🔔〕repo-activity
-    -〔🙋〕help
-    -〔🎨〕dev
-    -〔🐛〕bug-reports
-
-### ◉ COUNCIL CHAMBERS (hidden to the public)
-
-    - 〔🔒〕the-watchtower
-    - 〔📊〕realms-ledger
-    - 〔🎮〕castle-upkeep
-    - 〔📂〕quest-board
-    - 〔🔍〕the-inquisitors-ledger
-    - 〔🗣〕royal-council
-    - 〔🏅〕order-of-merit
-    - 〔📑〕edict-revisions
-    - 〔📅〕astrologers-almanac
-    - 〔🎤〕Court's Echo
+* ◉ COUNCIL CHAMBERS (hidden to the public)
+    * 〔🔒〕the-watchtower
+    * 〔📊〕realms-ledger
+    * 〔🎮〕castle-upkeep
+    * 〔📂〕quest-board
+    * 〔🔍〕the-inquisitors-ledger
+    * 〔🗣〕royal-council
+    * 〔🏅〕order-of-merit
+    * 〔📑〕edict-revisions
+    * 〔📅〕astrologers-almanac
+    * 〔🎤〕Court's Echo
